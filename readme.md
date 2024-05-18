@@ -1,6 +1,6 @@
-# TechiDaily
+# Screen Mirroring Recording Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://screen-mirroring-recording.techidaily.com](https://screen-mirroring-recording.techidaily.com)
 
 ## Publish
 
