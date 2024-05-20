@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step  Audacity Audio Recording on MacOS\""
-date: 2024-05-18T09:56:11.155Z
-updated: 2024-05-19T09:56:11.155Z
+date: 2024-05-19T22:31:07.747Z
+updated: 2024-05-20T22:31:07.747Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-google-pixel-8withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Google Pixel 8with/without a PC</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-13-mini-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 13 mini Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 

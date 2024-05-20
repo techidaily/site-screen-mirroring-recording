@@ -277,3 +277,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-note-12r-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi Note 12R FRP</u></a></li>
 </ul></div>
 
+

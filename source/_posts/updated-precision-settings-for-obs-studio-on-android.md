@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Precision Settings for OBS Studio on Android"
-date: 2024-05-18T09:38:53.489Z
-updated: 2024-05-19T09:38:53.489Z
+date: 2024-05-19T22:30:25.127Z
+updated: 2024-05-20T22:30:25.127Z
 tags: 
   - screen-recording
   - ai video
@@ -513,4 +513,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-magic-6-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor Magic 6 to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-top-movement-tracking-apps-for-mobile-devices/"><u>New Top Movement Tracking Apps for Mobile Devices</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, OBS Timer Mastery  Building a Custom Countdown Timer\""
-date: 2024-05-18T09:45:07.098Z
-updated: 2024-05-19T09:45:07.098Z
+date: 2024-05-19T22:30:41.142Z
+updated: 2024-05-20T22:30:41.142Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-13-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 13 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Passcode without Computer?</u></a></li>
 </ul></div>
+
 

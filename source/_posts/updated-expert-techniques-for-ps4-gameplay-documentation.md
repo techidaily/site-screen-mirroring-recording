@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expert Techniques for PS4 Gameplay Documentation"
-date: 2024-05-18T09:38:33.980Z
-updated: 2024-05-19T09:38:33.980Z
+date: 2024-05-19T22:30:24.412Z
+updated: 2024-05-20T22:30:24.412Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-6-best-audio-mixers-for-enhancing-your-streaming/"><u>Updated 2024 Approved 6 Best Audio Mixers For Enhancing Your Streaming</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-infinix-smart-8-by-fonelab-android-recover-video/"><u>How to recover old videos from your Infinix Smart 8</u></a></li>
 </ul></div>
+
 

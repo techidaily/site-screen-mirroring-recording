@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Full-Screen Glitch Resolved in Obs\""
-date: 2024-05-18T09:36:29.730Z
-updated: 2024-05-19T09:36:29.730Z
+date: 2024-05-19T22:30:19.542Z
+updated: 2024-05-20T22:30:19.542Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-itel-p55t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Itel P55T? Fixed | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

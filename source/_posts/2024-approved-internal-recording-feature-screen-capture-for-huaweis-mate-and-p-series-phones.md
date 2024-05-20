@@ -397,3 +397,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

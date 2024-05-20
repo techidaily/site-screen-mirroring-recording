@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Through Grids in Google Meet Webinar"
-date: 2024-05-18T09:46:10.533Z
-updated: 2024-05-19T09:46:10.533Z
+date: 2024-05-19T22:30:43.776Z
+updated: 2024-05-20T22:30:43.776Z
 tags: 
   - screen-recording
   - ai video
@@ -630,4 +630,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/new-get-started-with-jaycut-a-beginners-guide-to-free-video-editing-for-2024/"><u>New Get Started with Jaycut A Beginners Guide to Free Video Editing for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y100t-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y100t to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

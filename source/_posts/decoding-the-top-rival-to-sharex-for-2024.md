@@ -275,3 +275,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Note 30 VIP | Dr.fone</u></a></li>
 </ul></div>
 
+

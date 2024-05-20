@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Hasty Handlings of Slideshow Documentation"
-date: 2024-05-18T09:31:06.073Z
-updated: 2024-05-19T09:31:06.073Z
+date: 2024-05-19T22:30:06.709Z
+updated: 2024-05-20T22:30:06.709Z
 tags: 
   - screen-recording
   - ai video
@@ -377,4 +377,5 @@ From study halls to meeting rooms, PowerPoint slides are the go-to vehicle for s
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-10-top-rated-open-source-video-editors-for-free/"><u>New In 2024, 10 Top-Rated Open-Source Video Editors for Free</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-in-this-article-we-will-review-avs-video-editor-and-discuss-features-it-has-and-how-good-avs-video-editor-is/"><u>Updated 2024 Approved In This Article, We Will Review AVS Video Editor and Discuss, Features It Has and How Good Avs Video Editor Is</u></a></li>
 </ul></div>
+
 

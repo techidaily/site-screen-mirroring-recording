@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleash Your Potential  Detailed Guide for PS4 Recordings with OBS\""
-date: 2024-05-18T09:32:43.401Z
-updated: 2024-05-19T09:32:43.401Z
+date: 2024-05-19T22:30:10.502Z
+updated: 2024-05-20T22:30:10.502Z
 tags: 
   - screen-recording
   - ai video
@@ -372,4 +372,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://audio-shaping.techidaily.com/in-2024-the-ultimate-guide-to-mp3-to-mp4-file-format-transition/"><u>In 2024, The Ultimate Guide to MP3-to-MP4 File Format Transition</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-step-by-step-integrating-tunes-into-kinemaster/"><u>New In 2024, Step-by-Step Integrating Tunes Into KineMaster</u></a></li>
 </ul></div>
+
 

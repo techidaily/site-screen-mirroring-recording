@@ -1,7 +1,7 @@
 ---
 title: "\"Videography Secrets  Leveraging Strikethrough for Impactful Edits\""
-date: 2024-05-18T09:30:52.804Z
-updated: 2024-05-19T09:30:52.804Z
+date: 2024-05-19T22:30:06.204Z
+updated: 2024-05-20T22:30:06.204Z
 tags: 
   - screen-recording
   - ai video
@@ -523,4 +523,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-xiaomi-redmi-k70-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Xiaomi Redmi K70 Pro Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Gionee F3 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

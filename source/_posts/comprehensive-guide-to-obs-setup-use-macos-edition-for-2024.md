@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to OBS Setup, Use, macOS Edition for 2024"
-date: 2024-05-18T09:35:19.910Z
-updated: 2024-05-19T09:35:19.910Z
+date: 2024-05-19T22:30:16.480Z
+updated: 2024-05-20T22:30:16.480Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Samsung Galaxy A15 4G</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-itel-p55t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Itel P55T Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

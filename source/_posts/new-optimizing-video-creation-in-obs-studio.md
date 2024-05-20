@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing Video Creation in OBS Studio"
-date: 2024-05-18T09:54:24.094Z
-updated: 2024-05-19T09:54:24.094Z
+date: 2024-05-19T22:31:03.379Z
+updated: 2024-05-20T22:31:03.379Z
 tags: 
   - screen-recording
   - ai video
@@ -523,4 +523,5 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://sound-tweaking.techidaily.com/new-discover-the-peak-sound-perfection-recommended-equalizer-settings/"><u>New Discover the Peak Sound Perfection Recommended Equalizer Settings</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy F14 5G Phone</u></a></li>
 </ul></div>
+
 

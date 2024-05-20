@@ -483,3 +483,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
 
+

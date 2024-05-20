@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Solo Mastery  How to Turn Off Apex Legends' Cross-Play Feature\""
-date: 2024-05-18T09:47:25.410Z
-updated: 2024-05-19T09:47:25.410Z
+date: 2024-05-19T22:30:46.631Z
+updated: 2024-05-20T22:30:46.631Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-infinix-smart-8-hd-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Infinix Smart 8 HD</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-actual-discussion-is-regarding-the-splitting-of-the-video-by-using-the-vsdc-also-recommendation-of-using-wondershare-filmora-as-the-better-s/"><u>New In 2024, The Actual Discussion Is Regarding the Splitting of the Video by Using the VSDC. Also, Recommendation of Using Wondershare Filmora as the Better Substitute in Place of VSDC</u></a></li>
 </ul></div>
+
 

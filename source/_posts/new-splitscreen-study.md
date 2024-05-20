@@ -1,7 +1,7 @@
 ---
 title: "[New] SplitScreen Study"
-date: 2024-05-18T09:55:24.375Z
-updated: 2024-05-19T09:55:24.375Z
+date: 2024-05-19T22:31:06.015Z
+updated: 2024-05-20T22:31:06.015Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-hot-40-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Hot 40 Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g34-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G34 5G Devices</u></a></li>
 </ul></div>
+
 

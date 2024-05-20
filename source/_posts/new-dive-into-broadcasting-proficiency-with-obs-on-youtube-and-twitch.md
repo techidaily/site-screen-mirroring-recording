@@ -1,7 +1,7 @@
 ---
 title: "[New] Dive Into Broadcasting Proficiency with OBS on YouTube and Twitch"
-date: 2024-05-18T09:48:38.595Z
-updated: 2024-05-19T09:48:38.595Z
+date: 2024-05-19T22:30:49.828Z
+updated: 2024-05-20T22:30:49.828Z
 tags: 
   - screen-recording
   - ai video
@@ -179,4 +179,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-a-slideshow-in-powerpoint/"><u>How to Add a Slideshow in PowerPoint</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/mastering-the-art-of-sourcing-quiet-melodic-tunes-for-2024/"><u>Mastering the Art of Sourcing Quiet, Melodic Tunes for 2024</u></a></li>
 </ul></div>
+
 

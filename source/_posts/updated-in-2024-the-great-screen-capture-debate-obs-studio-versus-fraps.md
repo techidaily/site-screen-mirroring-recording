@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Great Screen Capture Debate  OBS Studio Versus Fraps\""
-date: 2024-05-18T09:38:17.752Z
-updated: 2024-05-19T09:38:17.752Z
+date: 2024-05-19T22:30:23.813Z
+updated: 2024-05-20T22:30:23.813Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-windows-10-video-editors-for-trimming-and-cutting-videos/"><u>New In 2024, Best Windows 10 Video Editors for Trimming and Cutting Videos</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-premiere-pros-guide-to-decoupling-sound-elements-in-post-production/"><u>2024 Approved Premiere Pros Guide to Decoupling Sound Elements in Post-Production</u></a></li>
 </ul></div>
+
 

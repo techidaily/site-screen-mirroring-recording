@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ninja Legacy Continuation  Game Roundup Like the Japanese Samurai Epic\""
-date: 2024-05-18T09:31:36.942Z
-updated: 2024-05-19T09:31:36.942Z
+date: 2024-05-19T22:30:07.800Z
+updated: 2024-05-20T22:30:07.800Z
 tags: 
   - screen-recording
   - ai video
@@ -629,4 +629,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-maximizing-engagement-with-optimal-social-media-aspect-ratios/"><u>2024 Approved Maximizing Engagement with Optimal Social Media Aspect Ratios</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
+
 

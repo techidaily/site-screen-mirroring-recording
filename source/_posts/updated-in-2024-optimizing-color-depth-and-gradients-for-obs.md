@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Optimizing Color Depth and Gradients for OBS"
-date: 2024-05-18T09:33:24.851Z
-updated: 2024-05-19T09:33:24.851Z
+date: 2024-05-19T22:30:12.047Z
+updated: 2024-05-20T22:30:12.047Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-k11x-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo K11x</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mavericks-video-editing-essentials-a-step-by-step-guide/"><u>New 2024 Approved Mavericks Video Editing Essentials A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

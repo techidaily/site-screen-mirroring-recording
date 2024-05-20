@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering OBS & Zoom  Integration Tips\""
-date: 2024-05-18T09:37:38.448Z
-updated: 2024-05-19T09:37:38.448Z
+date: 2024-05-19T22:30:21.950Z
+updated: 2024-05-20T22:30:21.950Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-ace-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus Ace 2 to iPad | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v27e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V27e</u></a></li>
 </ul></div>
+
 

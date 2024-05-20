@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Resolve HDR Video Issue  Clearing Blank Display\""
-date: 2024-05-18T09:55:47.997Z
-updated: 2024-05-19T09:55:47.997Z
+date: 2024-05-19T22:31:06.909Z
+updated: 2024-05-20T22:31:06.909Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-6s-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 6s to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-speed-up-your-video-to-shorten-its-duration-and-make-it-more-entertaining-here-is-how-to-speed-up-videos-in-final-cut-pro-get-a-better/"><u>2024 Approved Want to Speed up Your Video to Shorten Its Duration and Make It More Entertaining? Here Is How to Speed up Videos in Final Cut Pro. Get a Better Alternative to FCP to Speed up Videos</u></a></li>
 </ul></div>
+
 

@@ -551,3 +551,4 @@ When more activities, such as education, live entertainment, and conferencing, o
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-10c-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark 10C Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

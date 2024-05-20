@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Scaling Back OBS Video Bandwidth"
-date: 2024-05-18T09:41:06.674Z
-updated: 2024-05-19T09:41:06.674Z
+date: 2024-05-19T22:30:30.474Z
+updated: 2024-05-20T22:30:30.474Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y55s-5g-2023-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y55s 5G (2023) Black and White | Dr.fone</u></a></li>
 </ul></div>
+
 

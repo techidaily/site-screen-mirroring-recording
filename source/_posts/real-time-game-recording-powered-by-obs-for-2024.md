@@ -1,7 +1,7 @@
 ---
 title: "\"Real-Time Game Recording Powered by OBS for 2024\""
-date: 2024-05-18T09:42:32.499Z
-updated: 2024-05-19T09:42:32.499Z
+date: 2024-05-19T22:30:34.014Z
+updated: 2024-05-20T22:30:34.014Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://audio-editing.techidaily.com/in-2024-unveiling-the-hidden-capabilities-of-twistedwaves-audio-manipulation-toolkit/"><u>In 2024, Unveiling the Hidden Capabilities of TwistedWaves Audio Manipulation Toolkit</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-streamlining-audio-success-leading-podcast-hosting-options/"><u>Updated 2024 Approved Streamlining Audio Success Leading Podcast Hosting Options</u></a></li>
 </ul></div>
+
 

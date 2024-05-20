@@ -1137,3 +1137,4 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Lava Yuva 2? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -609,3 +609,4 @@ Since Bandicam doesn't have a Mac adaptation, you need to find a Bandicam for Ma
 <li><a href="https://audio-editing.techidaily.com/the-art-of-sound-visualization-combining-waveform-graphics-and-animation-techniques-in-premiere-pro/"><u>The Art of Sound Visualization Combining Waveform Graphics & Animation Techniques in Premiere Pro</u></a></li>
 </ul></div>
 
+

@@ -406,3 +406,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
 
+

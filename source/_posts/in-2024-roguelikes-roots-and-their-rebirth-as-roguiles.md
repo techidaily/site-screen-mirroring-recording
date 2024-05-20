@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Roguelikes' Roots & Their Rebirth as Roguiles"
-date: 2024-05-18T09:45:25.527Z
-updated: 2024-05-19T09:45:25.527Z
+date: 2024-05-19T22:30:41.770Z
+updated: 2024-05-20T22:30:41.770Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-6-free-video-watermark-software/"><u>Updated In 2024, Top 6 Free Video Watermark Software</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-little-known-ways-of-adding-emojis-to-photos-on-iphone-and-android-2023/"><u>In 2024, Little Known Ways of Adding Emojis to Photos on iPhone & Android 2023</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Mute People on Google Meet Video Call"
-date: 2024-05-18T09:36:16.523Z
-updated: 2024-05-19T09:36:16.523Z
+date: 2024-05-19T22:30:19.068Z
+updated: 2024-05-20T22:30:19.068Z
 tags: 
   - screen-recording
   - ai video
@@ -697,4 +697,5 @@ Follow @Richard Bennett
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-5-essential-linux-tools-for-capturing-professional-quality-audio/"><u>Updated 2024 Approved Top 5 Essential Linux Tools for Capturing Professional-Quality Audio</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-note-30-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Note 30 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

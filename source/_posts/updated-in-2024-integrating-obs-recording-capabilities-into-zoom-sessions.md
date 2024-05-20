@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Integrating OBS Recording Capabilities Into Zoom Sessions"
-date: 2024-05-18T09:35:12.281Z
-updated: 2024-05-19T09:35:12.281Z
+date: 2024-05-19T22:30:16.241Z
+updated: 2024-05-20T22:30:16.241Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-15-pro-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 15 Pro Max for Free</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/in-2024-top-rated-online-aspect-ratio-calculators-for-easy-use/"><u>In 2024, Top-Rated Online Aspect Ratio Calculators for Easy Use</u></a></li>
 </ul></div>
+
 

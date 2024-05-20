@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS\""
-date: 2024-05-18T09:37:13.426Z
-updated: 2024-05-19T09:37:13.426Z
+date: 2024-05-19T22:30:21.083Z
+updated: 2024-05-20T22:30:21.083Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web/"><u>Updated In 2024, The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo A56s 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

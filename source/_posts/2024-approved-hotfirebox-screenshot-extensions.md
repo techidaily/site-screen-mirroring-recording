@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  HotFirebox Screenshot Extensions\""
-date: 2024-05-18T09:40:54.311Z
-updated: 2024-05-19T09:40:54.311Z
+date: 2024-05-19T22:30:30.013Z
+updated: 2024-05-20T22:30:30.013Z
 tags: 
   - screen-recording
   - ai video
@@ -674,4 +674,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-get-ready-to-rewind-the-top-10-slow-motion-video-players/"><u>Updated Get Ready to Rewind The Top 10 Slow Motion Video Players</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-reverse-rewind-repeat-a-beginners-guide-to-tiktok-video-editing-for-2024/"><u>Updated Reverse, Rewind, Repeat A Beginners Guide to TikTok Video Editing for 2024</u></a></li>
 </ul></div>
+
 

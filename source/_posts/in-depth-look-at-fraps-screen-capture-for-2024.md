@@ -1,7 +1,7 @@
 ---
 title: "\"In-Depth Look at Fraps Screen Capture for 2024\""
-date: 2024-05-18T09:37:39.817Z
-updated: 2024-05-19T09:37:39.817Z
+date: 2024-05-19T22:30:22.008Z
+updated: 2024-05-20T22:30:22.008Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-lava-blaze-2-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Lava Blaze 2 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-g24-power-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola G24 Power to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

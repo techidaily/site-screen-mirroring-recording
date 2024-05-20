@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Resolving Disabled State of OBS Fullscreen\""
-date: 2024-05-18T09:40:05.125Z
-updated: 2024-05-19T09:40:05.125Z
+date: 2024-05-19T22:30:27.776Z
+updated: 2024-05-20T22:30:27.776Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V27 Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme Note 50? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -549,3 +549,4 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-find-out-how-to-add-subtitles-in-the-vlc-media-player-on-your-windows-and-mac-system-with-quick-and-simple-instructions/"><u>New In 2024, Find Out How to Add Subtitles in the VLC Media Player on Your Windows and Mac System with Quick and Simple Instructions</u></a></li>
 </ul></div>
 
+

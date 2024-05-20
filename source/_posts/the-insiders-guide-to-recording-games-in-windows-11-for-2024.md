@@ -402,3 +402,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 10</u></a></li>
 </ul></div>
 
+

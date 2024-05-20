@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Techniques for Gameplay Recordings via OBS"
-date: 2024-05-18T09:44:27.482Z
-updated: 2024-05-19T09:44:27.482Z
+date: 2024-05-19T22:30:39.694Z
+updated: 2024-05-20T22:30:39.694Z
 tags: 
   - screen-recording
   - ai video
@@ -429,4 +429,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://sound-tweaking.techidaily.com/updated-final-cut-pro-wizardry-incorporating-lifelike-audio-waveforms-and-animation-into-your-video-edits-for-2024/"><u>Updated Final Cut Pro Wizardry Incorporating Lifelike Audio Waveforms and Animation Into Your Video Edits for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-samsung-galaxy-s24plus-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Samsung Galaxy S24+</u></a></li>
 </ul></div>
+
 

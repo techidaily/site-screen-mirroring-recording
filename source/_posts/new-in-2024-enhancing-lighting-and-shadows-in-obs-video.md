@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Enhancing Lighting and Shadows in OBS Video"
-date: 2024-05-18T09:55:43.968Z
-updated: 2024-05-19T09:55:43.968Z
+date: 2024-05-19T22:31:06.782Z
+updated: 2024-05-20T22:31:06.782Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y78-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y78 5G Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-open-source-video-editing-excellence-top-picks/"><u>New 2024 Approved Open-Source Video Editing Excellence Top Picks</u></a></li>
 </ul></div>
+
 

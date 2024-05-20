@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Stop Screen Blackouts with OBS Game Recordings"
-date: 2024-05-18T09:46:40.306Z
-updated: 2024-05-19T09:46:40.306Z
+date: 2024-05-19T22:30:44.858Z
+updated: 2024-05-20T22:30:44.858Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A05s | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-want-that-vintage-nostalgia-back-in-your-photos-well-then-you-need-a-vhs-app-and-youre-at-the-right-place-to-find-one/"><u>New In 2024, Want that Vintage Nostalgia Back in Your Photos? Well, Then You Need a VHS App, and Youre at the Right Place to Find One</u></a></li>
 </ul></div>
+
 

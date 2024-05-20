@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Absence of Color in Game Recordings for 2024"
-date: 2024-05-18T09:50:47.836Z
-updated: 2024-05-19T09:50:47.836Z
+date: 2024-05-19T22:30:55.074Z
+updated: 2024-05-20T22:30:55.074Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 8 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-11-pro-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme 11 Pro</u></a></li>
 </ul></div>
+
 

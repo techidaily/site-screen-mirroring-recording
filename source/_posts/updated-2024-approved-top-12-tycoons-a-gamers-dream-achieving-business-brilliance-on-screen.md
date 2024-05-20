@@ -821,3 +821,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-creator.techidaily.com/from-basics-to-pro-l-cuts-and-j-cuts-in-final-cut-pro-x-tutorial/"><u>From Basics to Pro L-Cuts and J-Cuts in Final Cut Pro X Tutorial</u></a></li>
 </ul></div>
 
+

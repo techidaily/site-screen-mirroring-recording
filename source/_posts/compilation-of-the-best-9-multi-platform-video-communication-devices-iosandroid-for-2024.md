@@ -790,3 +790,4 @@ Follow @Richard Bennett
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-calculate-photo-dimensions-a-simple-ratio-finder/"><u>2024 Approved Calculate Photo Dimensions A Simple Ratio Finder</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step OBS Tutorial for Skype Sessions\""
-date: 2024-05-18T09:49:53.992Z
-updated: 2024-05-19T09:49:53.992Z
+date: 2024-05-19T22:30:52.812Z
+updated: 2024-05-20T22:30:52.812Z
 tags: 
   - screen-recording
   - ai video
@@ -343,4 +343,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Hot 40 Pro?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Poco F5 5G Bootloader Easily</u></a></li>
 </ul></div>
+
 

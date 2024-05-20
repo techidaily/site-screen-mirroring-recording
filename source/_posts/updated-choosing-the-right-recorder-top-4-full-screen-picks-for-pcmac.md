@@ -412,3 +412,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Timekeeping Tutorial  Setting Up a Timer in OBS Studio\""
-date: 2024-05-18T09:31:31.752Z
-updated: 2024-05-19T09:31:31.752Z
+date: 2024-05-19T22:30:07.611Z
+updated: 2024-05-20T22:30:07.611Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-moto-g04-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola Moto G04 to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
 </ul></div>
+
 

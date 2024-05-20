@@ -414,3 +414,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-creative-ways-to-make-iphone-text-gif/"><u>New Creative Ways to Make iPhone Text GIF</u></a></li>
 </ul></div>
 
+

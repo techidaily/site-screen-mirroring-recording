@@ -977,3 +977,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-creator.techidaily.com/fcpx-compressor-tutorial-from-basics-to-advanced-techniques/"><u>FCPX Compressor Tutorial From Basics to Advanced Techniques</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting Mute  Reviving Sound in OBS Recordings\""
-date: 2024-05-18T09:48:00.322Z
-updated: 2024-05-19T09:48:00.322Z
+date: 2024-05-19T22:30:48.073Z
+updated: 2024-05-20T22:30:48.073Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-top-rated-movie-making-apps-for-windows-10/"><u>2024 Approved Top-Rated Movie Making Apps for Windows 10</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-xr-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone XR Waze | Dr.fone</u></a></li>
 </ul></div>
+
 

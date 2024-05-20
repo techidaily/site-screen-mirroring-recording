@@ -1,7 +1,7 @@
 ---
 title: "How to Screen Record on Mac with Shortcuts"
-date: 2024-05-18T09:38:34.811Z
-updated: 2024-05-19T09:38:34.811Z
+date: 2024-05-19T22:30:24.438Z
+updated: 2024-05-20T22:30:24.438Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y02t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y02T Phone</u></a></li>
 </ul></div>
+
 

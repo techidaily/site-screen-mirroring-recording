@@ -1,7 +1,7 @@
 ---
 title: "\"Bloodthirsty Horror  Your Ultimate 8 Zombie Game Compilation\""
-date: 2024-05-18T09:46:21.773Z
-updated: 2024-05-19T09:46:21.773Z
+date: 2024-05-19T22:30:44.183Z
+updated: 2024-05-20T22:30:44.183Z
 tags: 
   - screen-recording
   - ai video
@@ -349,4 +349,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-xperia-5-v-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Xperia 5 V</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-instagram-video-formatting-101-a-beginners-guide-to-aspect-ratios-and-dimensions/"><u>New 2024 Approved Instagram Video Formatting 101 A Beginners Guide to Aspect Ratios and Dimensions</u></a></li>
 </ul></div>
+
 

@@ -428,3 +428,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/from-wide-to-tall-adapting-your-design-for-vertical-screens-for-2024/"><u>From Wide to Tall Adapting Your Design for Vertical Screens for 2024</u></a></li>
 </ul></div>
 
+

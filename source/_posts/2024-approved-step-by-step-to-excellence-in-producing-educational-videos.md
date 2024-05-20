@@ -794,3 +794,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-magic-6-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Magic 6</u></a></li>
 </ul></div>
 
+

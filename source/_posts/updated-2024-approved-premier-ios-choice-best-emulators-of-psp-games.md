@@ -410,3 +410,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-note-30-vip-racing-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Note 30 VIP Racing Edition to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

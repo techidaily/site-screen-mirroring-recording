@@ -458,3 +458,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a15-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A15 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

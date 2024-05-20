@@ -1,7 +1,7 @@
 ---
 title: "[New] Instagram Live From OBS Capture"
-date: 2024-05-18T09:54:05.347Z
-updated: 2024-05-19T09:54:05.347Z
+date: 2024-05-19T22:31:02.598Z
+updated: 2024-05-20T22:31:02.598Z
 tags: 
   - screen-recording
   - ai video
@@ -426,4 +426,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-stop-motion-animation-programs-for-mac-and-pc-for-2024/"><u>New The Ultimate List of Stop Motion Animation Programs for Mac and PC for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo V30? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Save Video in Virtual Meetings"
-date: 2024-05-18T09:50:16.766Z
-updated: 2024-05-19T09:50:16.766Z
+date: 2024-05-19T22:30:53.902Z
+updated: 2024-05-20T22:30:53.902Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-an-adobe-slideshow-the-easy-way/"><u>How to Create an Adobe Slideshow the Easy Way</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-magic-6-pro-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Magic 6 Pro</u></a></li>
 </ul></div>
+
 

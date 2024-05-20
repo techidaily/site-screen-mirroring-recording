@@ -1,7 +1,7 @@
 ---
 title: "\"From Novice to Pro  A Comprehensive Video Tutorial Journey\""
-date: 2024-05-18T09:32:38.245Z
-updated: 2024-05-19T09:32:38.245Z
+date: 2024-05-19T22:30:10.259Z
+updated: 2024-05-20T22:30:10.259Z
 tags: 
   - screen-recording
   - ai video
@@ -833,4 +833,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/1713942808115-an-ultimate-guide-to-edit-a-music-video-aspect-ratio-and-first-cut-for-2024/"><u>An Ultimate Guide To Edit a Music Video Aspect Ratio and First Cut for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-a34-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy A34 5G to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

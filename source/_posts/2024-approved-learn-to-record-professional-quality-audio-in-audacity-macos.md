@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn to Record Professional Quality Audio in Audacity, MacOS\""
-date: 2024-05-18T09:48:23.234Z
-updated: 2024-05-19T09:48:23.234Z
+date: 2024-05-19T22:30:49.346Z
+updated: 2024-05-20T22:30:49.346Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y36i-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y36i to Protect Your Individual Information</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-redmi-note-12-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Redmi Note 12 5G?</u></a></li>
 </ul></div>
+
 

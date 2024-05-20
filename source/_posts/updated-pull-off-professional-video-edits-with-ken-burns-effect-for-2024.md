@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pull Off Professional Video Edits with Ken Burns Effect for 2024"
-date: 2024-05-18T09:38:44.182Z
-updated: 2024-05-19T09:38:44.182Z
+date: 2024-05-19T22:30:24.827Z
+updated: 2024-05-20T22:30:24.827Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-nubia-red-magic-9-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Nubia Red Magic 9 Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor 90 Lite?</u></a></li>
 </ul></div>
+
 

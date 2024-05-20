@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Download to Usage  Setting Up OBS on a Mac for 2024\""
-date: 2024-05-18T09:33:54.263Z
-updated: 2024-05-19T09:33:54.263Z
+date: 2024-05-19T22:30:13.248Z
+updated: 2024-05-20T22:30:13.248Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://ai-video-editing.techidaily.com/updated-online-video-makers-to-use/"><u>Updated Online Video Makers to Use</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-12plus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme 12+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Obs Scheduling Mastery  Implementing a Countdown Clock\""
-date: 2024-05-18T09:47:20.713Z
-updated: 2024-05-19T09:47:20.713Z
+date: 2024-05-19T22:30:46.424Z
+updated: 2024-05-20T22:30:46.424Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-g22-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia G22</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-whatsapp-video-status-top-apps-for-editing-and-designing/"><u>Updated WhatsApp Video Status Top Apps for Editing and Designing</u></a></li>
 </ul></div>
+
 

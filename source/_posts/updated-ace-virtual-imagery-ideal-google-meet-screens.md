@@ -579,3 +579,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/how-to-color-correct-an-s-log-footage/"><u>How to Color-Correct an S-Log Footage</u></a></li>
 </ul></div>
 
+

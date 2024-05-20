@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial\""
-date: 2024-05-18T09:51:45.661Z
-updated: 2024-05-19T09:51:45.661Z
+date: 2024-05-19T22:30:57.346Z
+updated: 2024-05-20T22:30:57.346Z
 tags: 
   - screen-recording
   - ai video
@@ -347,4 +347,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-note-30-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Note 30 Device</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-moto-g04-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Moto G04 without App | Dr.fone</u></a></li>
 </ul></div>
+
 

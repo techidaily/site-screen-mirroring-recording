@@ -232,3 +232,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://techidaily.com/turn-off-screen-lock-infinix-hot-40-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Infinix Hot 40 Pro</u></a></li>
 </ul></div>
 
+

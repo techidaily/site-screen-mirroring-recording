@@ -593,3 +593,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://screen-mirror.techidaily.com/how-motorola-razr-40-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Razr 40 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

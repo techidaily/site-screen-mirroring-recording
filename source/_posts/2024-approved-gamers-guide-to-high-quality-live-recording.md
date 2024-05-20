@@ -382,3 +382,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://voice-adjusting.techidaily.com/essential-steps-for-samsung-phone-users-activating-the-voice-recording-function/"><u>Essential Steps for Samsung Phone Users Activating the Voice Recording Function</u></a></li>
 </ul></div>
 
+

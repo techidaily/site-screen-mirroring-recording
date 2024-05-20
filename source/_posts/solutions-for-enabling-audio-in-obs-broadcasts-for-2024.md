@@ -1,7 +1,7 @@
 ---
 title: "Solutions for Enabling Audio in OBS Broadcasts for 2024"
-date: 2024-05-18T09:51:18.017Z
-updated: 2024-05-19T09:51:18.017Z
+date: 2024-05-19T22:30:56.212Z
+updated: 2024-05-20T22:30:56.212Z
 tags: 
   - screen-recording
   - ai video
@@ -555,4 +555,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco F5 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-cutting-edge-techniques-in-sound-editing-vocal-exclusion-masterclass-with-stepwise-approach-in-adobe-audition/"><u>Updated 2024 Approved Cutting-Edge Techniques in Sound Editing Vocal Exclusion Masterclass with Stepwise Approach in Adobe Audition</u></a></li>
 </ul></div>
+
 

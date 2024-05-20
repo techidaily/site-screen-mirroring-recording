@@ -538,3 +538,4 @@ Follow @Liza Brown
 <li><a href="https://voice-adjusting.techidaily.com/updated-balancing-the-scales-normalizing-sound-volume-for-optimal-viewing-with-vlc/"><u>Updated Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC</u></a></li>
 </ul></div>
 
+

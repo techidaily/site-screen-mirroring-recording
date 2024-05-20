@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices"
-date: 2024-05-18T09:33:36.015Z
-updated: 2024-05-19T09:33:36.015Z
+date: 2024-05-19T22:30:12.436Z
+updated: 2024-05-20T22:30:12.436Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-13c-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi 13C 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-gt-10-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix GT 10 Pro Quickly? | Dr.fone</u></a></li>
 </ul></div>
+
 

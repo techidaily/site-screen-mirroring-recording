@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expert-Level Workshop  Programming Timer Functions for OBS Productions\""
-date: 2024-05-18T09:54:00.162Z
-updated: 2024-05-19T09:54:00.162Z
+date: 2024-05-19T22:31:02.430Z
+updated: 2024-05-20T22:31:02.430Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://video-creation-software.techidaily.com/updated-do-you-ever-wonder-how-to-make-a-motion-blur-effect-with-final-cut-pro-youre-in-luck-because-this-guide-has-all-the-answers-youre-looking-for-read-a/"><u>Updated Do You Ever Wonder How to Make a Motion Blur Effect with Final Cut Pro? Youre in Luck because This Guide Has All the Answers Youre Looking For! Read Ahead and Start Editing by Following Our Step-to-Step Guide for 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-still-moments-from-moving-pictures-a-review-of-10-video-to-image-converters/"><u>New 2024 Approved Still Moments From Moving Pictures A Review of 10 Video to Image Converters</u></a></li>
 </ul></div>
+
 

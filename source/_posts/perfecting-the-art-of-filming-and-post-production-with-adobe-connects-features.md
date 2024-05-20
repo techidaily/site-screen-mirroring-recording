@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting the Art of Filming & Post-Production with Adobe Connect's Features\""
-date: 2024-05-18T09:54:33.087Z
-updated: 2024-05-19T09:54:33.087Z
+date: 2024-05-19T22:31:04.072Z
+updated: 2024-05-20T22:31:04.072Z
 tags: 
   - screen-recording
   - ai video
@@ -408,4 +408,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/2024-approved-transform-your-images-a-beginners-guide-to-the-ken-burns-effect/"><u>2024 Approved Transform Your Images A Beginners Guide to the Ken Burns Effect</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi 13T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

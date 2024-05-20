@@ -1,7 +1,7 @@
 ---
 title: "[New] Easing Excessive Encoding of OBS Media"
-date: 2024-05-18T09:39:38.527Z
-updated: 2024-05-19T09:39:38.527Z
+date: 2024-05-19T22:30:26.782Z
+updated: 2024-05-20T22:30:26.782Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-12-proplus-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme 12 Pro+ 5G Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V30? | Dr.fone</u></a></li>
 </ul></div>
+
 

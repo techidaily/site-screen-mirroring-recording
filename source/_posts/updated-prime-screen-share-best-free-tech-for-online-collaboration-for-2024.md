@@ -1242,3 +1242,4 @@ Follow @Richard Bennett
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

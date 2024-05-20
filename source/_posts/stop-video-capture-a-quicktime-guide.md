@@ -1,7 +1,7 @@
 ---
 title: "\"Stop Video Capture  A QuickTime Guide\""
-date: 2024-05-18T09:54:19.186Z
-updated: 2024-05-19T09:54:19.186Z
+date: 2024-05-19T22:31:03.172Z
+updated: 2024-05-20T22:31:03.172Z
 tags: 
   - screen-recording
   - ai video
@@ -440,4 +440,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://ai-editing-video.techidaily.com/updated-vintage-film-effect-1980s-how-to-create/"><u>Updated Vintage Film Effect 1980S - How to Create</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/mastering-pc-speaker-capture-with-audacity-a-step-by-step-guide-for-2024/"><u>Mastering PC Speaker Capture with Audacity A Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
+
 

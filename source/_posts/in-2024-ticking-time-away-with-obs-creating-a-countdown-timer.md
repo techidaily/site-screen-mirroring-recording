@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ticking Time Away with OBS  Creating a Countdown Timer\""
-date: 2024-05-18T09:57:15.439Z
-updated: 2024-05-19T09:57:15.439Z
+date: 2024-05-19T22:31:10.477Z
+updated: 2024-05-20T22:31:10.477Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y100-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y100 5G Android SIM Unlock APK</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo V30 Lite 5G FRP</u></a></li>
 </ul></div>
+
 

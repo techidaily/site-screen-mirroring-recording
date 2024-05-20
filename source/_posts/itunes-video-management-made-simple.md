@@ -376,3 +376,4 @@ These were the most common ways to record videos on the iTunes platform. Althoug
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung ?</u></a></li>
 </ul></div>
 
+

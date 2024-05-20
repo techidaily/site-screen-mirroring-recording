@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac  Basic Sound Recording in Audacity\""
-date: 2024-05-18T09:35:18.820Z
-updated: 2024-05-19T09:35:18.820Z
+date: 2024-05-19T22:30:16.456Z
+updated: 2024-05-20T22:30:16.456Z
 tags: 
   - screen-recording
   - ai video
@@ -333,4 +333,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme 12 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-a56s-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo A56s 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

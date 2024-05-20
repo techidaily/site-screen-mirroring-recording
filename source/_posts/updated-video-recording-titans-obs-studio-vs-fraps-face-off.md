@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Video Recording Titans  OBS Studio vs Fraps Face-Off\""
-date: 2024-05-18T09:31:57.309Z
-updated: 2024-05-19T09:31:57.309Z
+date: 2024-05-19T22:30:08.882Z
+updated: 2024-05-20T22:30:08.882Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-transform-your-videos-into-cinematic-masterpieces-on-mac/"><u>Updated In 2024, Transform Your Videos Into Cinematic Masterpieces on Mac</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-meme-creation-apps-for-mobile/"><u>New In 2024, The Ultimate List of Meme Creation Apps for Mobile</u></a></li>
 </ul></div>
+
 

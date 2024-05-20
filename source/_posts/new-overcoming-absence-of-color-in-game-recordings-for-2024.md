@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Absence of Color in Game Recordings for 2024"
-date: 2024-05-18T09:51:58.496Z
-updated: 2024-05-19T09:51:58.496Z
+date: 2024-05-19T22:30:57.870Z
+updated: 2024-05-20T22:30:57.870Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme C51 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c12-plus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C12 Plus to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

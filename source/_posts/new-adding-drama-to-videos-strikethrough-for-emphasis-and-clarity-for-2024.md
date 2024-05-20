@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Adding Drama to Videos  Strikethrough for Emphasis and Clarity for 2024\""
-date: 2024-05-18T09:30:58.518Z
-updated: 2024-05-19T09:30:58.518Z
+date: 2024-05-19T22:30:06.435Z
+updated: 2024-05-20T22:30:06.435Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/new-top-10-music-video-creators-for-stunning-visuals/"><u>New Top 10 Music Video Creators for Stunning Visuals</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 6s? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reviving the Full Screen in OBS\""
-date: 2024-05-18T09:33:34.107Z
-updated: 2024-05-19T09:33:34.107Z
+date: 2024-05-19T22:30:12.391Z
+updated: 2024-05-20T22:30:12.391Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-razr-40-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Razr 40 Ultra For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

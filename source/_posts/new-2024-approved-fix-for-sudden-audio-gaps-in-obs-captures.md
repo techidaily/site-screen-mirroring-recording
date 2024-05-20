@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Fix for Sudden Audio Gaps in OBS Captures\""
-date: 2024-05-18T09:54:40.155Z
-updated: 2024-05-19T09:54:40.155Z
+date: 2024-05-19T22:31:04.365Z
+updated: 2024-05-20T22:31:04.365Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-7-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 7 Plus Online</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-smart-7-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Smart 7 Lock Screen Password?</u></a></li>
 </ul></div>
+
 

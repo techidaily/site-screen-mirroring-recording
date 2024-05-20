@@ -572,3 +572,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
 
+

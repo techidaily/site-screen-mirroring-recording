@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 5 Essential Strategies to Avoid a Dark Screen During OBS Recordings"
-date: 2024-05-18T09:55:03.047Z
-updated: 2024-05-19T09:55:03.047Z
+date: 2024-05-19T22:31:05.213Z
+updated: 2024-05-20T22:31:05.213Z
 tags: 
   - screen-recording
   - ai video
@@ -305,4 +305,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-phantom-v-flip-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Phantom V Flip Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-cut-mkv-files-for-free-top-10-editors-for-2024/"><u>Updated Cut MKV Files for Free Top 10 Editors for 2024</u></a></li>
 </ul></div>
+
 

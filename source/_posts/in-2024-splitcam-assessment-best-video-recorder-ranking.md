@@ -243,3 +243,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-itel-p40-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Itel P40 Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
 
+

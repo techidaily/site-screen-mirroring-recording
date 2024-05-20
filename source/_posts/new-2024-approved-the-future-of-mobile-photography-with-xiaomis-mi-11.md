@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Future of Mobile Photography with Xiaomi's Mi 11\""
-date: 2024-05-18T09:54:30.359Z
-updated: 2024-05-19T09:54:30.359Z
+date: 2024-05-19T22:31:03.954Z
+updated: 2024-05-20T22:31:03.954Z
 tags: 
   - screen-recording
   - ai video
@@ -574,4 +574,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/updated-tiktok-face-zoom-create-your-face-zoom-tiktok-now-for-2024/"><u>Updated TikTok Face Zoom | Create Your Face Zoom TikTok Now for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a78-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A78 to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Camtasia Tutorial  Implementing the Classic Ken Burns Effect for 2024\""
-date: 2024-05-18T09:35:52.417Z
-updated: 2024-05-19T09:35:52.417Z
+date: 2024-05-19T22:30:17.790Z
+updated: 2024-05-20T22:30:17.790Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-13-ultra-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from 13 Ultra</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/make-a-statement-best-free-animated-logo-design-software-plus-tips-from-the-pros/"><u>Make a Statement Best Free Animated Logo Design Software + Tips From the Pros</u></a></li>
 </ul></div>
+
 

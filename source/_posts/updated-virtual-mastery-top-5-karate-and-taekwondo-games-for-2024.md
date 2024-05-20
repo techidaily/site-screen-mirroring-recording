@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Virtual Mastery  Top 5 Karate and Taekwondo Games for 2024\""
-date: 2024-05-18T09:48:18.266Z
-updated: 2024-05-19T09:48:18.266Z
+date: 2024-05-19T22:30:49.126Z
+updated: 2024-05-20T22:30:49.126Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/the-complete-online-video-editing-course-from-basics-to-advanced-techniques-for-2024/"><u>The Complete Online Video Editing Course From Basics to Advanced Techniques for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-top-tips-for-effortless-unity-3d-animation/"><u>In 2024, Top Tips for Effortless Unity 3D Animation</u></a></li>
 </ul></div>
+
 

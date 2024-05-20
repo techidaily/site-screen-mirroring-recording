@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Memory Management  Increasing RAM in Minecraft\""
-date: 2024-05-18T09:37:24.110Z
-updated: 2024-05-19T09:37:24.110Z
+date: 2024-05-19T22:30:21.475Z
+updated: 2024-05-20T22:30:21.475Z
 tags: 
   - screen-recording
   - ai video
@@ -596,4 +596,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-gionee-f3-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Gionee F3 Pro to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-from-script-to-screen-8-essential-mac-movie-creator-tools-for-2024/"><u>New From Script to Screen 8 Essential Mac Movie Creator Tools for 2024</u></a></li>
 </ul></div>
+
 

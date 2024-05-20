@@ -229,3 +229,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://video-creation-software.techidaily.com/fcpx-title-effects-unlocking-creative-possibilities/"><u>FCPX Title Effects Unlocking Creative Possibilities</u></a></li>
 </ul></div>
 
+

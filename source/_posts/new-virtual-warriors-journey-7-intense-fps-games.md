@@ -514,3 +514,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 5 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

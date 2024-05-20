@@ -1,7 +1,7 @@
 ---
 title: "\"Pioneering Mobile Broadcasting  Mastering OBS Studio and Android\""
-date: 2024-05-18T09:39:18.236Z
-updated: 2024-05-19T09:39:18.236Z
+date: 2024-05-19T22:30:26.060Z
+updated: 2024-05-20T22:30:26.060Z
 tags: 
   - screen-recording
   - ai video
@@ -529,4 +529,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-a2-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi A2</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-want-to-edit-video-with-sony-vegas-on-mac-but-it-only-available-on-windows-platform-below-are-the-best-alternatives-to-sony-vegas-pro-mac/"><u>New Want to Edit Video with Sony Vegas on Mac? But It only Available on Windows Platform, Below Are the Best Alternatives to Sony Vegas Pro Mac</u></a></li>
 </ul></div>
+
 

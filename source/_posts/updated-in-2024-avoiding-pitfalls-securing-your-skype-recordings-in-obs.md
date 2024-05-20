@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Avoiding Pitfalls  Securing Your Skype Recordings in OBS\""
-date: 2024-05-18T09:45:11.576Z
-updated: 2024-05-19T09:45:11.576Z
+date: 2024-05-19T22:30:41.269Z
+updated: 2024-05-20T22:30:41.269Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://screen-mirror.techidaily.com/apple-iphone-11-pro-max-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 11 Pro Max Screen Mirroring You Must Know | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/control-playback-speed-in-premiere-pro/"><u>Control Playback Speed in Premiere Pro</u></a></li>
 </ul></div>
+
 

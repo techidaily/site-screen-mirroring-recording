@@ -595,3 +595,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-miniature-effect-in-video-with-filmora-for-2024/"><u>How to Add Miniature Effect in Video with Filmora for 2024</u></a></li>
 </ul></div>
 
+

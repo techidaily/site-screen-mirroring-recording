@@ -1,7 +1,7 @@
 ---
 title: "Leading Screenshot Tools on Ubuntu Platforms for 2024"
-date: 2024-05-18T09:51:31.421Z
-updated: 2024-05-19T09:51:31.421Z
+date: 2024-05-19T22:30:56.794Z
+updated: 2024-05-20T22:30:56.794Z
 tags: 
   - screen-recording
   - ai video
@@ -705,4 +705,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-pinpoint-the-best-practices-and-programs-to-cut-down-background-noise/"><u>New In 2024, Pinpoint the Best Practices and Programs to Cut Down Background Noise</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Note 30? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Streamlining Multi-Camera Setup with OBS\""
-date: 2024-05-18T09:34:11.521Z
-updated: 2024-05-19T09:34:11.521Z
+date: 2024-05-19T22:30:14.189Z
+updated: 2024-05-20T22:30:14.189Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-ai-editor.techidaily.com/new-dvr-showdown-tivo-takes-on-comcast-in-the-ultimate-battle-for-your-tv-time-for-2024/"><u>New DVR Showdown TiVo Takes on Comcast in the Ultimate Battle for Your TV Time for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-10-best-old-film-overlays-to-make-your-videos-look-vintage/"><u>In 2024, 10 Best Old Film Overlays to Make Your Videos Look Vintage</u></a></li>
 </ul></div>
+
 

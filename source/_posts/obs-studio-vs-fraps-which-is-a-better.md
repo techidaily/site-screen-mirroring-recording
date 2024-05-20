@@ -1,7 +1,7 @@
 ---
 title: "OBS Studio vs Fraps – Which Is A Better"
-date: 2024-05-18T09:34:43.866Z
-updated: 2024-05-19T09:34:43.866Z
+date: 2024-05-19T22:30:15.227Z
+updated: 2024-05-20T22:30:15.227Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://audio-editing.techidaily.com/2024-approved-a-comprehensive-walkthrough-to-pioneering-sound-recording-on-chrome-os-chromebook/"><u>2024 Approved A Comprehensive Walkthrough to Pioneering Sound Recording on Chrome OS (Chromebook)</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-oppo-reno-9a-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Oppo Reno 9A</u></a></li>
 </ul></div>
+
 

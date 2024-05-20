@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Best OBS Settings for Low-End PCs\""
-date: 2024-05-18T09:50:18.936Z
-updated: 2024-05-19T09:50:18.936Z
+date: 2024-05-19T22:30:54.006Z
+updated: 2024-05-20T22:30:54.006Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-achieving-sonic-excellence-incorporating-auto-tune-into-your-audacity-workflow/"><u>New 2024 Approved Achieving Sonic Excellence Incorporating Auto-Tune Into Your Audacity Workflow</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-best-video-editors-for-adding-music-and-sound-effects/"><u>Updated The Best Video Editors for Adding Music and Sound Effects</u></a></li>
 </ul></div>
+
 

@@ -442,3 +442,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://ai-vdieo-software.techidaily.com/change-the-look-how-to-modify-video-dimensions-easily/"><u>Change the Look How to Modify Video Dimensions Easily</u></a></li>
 </ul></div>
 
+

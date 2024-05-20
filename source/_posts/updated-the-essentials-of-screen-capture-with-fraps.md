@@ -349,3 +349,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30i-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30i Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
 
+

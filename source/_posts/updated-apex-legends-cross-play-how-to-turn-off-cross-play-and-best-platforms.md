@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apex Legends Cross-Play  How to Turn Off Cross-Play and Best Platforms\""
-date: 2024-05-18T09:38:50.474Z
-updated: 2024-05-19T09:38:50.474Z
+date: 2024-05-19T22:30:25.002Z
+updated: 2024-05-20T22:30:25.002Z
 tags: 
   - screen-recording
   - ai video
@@ -323,4 +323,5 @@ Follow @Richard Bennett
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 Pro Max</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-lava-agni-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Lava Agni 2 5G Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

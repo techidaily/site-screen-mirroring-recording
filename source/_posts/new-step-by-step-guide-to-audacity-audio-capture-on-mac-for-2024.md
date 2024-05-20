@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Audacity Audio Capture on Mac for 2024\""
-date: 2024-05-18T09:35:14.735Z
-updated: 2024-05-19T09:35:14.735Z
+date: 2024-05-19T22:30:16.307Z
+updated: 2024-05-20T22:30:16.307Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-6-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 6 Plus Properly</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-smart-8-plus-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Smart 8 Plus? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

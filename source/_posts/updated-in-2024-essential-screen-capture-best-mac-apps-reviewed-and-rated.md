@@ -1105,3 +1105,4 @@ Creating high-quality screen recordings on a Mac can take time, so we're here to
 <li><a href="https://ai-video-editing.techidaily.com/how-to-use-rules-of-thirds/"><u>How to Use Rules of Thirds</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS\""
-date: 2024-05-18T09:45:52.420Z
-updated: 2024-05-19T09:45:52.420Z
+date: 2024-05-19T22:30:42.759Z
+updated: 2024-05-20T22:30:42.759Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Civi 3 Disney 100th Anniversary Edition without App | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/in-2024-transform-your-brand-11-free-animated-logo-makers-and-essential-design-tips/"><u>In 2024, Transform Your Brand 11 Free Animated Logo Makers & Essential Design Tips</u></a></li>
 </ul></div>
+
 

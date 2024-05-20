@@ -743,3 +743,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-itel-a60s-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Itel A60s Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
 
+

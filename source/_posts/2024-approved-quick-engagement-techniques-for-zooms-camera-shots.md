@@ -740,3 +740,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-7-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 7 phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

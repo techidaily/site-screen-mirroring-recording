@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step OBS Integration for YouTube & Twitch Viewers\""
-date: 2024-05-18T09:33:02.494Z
-updated: 2024-05-19T09:33:02.494Z
+date: 2024-05-19T22:30:11.228Z
+updated: 2024-05-20T22:30:11.228Z
 tags: 
   - screen-recording
   - ai video
@@ -217,4 +217,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-ultimate-no-cost-low-cost-mac-music-editor-software/"><u>Updated In 2024, Ultimate No-Cost, Low-Cost Mac Music Editor Software</u></a></li>
 </ul></div>
+
 

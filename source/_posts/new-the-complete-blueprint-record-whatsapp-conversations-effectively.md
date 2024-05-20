@@ -482,3 +482,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-a2-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi A2 Black and White | Dr.fone</u></a></li>
 </ul></div>
 
+

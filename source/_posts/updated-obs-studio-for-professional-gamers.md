@@ -1,7 +1,7 @@
 ---
 title: "[Updated] OBS Studio for Professional Gamers"
-date: 2024-05-18T09:35:54.070Z
-updated: 2024-05-19T09:35:54.070Z
+date: 2024-05-19T22:30:17.902Z
+updated: 2024-05-20T22:30:17.902Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-fast-forward-your-videos-the-ultimate-time-lapse-creation-tutorial/"><u>Updated In 2024, Fast Forward Your Videos The Ultimate Time Lapse Creation Tutorial</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-x100-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo X100 Pro to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

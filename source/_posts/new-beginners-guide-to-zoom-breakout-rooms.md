@@ -1,7 +1,7 @@
 ---
 title: "[New] Beginners Guide to Zoom Breakout Rooms"
-date: 2024-05-18T09:55:41.819Z
-updated: 2024-05-19T09:55:41.819Z
+date: 2024-05-19T22:31:06.703Z
+updated: 2024-05-20T22:31:06.703Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Richard Bennett
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-adobe-premiere-shortcut-guide-20-essentials/"><u>New 2024 Approved The Ultimate Adobe Premiere Shortcut Guide 20 Essentials</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-silence-to-symphony-adding-soundtracks-to-kinemaster/"><u>Updated 2024 Approved From Silence to Symphony Adding Soundtracks to KineMaster</u></a></li>
 </ul></div>
+
 

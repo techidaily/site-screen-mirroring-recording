@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 13 Incredible Minecraft Architectural Plans for 2024"
-date: 2024-05-18T09:38:55.685Z
-updated: 2024-05-19T09:38:55.685Z
+date: 2024-05-19T22:30:25.228Z
+updated: 2024-05-20T22:30:25.228Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-8-plus-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 8 Plus? Complete Guide</u></a></li>
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Lava Yuva 3 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

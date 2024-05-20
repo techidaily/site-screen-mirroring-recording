@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Solve Invisible Buffer Problems in Video Games"
-date: 2024-05-18T09:52:03.960Z
-updated: 2024-05-19T09:52:03.960Z
+date: 2024-05-19T22:30:58.108Z
+updated: 2024-05-20T22:30:58.108Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-set-up-twitch-green-screen/"><u>New In 2024, How to Set Up Twitch Green Screen</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-c02-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia C02 Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Achieving Precision with OBS  Implementing Timer Functionality\""
-date: 2024-05-18T09:45:28.000Z
-updated: 2024-05-19T09:45:28.000Z
+date: 2024-05-19T22:30:41.853Z
+updated: 2024-05-20T22:30:41.853Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-translation.techidaily.com/in-2024-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>In 2024, Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options/"><u>Updated 2024 Approved VN Video Editor for Mac A Comprehensive Guide and Alternative Options</u></a></li>
 </ul></div>
+
 

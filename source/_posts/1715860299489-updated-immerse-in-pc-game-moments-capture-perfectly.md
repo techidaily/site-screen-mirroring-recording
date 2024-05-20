@@ -404,3 +404,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/how-to-shoot-cinematic-footage-from-a-smartphone/"><u>How to Shoot Cinematic Footage From a Smartphone</u></a></li>
 </ul></div>
 
+

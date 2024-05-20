@@ -914,3 +914,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f14-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F14 5G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

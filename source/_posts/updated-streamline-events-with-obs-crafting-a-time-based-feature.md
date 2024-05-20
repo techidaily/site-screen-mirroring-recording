@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Events with OBS  Crafting a Time-Based Feature\""
-date: 2024-05-18T09:30:55.246Z
-updated: 2024-05-19T09:30:55.246Z
+date: 2024-05-19T22:30:06.301Z
+updated: 2024-05-20T22:30:06.301Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-se-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone SE</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-no-cost-no-problem-the-5-best-free-online-video-mergers/"><u>Updated No Cost, No Problem The 5 Best Free Online Video Mergers</u></a></li>
 </ul></div>
+
 

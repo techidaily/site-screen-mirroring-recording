@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Revitalizing a Frozen OBS Video Source Feed\""
-date: 2024-05-18T09:36:32.466Z
-updated: 2024-05-19T09:36:32.466Z
+date: 2024-05-19T22:30:19.650Z
+updated: 2024-05-20T22:30:19.650Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X to an Older iOS Version? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

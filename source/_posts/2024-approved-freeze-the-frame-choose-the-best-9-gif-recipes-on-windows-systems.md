@@ -916,3 +916,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-video-aspect-ratio-a-step-by-step-guide-to-resizing/"><u>In 2024, Video Aspect Ratio A Step-by-Step Guide to Resizing</u></a></li>
 </ul></div>
 
+

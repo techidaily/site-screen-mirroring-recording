@@ -1,7 +1,7 @@
 ---
 title: "\"Design Mastery  Building an MC Village Home\""
-date: 2024-05-18T09:34:43.024Z
-updated: 2024-05-19T09:34:43.024Z
+date: 2024-05-19T22:30:15.181Z
+updated: 2024-05-20T22:30:15.181Z
 tags: 
   - screen-recording
   - ai video
@@ -353,4 +353,5 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-pova-6-pro-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Pova 6 Pro 5G to Roku | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/iphone-8-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 8® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
 </ul></div>
+
 

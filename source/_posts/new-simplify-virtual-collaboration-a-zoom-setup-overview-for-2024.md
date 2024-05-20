@@ -820,3 +820,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-control-playback-speed-in-premiere-pro/"><u>Updated Control Playback Speed in Premiere Pro</u></a></li>
 </ul></div>
 
+

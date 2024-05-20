@@ -1,7 +1,7 @@
 ---
 title: "\"FBM Transcripts  How to Get and Use Complete Records\""
-date: 2024-05-18T09:45:04.619Z
-updated: 2024-05-19T09:45:04.619Z
+date: 2024-05-19T22:30:41.044Z
+updated: 2024-05-20T22:30:41.044Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ All of the Facebook call recorders and live video recorders referenced in this a
 <li><a href="https://audio-editing.techidaily.com/the-complete-guide-to-muting-unwanted-audio-layers-in-audacity/"><u>The Complete Guide to Muting Unwanted Audio Layers in Audacity</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-split-your-mpeg-videos-like-a-pro-top-5-free-tools/"><u>Updated 2024 Approved Split Your MPEG Videos Like a Pro Top 5 Free Tools</u></a></li>
 </ul></div>
+
 

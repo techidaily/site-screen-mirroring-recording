@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How To Prevent Gaps In Live OBS Broadcasting"
-date: 2024-05-18T09:50:11.064Z
-updated: 2024-05-19T09:50:11.064Z
+date: 2024-05-19T22:30:53.715Z
+updated: 2024-05-20T22:30:53.715Z
 tags: 
   - screen-recording
   - ai video
@@ -600,4 +600,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-m54-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy M54 5G to Protect Your Individual Information</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/the-ultimate-cheatsheet-to-15-adobe-animate-alternatives/"><u>The Ultimate Cheatsheet to 15 Adobe Animate Alternatives</u></a></li>
 </ul></div>
+
 

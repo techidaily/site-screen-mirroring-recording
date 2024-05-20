@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Top OBS Configurations on Frugal Devices"
-date: 2024-05-18T09:56:32.848Z
-updated: 2024-05-19T09:56:32.848Z
+date: 2024-05-19T22:31:08.970Z
+updated: 2024-05-20T22:31:08.970Z
 tags: 
   - screen-recording
   - ai video
@@ -230,4 +230,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-video-apps.techidaily.com/new-video-editor-showdown-top-35-options-compared-across-all-platforms/"><u>New Video Editor Showdown Top 35 Options Compared Across All Platforms</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/new-an-ultimate-guide-of-best-narrator-voice-generators/"><u>New An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
 </ul></div>
+
 

@@ -519,3 +519,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-15-forgotten-cartoon-characters-of-all-time-for-2024/"><u>New 15 Forgotten Cartoon Characters of All Time for 2024</u></a></li>
 </ul></div>
 
+

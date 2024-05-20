@@ -602,3 +602,4 @@ Follow @Max Wales
 <li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo X Fold 2? | Dr.fone</u></a></li>
 </ul></div>
 
+

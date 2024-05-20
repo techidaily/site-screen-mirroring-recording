@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Record Hearthstone Decks in Minutes\""
-date: 2024-05-18T09:37:00.325Z
-updated: 2024-05-19T09:37:00.325Z
+date: 2024-05-19T22:30:20.626Z
+updated: 2024-05-20T22:30:20.626Z
 tags: 
   - screen-recording
   - ai video
@@ -473,4 +473,5 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Camon 20 | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-a-picture-in-picture-effect-is-a-very-popular-effect-in-that-it-allows-us-to-see-two-images-at-once-this-tutorial-shows-you-how-to-create-/"><u>New 2024 Approved A Picture-in-Picture Effect Is a Very Popular Effect in that It Allows Us to See Two Images at Once. This Tutorial Shows You How to Create This in FCP</u></a></li>
 </ul></div>
+
 

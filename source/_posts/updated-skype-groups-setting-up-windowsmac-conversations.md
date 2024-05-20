@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Skype Groups  Setting Up Windows/Mac Conversations\""
-date: 2024-05-18T09:40:14.135Z
-updated: 2024-05-19T09:40:14.135Z
+date: 2024-05-19T22:30:28.211Z
+updated: 2024-05-20T22:30:28.211Z
 tags: 
   - screen-recording
   - ai video
@@ -723,4 +723,5 @@ Follow @Richard Bennett
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lenovo-thinkphone-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lenovo ThinkPhone to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-f5-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco F5 Pro 5G</u></a></li>
 </ul></div>
+
 

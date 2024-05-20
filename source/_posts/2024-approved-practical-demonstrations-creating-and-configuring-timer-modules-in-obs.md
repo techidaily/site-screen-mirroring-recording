@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Practical Demonstrations  Creating and Configuring Timer Modules in OBS\""
-date: 2024-05-18T09:43:58.340Z
-updated: 2024-05-19T09:43:58.340Z
+date: 2024-05-19T22:30:38.185Z
+updated: 2024-05-20T22:30:38.185Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-editing.techidaily.com/new-add-amazing-filters-and-effects-for-fun-to-watch-gifs-using-adobe-after-effects-read-on-to-discover-an-easy-to-learn-after-effects-alternative/"><u>New Add Amazing Filters and Effects for Fun to Watch GIFs Using Adobe After Effects. Read on to Discover an Easy-to-Learn After Effects Alternative</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

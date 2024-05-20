@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Definitive Guide to Live Streaming Platforms - OBS Edition\""
-date: 2024-05-18T09:50:50.038Z
-updated: 2024-05-19T09:50:50.038Z
+date: 2024-05-19T22:30:55.140Z
+updated: 2024-05-20T22:30:55.140Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://audio-shaping.techidaily.com/in-2024-these-titles-encapsulate-the-concept-of-bird-sound-collections-or-archives-that-are-available-as-mp3-files-highlighting-both-their-musical-and-natur/"><u>In 2024, These Titles Encapsulate the Concept of Bird Sound Collections or Archives that Are Available as MP3 Files, Highlighting Both Their Musical and Natural Elements</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-no-experience-needed-intuitive-video-editors/"><u>Updated No Experience Needed Intuitive Video Editors</u></a></li>
 </ul></div>
+
 

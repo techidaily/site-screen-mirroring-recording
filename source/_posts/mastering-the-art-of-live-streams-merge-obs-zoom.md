@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Art of Live Streams  Merge OBS, Zoom\""
-date: 2024-05-18T09:47:33.925Z
-updated: 2024-05-19T09:47:33.925Z
+date: 2024-05-19T22:30:46.908Z
+updated: 2024-05-20T22:30:46.908Z
 tags: 
   - screen-recording
   - ai video
@@ -439,4 +439,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-video-in-text-intro/"><u>How to Create Video in Text Intro?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-know-how-to-remove-audio-from-a-video-without-a-watermark-keep-reading-this-article-since-we-have-the-answers-for-you-complete-with-the-guide/"><u>Do You Want to Know How to Remove Audio From a Video without a Watermark? Keep Reading This Article Since We Have the Answers for You. Complete with the Guide on How to Do It</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Muting Problem Solutions for OBS Sound Capture"
-date: 2024-05-18T09:46:38.685Z
-updated: 2024-05-19T09:46:38.685Z
+date: 2024-05-19T22:30:44.809Z
+updated: 2024-05-20T22:30:44.809Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/should-i-switch-from-iphone-to-google-pixel-drfone-by-drfone-transfer-from-ios/"><u>Should I Switch From iPhone To Google Pixel? | Dr.fone</u></a></li>
 </ul></div>
+
 

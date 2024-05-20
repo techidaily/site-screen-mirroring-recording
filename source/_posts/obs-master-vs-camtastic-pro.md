@@ -1,7 +1,7 @@
 ---
 title: "OBS Master vs Camtastic Pro"
-date: 2024-05-18T09:56:53.716Z
-updated: 2024-05-19T09:56:53.716Z
+date: 2024-05-19T22:31:09.745Z
+updated: 2024-05-20T22:31:09.745Z
 tags: 
   - screen-recording
   - ai video
@@ -472,4 +472,5 @@ To sum it up for you, OBS is completely free while Bandicam is a premium softwar
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor X50 GT? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nubia</u></a></li>
 </ul></div>
+
 

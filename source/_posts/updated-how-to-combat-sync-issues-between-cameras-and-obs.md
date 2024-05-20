@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Combat Sync Issues Between Cameras and OBS"
-date: 2024-05-18T09:45:04.344Z
-updated: 2024-05-19T09:45:04.344Z
+date: 2024-05-19T22:30:41.036Z
+updated: 2024-05-20T22:30:41.036Z
 tags: 
   - screen-recording
   - ai video
@@ -593,4 +593,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-z-fold-5-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy Z Fold 5 Users</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-12-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 12 5G Lock Screen Password</u></a></li>
 </ul></div>
+
 

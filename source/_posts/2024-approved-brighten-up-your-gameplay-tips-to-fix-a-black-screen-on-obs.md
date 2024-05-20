@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Brighten Up Your Gameplay  Tips to Fix a Black Screen on OBS\""
-date: 2024-05-18T09:32:39.329Z
-updated: 2024-05-19T09:32:39.329Z
+date: 2024-05-19T22:30:10.320Z
+updated: 2024-05-20T22:30:10.320Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y100i Power 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-11-proplus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from 11 Pro+.</u></a></li>
 </ul></div>
+
 

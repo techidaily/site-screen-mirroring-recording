@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial\""
-date: 2024-05-18T09:43:49.836Z
-updated: 2024-05-19T09:43:49.836Z
+date: 2024-05-19T22:30:37.888Z
+updated: 2024-05-20T22:30:37.888Z
 tags: 
   - screen-recording
   - ai video
@@ -332,4 +332,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-13-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 13 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-iphone-6s-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

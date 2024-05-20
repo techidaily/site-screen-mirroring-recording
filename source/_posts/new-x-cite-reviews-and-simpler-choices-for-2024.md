@@ -263,3 +263,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://video-ai-editor.techidaily.com/new-best-video-editing-apps-for-windows-11-pcs-for-2024/"><u>New Best Video Editing Apps for Windows 11 PCs for 2024</u></a></li>
 </ul></div>
 
+

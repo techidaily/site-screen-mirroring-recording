@@ -644,3 +644,4 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/updated-mastering-sound-editing-shorten-audio-sections-in-imovie-for-mac-and-iphone/"><u>Updated Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Solved  OBS Full Screen Anomaly\""
-date: 2024-05-18T09:47:16.006Z
-updated: 2024-05-19T09:47:16.006Z
+date: 2024-05-19T22:30:46.256Z
+updated: 2024-05-20T22:30:46.256Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://audio-shaping.techidaily.com/audiovisual-separation-expertise-removing-voices-to-highlight-song-written-words/"><u>Audiovisual Separation Expertise Removing Voices to Highlight Song Written Words</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/top-rated-online-aspect-ratio-calculators-for-easy-use-for-2024/"><u>Top-Rated Online Aspect Ratio Calculators for Easy Use for 2024</u></a></li>
 </ul></div>
+
 

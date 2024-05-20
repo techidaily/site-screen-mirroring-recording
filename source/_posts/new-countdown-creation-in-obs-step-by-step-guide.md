@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Countdown Creation in OBS  Step-by-Step Guide\""
-date: 2024-05-18T09:54:21.369Z
-updated: 2024-05-19T09:54:21.369Z
+date: 2024-05-19T22:31:03.296Z
+updated: 2024-05-20T22:31:03.296Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x9a-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X9a? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-transform-your-songs-into-visually-stunning-lyric-videos-online/"><u>New Transform Your Songs Into Visually Stunning Lyric Videos Online</u></a></li>
 </ul></div>
+
 

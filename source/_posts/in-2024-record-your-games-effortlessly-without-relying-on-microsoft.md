@@ -1064,3 +1064,4 @@ After reading this article you must have been awarded of the top alternatives to
 <li><a href="https://ai-editing-video.techidaily.com/updated-guiding-principles-of-track-matte-and-tracking-in-adobe-after-effects/"><u>Updated Guiding Principles of Track Matte and Tracking in Adobe After Effects</u></a></li>
 </ul></div>
 
+

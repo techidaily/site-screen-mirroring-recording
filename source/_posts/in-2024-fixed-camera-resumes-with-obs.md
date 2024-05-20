@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fixed  Camera Resumes with OBS\""
-date: 2024-05-18T09:56:06.038Z
-updated: 2024-05-19T09:56:06.038Z
+date: 2024-05-19T22:31:07.547Z
+updated: 2024-05-20T22:31:07.547Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-intro-video-makers-top-picks-for-customizing-your-movie-openers/"><u>Updated 2024 Approved Intro Video Makers Top Picks for Customizing Your Movie Openers</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme GT 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Video Capture  A Comprehensive Fraps Test for 2024\""
-date: 2024-05-18T09:38:02.611Z
-updated: 2024-05-19T09:38:02.611Z
+date: 2024-05-19T22:30:22.830Z
+updated: 2024-05-20T22:30:22.830Z
 tags: 
   - screen-recording
   - ai video
@@ -336,4 +336,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-art-of-attention-grabbing-thumbnails-youtube-size-guide-and-more/"><u>2024 Approved The Art of Attention-Grabbing Thumbnails YouTube Size Guide and More</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-safe-speakers-guide-to-video-conferencing-top-tips-and-trusted-platforms/"><u>2024 Approved The Safe Speakers Guide to Video Conferencing Top Tips and Trusted Platforms</u></a></li>
 </ul></div>
+
 

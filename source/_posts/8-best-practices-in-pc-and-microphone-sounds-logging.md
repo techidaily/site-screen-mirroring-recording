@@ -1,7 +1,7 @@
 ---
 title: "8 Best Practices in PC and Microphone Sounds Logging"
-date: 2024-05-18T09:47:02.759Z
-updated: 2024-05-19T09:47:02.759Z
+date: 2024-05-19T22:30:45.729Z
+updated: 2024-05-20T22:30:45.729Z
 tags: 
   - screen-recording
   - ai video
@@ -771,4 +771,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-sony-xperia-10-v-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Sony Xperia 10 V Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-6-best-free-online-audio-editor-to-use-100-free/"><u>Updated In 2024, 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
 </ul></div>
+
 

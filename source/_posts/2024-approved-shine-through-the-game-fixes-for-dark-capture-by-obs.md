@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shine Through the Game  Fixes for Dark Capture by OBS\""
-date: 2024-05-18T09:48:55.344Z
-updated: 2024-05-19T09:48:55.344Z
+date: 2024-05-19T22:30:50.485Z
+updated: 2024-05-20T22:30:50.485Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Meizu 21 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
+
 

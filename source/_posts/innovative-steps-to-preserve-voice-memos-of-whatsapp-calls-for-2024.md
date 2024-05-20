@@ -490,3 +490,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://smart-video-creator.techidaily.com/merge-videos-with-ease-best-alternatives-to-software-for-beginners/"><u>Merge Videos with Ease Best Alternatives to Software for Beginners</u></a></li>
 </ul></div>
 
+

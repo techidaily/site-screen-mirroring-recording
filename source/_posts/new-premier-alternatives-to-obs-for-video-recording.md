@@ -1008,3 +1008,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://video-creation-software.techidaily.com/mastering-image-proportions-a-beginners-guide-to-ratio-calculators-for-2024/"><u>Mastering Image Proportions A Beginners Guide to Ratio Calculators for 2024</u></a></li>
 </ul></div>
 
+

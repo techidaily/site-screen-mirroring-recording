@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Urban Jungles and Beyond - Top 10 Without GTA for 2024\""
-date: 2024-05-18T09:53:13.763Z
-updated: 2024-05-19T09:53:13.763Z
+date: 2024-05-19T22:31:00.876Z
+updated: 2024-05-20T22:31:00.876Z
 tags: 
   - screen-recording
   - ai video
@@ -829,4 +829,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-v27e-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo V27e?</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-top-15-male-anime-characters-by-voting/"><u>New 2024 Approved Top 15 Male Anime Characters By Voting</u></a></li>
 </ul></div>
+
 

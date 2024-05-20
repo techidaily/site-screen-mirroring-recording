@@ -358,3 +358,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/samsung-galaxy-a54-5g-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy A54 5G won’t play HEVC H.265 media, how to fix?</u></a></li>
 </ul></div>
 
+

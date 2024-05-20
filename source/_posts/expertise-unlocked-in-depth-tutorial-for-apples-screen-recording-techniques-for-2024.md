@@ -395,3 +395,4 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi 13C?</u></a></li>
 </ul></div>
 
+

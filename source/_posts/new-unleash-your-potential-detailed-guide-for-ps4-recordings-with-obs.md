@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleash Your Potential  Detailed Guide for PS4 Recordings with OBS\""
-date: 2024-05-18T09:39:58.555Z
-updated: 2024-05-19T09:39:58.555Z
+date: 2024-05-19T22:30:27.525Z
+updated: 2024-05-20T22:30:27.525Z
 tags: 
   - screen-recording
   - ai video
@@ -413,4 +413,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-f54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy F54 5G FRP Bypass</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor Play 7T? | Dr.fone</u></a></li>
 </ul></div>
+
 

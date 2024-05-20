@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Online Broadcasts on YouTube and Twitch with OBS"
-date: 2024-05-18T09:56:23.470Z
-updated: 2024-05-19T09:56:23.470Z
+date: 2024-05-19T22:31:08.351Z
+updated: 2024-05-20T22:31:08.351Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://voice-adjusting.techidaily.com/online-and-offline-harmony-a-comprehensive-guide-to-selecting-top-mp3-karaoke-transformers/"><u>Online & Offline Harmony A Comprehensive Guide to Selecting Top MP3 Karaoke Transformers</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/in-2024-sound-effects-for-podcasts-11-places-to-find-them/"><u>In 2024, Sound Effects for Podcasts 11 Places to Find Them</u></a></li>
 </ul></div>
+
 

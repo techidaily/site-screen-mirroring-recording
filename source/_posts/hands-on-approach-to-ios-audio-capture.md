@@ -1,7 +1,7 @@
 ---
 title: "\"Hands-On Approach to iOS Audio Capture\""
-date: 2024-05-18T09:37:08.538Z
-updated: 2024-05-19T09:37:08.538Z
+date: 2024-05-19T22:30:20.893Z
+updated: 2024-05-20T22:30:20.893Z
 tags: 
   - screen-recording
   - ai video
@@ -525,4 +525,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-discard-the-audio-how-to-isolate-and-remove-sound-in-ios-video-playbacks/"><u>2024 Approved Discard the Audio How to Isolate and Remove Sound in iOS Video Playbacks</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 14? | Dr.fone</u></a></li>
 </ul></div>
+
 

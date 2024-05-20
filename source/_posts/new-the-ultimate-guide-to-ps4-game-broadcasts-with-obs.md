@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to PS4 Game Broadcasts with OBS"
-date: 2024-05-18T09:39:57.477Z
-updated: 2024-05-19T09:39:57.477Z
+date: 2024-05-19T22:30:27.490Z
+updated: 2024-05-20T22:30:27.490Z
 tags: 
   - screen-recording
   - ai video
@@ -353,4 +353,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-11-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme 11 Pro for Free? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/echo-eradication-an-intuitive-approach-to-dismissing-room-acoustics-in-studio-recorded-tracks/"><u>Echo Eradication An Intuitive Approach to Dismissing Room Acoustics in Studio-Recorded Tracks</u></a></li>
 </ul></div>
+
 

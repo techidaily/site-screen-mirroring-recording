@@ -380,3 +380,4 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 </ul></div>
 
+

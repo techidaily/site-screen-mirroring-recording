@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Battle of Screen Capture Supremacy  OBS vs Fraps\""
-date: 2024-05-18T09:35:47.506Z
-updated: 2024-05-19T09:35:47.506Z
+date: 2024-05-19T22:30:17.522Z
+updated: 2024-05-20T22:30:17.522Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-s17t-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo S17t in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Poco C65? | Dr.fone</u></a></li>
 </ul></div>
+
 

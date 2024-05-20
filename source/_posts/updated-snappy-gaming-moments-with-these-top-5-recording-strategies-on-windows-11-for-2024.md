@@ -400,3 +400,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a78-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A78 to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

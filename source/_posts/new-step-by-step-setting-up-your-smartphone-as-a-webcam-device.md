@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Setting Up Your Smartphone as a Webcam Device\""
-date: 2024-05-18T09:36:56.507Z
-updated: 2024-05-19T09:36:56.507Z
+date: 2024-05-19T22:30:20.510Z
+updated: 2024-05-20T22:30:20.510Z
 tags: 
   - screen-recording
   - ai video
@@ -609,4 +609,5 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-p55t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel P55T to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y78t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y78t without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

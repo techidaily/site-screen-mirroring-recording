@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Detailed Tutorial on Screen Capturing in Online Meetings (Google)"
-date: 2024-05-18T09:47:05.510Z
-updated: 2024-05-19T09:47:05.510Z
+date: 2024-05-19T22:30:45.854Z
+updated: 2024-05-20T22:30:45.854Z
 tags: 
   - screen-recording
   - ai video
@@ -493,4 +493,5 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-top-8-animated-audio-tracks-for-creatives-free-downloads-for-2024/"><u>New Top 8 Animated Audio Tracks for Creatives Free Downloads for 2024</u></a></li>
 </ul></div>
+
 

@@ -496,3 +496,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-essentials-how-to-add-picture-in-picture-effects-to-your-projects-for-2024/"><u>Updated Final Cut Pro Essentials How to Add Picture-in-Picture Effects to Your Projects for 2024</u></a></li>
 </ul></div>
 
+

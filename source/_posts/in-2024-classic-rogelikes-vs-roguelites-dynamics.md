@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Classic Rogelikes Vs. Roguelites' Dynamics"
-date: 2024-05-18T09:55:22.228Z
-updated: 2024-05-19T09:55:22.228Z
+date: 2024-05-19T22:31:05.921Z
+updated: 2024-05-20T22:31:05.921Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-macbook-videoleap-download-a-quick-and-simple-process/"><u>New 2024 Approved MacBook Videoleap Download A Quick and Simple Process</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-software-top-5-imovie-alternatives-this-year/"><u>Updated Free Video Editing Software Top 5 iMovie Alternatives This Year</u></a></li>
 </ul></div>
+
 

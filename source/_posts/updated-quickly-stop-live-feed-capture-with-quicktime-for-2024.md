@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quickly Stop Live Feed Capture with QuickTime for 2024"
-date: 2024-05-18T09:31:03.917Z
-updated: 2024-05-19T09:31:03.917Z
+date: 2024-05-19T22:30:06.603Z
+updated: 2024-05-20T22:30:06.603Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Honor Magic 6 Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic V2?</u></a></li>
 </ul></div>
+
 

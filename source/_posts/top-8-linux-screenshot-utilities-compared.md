@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Linux Screenshot Utilities Compared"
-date: 2024-05-18T09:54:33.630Z
-updated: 2024-05-19T09:54:33.630Z
+date: 2024-05-19T22:31:04.108Z
+updated: 2024-05-20T22:31:04.108Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ Follow @Liza Brown
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-art-of-slow-motion-a-beginners-guide-to-vlcs-video-playback-features/"><u>Updated The Art of Slow Motion A Beginners Guide to VLCs Video Playback Features</u></a></li>
 </ul></div>
+
 

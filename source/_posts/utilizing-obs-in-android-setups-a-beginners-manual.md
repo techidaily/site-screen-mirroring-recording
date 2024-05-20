@@ -1,7 +1,7 @@
 ---
 title: "\"Utilizing OBS in Android Setups  A Beginner's Manual\""
-date: 2024-05-18T09:50:30.354Z
-updated: 2024-05-19T09:50:30.354Z
+date: 2024-05-19T22:30:54.462Z
+updated: 2024-05-20T22:30:54.462Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Meizu 21 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-nord-3-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus Nord 3 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capture the World Through the Lens of Mi 11\""
-date: 2024-05-18T09:42:03.192Z
-updated: 2024-05-19T09:42:03.192Z
+date: 2024-05-19T22:30:32.580Z
+updated: 2024-05-20T22:30:32.580Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-movie-magic-at-your-fingertips-effortless-video-enhancement/"><u>New 2024 Approved Movie Magic at Your Fingertips Effortless Video Enhancement</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-repeat-repeat-repeat-10-free-video-loopers-for-endless-fun-for-2024/"><u>Updated Repeat, Repeat, Repeat 10 Free Video Loopers for Endless Fun for 2024</u></a></li>
 </ul></div>
+
 

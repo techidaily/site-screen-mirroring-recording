@@ -953,3 +953,4 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-a18-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo A18</u></a></li>
 </ul></div>
 
+

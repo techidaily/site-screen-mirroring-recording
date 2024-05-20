@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Decreasing Bitrate in High-Quality OBS\""
-date: 2024-05-18T09:51:02.145Z
-updated: 2024-05-19T09:51:02.145Z
+date: 2024-05-19T22:30:55.586Z
+updated: 2024-05-20T22:30:55.586Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi K70? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-get-creative-with-these-free-video-effect-apps-for-mobile/"><u>Updated Get Creative with These Free Video Effect Apps for Mobile</u></a></li>
 </ul></div>
+
 

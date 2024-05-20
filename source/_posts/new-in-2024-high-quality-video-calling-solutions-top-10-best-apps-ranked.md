@@ -1127,3 +1127,4 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

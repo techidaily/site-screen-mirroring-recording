@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Securely Document WhatsApp Discussions"
-date: 2024-05-18T09:31:33.663Z
-updated: 2024-05-19T09:31:33.663Z
+date: 2024-05-19T22:30:07.677Z
+updated: 2024-05-20T22:30:07.677Z
 tags: 
   - screen-recording
   - ai video
@@ -480,4 +480,5 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://screen-mirror.techidaily.com/how-realme-11x-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 11X 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/unlock-cinematic-storytelling-using-ken-burns-effect-in-final-cut-pro/"><u>Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
+
 

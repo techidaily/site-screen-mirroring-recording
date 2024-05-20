@@ -476,3 +476,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-from-still-to-stunning-how-to-use-ken-burns-effect-in-final-cut-pro-for-maximum-impact/"><u>New 2024 Approved From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact</u></a></li>
 </ul></div>
 
+

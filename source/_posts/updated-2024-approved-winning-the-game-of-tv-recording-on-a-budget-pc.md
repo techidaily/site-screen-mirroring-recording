@@ -501,3 +501,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/will-samsung-galaxy-a15-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Samsung Galaxy A15 5G play AVCHD mts files?</u></a></li>
 </ul></div>
 
+

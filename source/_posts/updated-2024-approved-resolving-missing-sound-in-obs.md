@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Resolving Missing Sound in OBS\""
-date: 2024-05-18T09:43:39.387Z
-updated: 2024-05-19T09:43:39.387Z
+date: 2024-05-19T22:30:37.499Z
+updated: 2024-05-20T22:30:37.499Z
 tags: 
   - screen-recording
   - ai video
@@ -559,4 +559,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-fcp-audio-editing-essentials-a-step-by-step-guide/"><u>2024 Approved FCP Audio Editing Essentials A Step-by-Step Guide</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-90-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on 90 Pro without backup.</u></a></li>
 </ul></div>
+
 

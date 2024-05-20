@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Solved  Dead OBS Camera\""
-date: 2024-05-18T09:57:14.371Z
-updated: 2024-05-19T09:57:14.371Z
+date: 2024-05-19T22:31:10.448Z
+updated: 2024-05-20T22:31:10.448Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-honor-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Honor 70 Lite 5G</u></a></li>
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo S18 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplified Recording of Your Skype Chats with PC & Mac"
-date: 2024-05-18T09:41:00.361Z
-updated: 2024-05-19T09:41:00.361Z
+date: 2024-05-19T22:30:30.249Z
+updated: 2024-05-20T22:30:30.249Z
 tags: 
   - screen-recording
   - ai video
@@ -1113,4 +1113,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-reset-motorola-moto-g73-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G73 5G without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-deejay-discovery-compile-dj-beats-for-your-playlist/"><u>New Deejay Discovery Compile DJ Beats for Your Playlist</u></a></li>
 </ul></div>
+
 

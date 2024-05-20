@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Tips  Configuring Stopwatches in OBS Studio\""
-date: 2024-05-18T09:30:28.677Z
-updated: 2024-05-19T09:30:28.677Z
+date: 2024-05-19T22:30:05.345Z
+updated: 2024-05-20T22:30:05.345Z
 tags: 
   - screen-recording
   - ai video
@@ -291,4 +291,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-transform-your-photos-with-these-bokeh-effect-apps/"><u>New 2024 Approved Transform Your Photos with These Bokeh Effect Apps</u></a></li>
 </ul></div>
+
 

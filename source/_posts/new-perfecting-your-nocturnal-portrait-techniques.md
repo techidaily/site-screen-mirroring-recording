@@ -187,3 +187,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones."
-date: 2024-05-18T09:40:52.664Z
-updated: 2024-05-19T09:40:52.664Z
+date: 2024-05-19T22:30:29.955Z
+updated: 2024-05-20T22:30:29.955Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-11-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 11 in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

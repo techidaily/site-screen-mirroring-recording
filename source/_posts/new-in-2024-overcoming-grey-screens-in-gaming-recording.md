@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Overcoming Grey Screens in Gaming Recording"
-date: 2024-05-18T09:36:31.639Z
-updated: 2024-05-19T09:36:31.639Z
+date: 2024-05-19T22:30:19.629Z
+updated: 2024-05-20T22:30:19.629Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-13t-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi 13T Pro Devices | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-xperia-5-v-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Sony Xperia 5 V Without Password?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] A Thorough Insight Into OBS Recording Technology"
-date: 2024-05-18T09:36:06.656Z
-updated: 2024-05-19T09:36:06.656Z
+date: 2024-05-19T22:30:18.767Z
+updated: 2024-05-20T22:30:18.767Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://sound-tweaking.techidaily.com/the-future-of-file-formats-modern-methods-for-mp4-audio-extraction-for-2024/"><u>The Future of File Formats Modern Methods for MP4 Audio Extraction for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2+ To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

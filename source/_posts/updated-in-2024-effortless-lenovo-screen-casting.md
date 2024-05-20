@@ -528,3 +528,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-y78-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo Y78 5G.</u></a></li>
 </ul></div>
 
+

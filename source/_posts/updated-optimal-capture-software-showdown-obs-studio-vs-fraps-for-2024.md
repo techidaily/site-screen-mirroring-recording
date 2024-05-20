@@ -245,3 +245,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://video-ai-editor.techidaily.com/create-stunning-slow-mo-effects-on-kapwing-a-step-by-step-tutorial/"><u>Create Stunning Slow-Mo Effects on Kapwing A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Frequency Logging  Microphone Sounds & Dialogue\""
-date: 2024-05-18T09:46:05.897Z
-updated: 2024-05-19T09:46:05.897Z
+date: 2024-05-19T22:30:43.296Z
+updated: 2024-05-20T22:30:43.296Z
 tags: 
   - screen-recording
   - ai video
@@ -796,4 +796,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://audio-editing.techidaily.com/2024-approved-unwind-online-top-ten-virtual-retreats-to-calm-your-mind-and-enhance-wellbeing/"><u>2024 Approved Unwind Online Top Ten Virtual Retreats to Calm Your Mind and Enhance Wellbeing</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-s17e-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo S17e Devices</u></a></li>
 </ul></div>
+
 

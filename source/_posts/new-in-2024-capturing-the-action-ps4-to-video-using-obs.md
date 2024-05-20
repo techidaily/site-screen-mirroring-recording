@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capturing the Action  PS4 to Video Using OBS\""
-date: 2024-05-18T09:43:49.563Z
-updated: 2024-05-19T09:43:49.563Z
+date: 2024-05-19T22:30:37.878Z
+updated: 2024-05-20T22:30:37.878Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://video-creation-software.techidaily.com/updated-s-most-popular-video-editing-apps-for-iphone-and-ipad/"><u>Updated S Most Popular Video Editing Apps for iPhone and iPad</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo V30 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

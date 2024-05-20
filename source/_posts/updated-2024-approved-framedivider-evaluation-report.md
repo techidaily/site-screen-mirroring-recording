@@ -229,3 +229,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://techidaily.com/samsung-galaxy-a25-5g-wont-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A25 5G won’t play AVCHD .mts files</u></a></li>
 </ul></div>
 
+

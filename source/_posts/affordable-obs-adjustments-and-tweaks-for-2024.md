@@ -1,7 +1,7 @@
 ---
 title: "Affordable OBS Adjustments and Tweaks for 2024"
-date: 2024-05-18T09:47:04.967Z
-updated: 2024-05-19T09:47:04.967Z
+date: 2024-05-19T22:30:45.823Z
+updated: 2024-05-20T22:30:45.823Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-se-2022-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone SE (2022) to iPhone With/Without iTunes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-infinix-smart-7-hd-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Smart 7 HD Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

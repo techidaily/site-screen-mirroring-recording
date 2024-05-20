@@ -236,3 +236,4 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Google Pixel 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

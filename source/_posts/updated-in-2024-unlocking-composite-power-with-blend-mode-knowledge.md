@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Unlocking Composite Power with Blend Mode Knowledge"
-date: 2024-05-18T09:55:32.154Z
-updated: 2024-05-19T09:55:32.154Z
+date: 2024-05-19T22:31:06.330Z
+updated: 2024-05-20T22:31:06.330Z
 tags: 
   - screen-recording
   - ai video
@@ -465,4 +465,5 @@ Follow @Max Wales
 <li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-guide-to-editing-sony-camcorder-videos-best-practices-and-techniques/"><u>2024 Approved The Ultimate Guide to Editing Sony Camcorder Videos Best Practices and Techniques</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Breaking News  Working OBS Cam\""
-date: 2024-05-18T09:30:20.184Z
-updated: 2024-05-19T09:30:20.184Z
+date: 2024-05-19T22:30:05.073Z
+updated: 2024-05-20T22:30:05.073Z
 tags: 
   - screen-recording
   - ai video
@@ -289,4 +289,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-narzo-60-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme Narzo 60 5G Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

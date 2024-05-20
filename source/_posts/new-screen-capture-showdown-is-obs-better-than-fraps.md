@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Screen Capture Showdown  Is OBS Better Than Fraps?\""
-date: 2024-05-18T09:51:03.783Z
-updated: 2024-05-19T09:51:03.783Z
+date: 2024-05-19T22:30:55.676Z
+updated: 2024-05-20T22:30:55.676Z
 tags: 
   - screen-recording
   - ai video
@@ -291,4 +291,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-14-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi 14 Pro without App | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
+
 

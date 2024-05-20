@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advanced Techniques  Developing Elapsed Time Features in OBS Software for 2024\""
-date: 2024-05-18T09:38:25.459Z
-updated: 2024-05-19T09:38:25.459Z
+date: 2024-05-19T22:30:24.095Z
+updated: 2024-05-20T22:30:24.095Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-motorola-moto-g84-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Motorola Moto G84 5G?</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-speech-recognition-made-easy-converting-audio-to-text/"><u>Updated 2024 Approved Speech Recognition Made Easy Converting Audio to Text</u></a></li>
 </ul></div>
+
 

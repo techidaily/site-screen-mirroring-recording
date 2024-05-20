@@ -1262,3 +1262,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23-tactical-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23 Tactical Edition Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

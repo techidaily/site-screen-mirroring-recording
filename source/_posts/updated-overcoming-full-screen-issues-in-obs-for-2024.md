@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Overcoming Full Screen Issues in Obs for 2024"
-date: 2024-05-18T09:43:52.040Z
-updated: 2024-05-19T09:43:52.040Z
+date: 2024-05-19T22:30:37.980Z
+updated: 2024-05-20T22:30:37.980Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-note-30-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Note 30 Phones? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-the-visual-impact-understanding-aspect-ratios-in-youtube-video-production-for-2024/"><u>Updated The Visual Impact Understanding Aspect Ratios in YouTube Video Production for 2024</u></a></li>
 </ul></div>
+
 

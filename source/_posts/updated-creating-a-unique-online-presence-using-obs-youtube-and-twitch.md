@@ -192,3 +192,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-audio-to-written-word-mastering-speech-recognition-technology/"><u>New In 2024, Audio to Written Word Mastering Speech Recognition Technology</u></a></li>
 </ul></div>
 
+

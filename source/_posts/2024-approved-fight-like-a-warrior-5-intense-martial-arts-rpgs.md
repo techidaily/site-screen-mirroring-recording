@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fight Like a Warrior  5 Intense Martial Arts RPGs\""
-date: 2024-05-18T09:54:31.732Z
-updated: 2024-05-19T09:54:31.732Z
+date: 2024-05-19T22:31:04.025Z
+updated: 2024-05-20T22:31:04.025Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ Follow @Richard Bennett
 <li><a href="https://sound-tweaking.techidaily.com/how-to-lower-volume-of-the-media-files/"><u>How to Lower Volume of the Media Files</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-innovative-methods-to-sync-photos-and-audio-sound-design-tips-2023/"><u>Updated Innovative Methods to Sync Photos and Audio Sound Design Tips 2023</u></a></li>
 </ul></div>
+
 

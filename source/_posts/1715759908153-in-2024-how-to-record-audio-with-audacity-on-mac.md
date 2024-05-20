@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Record Audio with Audacity on Mac"
-date: 2024-05-18T09:48:36.121Z
-updated: 2024-05-19T09:48:36.121Z
+date: 2024-05-19T22:30:49.738Z
+updated: 2024-05-20T22:30:49.738Z
 tags: 
   - screen-recording
   - ai video
@@ -289,4 +289,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Redmi A2? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-smart-8-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Smart 8 Pro using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

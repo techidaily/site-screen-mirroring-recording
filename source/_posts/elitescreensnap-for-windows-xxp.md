@@ -559,3 +559,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-note-30-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Note 30 in Minutes | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Electronic Conference Logging"
-date: 2024-05-18T09:48:50.392Z
-updated: 2024-05-19T09:48:50.392Z
+date: 2024-05-19T22:30:50.324Z
+updated: 2024-05-20T22:30:50.324Z
 tags: 
   - screen-recording
   - ai video
@@ -424,4 +424,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/1713965867335-updated-what-is-lumetri-color-and-how-do-you-use-it-in-adobe-after-effects-find-out-the-numerous-functions-of-lumetri-panel-and-ways-to-apply-them-to-your-v/"><u>Updated What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-a-complete-guide-to-the-best-brand-story-videos-2023/"><u>In 2024, A Complete Guide to the Best Brand Story Videos |2023|</u></a></li>
 </ul></div>
+
 

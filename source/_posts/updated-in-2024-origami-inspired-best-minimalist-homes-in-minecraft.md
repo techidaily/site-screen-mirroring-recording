@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Origami Inspired  Best Minimalist Homes in Minecraft\""
-date: 2024-05-18T09:46:31.330Z
-updated: 2024-05-19T09:46:31.330Z
+date: 2024-05-19T22:30:44.546Z
+updated: 2024-05-20T22:30:44.546Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-from-bland-to-grand-10-best-online-neon-text-effect-generators/"><u>2024 Approved From Bland to Grand 10 Best Online Neon Text Effect Generators</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-the-best-ai-translator-to-translate-videos-online/"><u>New The Best AI Translator to Translate Videos Online</u></a></li>
 </ul></div>
+
 

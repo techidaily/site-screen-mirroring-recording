@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Selection of Ubuntu Screen Recording Apps"
-date: 2024-05-18T09:46:36.778Z
-updated: 2024-05-19T09:46:36.778Z
+date: 2024-05-19T22:30:44.733Z
+updated: 2024-05-20T22:30:44.733Z
 tags: 
   - screen-recording
   - ai video
@@ -709,4 +709,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-enthusiastic-appreciation-audio-creator/"><u>Updated 2024 Approved Enthusiastic Appreciation Audio Creator</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-progressive-solutions-to-adding-vhs-effects-to-video-with-ease/"><u>2024 Approved Progressive Solutions to Adding VHS Effects to Video with Ease</u></a></li>
 </ul></div>
+
 

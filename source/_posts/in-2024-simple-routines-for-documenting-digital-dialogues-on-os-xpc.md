@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simple Routines for Documenting Digital Dialogues on OS X/PC"
-date: 2024-05-18T09:47:08.004Z
-updated: 2024-05-19T09:47:08.004Z
+date: 2024-05-19T22:30:45.964Z
+updated: 2024-05-20T22:30:45.964Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ In the wake of recording an online course, they can likewise get all the data re
 <li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-selection-of-top-5-android-audio-editing-software-worth-your-time/"><u>Updated The Ultimate Selection of Top 5 Android Audio Editing Software Worth Your Time</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel Files on Mac Complete Guide</u></a></li>
 </ul></div>
+
 

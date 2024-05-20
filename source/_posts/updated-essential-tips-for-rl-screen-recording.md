@@ -508,3 +508,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://smart-video-creator.techidaily.com/new-lights-camera-action-a-kids-guide-to-making-movies/"><u>New Lights, Camera, Action! A Kids Guide to Making Movies</u></a></li>
 </ul></div>
 
+

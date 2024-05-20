@@ -1,7 +1,7 @@
 ---
 title: "Capturing PS4 Gaming Magic in Full Detail Using OBS for 2024"
-date: 2024-05-18T09:52:02.867Z
-updated: 2024-05-19T09:52:02.867Z
+date: 2024-05-19T22:30:58.079Z
+updated: 2024-05-20T22:30:58.079Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-se-2020-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone SE (2020)?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

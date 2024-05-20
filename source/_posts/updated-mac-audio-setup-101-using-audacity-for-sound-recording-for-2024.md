@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mac Audio Setup 101 - Using Audacity for Sound Recording for 2024\""
-date: 2024-05-18T09:50:11.882Z
-updated: 2024-05-19T09:50:11.882Z
+date: 2024-05-19T22:30:53.744Z
+updated: 2024-05-20T22:30:53.744Z
 tags: 
   - screen-recording
   - ai video
@@ -289,4 +289,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-voice-clone.techidaily.com/updated-ai-script-generator-virbo-guide/"><u>Updated AI Script Generator | Virbo Guide</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-unlock-the-power-of-mp3-conversion-what-youll-learn-from-our-expert-article-for-2024/"><u>Updated Unlock the Power of Mp3 Conversion What Youll Learn From Our Expert Article for 2024</u></a></li>
 </ul></div>
+
 

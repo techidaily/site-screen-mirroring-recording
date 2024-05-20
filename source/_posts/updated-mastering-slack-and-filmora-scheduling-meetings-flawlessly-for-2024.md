@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Slack & Filmora  Scheduling Meetings Flawlessly for 2024\""
-date: 2024-05-18T09:41:36.914Z
-updated: 2024-05-19T09:41:36.914Z
+date: 2024-05-19T22:30:31.635Z
+updated: 2024-05-20T22:30:31.635Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ Follow @Shanoon Cox
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-speed-up-your-story-two-easy-ways-to-create-stunning-time-lapse-videos/"><u>New 2024 Approved Speed Up Your Story Two Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 After Forgetting the Passcode?</u></a></li>
 </ul></div>
+
 

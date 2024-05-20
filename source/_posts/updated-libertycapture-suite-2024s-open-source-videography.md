@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] LibertyCapture Suite  2024'S Open Source Videography\""
-date: 2024-05-18T09:35:21.582Z
-updated: 2024-05-19T09:35:21.582Z
+date: 2024-05-19T22:30:16.537Z
+updated: 2024-05-20T22:30:16.537Z
 tags: 
   - screen-recording
   - ai video
@@ -905,4 +905,5 @@ These are the main 10 best free game recording software for PC. They have their 
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-premier-audio-choices-selecting-the-perfect-montage-tunes-for-various-videography/"><u>New In 2024, Premier Audio Choices Selecting the Perfect Montage Tunes for Various Videography</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-the-best-text-to-audio-converters-of-all-times/"><u>Updated 2024 Approved The Best Text-to-Audio Converters of All Times</u></a></li>
 </ul></div>
+
 

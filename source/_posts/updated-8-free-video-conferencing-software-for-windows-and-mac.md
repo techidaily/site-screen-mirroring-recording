@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 8 Free Video Conferencing Software for Windows and Mac"
-date: 2024-05-18T09:33:44.725Z
-updated: 2024-05-19T09:33:44.725Z
+date: 2024-05-19T22:30:12.858Z
+updated: 2024-05-20T22:30:12.858Z
 tags: 
   - screen-recording
   - ai video
@@ -931,4 +931,5 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-social-strategy-sessions-the-top-2023-list-of-podcast-episodes-for-brands/"><u>Updated 2024 Approved Social Strategy Sessions The Top 2023 List of Podcast Episodes for Brands</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Play 40C | Dr.fone</u></a></li>
 </ul></div>
+
 

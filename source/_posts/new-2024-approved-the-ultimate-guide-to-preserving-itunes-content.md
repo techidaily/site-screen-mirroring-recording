@@ -369,3 +369,4 @@ These were the most common ways to record videos on the iTunes platform. Althoug
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-xs-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone XS?</u></a></li>
 </ul></div>
 
+

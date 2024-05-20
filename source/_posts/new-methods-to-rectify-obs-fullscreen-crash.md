@@ -1,7 +1,7 @@
 ---
 title: "[New] Methods to Rectify OBS Fullscreen Crash"
-date: 2024-05-18T09:45:23.888Z
-updated: 2024-05-19T09:45:23.888Z
+date: 2024-05-19T22:30:41.713Z
+updated: 2024-05-20T22:30:41.713Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-ai-editor.techidaily.com/new-take-fcp-for-a-spin-90-day-free-trial-no-credit-card-needed/"><u>New Take FCP for a Spin 90-Day Free Trial, No Credit Card Needed</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-here-are-some-useful-tips-to-help-you-get-the-most-out-of-virtualdub-for-2024/"><u>New Here Are some Useful Tips to Help You Get the Most Out of VirtualDub for 2024</u></a></li>
 </ul></div>
+
 

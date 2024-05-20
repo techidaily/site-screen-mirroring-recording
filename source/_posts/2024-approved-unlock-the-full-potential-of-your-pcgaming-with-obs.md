@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Full Potential of Your PC/Gaming with OBS\""
-date: 2024-05-18T09:53:22.230Z
-updated: 2024-05-19T09:53:22.230Z
+date: 2024-05-19T22:31:01.148Z
+updated: 2024-05-20T22:31:01.148Z
 tags: 
   - screen-recording
   - ai video
@@ -400,4 +400,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://voice-adjusting.techidaily.com/audioarchitect-pro-the-definitive-guide-to-organizing-your-mp3s-windows-and-mac-edition-2024/"><u>AudioArchitect Pro The Definitive Guide to Organizing Your MP3s, Windows & Mac Edition 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-13-pro-max-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Max Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
 </ul></div>
+
 

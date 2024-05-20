@@ -1,7 +1,7 @@
 ---
 title: "\"Troubleshooting a Non-Operational OBS Video Capture for 2024\""
-date: 2024-05-18T09:36:11.866Z
-updated: 2024-05-19T09:36:11.866Z
+date: 2024-05-19T22:30:18.933Z
+updated: 2024-05-20T22:30:18.933Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-zoom-in-and-out-on-discord/"><u>Updated In 2024, Zoom In and Out on Discord</u></a></li>
 </ul></div>
+
 

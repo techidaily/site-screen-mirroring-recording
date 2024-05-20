@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Full-Screen No More Problem!\""
-date: 2024-05-18T09:50:35.798Z
-updated: 2024-05-19T09:50:35.798Z
+date: 2024-05-19T22:30:54.677Z
+updated: 2024-05-20T22:30:54.677Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sound-optimizing.techidaily.com/find-monster-sounds-effect/"><u>Find Monster Sounds Effect</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Phantom V Fold? | Dr.fone</u></a></li>
 </ul></div>
+
 

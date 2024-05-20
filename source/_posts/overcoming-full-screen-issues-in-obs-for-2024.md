@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Full Screen Issues in Obs for 2024"
-date: 2024-05-18T09:46:39.226Z
-updated: 2024-05-19T09:46:39.226Z
+date: 2024-05-19T22:30:44.831Z
+updated: 2024-05-20T22:30:44.831Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-content-creator.techidaily.com/new-say-goodbye-to-format-issues-stream-any-video-to-chromecast-seamlessly-for-2024/"><u>New Say Goodbye to Format Issues Stream Any Video to Chromecast Seamlessly for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-customizing-your-amazon-prime-video-viewing-experience/"><u>Updated 2024 Approved Customizing Your Amazon Prime Video Viewing Experience</u></a></li>
 </ul></div>
+
 

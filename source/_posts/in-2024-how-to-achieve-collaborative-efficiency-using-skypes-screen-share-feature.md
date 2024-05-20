@@ -514,3 +514,4 @@ Follow @Richard Bennett
 <li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-a2-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo A2 Phone</u></a></li>
 </ul></div>
 
+

@@ -512,3 +512,4 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 
+

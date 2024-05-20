@@ -171,3 +171,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-windows-10-photos-top-8-alternative-image-viewers/"><u>Say Goodbye to Windows 10 Photos Top 8 Alternative Image Viewers</u></a></li>
 </ul></div>
 
+

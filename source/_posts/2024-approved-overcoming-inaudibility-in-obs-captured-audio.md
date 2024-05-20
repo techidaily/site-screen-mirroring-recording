@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Overcoming Inaudibility in OBS Captured Audio\""
-date: 2024-05-18T09:32:27.287Z
-updated: 2024-05-19T09:32:27.287Z
+date: 2024-05-19T22:30:09.885Z
+updated: 2024-05-20T22:30:09.885Z
 tags: 
   - screen-recording
   - ai video
@@ -572,4 +572,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-systems-offers-free-download-of-premiere-pro-cs6-for-mac/"><u>New 2024 Approved Adobe Systems Offers Free Download of Premiere Pro CS6 for Mac</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/mastering-wav-conversion-the-ultimate-resource-for-2024/"><u>Mastering Wav Conversion The Ultimate Resource for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Instructions  Installing Countdown Clocks in OBS\""
-date: 2024-05-18T09:33:32.746Z
-updated: 2024-05-19T09:33:32.746Z
+date: 2024-05-19T22:30:12.345Z
+updated: 2024-05-20T22:30:12.345Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://voice-adjusting.techidaily.com/new-best-software-utilities-for-altering-audio-frequencies/"><u>New Best Software Utilities for Altering Audio Frequencies</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-lumafusion-for-mac-install-it-or-get-alternatives/"><u>Updated In 2024, Lumafusion for Mac Install It or Get Alternatives</u></a></li>
 </ul></div>
+
 

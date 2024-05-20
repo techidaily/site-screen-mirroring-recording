@@ -507,3 +507,4 @@ If you are an avid player of Sims 4, you should record your gameplay and upload 
 <li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-c12-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia C12 Pro</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Obs Full-Screen No More Problem for 2024\""
-date: 2024-05-18T09:48:24.069Z
-updated: 2024-05-19T09:48:24.069Z
+date: 2024-05-19T22:30:49.374Z
+updated: 2024-05-20T22:30:49.374Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://techidaily.com/best-fixes-for-tecno-spark-10-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 10 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-neo-5-se-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme GT Neo 5 SE Phone</u></a></li>
 </ul></div>
+
 

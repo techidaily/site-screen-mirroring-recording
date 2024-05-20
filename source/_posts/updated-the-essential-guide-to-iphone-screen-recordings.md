@@ -533,3 +533,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-ken-burns-effect-in-final-cut-pro-tips-tricks-and-best-practices/"><u>The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices</u></a></li>
 </ul></div>
 
+

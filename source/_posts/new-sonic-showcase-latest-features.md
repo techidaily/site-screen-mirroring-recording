@@ -614,3 +614,4 @@ The article above is very detailed and is full of information for any soul who a
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-9-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 9 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

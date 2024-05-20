@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Game Capture  A Guide to Using OBS\""
-date: 2024-05-18T09:51:37.405Z
-updated: 2024-05-19T09:51:37.405Z
+date: 2024-05-19T22:30:57.024Z
+updated: 2024-05-20T22:30:57.024Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-infinix-smart-8-plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 8 Plus in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

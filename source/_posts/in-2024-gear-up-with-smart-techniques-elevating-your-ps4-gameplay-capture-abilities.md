@@ -394,3 +394,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-sony-xperia-10-v-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Sony Xperia 10 V</u></a></li>
 </ul></div>
 
+

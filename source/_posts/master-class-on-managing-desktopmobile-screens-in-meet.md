@@ -1,7 +1,7 @@
 ---
 title: "Master Class on Managing Desktop/Mobile Screens in Meet"
-date: 2024-05-18T09:37:23.295Z
-updated: 2024-05-19T09:37:23.295Z
+date: 2024-05-19T22:30:21.445Z
+updated: 2024-05-20T22:30:21.445Z
 tags: 
   - screen-recording
   - ai video
@@ -783,4 +783,5 @@ Follow @Richard Bennett
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 14 Online? Here are 6 Easy Ways</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-v30-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme V30 without App | Dr.fone</u></a></li>
 </ul></div>
+
 

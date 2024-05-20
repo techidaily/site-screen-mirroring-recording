@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickCapture  Simplified Windows Screen Record\""
-date: 2024-05-18T09:45:55.441Z
-updated: 2024-05-19T09:45:55.441Z
+date: 2024-05-19T22:30:42.882Z
+updated: 2024-05-20T22:30:42.882Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-movie-trailer-editing-tools-for-windows-and-macos/"><u>New 2024 Approved Best Movie Trailer Editing Tools for Windows and macOS</u></a></li>
 </ul></div>
+
 

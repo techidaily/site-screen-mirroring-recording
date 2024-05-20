@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Using OBS for Gamers\""
-date: 2024-05-18T09:33:02.767Z
-updated: 2024-05-19T09:33:02.767Z
+date: 2024-05-19T22:30:11.235Z
+updated: 2024-05-20T22:30:11.235Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-a-photo-collage-using-iphoto/"><u>2024 Approved How to Make a Photo Collage Using iPhoto?</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 13 Pro?</u></a></li>
 </ul></div>
+
 

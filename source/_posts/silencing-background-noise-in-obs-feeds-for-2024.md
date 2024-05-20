@@ -1,7 +1,7 @@
 ---
 title: "Silencing Background Noise in OBS Feeds for 2024"
-date: 2024-05-18T09:48:39.966Z
-updated: 2024-05-19T09:48:39.966Z
+date: 2024-05-19T22:30:49.869Z
+updated: 2024-05-20T22:30:49.869Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-automating-your-voice-a-comprehensive-audacity-autotune-installation-and-usage-manual/"><u>2024 Approved Automating Your Voice A Comprehensive Audacity Autotune Installation and Usage Manual</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-11-proplus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 11 Pro+</u></a></li>
 </ul></div>
+
 

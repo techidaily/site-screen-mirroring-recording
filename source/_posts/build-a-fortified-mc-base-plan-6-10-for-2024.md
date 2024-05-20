@@ -1,7 +1,7 @@
 ---
 title: "\"Build a Fortified MC Base  Plan #6-10 for 2024\""
-date: 2024-05-18T09:54:03.161Z
-updated: 2024-05-19T09:54:03.161Z
+date: 2024-05-19T22:31:02.532Z
+updated: 2024-05-20T22:31:02.532Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-beginners-guide-about-wmv-format-and-best-wmv-video-editor/"><u>In 2024, Beginners Guide About WMV Format and Best WMV Video Editor</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-oneplus-nord-ce-3-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus Nord CE 3 5G Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

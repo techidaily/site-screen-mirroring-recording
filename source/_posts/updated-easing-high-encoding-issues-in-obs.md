@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Easing High Encoding Issues in OBS"
-date: 2024-05-18T09:55:04.665Z
-updated: 2024-05-19T09:55:04.665Z
+date: 2024-05-19T22:31:05.301Z
+updated: 2024-05-20T22:31:05.301Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-ai-editor.techidaily.com/video-editing-software-with-ai-powered-reframing/"><u>Video Editing Software with AI-Powered Reframing</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-messages-after-honor-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Honor has been deleted</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Pull Off Professional Video Edits with Ken Burns Effect for 2024"
-date: 2024-05-18T09:42:45.651Z
-updated: 2024-05-19T09:42:45.651Z
+date: 2024-05-19T22:30:34.465Z
+updated: 2024-05-20T22:30:34.465Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-download-adobe-premiere-pro-cs6-for-mac-os/"><u>New In 2024, Free Download Adobe Premiere Pro CS6 for Mac OS</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Redmi Note 12 Pro 5G</u></a></li>
 </ul></div>
+
 

@@ -476,3 +476,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-ace-2-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Ace 2 Pro</u></a></li>
 </ul></div>
 
+

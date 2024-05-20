@@ -529,3 +529,4 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/essential-audio-frequency-templates-the-top-8-selection-for-video-editors/"><u>Essential Audio Frequency Templates The Top 8 Selection for Video Editors</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Firefox's Best Screenshot Add-Ons\""
-date: 2024-05-18T09:40:39.105Z
-updated: 2024-05-19T09:40:39.105Z
+date: 2024-05-19T22:30:29.399Z
+updated: 2024-05-20T22:30:29.399Z
 tags: 
   - screen-recording
   - ai video
@@ -714,4 +714,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-handy-tip-from-adobe-animate-rigging-tutorial-for-all-learners/"><u>New In 2024, Handy Tip From Adobe Animate Rigging Tutorial for All Learners</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9a-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9a to Other Android Devices Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

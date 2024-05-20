@@ -1,7 +1,7 @@
 ---
 title: "Pull Off Professional Video Edits with Ken Burns Effect"
-date: 2024-05-18T09:40:56.227Z
-updated: 2024-05-19T09:40:56.227Z
+date: 2024-05-19T22:30:30.089Z
+updated: 2024-05-20T22:30:30.089Z
 tags: 
   - screen-recording
   - ai video
@@ -344,4 +344,5 @@ Follow @Max Wales
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713962599847-updated-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-tone-and-styl/"><u>Updated Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style for 2024</u></a></li>
 </ul></div>
+
 

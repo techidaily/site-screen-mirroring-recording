@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In-Depth Skype Audio Capture Guide with OBS Software\""
-date: 2024-05-18T09:31:35.574Z
-updated: 2024-05-19T09:31:35.574Z
+date: 2024-05-19T22:30:07.748Z
+updated: 2024-05-20T22:30:07.748Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-edit-video-metadata-like-a-pro-top-8-mac-software/"><u>New 2024 Approved Edit Video Metadata Like a Pro Top 8 Mac Software</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-note-13-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi Note 13 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
+
 

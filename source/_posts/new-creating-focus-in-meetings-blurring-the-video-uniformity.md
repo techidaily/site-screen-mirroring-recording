@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Creating Focus in Meetings  Blurring the Video Uniformity\""
-date: 2024-05-18T09:37:25.748Z
-updated: 2024-05-19T09:37:25.748Z
+date: 2024-05-19T22:30:21.523Z
+updated: 2024-05-20T22:30:21.523Z
 tags: 
   - screen-recording
   - ai video
@@ -813,4 +813,5 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/best-methods-for-google-pixel-8-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Google Pixel 8 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

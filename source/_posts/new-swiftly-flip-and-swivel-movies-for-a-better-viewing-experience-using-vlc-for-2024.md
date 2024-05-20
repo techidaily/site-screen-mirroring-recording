@@ -638,3 +638,4 @@ VLC Media Player is a great tool to rotate any video at any desired angle. You c
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung ?</u></a></li>
 </ul></div>
 
+

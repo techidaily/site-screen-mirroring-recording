@@ -758,3 +758,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-instagram-video-dimensions-explained-a-beginners-guide-to-aspect-ratios/"><u>In 2024, Instagram Video Dimensions Explained A Beginners Guide to Aspect Ratios</u></a></li>
 </ul></div>
 
+

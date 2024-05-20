@@ -1,7 +1,7 @@
 ---
 title: "Expert Techniques in Game Recording via OBS"
-date: 2024-05-18T09:56:53.182Z
-updated: 2024-05-19T09:56:53.182Z
+date: 2024-05-19T22:31:09.731Z
+updated: 2024-05-20T22:31:09.731Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://audio-editing.techidaily.com/imovie-pro-tips-how-to-detach-audio-tracks-efficiently-on-a-mac/"><u>IMovie Pro Tips How to Detach Audio Tracks Efficiently on a Mac</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-honor-x9b-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor X9b Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

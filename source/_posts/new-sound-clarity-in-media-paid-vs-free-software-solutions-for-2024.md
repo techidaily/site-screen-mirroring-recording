@@ -287,3 +287,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-20c-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 20C Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

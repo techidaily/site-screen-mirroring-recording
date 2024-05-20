@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Camtasia 9  Unlock the Art of Ken Burns Easing for 2024\""
-date: 2024-05-18T09:49:40.697Z
-updated: 2024-05-19T09:49:40.697Z
+date: 2024-05-19T22:30:52.275Z
+updated: 2024-05-20T22:30:52.275Z
 tags: 
   - screen-recording
   - ai video
@@ -332,4 +332,5 @@ Follow @Max Wales
 <li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-xs-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone XS Max</u></a></li>
 <li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-5-lite-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Magic 5 Lite by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

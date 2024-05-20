@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Android & iOS Leaderboard of PS2 Emulation Software"
-date: 2024-05-18T09:38:07.016Z
-updated: 2024-05-19T09:38:07.016Z
+date: 2024-05-19T22:30:23.067Z
+updated: 2024-05-20T22:30:23.067Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Note 30 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-s24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy S24 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

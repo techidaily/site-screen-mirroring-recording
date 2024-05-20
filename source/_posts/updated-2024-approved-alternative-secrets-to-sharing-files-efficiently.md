@@ -282,3 +282,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://smart-video-creator.techidaily.com/top-online-video-editing-tools-for-vertical-videos-for-2024/"><u>Top Online Video Editing Tools for Vertical Videos for 2024</u></a></li>
 </ul></div>
 
+

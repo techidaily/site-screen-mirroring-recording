@@ -656,3 +656,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-a2plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

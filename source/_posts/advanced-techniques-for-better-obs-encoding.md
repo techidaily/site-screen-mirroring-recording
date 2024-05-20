@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques for Better OBS Encoding"
-date: 2024-05-18T09:47:19.328Z
-updated: 2024-05-19T09:47:19.328Z
+date: 2024-05-19T22:30:46.388Z
+updated: 2024-05-20T22:30:46.388Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme 11 5G Phone With/Without IMEI Number</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia XR21 | Dr.fone</u></a></li>
 </ul></div>
+
 

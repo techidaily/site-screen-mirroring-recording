@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Live Broadcasts  OBS on YouTube and Twitch\""
-date: 2024-05-18T09:36:54.861Z
-updated: 2024-05-19T09:36:54.861Z
+date: 2024-05-19T22:30:20.475Z
+updated: 2024-05-20T22:30:20.475Z
 tags: 
   - screen-recording
   - ai video
@@ -181,4 +181,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus 11 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager in Windows 10</u></a></li>
 </ul></div>
+
 

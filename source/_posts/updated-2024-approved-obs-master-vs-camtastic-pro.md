@@ -488,3 +488,4 @@ To sum it up for you, OBS is completely free while Bandicam is a premium softwar
 <li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 10</u></a></li>
 </ul></div>
 
+

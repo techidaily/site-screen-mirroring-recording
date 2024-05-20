@@ -250,3 +250,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://screen-mirror.techidaily.com/how-can-lava-yuva-3mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Lava Yuva 3Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

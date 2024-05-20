@@ -506,3 +506,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-sony-xperia-10-v-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Sony Xperia 10 V Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

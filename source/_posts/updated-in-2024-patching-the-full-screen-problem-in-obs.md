@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Patching the Full-Screen Problem in OBS\""
-date: 2024-05-18T09:35:59.809Z
-updated: 2024-05-19T09:35:59.809Z
+date: 2024-05-19T22:30:18.141Z
+updated: 2024-05-20T22:30:18.141Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-streamline-your-video-editing-workflow-on-mac-with-mkvtoolnix/"><u>In 2024, Streamline Your Video Editing Workflow on Mac with MKVtoolnix</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-how-to-acquire-rare-bird-sound-samples-in-digital-audio-format/"><u>New How to Acquire Rare Bird Sound Samples in Digital Audio Format</u></a></li>
 </ul></div>
+
 

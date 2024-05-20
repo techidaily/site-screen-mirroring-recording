@@ -625,3 +625,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-mastering-opencv-object-tracking-a-comprehensive-guide-for-beginners-and-experts/"><u>New In 2024, Mastering OpenCV Object Tracking A Comprehensive Guide for Beginners and Experts</u></a></li>
 </ul></div>
 
+

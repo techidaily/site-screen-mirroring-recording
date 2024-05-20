@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Record PS4 with OBS Full Guide for 2024"
-date: 2024-05-18T09:34:25.856Z
-updated: 2024-05-19T09:34:25.856Z
+date: 2024-05-19T22:30:14.610Z
+updated: 2024-05-20T22:30:14.610Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Lava Blaze Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 10</u></a></li>
 </ul></div>
+
 

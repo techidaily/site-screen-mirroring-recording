@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Miniature Homes  Japanese & Chinese Inspirations\""
-date: 2024-05-18T09:33:55.629Z
-updated: 2024-05-19T09:33:55.629Z
+date: 2024-05-19T22:30:13.306Z
+updated: 2024-05-20T22:30:13.306Z
 tags: 
   - screen-recording
   - ai video
@@ -305,4 +305,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-play-40c-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor Play 40C</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Into the World of Fraps Screenshots\""
-date: 2024-05-18T09:42:36.616Z
-updated: 2024-05-19T09:42:36.616Z
+date: 2024-05-19T22:30:34.155Z
+updated: 2024-05-20T22:30:34.155Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-y100-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo Y100? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

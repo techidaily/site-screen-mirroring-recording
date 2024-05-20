@@ -338,3 +338,4 @@ To sum it up all, iTop screen recorder is extremely easy to operate but you have
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-smart-8-plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Smart 8 Plus to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

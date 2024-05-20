@@ -302,3 +302,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y27s-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y27s</u></a></li>
 </ul></div>
 
+

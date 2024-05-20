@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Creative Constructs  Top 6 Minimalist Mini-Mansions\""
-date: 2024-05-18T09:40:47.384Z
-updated: 2024-05-19T09:40:47.384Z
+date: 2024-05-19T22:30:29.747Z
+updated: 2024-05-20T22:30:29.747Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Shanoon Cox
 <li><a href="https://smart-video-editing.techidaily.com/new-top-rated-free-flv-video-editing-tools/"><u>New Top-Rated Free FLV Video Editing Tools</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-15-best-sites-to-watch-cartoons-online-free-and-so-can-you/"><u>Updated In 2024, 15 Best Sites to Watch Cartoons Online Free And So Can You</u></a></li>
 </ul></div>
+
 

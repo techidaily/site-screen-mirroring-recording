@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Xiaomi 11 Series  Capture Life in High Definition\""
-date: 2024-05-18T09:41:45.963Z
-updated: 2024-05-19T09:41:45.963Z
+date: 2024-05-19T22:30:32.024Z
+updated: 2024-05-20T22:30:32.024Z
 tags: 
   - screen-recording
   - ai video
@@ -600,4 +600,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/updated-editstudio-for-macos-for-2024/"><u>Updated EditStudio for macOS for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
+
 

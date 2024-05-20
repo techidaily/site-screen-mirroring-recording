@@ -1,7 +1,7 @@
 ---
 title: "[Updated] LensCrafters HD Capture App"
-date: 2024-05-18T09:55:22.764Z
-updated: 2024-05-19T09:55:22.764Z
+date: 2024-05-19T22:31:05.955Z
+updated: 2024-05-20T22:31:05.955Z
 tags: 
   - screen-recording
   - ai video
@@ -887,4 +887,5 @@ So, these are some of the best screen recorders you will ever come across with. 
 <li><a href="https://ai-video-translation.techidaily.com/must-have-apps-for-real-time-video-translation/"><u>Must-Have Apps for Real-Time Video Translation</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-moto-g04-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Moto G04</u></a></li>
 </ul></div>
+
 
