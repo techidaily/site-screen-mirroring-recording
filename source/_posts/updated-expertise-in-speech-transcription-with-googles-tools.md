@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expertise in Speech Transcription with Google's Tools"
-date: 2024-05-18T10:24:29.977Z
-updated: 2024-05-19T10:24:29.977Z
+date: 2024-06-09T09:44:12.488Z
+updated: 2024-06-10T09:44:12.488Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Expertise in Speech Transcription with Google's Tools"
 excerpt: "This Article Describes [Updated] Expertise in Speech Transcription with Google's Tools"
 keywords: "\"Virtual Team Enhancement,Remote Work Graphics,Collaboration Visual Boost,Improved Online Chat Design,High-Quality Remote Video,Google Meet Optimization,Engaging Remote Sessions\""
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Expertise in Speech Transcription with Google's Tools

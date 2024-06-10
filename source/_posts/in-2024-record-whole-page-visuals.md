@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Record Whole Page Visuals"
-date: 2024-05-18T10:17:07.849Z
-updated: 2024-05-19T10:17:07.849Z
+date: 2024-06-09T09:44:07.281Z
+updated: 2024-06-10T09:44:07.281Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Record Whole Page Visuals"
 excerpt: "This Article Describes In 2024, Record Whole Page Visuals"
 keywords: "\"Full-Page Viz Capture,Whole Pg. Image Grab,Complete Web Picture,Entire Site Photo,Fullscreen Page Img,Comprehensive Pg Visuals,Total Viewport Snapshot\""
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## Record Whole Page Visuals

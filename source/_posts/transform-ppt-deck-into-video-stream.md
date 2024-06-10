@@ -1,7 +1,7 @@
 ---
 title: "Transform PPT Deck Into Video Stream"
-date: 2024-05-19T22:30:41.621Z
-updated: 2024-05-20T22:30:41.621Z
+date: 2024-06-09T09:44:11.367Z
+updated: 2024-06-10T09:44:11.367Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Transform PPT Deck Into Video Stream"
 excerpt: "This Article Describes Transform PPT Deck Into Video Stream"
 keywords: "PPT to Video Conversion,PPT to Live Streaming,PPT Deck Video Production,Turn PPT Into Video,Convert PPT Slides To Video,PPT Slides Streaming,PPT Presentation to Video"
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## Transform PPT Deck Into Video Stream

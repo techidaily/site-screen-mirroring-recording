@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Shambling Successes  The Cutthroat List of Best Zombies Gaming\""
-date: 2024-05-18T10:17:54.989Z
-updated: 2024-05-19T10:17:54.989Z
+date: 2024-06-09T09:44:07.169Z
+updated: 2024-06-10T09:44:07.169Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Shambling Successes: The Cutthroat List of Best Zombies Gaming\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Shambling Successes: The Cutthroat List of Best Zombies Gaming\""
 keywords: "Best Zombie Games,Top Zombie Titles,Zombie RPG Hits,Undead Game Winners,Zombie Gaming Leaders,Horror Gaming Champions,Shocking Zombie Matches"
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## Shambling Successes: The Cutthroat List of Best Zombies Gaming

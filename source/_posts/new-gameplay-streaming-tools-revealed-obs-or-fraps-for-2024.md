@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Gameplay Streaming Tools Revealed  OBS or Fraps for 2024\""
-date: 2024-05-18T10:29:38.285Z
-updated: 2024-05-19T10:29:38.285Z
+date: 2024-06-09T09:44:01.255Z
+updated: 2024-06-10T09:44:01.255Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Gameplay Streaming Tools Revealed: OBS or Fraps for 2024\""
 excerpt: "\"This Article Describes [New] Gameplay Streaming Tools Revealed: OBS or Fraps for 2024\""
 keywords: "GameStream OBS,StreamFraps,LiveGamingOBS,ProToolsStreaming,VideoGameOBS,FrapsStreamer,BroadcastToolsGS"
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Gameplay Streaming Tools Revealed: OBS or Fraps?

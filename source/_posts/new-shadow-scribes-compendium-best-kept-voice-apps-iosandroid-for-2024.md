@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shadow Scribes' Compendium  Best-Kept Voice Apps (iOS/Android) for 2024\""
-date: 2024-05-19T22:30:36.841Z
-updated: 2024-05-20T22:30:36.841Z
+date: 2024-06-09T09:44:13.479Z
+updated: 2024-06-10T09:44:13.479Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Shadow Scribes' Compendium: Best-Kept Voice Apps (iOS/Android) for 2024\""
 excerpt: "\"This Article Describes [New] Shadow Scribes' Compendium: Best-Kept Voice Apps (iOS/Android) for 2024\""
 keywords: "Shadowscribe Tools iOS,Mobile Voice AI iOS,Best iOS Voice Commands,Android Voice Assistant Guide,IOS/Android Voice Apps,Top iOS Voice Tech,Android Speech Engines Review"
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## Shadow Scribes' Compendium: Best-Kept Voice Apps (iOS/Android)

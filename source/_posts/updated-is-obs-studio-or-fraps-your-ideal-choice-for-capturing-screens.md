@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?"
-date: 2024-05-18T10:00:59.558Z
-updated: 2024-05-19T10:00:59.558Z
+date: 2024-06-09T09:43:59.296Z
+updated: 2024-06-10T09:43:59.296Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?"
 excerpt: "This Article Describes [Updated] Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?"
 keywords: "OBS Vs. Fraps,Screen Capture OBS,Fraps Screen Recording,Best OBS Tool,Ideal Screen Recorder,Screenshot Comparison,Capture Software Review"
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?

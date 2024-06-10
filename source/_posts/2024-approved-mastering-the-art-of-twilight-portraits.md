@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Twilight Portraits\""
-date: 2024-05-19T22:30:13.042Z
-updated: 2024-05-20T22:30:13.043Z
+date: 2024-06-09T09:44:03.834Z
+updated: 2024-06-10T09:44:03.834Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Mastering the Art of Twilight Portraits\""
 excerpt: "\"This Article Describes 2024 Approved: Mastering the Art of Twilight Portraits\""
 keywords: "\"Silent Video Tips,Quiet Cinematography,Stealth Film Techniques,Low-Noise Shooting,Silent Movie Skills,Muted Filmmaking Tricks,Hushed Cinematic Practices\""
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Mastering the Art of Twilight Portraits

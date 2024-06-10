@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Securing Sound Output  Fixes for Silent OBS Streams\""
-date: 2024-05-19T22:30:20.737Z
-updated: 2024-05-20T22:30:20.737Z
+date: 2024-06-09T09:43:59.850Z
+updated: 2024-06-10T09:43:59.850Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Securing Sound Output: Fixes for Silent OBS Streams\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Securing Sound Output: Fixes for Silent OBS Streams\""
 keywords: "Presentation Security Swift,QuickSecure Presents,Swift Presentation Safeguard,Secure Presentation Swift,Swift Security Solutions,SafeSwift Presentations,RapidSecure Procurements"
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Securing Sound Output: Fixes for Silent OBS Streams

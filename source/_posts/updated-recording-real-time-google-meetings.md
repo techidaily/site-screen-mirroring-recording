@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Recording Real-Time Google Meetings\""
-date: 2024-05-18T10:18:00.864Z
-updated: 2024-05-19T10:18:00.864Z
+date: 2024-06-09T09:44:17.812Z
+updated: 2024-06-10T09:44:17.812Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Recording Real-Time Google Meetings\""
 excerpt: "\"This Article Describes [Updated] Recording Real-Time Google Meetings\""
 keywords: "\"Live Google Meet Capture,Real-Time Google Meeting Record,Google Meet Recording Tool,Efficient Google Meet Transcription,Secure Real-Time Meeting Recording,On-Demand Google Meet Sessions,Direct Google Meet Live Streaming\""
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Recording Real-Time Google Meetings

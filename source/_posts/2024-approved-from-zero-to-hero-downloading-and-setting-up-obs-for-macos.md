@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Zero to Hero  Downloading and Setting up OBS for macOS\""
-date: 2024-05-18T10:09:06.129Z
-updated: 2024-05-19T10:09:06.129Z
+date: 2024-06-09T09:44:02.619Z
+updated: 2024-06-10T09:44:02.619Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Zero to Hero: Downloading and Setting up OBS for macOS\""
 excerpt: "\"This Article Describes 2024 Approved: From Zero to Hero: Downloading and Setting up OBS for macOS\""
 keywords: "\"MacOBS Setup Guide,OBS macOS Download,Beginner's OBS on Mac,Setup OBS in macOS,MacUsers: OBS Basics,Zero to Hero with OBS,Installing OBS macOS-Wise\""
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## From Zero to Hero: Downloading and Setting up OBS for macOS

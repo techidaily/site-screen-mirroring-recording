@@ -1,7 +1,7 @@
 ---
 title: "\"Advice on Reversing Non-Functional OBS Fullscreen\""
-date: 2024-05-19T22:31:43.722Z
-updated: 2024-05-20T22:31:43.722Z
+date: 2024-06-09T09:44:14.386Z
+updated: 2024-06-10T09:44:14.386Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Advice on Reversing Non-Functional OBS Fullscreen\""
 excerpt: "\"This Article Describes Advice on Reversing Non-Functional OBS Fullscreen\""
 keywords: "OBS Fullscreen Troubleshooting Guide,Fix Fullscreen Failure in OBS,Stop Nonfunctional OBS Video Mode,Reverse OBS Fullscreen Errors,Solve OBS Fullscreen Not Working,OBS Screen Issue Resolution,Restart Fullscreen OBS Settings"
-thumbnail: https://www.lifewire.com/thmb/ebrh4pryk1RCkUBx_N34Im614oA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-14050070541-0fc96b82fdc54287bf3bbce3ba323342.jpg
+thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
 ---
 
 ## Advice on Reversing Non-Functional OBS Fullscreen

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cross-Platform Zoom Meeting Setup Guide\""
-date: 2024-05-18T10:12:43.271Z
-updated: 2024-05-19T10:12:43.271Z
+date: 2024-06-09T09:44:10.148Z
+updated: 2024-06-10T09:44:10.148Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Cross-Platform Zoom Meeting Setup Guide\""
 excerpt: "\"This Article Describes [New] Cross-Platform Zoom Meeting Setup Guide\""
 keywords: "Zoom CrossSetup,Zoom PlatformGuide,Zoom MultiDevice,Zoom PlatformMeet,Zoom PlanarSetup,Zoom CrossPlatform,Zoom UnifiedMeeting"
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Cross-Platform Zoom Meeting Setup Guide

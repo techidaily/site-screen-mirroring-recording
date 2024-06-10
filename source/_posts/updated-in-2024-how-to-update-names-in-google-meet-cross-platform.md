@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, How to Update Names in Google Meet - Cross Platform\""
-date: 2024-05-18T10:02:35.761Z
-updated: 2024-05-19T10:02:35.761Z
+date: 2024-06-09T09:44:15.205Z
+updated: 2024-06-10T09:44:15.205Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, How to Update Names in Google Meet - Cross Platform\""
 excerpt: "\"This Article Describes [Updated] In 2024, How to Update Names in Google Meet - Cross Platform\""
 keywords: "\"Updating Google Meet Name,Google Meet Name Change,Google Meet ID Update,Renaming in Google Meet,Google Meet Cross-Platform,Global Meet Username Alteration,Google Meet Name Editing\""
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## How to Update Names in Google Meet - Cross Platform

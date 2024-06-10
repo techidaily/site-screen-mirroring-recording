@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision Capturing  The Art of PS4 Gaming Recordings with OBS\""
-date: 2024-05-19T22:30:17.248Z
-updated: 2024-05-20T22:30:17.248Z
+date: 2024-06-09T09:44:10.445Z
+updated: 2024-06-10T09:44:10.445Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Precision Capturing: The Art of PS4 Gaming Recordings with OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Precision Capturing: The Art of PS4 Gaming Recordings with OBS\""
 keywords: "\"PS4 Gaming Recordings,OBS Capture Quality,Gameplay Captures PS4,High-Res OBS Footage,PS4 Broadcasting with OBS,OBS Live Streaming Guide,Optimal PS4 Video Settings\""
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Precision Capturing: The Art of PS4 Gaming Recordings with OBS

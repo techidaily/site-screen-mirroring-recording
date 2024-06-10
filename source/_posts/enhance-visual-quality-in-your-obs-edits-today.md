@@ -1,7 +1,7 @@
 ---
 title: "Enhance Visual Quality in Your OBS Edits Today"
-date: 2024-05-18T10:10:12.440Z
-updated: 2024-05-19T10:10:12.440Z
+date: 2024-06-09T09:44:14.239Z
+updated: 2024-06-10T09:44:14.239Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Enhance Visual Quality in Your OBS Edits Today"
 excerpt: "This Article Describes Enhance Visual Quality in Your OBS Edits Today"
 keywords: "\"OBS Editing Tips,Image Enhancement OBS,High-Quality Video,Clear OBS Output,OBS Visual Boost,Improve OBS Quality,OBS Clarity Editing\""
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## Enhance Visual Quality in Your OBS Edits Today

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Merits of OBS Studio & Fraps for Recording Screens for 2024"
-date: 2024-05-19T22:32:58.707Z
-updated: 2024-05-20T22:32:58.707Z
+date: 2024-06-09T09:44:07.213Z
+updated: 2024-06-10T09:44:07.213Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Exploring the Merits of OBS Studio & Fraps for Recording Screens for 2024"
 excerpt: "This Article Describes Exploring the Merits of OBS Studio & Fraps for Recording Screens for 2024"
 keywords: "OBS Screen Capture,Fraps Screengrabs,OBS Vs. Fraps,Screencast Tools,OBS Studio Pros,Fraps Recording Benefits,Screen Record Software Comparison"
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## Exploring the Merits of OBS Studio & Fraps for Recording Screens

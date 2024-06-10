@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Way of the Warrior  Game Lineup Mirroring Ghost of Tsushima for 2024\""
-date: 2024-05-18T10:16:27.634Z
-updated: 2024-05-19T10:16:27.634Z
+date: 2024-06-09T09:44:02.507Z
+updated: 2024-06-10T09:44:02.507Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] The Way of the Warrior: Game Lineup Mirroring Ghost of Tsushima for 2024\""
 excerpt: "\"This Article Describes [New] The Way of the Warrior: Game Lineup Mirroring Ghost of Tsushima for 2024\""
 keywords: "Warrior Gaming,Ghost Of Games,Tsushi Lineups,Samurai Battle,Martial Arts Play,Ninja Game Guide,Japanese Elders Strategy"
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## The Way of the Warrior: Game Lineup Mirroring Ghost of Tsushima

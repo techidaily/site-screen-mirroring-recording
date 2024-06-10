@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  MC Homes that Define Virtual Villages\""
-date: 2024-05-18T10:32:14.365Z
-updated: 2024-05-19T10:32:14.365Z
+date: 2024-06-09T09:44:09.377Z
+updated: 2024-06-10T09:44:09.377Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: MC Homes that Define Virtual Villages\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: MC Homes that Define Virtual Villages\""
 keywords: "\"Virtual Villages MC Homes,Defining Virtual Home Designs,Virtual Villages Architecture,Innovative Virtual Community Homes,Homes for Digital Village Life,Virtual Living Spaces MC Homes,MC Homes: Architectural Visionaries\""
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## MC Homes that Define Virtual Villages

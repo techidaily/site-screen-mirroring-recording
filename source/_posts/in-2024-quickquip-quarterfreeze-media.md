@@ -1,7 +1,7 @@
 ---
 title: "In 2024, QuickQuip QuarterFreeze Media"
-date: 2024-05-18T10:19:04.172Z
-updated: 2024-05-19T10:19:04.172Z
+date: 2024-06-09T09:44:08.589Z
+updated: 2024-06-10T09:44:08.589Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, QuickQuip QuarterFreeze Media"
 excerpt: "This Article Describes In 2024, QuickQuip QuarterFreeze Media"
 keywords: "Freeze Recording Tips,Instant Record Start,Quick Video Capture,Emergency Filming Hint,Rapid Screen Save,Immediate Screenshot Guide,Swift Media Preserve"
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## QuickQuip QuarterFreeze Media

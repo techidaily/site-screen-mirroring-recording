@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Live Game Replays with Fraps\""
-date: 2024-05-19T22:30:32.685Z
-updated: 2024-05-20T22:30:32.685Z
+date: 2024-06-09T09:44:15.698Z
+updated: 2024-06-10T09:44:15.698Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Mastering Live Game Replays with Fraps\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Mastering Live Game Replays with Fraps\""
 keywords: "\"Live Game Capture,Fraps Replay Mastery,High-Speed Gaming Capture,Real-Time Game Playback,Video Recording in Games,Gameplay Replay Software,Pro Gamers' Toolkit\""
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## Mastering Live Game Replays with Fraps

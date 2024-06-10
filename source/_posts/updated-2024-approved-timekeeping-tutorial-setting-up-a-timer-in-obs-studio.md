@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Timekeeping Tutorial  Setting Up a Timer in OBS Studio\""
-date: 2024-05-19T22:30:07.611Z
-updated: 2024-05-20T22:30:07.611Z
+date: 2024-06-09T09:44:17.604Z
+updated: 2024-06-10T09:44:17.604Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Timekeeping Tutorial: Setting Up a Timer in OBS Studio\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Timekeeping Tutorial: Setting Up a Timer in OBS Studio\""
 keywords: "\"Video Call Setup Guide,WhatsApp Web Meetings,PC-Based Video Conferencing,WhatsApp Browser Chat,Virtual Team Collaboration,Online Video Calls,WhatsApp Web Conference\""
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## Timekeeping Tutorial: Setting Up a Timer in OBS Studio

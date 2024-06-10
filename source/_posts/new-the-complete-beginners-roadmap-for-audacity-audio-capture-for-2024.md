@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Beginner's Roadmap for Audacity Audio Capture for 2024"
-date: 2024-05-18T10:00:51.455Z
-updated: 2024-05-19T10:00:51.455Z
+date: 2024-06-09T09:44:06.464Z
+updated: 2024-06-10T09:44:06.464Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] The Complete Beginner's Roadmap for Audacity Audio Capture for 2024"
 excerpt: "This Article Describes [New] The Complete Beginner's Roadmap for Audacity Audio Capture for 2024"
 keywords: "Audacity Basics Guide,Simple Audacity Tips,Audio Recording Start,Basic Sound Editing,Learn Audacity Ease,Capture Audio Quickly,Starting with Audacity"
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## The Complete Beginner's Roadmap for Audacity Audio Capture

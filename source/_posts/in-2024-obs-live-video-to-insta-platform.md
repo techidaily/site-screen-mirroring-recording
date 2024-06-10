@@ -1,7 +1,7 @@
 ---
 title: "In 2024, OBS Live Video to Insta Platform"
-date: 2024-05-18T10:26:42.766Z
-updated: 2024-05-19T10:26:42.766Z
+date: 2024-06-09T09:44:14.509Z
+updated: 2024-06-10T09:44:14.509Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, OBS Live Video to Insta Platform"
 excerpt: "This Article Describes In 2024, OBS Live Video to Insta Platform"
 keywords: "\"OBS Streaming,Live Video,Instagram Direct,Instagram Live,Videostreaming,Social Media Broadcasting,Cross-Platform Live Sharing\""
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## OBS Live Video to Insta Platform

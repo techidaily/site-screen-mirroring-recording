@@ -1,7 +1,7 @@
 ---
 title: "\"From Faces to Films  The Mi 11'S Advanced Screenshot Technology\""
-date: 2024-05-19T22:33:04.947Z
-updated: 2024-05-20T22:33:04.947Z
+date: 2024-06-09T09:44:01.152Z
+updated: 2024-06-10T09:44:01.152Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes From Faces to Films: The Mi 11'S Advanced Screenshot Technology\""
 excerpt: "\"This Article Describes From Faces to Films: The Mi 11'S Advanced Screenshot Technology\""
 keywords: "Mi11 Screenshots Tech,PhotoMi11 Filming Features,Mi11 ScreenCapture Innovation,Mi11 Visuals Technology,FilmMode Mi11 Camera,Advanced Mi11 Display,Mi11 Imagery Enhancement"
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## From Faces to Films: The Mi 11'S Advanced Screenshot Technology

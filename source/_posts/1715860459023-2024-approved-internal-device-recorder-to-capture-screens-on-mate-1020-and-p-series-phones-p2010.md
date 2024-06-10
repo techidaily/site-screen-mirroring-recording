@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10).\""
-date: 2024-05-18T10:01:35.119Z
-updated: 2024-05-19T10:01:35.119Z
+date: 2024-06-09T09:44:17.697Z
+updated: 2024-06-10T09:44:17.697Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10).\""
 excerpt: "\"This Article Describes 2024 Approved: Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10).\""
 keywords: "\"Mate 10 Screen Capture,Mate 20 Screendio Recorder,Mate X Screenshot Device,P Series Screen Record,P20 Mobile ScreenCapture,P10 Screen Recording App,P-Series Phone ScreenSave\""
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10)

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Your Phone, Your Camera  Tips for Mobile Video Shooting\""
-date: 2024-05-18T10:14:07.492Z
-updated: 2024-05-19T10:14:07.492Z
+date: 2024-06-09T09:44:17.735Z
+updated: 2024-06-10T09:44:17.735Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Your Phone, Your Camera: Tips for Mobile Video Shooting\""
 excerpt: "\"This Article Describes [New] Your Phone, Your Camera: Tips for Mobile Video Shooting\""
 keywords: "\"Mobile Video Tips,Selfie Shooting Guide,Phone Camera Settings,On-the-Go Filming Techniques,Portable Video Equipment,DIY Mobile Videography,Lighting for Phone Videos\""
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Your Phone, Your Camera: Tips for Mobile Video Shooting

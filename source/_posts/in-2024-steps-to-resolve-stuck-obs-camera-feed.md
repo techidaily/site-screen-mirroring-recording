@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Steps to Resolve Stuck OBS Camera Feed"
-date: 2024-05-19T22:30:12.400Z
-updated: 2024-05-20T22:30:12.400Z
+date: 2024-06-09T09:43:59.729Z
+updated: 2024-06-10T09:43:59.729Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Steps to Resolve Stuck OBS Camera Feed"
 excerpt: "This Article Describes In 2024, Steps to Resolve Stuck OBS Camera Feed"
 keywords: "Fixing OBS Live Feed Halt,Clear OBS Video Glitch,Stop OBS Stream Freeze,Resume OBS Feed Playback,Troubleshoot OBS Camera Error,Realign OBS Camera View,Restart Stuck OBS Broadcast"
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## Steps to Resolve Stuck OBS Camera Feed

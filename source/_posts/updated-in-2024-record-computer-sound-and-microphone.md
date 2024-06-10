@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Record Computer Sound and Microphone"
-date: 2024-05-18T10:03:07.966Z
-updated: 2024-05-19T10:03:07.966Z
+date: 2024-06-09T09:44:01.088Z
+updated: 2024-06-10T09:44:01.088Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Record Computer Sound and Microphone"
 excerpt: "This Article Describes [Updated] In 2024, Record Computer Sound and Microphone"
 keywords: "Win Screen Capture Techniques,Mac Screencast Mastery,Android Device Recordings,OS X Screen Recording Guide,Windows PC Screen Taping,Mobile Screen Capture,Platform Screen Recorders"
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## 8 Tools to Record Computer Sound and Microphone
