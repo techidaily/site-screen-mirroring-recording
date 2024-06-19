@@ -1,7 +1,7 @@
 ---
 title: "\"Joining the Dots  OBS & Zoom Pairing Explained\""
-date: 2024-05-18T10:01:44.921Z
-updated: 2024-05-19T10:01:44.921Z
+date: 2024-06-18T12:20:08.637Z
+updated: 2024-06-19T12:20:08.637Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Joining the Dots: OBS & Zoom Pairing Explained\""
 excerpt: "\"This Article Describes Joining the Dots: OBS & Zoom Pairing Explained\""
 keywords: "OBS Zoom Guide,Zoom OBS Integration,Join OBS to Zoom,Linking OBS with Zoom,OBS & Zoom Tutorial,Sync OBS and Zoom,Combine Zoom & OBS"
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Joining the Dots: OBS & Zoom Pairing Explained
@@ -27,7 +27,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 
@@ -107,7 +107,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 
@@ -187,7 +187,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 
@@ -267,7 +267,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 

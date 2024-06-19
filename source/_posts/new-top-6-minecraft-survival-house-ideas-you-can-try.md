@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 6 Minecraft Survival House Ideas You Can Try"
-date: 2024-05-19T22:30:20.061Z
-updated: 2024-05-20T22:30:20.061Z
+date: 2024-06-18T12:20:06.711Z
+updated: 2024-06-19T12:20:06.711Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 6 Minecraft Survival House Ideas You Can Try"
 excerpt: "This Article Describes [New] Top 6 Minecraft Survival House Ideas You Can Try"
 keywords: "Minecraft Houses Ideas,Survival Homes MC,BuildMC House Plans,Top MC Shelter Designs,MC Survival Strategies,DIY MC Habitat,Creative MC Dwellings"
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Top 6 Minecraft Survival House Ideas You Can Try

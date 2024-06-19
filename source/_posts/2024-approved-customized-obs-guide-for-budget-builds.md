@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Customized OBS Guide for Budget Builds\""
-date: 2024-05-18T10:34:42.153Z
-updated: 2024-05-19T10:34:42.153Z
+date: 2024-06-18T12:20:02.859Z
+updated: 2024-06-19T12:20:02.859Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Customized OBS Guide for Budget Builds\""
 excerpt: "\"This Article Describes 2024 Approved: Customized OBS Guide for Budget Builds\""
 keywords: "\"Custom OBS Guide,Budget OBS Plan,OBS Building Tips,DIY OBS Guide,Cost-Effective OBS,Economical OBS Steps,Frugal OBS Setup\""
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Customized OBS Guide for Budget Builds

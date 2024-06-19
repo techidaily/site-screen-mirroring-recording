@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crafting Traditional Eastern Abodes in MC World"
-date: 2024-05-18T10:12:17.673Z
-updated: 2024-05-19T10:12:17.673Z
+date: 2024-06-18T12:20:05.372Z
+updated: 2024-06-19T12:20:05.372Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Crafting Traditional Eastern Abodes in MC World"
 excerpt: "This Article Describes [Updated] Crafting Traditional Eastern Abodes in MC World"
 keywords: "\"Eastern Abode Designs,MC Homes Tradition,Abode Crafting East,Traditional MC Architecture,Eastern Home Construction,Culturally Rich Habitations,Heritage-Inspired MC Buildings\""
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Crafting Traditional Eastern Abodes in MC World

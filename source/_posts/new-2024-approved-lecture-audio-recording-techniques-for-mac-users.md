@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Lecture Audio Recording Techniques for Mac Users\""
-date: 2024-05-18T10:30:30.777Z
-updated: 2024-05-19T10:30:30.777Z
+date: 2024-06-18T12:20:15.174Z
+updated: 2024-06-19T12:20:15.174Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Lecture Audio Recording Techniques for Mac Users\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Lecture Audio Recording Techniques for Mac Users\""
 keywords: "Mac Audio Record,Recording Mac Tips,Mac Audio Capture,Audio Tech Mac,Mac Lecture Record,Mac Sound Capture,Mac Audio Methods"
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## Lecture Audio Recording Techniques for Mac Users

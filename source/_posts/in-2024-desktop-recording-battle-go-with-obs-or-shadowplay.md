@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Desktop Recording Battle  Go with OBS or ShadowPlay\""
-date: 2024-05-18T10:23:32.079Z
-updated: 2024-05-19T10:23:32.079Z
+date: 2024-06-18T12:20:20.713Z
+updated: 2024-06-19T12:20:20.713Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Desktop Recording Battle: Go with OBS or ShadowPlay\""
 excerpt: "\"This Article Describes In 2024, Desktop Recording Battle: Go with OBS or ShadowPlay\""
 keywords: "OBS Desktop Challenge,ShadowPlay Record,OBS vs ShadowPC,PC Screen Capture,Live Recording Tools,OBS Playback Battle,Desktop Recorder Showdown"
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Desktop Recording Battle: Go with OBS or ShadowPlay
@@ -27,7 +27,7 @@ OBS and ShadowPlay are both completely free to use for recording your gameplay a
 
 ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is why gamers who prefer Nvidia GPU, they have a special preference for ShadowPlay. Here are the key features of OBS and ShadowPlay you should be aware of.
 
-### [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
+### OBS Studio
 
 ![obs studio](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 

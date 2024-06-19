@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Beats & Rhythms  Capturing Sounds with Mac\""
-date: 2024-05-18T09:59:49.158Z
-updated: 2024-05-19T09:59:49.158Z
+date: 2024-06-18T12:20:02.034Z
+updated: 2024-06-19T12:20:02.034Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Beats & Rhythms: Capturing Sounds with Mac\""
 excerpt: "\"This Article Describes In 2024, Beats & Rhythms: Capturing Sounds with Mac\""
 keywords: "Beats on macOS,Mac Sound Capture,Rhythm Recordings Mac,Audio Editing on Mac,Beat Making for Mac Users,Mac Audio Enhancement,Syncing Beats to Mac"
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## Beats & Rhythms: Capturing Sounds with Mac

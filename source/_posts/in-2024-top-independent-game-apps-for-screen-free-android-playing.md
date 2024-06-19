@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Independent Game Apps for Screen-Free Android Playing\""
-date: 2024-05-19T22:30:29.650Z
-updated: 2024-05-20T22:30:29.650Z
+date: 2024-06-18T12:20:12.468Z
+updated: 2024-06-19T12:20:12.468Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Top Independent Game Apps for Screen-Free Android Playing\""
 excerpt: "\"This Article Describes In 2024, Top Independent Game Apps for Screen-Free Android Playing\""
 keywords: "\"Free Indie Games,Android NoScreen Fun,Screen-Free Gaming,Top Indie Apps,Mobile Games Zero Screen,Android Independent Titles,Play Without Screens\""
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## Top Independent Game Apps for Screen-Free Android Playing

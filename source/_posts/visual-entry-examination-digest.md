@@ -1,7 +1,7 @@
 ---
 title: "Visual Entry Examination Digest"
-date: 2024-05-18T10:20:32.293Z
-updated: 2024-05-19T10:20:32.293Z
+date: 2024-06-18T12:20:02.298Z
+updated: 2024-06-19T12:20:02.298Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Visual Entry Examination Digest"
 excerpt: "This Article Describes Visual Entry Examination Digest"
 keywords: "Visio Exam Digest,Visual Test Review,Image Inspection Guide,Vision Evaluation Summary,Exam Digest Visuals,Visual Assessment Compendium,Imagery Entry Analysis"
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Visual Entry Examination Digest

@@ -1,7 +1,7 @@
 ---
 title: "How to Disable Live Recording in QuickTime Player"
-date: 2024-05-19T22:30:08.695Z
-updated: 2024-05-20T22:30:08.695Z
+date: 2024-06-18T12:20:01.885Z
+updated: 2024-06-19T12:20:01.885Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Disable Live Recording in QuickTime Player"
 excerpt: "This Article Describes How to Disable Live Recording in QuickTime Player"
 keywords: "Disabling QuickTime Live Record,Quit Live Streaming QuickTime,Stop QuickTime Live Capture,Turn Off QuickTime Live,Halt QuickTime Recording,Cease Live Recording QuickTime,Remove Live Recorder in QuickTime"
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## How to Disable Live Recording in QuickTime Player
@@ -21,7 +21,7 @@ QuickTime Player by Apple is the default media player on Mac, and the applicatio
 
 When the application fails to stop recording, it fails to save the recording as well. Therefore, QuickTime Player keeps recording the screen, and this slows down the Mac as it keeps occupying the system resources. In this article, we will illustrate all the possible ways to QuickTime Player stop screen recording. We will also recommend a better alternative to QuickTime for professional-quality screen recording.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

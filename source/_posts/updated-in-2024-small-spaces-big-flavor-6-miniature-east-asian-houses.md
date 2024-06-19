@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Small Spaces, Big Flavor  6 Miniature East Asian Houses\""
-date: 2024-05-19T22:30:24.840Z
-updated: 2024-05-20T22:30:24.840Z
+date: 2024-06-18T12:20:07.191Z
+updated: 2024-06-19T12:20:07.191Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Small Spaces, Big Flavor: 6 Miniature East Asian Houses\""
 excerpt: "\"This Article Describes [Updated] In 2024, Small Spaces, Big Flavor: 6 Miniature East Asian Houses\""
 keywords: "\"Mini Houses Asia,Small Space East,Mini House Tastes,Asian Dwarf Homes,East Miniature Homes,Compact East Houses,Flavorful Mini-Asia\""
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Small Spaces, Big Flavor: 6 Miniature East Asian Houses

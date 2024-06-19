@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Ensure Your Virtual Meetings Are Documented"
-date: 2024-05-18T10:19:22.414Z
-updated: 2024-05-19T10:19:22.414Z
+date: 2024-06-18T12:20:17.874Z
+updated: 2024-06-19T12:20:17.874Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, How to Ensure Your Virtual Meetings Are Documented"
 excerpt: "This Article Describes [New] In 2024, How to Ensure Your Virtual Meetings Are Documented"
 keywords: "Doc VirtMeetings,VirtualMeetingLogs,SecureMeetingsRecords,MeetingNotesVR,RecordVirtualGatherings,VRMeetingEvidence,TranscriptVirtualSessions"
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## How to Ensure Your Virtual Meetings Are Documented

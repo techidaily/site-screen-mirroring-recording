@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mac's Secret Shortcuts to Instantaneous Screen Recording"
-date: 2024-05-18T10:07:42.461Z
-updated: 2024-05-19T10:07:42.461Z
+date: 2024-06-18T12:20:02.821Z
+updated: 2024-06-19T12:20:02.821Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Mac's Secret Shortcuts to Instantaneous Screen Recording"
 excerpt: "This Article Describes [Updated] Mac's Secret Shortcuts to Instantaneous Screen Recording"
 keywords: "Quick Mac Screen Capture,Instant Record on Mac,Mac Screen Save Tricks,Fast Mac Recording Tools,Easy Mac Video Capture,Rapid Mac Screencasting,Shortcuts for Mac Record Screens"
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Mac's Secret Shortcuts to Instantaneous Screen Recording

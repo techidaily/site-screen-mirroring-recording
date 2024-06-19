@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Mobile MOBAs for Android Gamers"
-date: 2024-05-18T10:02:33.596Z
-updated: 2024-05-19T10:02:33.596Z
+date: 2024-06-18T12:20:09.922Z
+updated: 2024-06-19T12:20:09.922Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 10 Mobile MOBAs for Android Gamers"
 excerpt: "This Article Describes [New] Top 10 Mobile MOBAs for Android Gamers"
 keywords: "Mobile MOBAs Android,Top MOBAs Android Games,Best Android MOBA Games,MOBAs on Android Platform,Android's Top MOBA Titles,Best MOBA Games for Android,Popular Android MOBA Games"
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Top 10 Mobile MOBAs for Android Gamers

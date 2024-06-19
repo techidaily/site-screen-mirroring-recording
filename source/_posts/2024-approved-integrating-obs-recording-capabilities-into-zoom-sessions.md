@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating OBS Recording Capabilities Into Zoom Sessions\""
-date: 2024-05-18T10:29:18.619Z
-updated: 2024-05-19T10:29:18.619Z
+date: 2024-06-18T12:20:03.596Z
+updated: 2024-06-19T12:20:03.596Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Integrating OBS Recording Capabilities Into Zoom Sessions\""
 excerpt: "\"This Article Describes 2024 Approved: Integrating OBS Recording Capabilities Into Zoom Sessions\""
 keywords: "Zoom OBS Integration,Zoom Screen Capture,Zoom Virtual Recordings,Video OBS in Zoom,OBS Zoom Sessions,Zooming OBS Recording,Zoom with OBS Features"
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Integrating OBS Recording Capabilities Into Zoom Sessions
@@ -27,7 +27,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 
@@ -107,7 +107,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 
@@ -187,7 +187,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 
@@ -267,7 +267,7 @@ Part 2. [Record Roblox Games with Filmora](#part2)
 
 Part 3. [Record Roblox with Windows Game Bar](#part3)
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record screen on PC and Mac with webcam
 

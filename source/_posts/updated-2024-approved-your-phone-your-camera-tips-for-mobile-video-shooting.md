@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Your Phone, Your Camera  Tips for Mobile Video Shooting\""
-date: 2024-05-19T22:30:45.221Z
-updated: 2024-05-20T22:30:45.221Z
+date: 2024-06-18T12:20:10.402Z
+updated: 2024-06-19T12:20:10.402Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Your Phone, Your Camera: Tips for Mobile Video Shooting\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Your Phone, Your Camera: Tips for Mobile Video Shooting\""
 keywords: "\"Mobile Video Tips,Selfie Shooting Guide,Phone Camera Settings,On-the-Go Filming Techniques,Portable Video Equipment,DIY Mobile Videography,Lighting for Phone Videos\""
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Your Phone, Your Camera: Tips for Mobile Video Shooting

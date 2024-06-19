@@ -1,7 +1,7 @@
 ---
 title: "BlitzBurst FreezeFrame Video for 2024"
-date: 2024-05-19T22:32:00.388Z
-updated: 2024-05-20T22:32:00.388Z
+date: 2024-06-18T12:20:16.133Z
+updated: 2024-06-19T12:20:16.133Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes BlitzBurst FreezeFrame Video for 2024"
 excerpt: "This Article Describes BlitzBurst FreezeFrame Video for 2024"
 keywords: "Mac Video Capture #1,Best Mac Pics Frames,Top Mac Screen Grabs,Ultimate Mac Videoshop,Leading Mac Frame Saves,Prime Mac Picture Clip,Premium Mac Video Snaps"
-thumbnail: https://www.lifewire.com/thmb/koSaGJ5iVSnQrrvXh53lyy1rSZM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/podcasts-safeforkids-5b2f3dd4eb97de0036d9f87b.jpg
+thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg
 ---
 
 ## BlitzBurst FreezeFrame Video

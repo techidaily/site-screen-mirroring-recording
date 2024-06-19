@@ -1,7 +1,7 @@
 ---
 title: "\"Swift Practices  Efficient Recording of Online Meetings\""
-date: 2024-05-19T22:30:54.993Z
-updated: 2024-05-20T22:30:54.993Z
+date: 2024-06-18T12:20:17.310Z
+updated: 2024-06-19T12:20:17.310Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Swift Practices: Efficient Recording of Online Meetings\""
 excerpt: "\"This Article Describes Swift Practices: Efficient Recording of Online Meetings\""
 keywords: "Swift Meeting Record,Swift Video Call,Quick Office Meet,Rapid Web Conference,Agile Virtual Gathering,Efficient Online Hearing,Brisk Cloud Chat Recording"
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## Swift Practices: Efficient Recording of Online Meetings

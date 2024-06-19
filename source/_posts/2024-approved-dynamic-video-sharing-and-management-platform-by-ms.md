@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Dynamic Video Sharing & Management Platform by MS\""
-date: 2024-05-18T10:34:45.720Z
-updated: 2024-05-19T10:34:45.720Z
+date: 2024-06-18T12:20:10.826Z
+updated: 2024-06-19T12:20:10.826Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Dynamic Video Sharing & Management Platform by MS\""
 excerpt: "\"This Article Describes 2024 Approved: Dynamic Video Sharing & Management Platform by MS\""
 keywords: "\"MS Dynamic Videos,Video Management MS,Dynamic Video Share,MS Video Platform,Real-Time Video Platform,MS Media System,Versatile Video Sharing\""
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Dynamic Video Sharing & Management Platform by MS

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Methods for Shushing Complaints in GMeet Sessions\""
-date: 2024-05-19T22:30:14.696Z
-updated: 2024-05-20T22:30:14.696Z
+date: 2024-06-18T12:20:17.544Z
+updated: 2024-06-19T12:20:17.544Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expert Methods for Shushing Complaints in GMeet Sessions\""
 excerpt: "\"This Article Describes 2024 Approved: Expert Methods for Shushing Complaints in GMeet Sessions\""
 keywords: "Shush Complaints Tips,Expert Complaint Management,Efficient SGM Meeting Solutions,Handle SGM Disruptions,GMeet Session Harmony,Professional Complaint Techniques,Conflict Resolution in SGMs"
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## Expert Methods for Shushing Complaints in GMeet Sessions
@@ -90,7 +90,7 @@ Important Note: Host Management should be turned on prior to the commencement of
 
 At the button right of your Google Meet window, click on “people” and then click the “Mute all” button.
 
-![ mute all on Google Meet  ](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
+![mute all on Google Meet](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
 
 **Side note:** Once a participant is muted, they do have the option to manually unmute themselves, so remember that.
 
@@ -102,7 +102,7 @@ Take a look at these extensions which will enable you to mute Google Meet partic
 
 ### Mute All for Google Meet
 
-![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
+![mute all on Google Meet with extension](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
 
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
@@ -133,13 +133,13 @@ Don’t you just hate it when there is too much distortion or disturbance in a s
 
 In the Google Meet window, click on the people icon and a list of participant names will appear on the screen.
 
-![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
+![Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
-![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
+![remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -236,7 +236,7 @@ Important Note: Host Management should be turned on prior to the commencement of
 
 At the button right of your Google Meet window, click on “people” and then click the “Mute all” button.
 
-![ mute all on Google Meet  ](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
+![mute all on Google Meet](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
 
 **Side note:** Once a participant is muted, they do have the option to manually unmute themselves, so remember that.
 
@@ -248,7 +248,7 @@ Take a look at these extensions which will enable you to mute Google Meet partic
 
 ### Mute All for Google Meet
 
-![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
+![mute all on Google Meet with extension](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
 
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
@@ -279,13 +279,13 @@ Don’t you just hate it when there is too much distortion or disturbance in a s
 
 In the Google Meet window, click on the people icon and a list of participant names will appear on the screen.
 
-![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
+![Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
-![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
+![remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -382,7 +382,7 @@ Important Note: Host Management should be turned on prior to the commencement of
 
 At the button right of your Google Meet window, click on “people” and then click the “Mute all” button.
 
-![ mute all on Google Meet  ](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
+![mute all on Google Meet](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
 
 **Side note:** Once a participant is muted, they do have the option to manually unmute themselves, so remember that.
 
@@ -394,7 +394,7 @@ Take a look at these extensions which will enable you to mute Google Meet partic
 
 ### Mute All for Google Meet
 
-![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
+![mute all on Google Meet with extension](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
 
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
@@ -425,13 +425,13 @@ Don’t you just hate it when there is too much distortion or disturbance in a s
 
 In the Google Meet window, click on the people icon and a list of participant names will appear on the screen.
 
-![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
+![Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
-![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
+![remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -528,7 +528,7 @@ Important Note: Host Management should be turned on prior to the commencement of
 
 At the button right of your Google Meet window, click on “people” and then click the “Mute all” button.
 
-![ mute all on Google Meet  ](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
+![mute all on Google Meet](https://images.wondershare.com/filmora/article-images/mute-all-people-on-google-meet.jpg)
 
 **Side note:** Once a participant is muted, they do have the option to manually unmute themselves, so remember that.
 
@@ -540,7 +540,7 @@ Take a look at these extensions which will enable you to mute Google Meet partic
 
 ### Mute All for Google Meet
 
-![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
+![mute all on Google Meet with extension](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
 
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
@@ -571,13 +571,13 @@ Don’t you just hate it when there is too much distortion or disturbance in a s
 
 In the Google Meet window, click on the people icon and a list of participant names will appear on the screen.
 
-![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
+![Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
-![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
+![remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 

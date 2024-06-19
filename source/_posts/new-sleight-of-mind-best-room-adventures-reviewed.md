@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sleight of Mind  Best Room Adventures Reviewed\""
-date: 2024-05-19T22:30:27.452Z
-updated: 2024-05-20T22:30:27.452Z
+date: 2024-06-18T12:20:14.858Z
+updated: 2024-06-19T12:20:14.858Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Sleight of Mind: Best Room Adventures Reviewed\""
 excerpt: "\"This Article Describes [New] Sleight of Mind: Best Room Adventures Reviewed\""
 keywords: "Mind Sleights,Room Escapes,Adventure Rooms,Mind Games Rev,Space for Fun,Entertaining Spaces,Adventurous Chambers"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Sleight of Mind: Best Room Adventures Reviewed

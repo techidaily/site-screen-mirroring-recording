@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Image Recording Assistant\""
-date: 2024-05-18T09:58:02.011Z
-updated: 2024-05-19T09:58:02.011Z
+date: 2024-06-18T12:20:04.302Z
+updated: 2024-06-19T12:20:04.302Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Image Recording Assistant\""
 excerpt: "\"This Article Describes 2024 Approved: Image Recording Assistant\""
 keywords: "PhotoRecorderHelper,ImageCaptureAssistant,VisualRecordAide,PhotoGuardianApp,ImageProfessionalist,CaptureEaseDevice,PictureSupportTool"
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Image Recording Assistant
