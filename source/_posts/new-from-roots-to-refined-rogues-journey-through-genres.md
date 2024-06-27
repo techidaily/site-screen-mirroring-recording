@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Roots to Refined  Rogue's Journey Through Genres\""
-date: 2024-05-18T10:11:42.846Z
-updated: 2024-05-19T10:11:42.846Z
+date: 2024-06-26T01:57:10.350Z
+updated: 2024-06-27T01:57:10.350Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes [New] From Roots to Refined: Rogue's Journey Through Genres\""
 excerpt: "\"This Article Describes [New] From Roots to Refined: Rogue's Journey Through Genres\""
 keywords: "Rogues Genre Journey,From Root to Fine,Refined Genre Path,Roots to Polished,Rogue's Genre Shift,Creative Genres Explore,Finesse Through Styles"
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## From Roots to Refined: Rogue's Journey Through Genres
 
-# Roguelike vs. Roguelite: Debates and History Explained With Game Examples
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# Roguelike vs. Roguelite: Debates and History Explained With Game Examples ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

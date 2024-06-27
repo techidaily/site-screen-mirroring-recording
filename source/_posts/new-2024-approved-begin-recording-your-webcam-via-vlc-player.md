@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Begin Recording Your Webcam via VLC Player\""
-date: 2024-05-18T10:06:45.698Z
-updated: 2024-05-19T10:06:45.698Z
+date: 2024-06-26T01:57:07.971Z
+updated: 2024-06-27T01:57:07.971Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Begin Recording Your Webcam via VLC Player\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Begin Recording Your Webcam via VLC Player\""
 keywords: "VLC Webcam Start,VLC Cam Record,VLC Video Capture,VLC Webcam Stream,VLC Video Recorder,Use VLC to Record,VLC Camera Settings"
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## Begin Recording Your Webcam via VLC Player

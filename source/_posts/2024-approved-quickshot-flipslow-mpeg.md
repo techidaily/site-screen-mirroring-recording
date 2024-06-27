@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  QuickShot FlipSlow MPEG\""
-date: 2024-05-19T22:31:04.766Z
-updated: 2024-05-20T22:31:04.766Z
+date: 2024-06-26T01:57:14.151Z
+updated: 2024-06-27T01:57:14.151Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: QuickShot FlipSlow MPEG\""
 excerpt: "\"This Article Describes 2024 Approved: QuickShot FlipSlow MPEG\""
 keywords: "MacOS ScreenFlow Review,ScreenFlow macOS Guide,ScreenFlow V4 macOS,MacOS Flow Editing,MacOS ScreenFlow Update,ScreenFlow macOS Insight,MacOS Software Unwrapped"
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## QuickShot FlipSlow MPEG

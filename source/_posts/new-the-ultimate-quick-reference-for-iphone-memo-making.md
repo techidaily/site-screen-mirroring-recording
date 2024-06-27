@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Quick Reference for iPhone Memo-Making\""
-date: 2024-05-18T10:16:54.127Z
-updated: 2024-05-19T10:16:54.127Z
+date: 2024-06-26T01:57:18.620Z
+updated: 2024-06-27T01:57:18.620Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] The Ultimate Quick Reference for iPhone Memo-Making\""
 excerpt: "\"This Article Describes [New] The Ultimate Quick Reference for iPhone Memo-Making\""
 keywords: "IPhone Memo Guide,Quick iOS Notes Tips,Best iPhone Memos Shortcuts,Easy iPhone Note Making,Ultimate iOS Memo Reference,FastiPhone Memo Creation,Essential iPhone Memo Tools"
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## The Ultimate Quick Reference for iPhone Memo-Making

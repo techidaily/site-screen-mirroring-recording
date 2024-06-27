@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Prime 5 Web-Based Screening Sessions\""
-date: 2024-05-19T22:30:50.182Z
-updated: 2024-05-20T22:30:50.182Z
+date: 2024-06-26T01:57:10.467Z
+updated: 2024-06-27T01:57:10.467Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Prime 5 Web-Based Screening Sessions\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Prime 5 Web-Based Screening Sessions\""
 keywords: "\"Web-Based Testing Sessions,Prime Online Screenings,Digital Pre-Screening Meetups,Virtual Health Assessments,EHealth Initial Consults,Online Medical Check-Ins,Telehealth Preliminary Visits\""
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## Prime 5 Web-Based Screening Sessions
@@ -43,9 +43,7 @@ Step 1: Select the appropriate options in the setting system. Filmora's user int
 
 Step 2\. There is a rectangle button on the left side of the screen recorder's window, that lets you choose which area of the screen you will record. You can select from Full Screen, Custom and target window options.
 
-Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 4\. To do any necessary adjustments click on the settings, the quality frame rate and timer are set on lower by default. You can always alter that according to your requirements.
 
@@ -162,9 +160,7 @@ Step 1: Select the appropriate options in the setting system. Filmora's user int
 
 Step 2\. There is a rectangle button on the left side of the screen recorder's window, that lets you choose which area of the screen you will record. You can select from Full Screen, Custom and target window options.
 
-Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 4\. To do any necessary adjustments click on the settings, the quality frame rate and timer are set on lower by default. You can always alter that according to your requirements.
 
@@ -281,9 +277,7 @@ Step 1: Select the appropriate options in the setting system. Filmora's user int
 
 Step 2\. There is a rectangle button on the left side of the screen recorder's window, that lets you choose which area of the screen you will record. You can select from Full Screen, Custom and target window options.
 
-Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 4\. To do any necessary adjustments click on the settings, the quality frame rate and timer are set on lower by default. You can always alter that according to your requirements.
 
@@ -400,9 +394,7 @@ Step 1: Select the appropriate options in the setting system. Filmora's user int
 
 Step 2\. There is a rectangle button on the left side of the screen recorder's window, that lets you choose which area of the screen you will record. You can select from Full Screen, Custom and target window options.
 
-Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+Step 3\. If you are to record your PC audio from a microphone device or audio system on the computer, then turn on the icons ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 4\. To do any necessary adjustments click on the settings, the quality frame rate and timer are set on lower by default. You can always alter that according to your requirements.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Rescue  Cameras Are Back Up\""
-date: 2024-05-18T10:17:25.354Z
-updated: 2024-05-19T10:17:25.354Z
+date: 2024-06-26T01:57:20.688Z
+updated: 2024-06-27T01:57:20.688Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, OBS Rescue: Cameras Are Back Up\""
 excerpt: "\"This Article Describes [Updated] In 2024, OBS Rescue: Cameras Are Back Up\""
 keywords: "OBS Rescue Ready,Camera Restoration,Rescued Cameras,OBS Repair,Recovered Cameras,Quick Camera Fix,Backup Cameras Now"
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## OBS Rescue: Cameras Are Back Up

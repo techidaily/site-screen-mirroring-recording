@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Live Webcam Capture in VLC Media Player"
-date: 2024-05-19T22:30:36.214Z
-updated: 2024-05-20T22:30:36.214Z
+date: 2024-06-26T01:57:06.729Z
+updated: 2024-06-27T01:57:06.729Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Live Webcam Capture in VLC Media Player"
 excerpt: "This Article Describes [New] In 2024, Live Webcam Capture in VLC Media Player"
 keywords: "\"VLC Live Streaming,VLC Webcam View,VLC Real-Time Capture,VLC Video Sharing,VLC Direct Playback,VLC Live Feed Access,VLC Screencast Function\""
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Live Webcam Capture in VLC Media Player

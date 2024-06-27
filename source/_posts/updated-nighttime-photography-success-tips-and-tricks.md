@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Nighttime Photography Success Tips & Tricks"
-date: 2024-05-18T10:20:01.689Z
-updated: 2024-05-19T10:20:01.689Z
+date: 2024-06-26T01:57:08.242Z
+updated: 2024-06-27T01:57:08.242Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Nighttime Photography Success Tips & Tricks"
 excerpt: "This Article Describes [Updated] Nighttime Photography Success Tips & Tricks"
 keywords: "\"Silent Filming Secrets,Stealthy Shooting Tricks,Noiseless Cinematography,Quiet Video Techniques,Hush-Hush Recording Tips,Soundless Cam Shots,Virtually Silent Footage\""
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## Nighttime Photography Success Tips & Tricks

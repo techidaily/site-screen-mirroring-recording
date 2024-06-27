@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Enhancing Lighting and Shadows in OBS Video"
-date: 2024-05-19T22:31:06.782Z
-updated: 2024-05-20T22:31:06.782Z
+date: 2024-06-26T01:57:13.431Z
+updated: 2024-06-27T01:57:13.431Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Enhancing Lighting and Shadows in OBS Video"
 excerpt: "This Article Describes [New] In 2024, Enhancing Lighting and Shadows in OBS Video"
 keywords: "OBS Shadow Tech,Enhance OBS Illumination,OBS Brightness Control,Improve OBS Light Effects,OBS Lighting Optimization,Dynamic Light in OBS,Shadow Amplification OBS"
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Enhancing Lighting and Shadows in OBS Video

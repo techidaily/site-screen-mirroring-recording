@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect OBS Settings for Low-Cost Hardware\""
-date: 2024-05-18T10:27:53.875Z
-updated: 2024-05-19T10:27:53.875Z
+date: 2024-06-26T01:57:18.911Z
+updated: 2024-06-27T01:57:18.911Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Perfect OBS Settings for Low-Cost Hardware\""
 excerpt: "\"This Article Describes 2024 Approved: Perfect OBS Settings for Low-Cost Hardware\""
 keywords: "\"Budget-Friendly OBS,Affordable OBS Configs,Inexpensive OBS Setup,Economical OBS Settings,Low-Cost OBS Arrangement,Thrifty OBS Configuration,Value-Oriented OBS Options\""
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## Perfect OBS Settings for Low-Cost Hardware
@@ -85,9 +85,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-### Step 2: Audio Tab Settings
-
-![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+### Step 2: Audio Tab Settings ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Record and Save Your Workscreen on Windows 8"
-date: 2024-06-18T12:20:35.835Z
-updated: 2024-06-19T12:20:35.835Z
+date: 2024-06-26T01:57:05.132Z
+updated: 2024-06-27T01:57:05.132Z
 tags: 
   - screen-recording
   - ai video
@@ -17,9 +17,7 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ## How to Record and Save Your Workscreen on Windows 8
 
-# How To Record Your Screen On Windows 8
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# How To Record Your Screen On Windows 8 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 
@@ -46,9 +44,7 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
- **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
-
-![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
+ **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
@@ -94,9 +90,7 @@ Here's the stpes:
 
  **Step 1:**  Download and Install Ezvid Free Screen Recorders latest version on Windows 8\. Open the software.
 
- **Step 2:**  Click capture screen button (Make sure you have applied the settings you need). Stop recording when ready - Automatically saves to timeline
-
-![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
+ **Step 2:**  Click capture screen button (Make sure you have applied the settings you need). Stop recording when ready - Automatically saves to timeline ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 

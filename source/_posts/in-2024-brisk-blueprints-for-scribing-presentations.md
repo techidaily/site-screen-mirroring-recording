@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Brisk Blueprints for Scribing Presentations"
-date: 2024-06-18T12:20:02.905Z
-updated: 2024-06-19T12:20:02.905Z
+date: 2024-06-26T01:57:06.842Z
+updated: 2024-06-27T01:57:06.842Z
 tags: 
   - screen-recording
   - ai video
@@ -90,9 +90,7 @@ Screencast O Matic is a web-based program that catches your PC screen in a video
 
 ### Step 1\. Head to Screencast-O-Matic Website
 
-Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
-
-![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
+Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both ![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
 
 ### Step 2\. Begin Recording
 
@@ -149,9 +147,7 @@ Screencast O Matic is a web-based program that catches your PC screen in a video
 
 ### Step 1\. Head to Screencast-O-Matic Website
 
-Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
-
-![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
+Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both ![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
 
 ### Step 2\. Begin Recording
 
@@ -208,9 +204,7 @@ Screencast O Matic is a web-based program that catches your PC screen in a video
 
 ### Step 1\. Head to Screencast-O-Matic Website
 
-Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
-
-![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
+Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both ![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
 
 ### Step 2\. Begin Recording
 
@@ -267,9 +261,7 @@ Screencast O Matic is a web-based program that catches your PC screen in a video
 
 ### Step 1\. Head to Screencast-O-Matic Website
 
-Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both
-
-![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
+Dispatch the Screencast-O-Matic application on your PC To begin recording, open the applications you might want to use in your recording (for example PowerPoint, web program, and so on), A window will show up for certain fundamental settings you should pick before beginning, beneath is a breakdown of these settings. Pick what you are hoping to record, the PC screen, the webcam, or a blend of both ![screencast-o-matic](https://images.wondershare.com/filmora/article-images/screencast-o-matic.jpg)
 
 ### Step 2\. Begin Recording
 

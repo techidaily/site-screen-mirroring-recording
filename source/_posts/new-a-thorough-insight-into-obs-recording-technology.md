@@ -1,7 +1,7 @@
 ---
 title: "[New] A Thorough Insight Into OBS Recording Technology"
-date: 2024-05-19T22:30:18.767Z
-updated: 2024-05-20T22:30:18.767Z
+date: 2024-06-26T01:57:09.776Z
+updated: 2024-06-27T01:57:09.776Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] A Thorough Insight Into OBS Recording Technology"
 excerpt: "This Article Describes [New] A Thorough Insight Into OBS Recording Technology"
 keywords: "OBS Tech Insights,OBS Recording Guide,Video Capture Basics,Broadcasting Tools Explained,Tech Behind OBS,Streaming Technology OBS,OBS Studio Overview"
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## A Thorough Insight Into OBS Recording Technology

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Eco-Friendly Film Tech\""
-date: 2024-05-18T10:06:28.950Z
-updated: 2024-05-19T10:06:28.950Z
+date: 2024-06-26T01:57:18.654Z
+updated: 2024-06-27T01:57:18.654Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Top Eco-Friendly Film Tech\""
 excerpt: "\"This Article Describes In 2024, Top Eco-Friendly Film Tech\""
 keywords: "\"Green FilmTech,EcoFilm Innovation,Sustainable MovieMaking,Eco-Friendly Cinematography,Biodegradable FilmTech,Nature-Inspired Filmmaking,Environmental Tech in Films\""
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Top Eco-Friendly Film Tech

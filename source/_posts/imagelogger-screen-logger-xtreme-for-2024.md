@@ -1,7 +1,7 @@
 ---
 title: "ImageLogger Screen Logger Xtreme for 2024"
-date: 2024-05-19T22:30:59.331Z
-updated: 2024-05-20T22:30:59.331Z
+date: 2024-06-26T01:57:21.136Z
+updated: 2024-06-27T01:57:21.136Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes ImageLogger Screen Logger Xtreme for 2024"
 excerpt: "This Article Describes ImageLogger Screen Logger Xtreme for 2024"
 keywords: "Extreme ImageLogging,LogXtreme Imager,ScreenXtreme Logger,ImageLogger ProX,Xtreme Screen Log,ImagerScreen Logger,Extreme LogVisual"
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## ImageLogger Screen Logger Xtreme

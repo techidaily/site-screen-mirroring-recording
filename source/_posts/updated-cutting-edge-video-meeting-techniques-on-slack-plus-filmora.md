@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cutting-Edge Video Meeting Techniques on Slack + Filmora\""
-date: 2024-05-18T10:29:17.800Z
-updated: 2024-05-19T10:29:17.800Z
+date: 2024-06-26T01:57:11.248Z
+updated: 2024-06-27T01:57:11.248Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes [Updated] Cutting-Edge Video Meeting Techniques on Slack + Filmora\""
 excerpt: "\"This Article Describes [Updated] Cutting-Edge Video Meeting Techniques on Slack + Filmora\""
 keywords: "Slack VideoTech,Filmora ChatRoom,CuttingSlackTechnics,ModernMeetingsFilmo,SlackCinemaTools,VideoConferencingSlack,InnovativeFilmorAdapt"
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Cutting-Edge Video Meeting Techniques on Slack + Filmora
 
-# How to Schedule and Record a Meeting on Slack-Wondershare Filmora
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# How to Schedule and Record a Meeting on Slack-Wondershare Filmora ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Legacy of Dungeons Vs. New Gameplay Concepts\""
-date: 2024-05-18T10:35:23.810Z
-updated: 2024-05-19T10:35:23.810Z
+date: 2024-06-26T01:57:18.382Z
+updated: 2024-06-27T01:57:18.382Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes 2024 Approved: Legacy of Dungeons Vs. New Gameplay Concepts\""
 excerpt: "\"This Article Describes 2024 Approved: Legacy of Dungeons Vs. New Gameplay Concepts\""
 keywords: "\"Dvsn Legacy Impact,Dungeon Legacy Evolution,VsDungeon Innovation Shift,Classic vs Modern D&D,D&D Gameplay Transformation,New Mechanics in Old Games,RPG: Dungeons Nexus\""
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## Legacy of Dungeons Vs. New Gameplay Concepts
 
-# Roguelike vs. Roguelite: Debates and History Explained With Game Examples
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# Roguelike vs. Roguelite: Debates and History Explained With Game Examples ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 
