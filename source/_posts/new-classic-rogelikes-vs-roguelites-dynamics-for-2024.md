@@ -1,7 +1,7 @@
 ---
 title: "[New] Classic Rogelikes Vs. Roguelites' Dynamics for 2024"
-date: 2024-05-18T10:29:36.917Z
-updated: 2024-05-19T10:29:36.917Z
+date: 2024-07-04T01:37:37.925Z
+updated: 2024-07-05T01:37:37.925Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Classic Rogelikes Vs. Roguelites' Dynamics for 2024"
 excerpt: "This Article Describes [New] Classic Rogelikes Vs. Roguelites' Dynamics for 2024"
 keywords: "Rogelike vs Roguelite Games,Classic Rogelikes Analysis,Roguelites Mechanism Study,Dynamic Game Design (Rogelikes),Rogelike Vs Roguelite Trends,Classic Rogeliking Dynamics,Rogelightly Evolving Games"
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## Classic Rogelikes Vs. Roguelites' Dynamics

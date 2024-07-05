@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Record Console Gameplay on Computer\""
-date: 2024-05-19T22:30:26.402Z
-updated: 2024-05-20T22:30:26.402Z
+date: 2024-07-04T01:37:34.590Z
+updated: 2024-07-05T01:37:34.590Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: How to Record Console Gameplay on Computer\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: How to Record Console Gameplay on Computer\""
 keywords: "Gaming Console Record,PlayStation Capture,Xbox Game Save,PC Game Screencast,Nintendo Recording,Capture Console Games,Console Gameplay Video"
-thumbnail: https://www.lifewire.com/thmb/jNpQ-FANgbEnW9RjbyV2cn6aRhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-10-best-password-managers-of-2022-6543213-7650bf3ab2eb41a08dbee8713ce811e3.jpg
+thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg
 ---
 
 ## How to Record Console Gameplay on Computer

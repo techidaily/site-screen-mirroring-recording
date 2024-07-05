@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Correct OBS Blackout Error in Gaming Capture"
-date: 2024-05-18T10:29:56.556Z
-updated: 2024-05-19T10:29:56.556Z
+date: 2024-07-04T01:37:37.384Z
+updated: 2024-07-05T01:37:37.384Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Correct OBS Blackout Error in Gaming Capture"
 excerpt: "This Article Describes [Updated] In 2024, Correct OBS Blackout Error in Gaming Capture"
 keywords: "Gaming Bugs Correction,OBS Blackout Fix,Gaming Error Resolution,Capture Software Troubleshooting,Live Streaming Glitch Fix,OBS Gameplay Interruption,Screen Recording Anomalies"
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## Correct OBS Blackout Error in Gaming Capture

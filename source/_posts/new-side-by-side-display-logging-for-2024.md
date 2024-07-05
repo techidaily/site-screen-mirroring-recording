@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Side-by-Side Display Logging for 2024\""
-date: 2024-06-26T01:57:20.487Z
-updated: 2024-06-27T01:57:20.487Z
+date: 2024-07-04T01:37:33.457Z
+updated: 2024-07-05T01:37:33.457Z
 tags: 
   - screen-recording
   - ai video
@@ -17,7 +17,8 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ## Side-by-Side Display Logging
 
-# How to Record Multiple Monitors ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+# How to Record Multiple Monitors
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Syncing Your Live OBS Content with FB Network\""
-date: 2024-05-18T10:36:03.323Z
-updated: 2024-05-19T10:36:03.323Z
+date: 2024-07-04T01:37:36.931Z
+updated: 2024-07-05T01:37:36.931Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Syncing Your Live OBS Content with FB Network\""
 excerpt: "\"This Article Describes 2024 Approved: Syncing Your Live OBS Content with FB Network\""
 keywords: "\"Live OBS Sync,OBS Broadcasting,OBS to FB,Social Media Streaming,OBS Facebook Integration,Real-Time Video Sharing,Linking OBS Feeds\""
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Syncing Your Live OBS Content with FB Network
