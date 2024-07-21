@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Solved  OBS Full Screen Anomaly\""
-date: 2024-05-18T10:18:25.989Z
-updated: 2024-05-19T10:18:25.989Z
+date: 2024-07-20T09:34:25.074Z
+updated: 2024-07-21T09:34:25.074Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Solved: OBS Full Screen Anomaly\""
 excerpt: "\"This Article Describes [New] In 2024, Solved: OBS Full Screen Anomaly\""
 keywords: "OBS Fullscreen Issue,Solve FullScreenObs,Fix OBS FullScreen,Anomaly in FullScreenOBS,Troubleshoot Full Screen OBS,Resolving OBS Glitch,Correcting OBS FullView"
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## Solved: OBS Full Screen Anomaly
@@ -21,6 +21,9 @@ OBS Studio is the most popular free video recording and streaming software. Howe
 
 First of all, OBS Studio files could have got corrupted somehow. Sometimes, OBS Studio is heavily using CPU resources in capturing full screen, and hence, due to very fast access, CPU has limited the access of usage. There are could be a compatibility issue with OBS Studio and your Windows version. Sometimes, any third-party screen recording software could intervene in OBS operation. In this article, we will illustrate all the possible ways to fix OBS does not recording full screen issue.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 1\. Modify CPU Setting for OBS
 
 By default, OBS CPU usage present is set to very fast. This means the encoder is running very fast which leads to less CPU time usage. The higher the present, the less is the CPU usage. Unless you have a high-end computer, this default setting can lead to rendering and encoding issues. OBS uses more CPU resources when you are recording full screen. CPU tends to limit its allocation for OBS when OBS starts using CPU resources at a very fast speed. This leads to OBS not full screen recording issue. You should change the setting by taking the following steps.
@@ -51,6 +54,10 @@ Step 3: Go to Xbox Game Bar tab on the left side.
 
 4: Turn it off so that it does not record your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![windows settings xbox game bar](https://images.wondershare.com/filmora/article-images/windows-settings-xbox-game-bar.jpg)
 
 ## Way 3\. Empower the Compatibility Mode
@@ -79,6 +86,9 @@ Step 7: Click on Apply and OK button.
 
 Relaunch OBS Studio and check if the problem is solved.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 4\. Turn Your Gameplay to Windowed Mode
 
 When OBS Studio not recording full screen game, you have to move to Windowed Mode momentarily to ensure OBS Studio is actually capturing the gameplay or not. After capturing your gameplay in Windowed mode, you can switch to Full Screen Mode and check if the problem is solved. This helps as the default settings get reset and any issue with the settings causing the problem gets resolved. Here are the steps to follow.
@@ -103,10 +113,16 @@ Step 1: Go to Control Panel > Programs and Features option.
 
 Step 2: From the list of installed applications, find OBS Studio and click on Uninstall/Change button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![re install obs uninstall](https://images.wondershare.com/filmora/article-images/re-install-obs-uninstall.jpg)
 
 Step 3: Once OBS Studio is successfully uninstalled, open your web browser and visit “obsproject.com”.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
 
 Step 4: Download and install OBS Studio as per your operating system. Give all the necessary permissions during installation.
@@ -127,10 +143,16 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size as full screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
@@ -151,6 +173,9 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 Step 2: Select the recording screen size as full screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
@@ -167,10 +192,16 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size as full screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
@@ -187,6 +218,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size as full screen.
@@ -226,3 +260,46 @@ OBS full screen not working is a common issue that many users have reported on v
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-gpus-for-ultra-hd-video-production/"><u>[New] 2024 Approved  Best GPUs for Ultra HD Video Production</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-review-best-mac-apps-for-screenshots/"><u>[New] 2024 Approved  Expert Review  Best Mac Apps for Screenshots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exploring-the-depths-of-fraps-recorders/"><u>[New] 2024 Approved  Exploring the Depths of Fraps Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-fresh-footage-first-episode-insight/"><u>[New] 2024 Approved  Fresh Footage First-Episode Insight</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-the-mystique-of-moonlit-portraits/"><u>[New] 2024 Approved  Mastering the Mystique of Moonlit Portraits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-pros-and-cons-for-the-leading-free-screencast-apps/"><u>[New] 2024 Approved  Pros & Cons for the Leading Free Screencast Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perpetual-display-documentation-firms/"><u>[New] In 2024, Perpetual Display Documentation Firms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlined-mac-package-audio-plus-video-capture/"><u>[New] In 2024, Streamlined Mac Package  Audio + Video Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlining-video-conferencing-with-efficient-use-of-snap-features-on-google-meet/"><u>[New] In 2024, Streamlining Video Conferencing with Efficient Use of Snap Features on Google Meet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-vidmas-technology-in-screen-capturing-spotlighted/"><u>[New] In 2024, Vidma’s Technology in Screen Capturing Spotlighted</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-inside-the-wonders-of-stardew-valley-particularly-ginger-island-for-2024/"><u>[New] Inside the Wonders of Stardew Valley, Particularly Ginger Island for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-justifying-itop-as-your-primary-recording-software-in-2024/"><u>[New] Justifying ITop as Your Primary Recording Software, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-wonders-of-obs-on-android-devices-for-2024/"><u>[New] Navigating the Wonders of OBS on Android Devices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-nostalgic-compassion-preferred-android-emulators-for-3ds-for-2024/"><u>[New] Nostalgic Compassion  Preferred Android Emulators for 3DS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[Updated] 2024 Approved  Obs vs ShadowPlay  The Streaming Software Showdown</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-swift-simplified-steps-mastering-iphone-screen-recordings/"><u>[Updated] 2024 Approved  Swift, Simplified Steps  Mastering Iphone Screen Recordings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo-for-2024/"><u>[Updated] Efficient Video Editing  Learn the Ultimate Online Ways to Shorten & Slice on Vimeo for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimizing-color-depth-and-gradients-for-obs/"><u>[Updated] In 2024, Optimizing Color Depth and Gradients for OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-premium-recording-application-chromebook-focus/"><u>[Updated] In 2024, Premium Recording Application  Chromebook Focus</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-selecting-the-optimal-mac-microphone-recorders-our-expert-picks-of-5/"><u>[Updated] In 2024, Selecting the Optimal Mac Microphone Recorders  Our Expert Picks of 5</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-definitive-guide-to-android-mobas-10-winners/"><u>[Updated] In 2024, The Definitive Guide to Android MOBAs  #10 Winners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-essential-review-of-screen-recorders-for-mp4/"><u>[Updated] In 2024, The Essential Review of Screen Recorders for MP4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-irecorder-unleashed-a-review-revealed-for-2024/"><u>[Updated] IRecorder Unleashed  A Review Revealed for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-libertycam-pro-live-stream-review-explored-for-2024/"><u>[Updated] LibertyCam Pro Live Stream Review Explored for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-most-streamed-hits-in-spotify-history-for-2024/"><u>[Updated] Most Streamed Hits in Spotify History for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-secrets-of-flawless-video-capture-top-4-apps-for-pcmac-for-2024/"><u>[Updated] Secrets of Flawless Video Capture  Top 4 Apps for PC/Mac for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-shotchrome-ultra-premium-chromeos-snapshooter-for-2024/"><u>[Updated] ShotChrome Ultra  Premium ChromeOS Snapshooter for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tactics-for-smoothly-importing-movies-to-vimeo-from-wmm/"><u>[Updated] Tactics for Smoothly Importing Movies to Vimeo From WMM</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-exclusive-screenflow-examination-for-mac-users/"><u>2024 Approved  Exclusive ScreenFlow Examination for Mac Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-masterful-content-creation-and-branding-via-top-5-youtube-strategies/"><u>2024 Approved  Masterful Content Creation and Branding via #Top 5 YouTube Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-perfection-seamless-text-integration-on-pc-and-mac-systems/"><u>2024 Approved  Photo Perfection  Seamless Text Integration on PC & Mac Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-echo-free-editing-five-approaches-for-audio-cleansing-in-video-content/"><u>2024 Approved Echo-Free Editing Five Approaches for Audio Cleansing in Video Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-6-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 6 Plus</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-the-best-phone-apps-to-modify-voice-quality-for-2024/"><u>Exploring the Best Phone Apps to Modify Voice Quality for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-civi-3-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Civi 3 Phone? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlocking-the-power-of-google-meet-recordings-two-key-tactics/"><u>In 2024, Unlocking the Power of Google Meet Recordings  Two Key Tactics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>Mastering Footage  Select Best Gimbals & Handhelds Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-your-content-posting-twitter-videos-on-snapchat-for-2024/"><u>Streamline Your Content  Posting Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-from-full-spectrum-to-focus-extracting-core-rhythms-for-multimedia-use-for-2024/"><u>Updated From Full Spectrum to Focus Extracting Core Rhythms for Multimedia Use for 2024</u></a></li>
+</ul></div>

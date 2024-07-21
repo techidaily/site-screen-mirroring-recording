@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Dark Realm Explorations  Do's & Don'ts of Nocturnal Shooting\""
-date: 2024-05-18T10:27:07.830Z
-updated: 2024-05-19T10:27:07.830Z
+date: 2024-07-20T10:12:51.808Z
+updated: 2024-07-21T10:12:51.808Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Dark Realm Explorations: Do's & Don'ts of Nocturnal Shooting\""
 excerpt: "\"This Article Describes 2024 Approved: Dark Realm Explorations: Do's & Don'ts of Nocturnal Shooting\""
 keywords: "Chromebook Screenshot Tips,Capture Screenshots Efficiently,Save Chromebook Images,Quick Chromebook Capture,Perfect Screenshot Methods,Screenshot Optimization,Saving Chromebook Pics Fast"
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## Dark Realm Explorations: Do's & Don'ts of Nocturnal Shooting
@@ -21,6 +21,9 @@ It has been seen that most portrait photography is carried out during the daytim
 
 Well, **night-mode portraits** can be such an opportunity. However, it can be a little challenging for you. Night portrait shoots require the photographer to manipulate shutter speed, aperture, ISO, and more. Besides, there are certain dos and don'ts that you also need to keep in mind. Keep reading to know more about this.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
 ## Part 1: Must-Dos in Night Portraits
@@ -47,6 +50,9 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -58,22 +64,36 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 * Close down the aperture.
 * Allow your subject to move into the focus distance.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
 Another thing you need to avoid here is the overuse of light. You need to work on the primary exposure settings, i.e., the ISO, aperture and shutter speed. You should keep in mind that these three configurations will create exposure and influence the photos' overall brightness. One thing to consider while choosing the setting is to have a photo with a lot of detail in the mid-tones, highlights, and shadows.
@@ -82,6 +102,9 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
@@ -92,6 +115,9 @@ For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs
 
 ### How To Capture Good Portraits at Night?
@@ -137,3 +163,60 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-10-leading-free-online-recording-tools-expert-opinions/"><u>[New] 10 Leading Free Online Recording Tools - Expert Opinions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders/"><u>[New] 2024 Approved  Livestream Excellence  Unveiling the Best Practices for Facebook Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-professional-video-recorder-for-windows-pcs/"><u>[New] 2024 Approved  Professional Video Recorder for Windows PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-most-engaging-sandbox-gaming-titles/"><u>[New] 2024 Approved  The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-obs-settings-for-low-end-pcs/"><u>[New] Best OBS Settings for Low-End PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-conquering-gameplay-logic-from-console-to-computer-playback/"><u>[New] Conquering Gameplay Logic  From Console to Computer Playback</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-in-depth-analysis-of-best-practices-in-valheim-agriculture/"><u>[New] In 2024, In-Depth Analysis of Best Practices in Valheim Agriculture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-screen-recording-on-mac-a-comprehensible-method/"><u>[New] In 2024, Screen Recording on Mac  A Comprehensible Method</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unbeatable-11-audio-devices-reviewed-here/"><u>[New] In 2024, Unbeatable 11 Audio Devices Reviewed Here</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-obs-for-android-streaming/"><u>[New] Mastering OBS for Android Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-advanced-features-in-obs-studio-android/"><u>[New] Navigating Advanced Features in OBS Studio (Android)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pixelflame-recorders-for-firefox-for-2024/"><u>[New] PixelFlame Recorders for Firefox for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>[New] Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tech-insightfulness-a-global-experts-assessment-for-2024/"><u>[New] Tech Insightfulness  A Global Experts' Assessment for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-content-step-by-step-guide-to-youtube-video-editing/"><u>[Updated] 2024 Approved  Crafting Content  Step by Step Guide to YouTube Video Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>[Updated] 2024 Approved  In-Depth Review  Tunefab's Latest in Screen Capture Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[Updated] 2024 Approved  Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-definitive-io-screen-recorder-guidebook/"><u>[Updated] 2024 Approved  The Definitive IO Screen Recorder Guidebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-video-meeting-tools-for-professionals-and-educators/"><u>[Updated] 2024 Approved  The Ultimate List of Free Video Meeting Tools for Professionals & Educators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-mac-gif-saving-best-10-gif-apps/"><u>[Updated] 2024 Approved  Top Mac GIF Saving  Best 10 Gif Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-windowgrabber-3d-top-choice/"><u>[Updated] 2024 Approved  WindowGrabber 3D - Top Choice</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-basic-building-blocks-simplest-mc-dwellings-for-novices/"><u>[Updated] Basic Building Blocks  Simplest MC Dwellings for Novices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-bandicam-revolutionizing-screen-capture-for-modern-media/"><u>[Updated] In 2024, Bandicam  Revolutionizing Screen Capture for Modern Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mastering-desktopmobile-screen-sharing-in-google-meet/"><u>[Updated] In 2024, Mastering Desktop/Mobile Screen Sharing in Google Meet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording/"><u>[Updated] In 2024, The Artisan's Handbook  Perfecting Your Windows PC in Live TV Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-audio-prime-9-mic-recording-solutions-for-2024/"><u>[Updated] Mastering Audio  Prime 9 Mic Recording Solutions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-success-in-stardews-enigmatic-ginger-isle-for-2024/"><u>[Updated] The Ultimate Guide to Success in Stardew's Enigmatic Ginger Isle for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-8-best-fbx-game-recorder-alternatives/"><u>[Updated] Top 8 Best FBX Game Recorder Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-advanced-guide-to-documenting-online-sport-spectacles/"><u>2024 Approved  Advanced Guide to Documenting Online Sport Spectacles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-cutting-edge-screen-shifting-for-editors/"><u>2024 Approved  Cutting-Edge Screen Shifting for Editors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-classroom-documentation-choose-the-best-screen-recorder/"><u>2024 Approved  Efficient Classroom Documentation  Choose the Best Screen Recorder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-from-play-to-perfection-ps3-playthroughs-captured/"><u>2024 Approved  From Play to Perfection  PS3 Playthroughs Captured</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-inspiring-abodes-for-minifigure-residences/"><u>2024 Approved  Inspiring Abodes for Minifigure Residences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-personalized-and-accessible-video-conclusions-downloads/"><u>2024 Approved  Personalized & Accessible Video Conclusions Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-screen-solidarities-picking-the-right-media-company/"><u>2024 Approved  Screen Solidarities  Picking the Right Media Company</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tips-for-successful-youtube-audios/"><u>2024 Approved  Tips for Successful Youtube Audios</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-5-quick-video-capture-tools-for-2024/"><u>Best 5 Quick Video Capture Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/effortless-screen-changes-made-simple/"><u>Effortless Screen Changes Made Simple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/flourishing-in-virtual-dialogue-top-strategies-to-master-zoom-chats-for-2024/"><u>Flourishing in Virtual Dialogue  Top Strategies to Master ZOOM Chats for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/fraps-revolutionizing-gamers-screen-recording/"><u>Fraps  Revolutionizing Gamer's Screen Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-cutting-edge-screen-recorders-our-10-best-selections/"><u>In 2024, Cutting-Edge Screen Recorders  Our 10 Best Selections</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-effective-measures-to-block-pesky-video-ads-online/"><u>In 2024, Effective Measures to Block Pesky Video Ads Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-guide-to-affordable-online-recording-software/"><u>In 2024, Essential Guide to Affordable Online Recording Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-dimensions-aspect-ratio-essentials/"><u>In 2024, Fine-Tuning Dimensions  Aspect Ratio Essentials</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-a18-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo A18 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-reach-in-telegram-a-marketers-playbook/"><u>In 2024, Maximize Reach in Telegram  A Marketer's Playbook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimal-windows-capture-interface/"><u>In 2024, Optimal Windows Capture Interface</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-phone-pals-selecting-speech-to-text-apps-for-offline-use-for-2024/"><u>Prime Phone Pals  Selecting Speech-to-Text Apps for Offline Use for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-comprehensive-guide-to-effective-screen-recording/"><u>The Comprehensive Guide to Effective Screen Recording</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-harmonizing-with-your-hearing-leveraging-iphone-to-determine-musical-pieces-for-2024/"><u>Updated Harmonizing with Your Hearing Leveraging iPhone to Determine Musical Pieces for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-video-editing-on-windows-11-best-apps-for-2024/"><u>Updated The Ultimate Guide to Video Editing on Windows 11 Best Apps for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/virtual-ventures-10-near-misses-to-gta-v/"><u>Virtual Ventures  10 Near-Misses to GTA V</u></a></li>
+</ul></div>

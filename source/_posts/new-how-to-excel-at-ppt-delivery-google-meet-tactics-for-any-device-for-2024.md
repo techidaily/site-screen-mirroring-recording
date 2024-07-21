@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Excel at PPT Delivery  Google Meet Tactics for Any Device for 2024\""
-date: 2024-05-19T22:30:10.673Z
-updated: 2024-05-20T22:30:10.673Z
+date: 2024-07-20T06:11:04.131Z
+updated: 2024-07-21T06:11:04.131Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes [New] How to Excel at PPT Delivery: Google Meet Tactics for Any Device for 2024\""
 excerpt: "\"This Article Describes [New] How to Excel at PPT Delivery: Google Meet Tactics for Any Device for 2024\""
 keywords: "\"PPT Excellence Strategies,Google Meet Tips,Effective PPT Presentations,Speaking Skills in Online Meetings,Adapting to Multiple Devices,Masterful Google Meet Delivery,Device-Agnostic Presentation Techniques\""
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## How to Excel at PPT Delivery: Google Meet Tactics for Any Device
 
 # How to Present PPT on Google Meet?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -61,10 +64,17 @@ There you will see two options and must click one of the following options,
 * A window - this allows the presenter to share only one selected window in the meeting (this option is advised)
 * A tab - this is best for presenting a video or animations, not a PowerPoint
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet Present Now Options   ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-options.jpg)
 
 1. If the presenter decides to go with the “A Window” option then click the window that shows your PowerPoint slides then select share.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Share PPT on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet.jpg)
 
 The slideshow will automatically start to broadcast to viewers. We are sure you are not wondering **how to present a ppt in Google Meet** anymore!
@@ -101,8 +111,15 @@ Step 2) To start sharing your screen, press the three-button icon which appears 
 
 To be sure if the screen is being shared check the top of the iPhone or iPad and if there is a red stripe, it means the screen is being broadcasted to participants. Moreover, do not worry while switching apps, you will still be in the Google Meet session even if you go onto PowerPoint or Google Slides while sharing your screen on a mobile or tablet device.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/iphone-screen-broadcast-share-powerpoint-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Part 4: Presenting PowerPoint or Slides in Google Meet on Android
 
 The process of presenting a PowerPoint or Google Slides during a Google Meet session on an android is very similar to that of an Apple device.
@@ -175,6 +192,9 @@ Google Meet is a video calling app that comes fully equipped with numerous featu
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Present PowerPoint Presentations in Google Meet on Laptop
 
 With remote working on the rise, Google Meet enables users to showcase and share PowerPoint slides during online meetings and sessions. Whether it is a meeting, online class, or brainstorming session, it becomes a whole lot easier with a PowerPoint slideshow - bringing everyone on the same page!
@@ -186,6 +206,9 @@ Just a heads up, when you are presenting your screen on Google Meet, everyone ca
 1. Open the Microsoft PowerPoint Slides on your laptop, the model or brand of the laptop does not matter, as long as you have Microsoft PowerPoint on it
 1. Convert your slides from the default mode to browsed by an individual mode. If you have used Microsoft PowerPoint before, then you must know that in slideshow mode the slides appear in fullscreen making it difficult to switch between applications, therefore by converting the PowerPoint it will be windowed fullscreen, allowing the presenter to switch between applications. The process is simple, just click the “Slide Show” tab, then “Set Up Slide Show”, and from the drop-down menu press “Browsed by an Individual”.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![set PowerPoint to individual browse](https://images.wondershare.com/filmora/article-images/powerpoint-browsed-by-individual.jpg)
 
 1. After setting up the PowerPoint slides, move over to Google Meet and join the meeting through the meeting link provided or schedule in a new meeting. You have two options: either you can join the meeting and then share your slides, or share the PowerPoint while joining the session. If you decide to go with the second option, you must click “Present now” and continue with the steps below.
@@ -233,6 +256,9 @@ Step 1) Open your PowerPoint or Slides on your iPhone or iPad, and then join the
 
 Step 2) To start sharing your screen, press the three-button icon which appears in the bottom right corner of your screen, and then tap the **Share Screen** option.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet-iphone.jpg)
 
  Step 3) After doing so, the presenter will see a notification on their screen allowing them to broadcast their entire screen. Upon clicking “Start Broadcast” the screen will start to share in three seconds. Switch from Google Meet to PowerPoint or Google Slides and the screen will automatically share slides.
@@ -241,6 +267,9 @@ To be sure if the screen is being shared check the top of the iPhone or iPad and
 
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/iphone-screen-broadcast-share-powerpoint-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Presenting PowerPoint or Slides in Google Meet on Android
 
 The process of presenting a PowerPoint or Google Slides during a Google Meet session on an android is very similar to that of an Apple device.
@@ -251,10 +280,20 @@ Step 2) Join into the Google Meet session, if you have been invited into the ses
 
 Step 3) Upon joining the meeting, click the “More” option and tap the “Present Screen” menu.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Share slides on Google Meet on Android ](https://images.wondershare.com/filmora/article-images/present-screen-on-google-meet-android.jpg)
 
 Step 4) After that, allow presenting and go to your PowerPoint / Google Slides to share them with participants, easy right?! Remember, participants can pause your screen presentation and start presenting their screen in between, as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## Part 5: How to Stop Presenting PPT on Google Meet?
 
 All good things must come to an end, just like wrapping up a productive PowerPoint work session on Google Meet. When a presenter is done sharing their PowerPoint slides they must stop sharing their screen as well. One easy way to do that is to leave the Google Meet session, however, that might not be so polite.
@@ -265,6 +304,9 @@ Instead, there is another way, upon finishing the discussion on the PowerPoint s
 
 If that option is not visible to the presenter, they can return to their Google Meet session, and click the stop sharing button as shown in the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![stop  Google Meet present](https://images.wondershare.com/filmora/article-images/stop-google-meet-present.jpg)
 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
@@ -329,6 +371,9 @@ Just a heads up, when you are presenting your screen on Google Meet, everyone ca
 1. After setting up the PowerPoint slides, move over to Google Meet and join the meeting through the meeting link provided or schedule in a new meeting. You have two options: either you can join the meeting and then share your slides, or share the PowerPoint while joining the session. If you decide to go with the second option, you must click “Present now” and continue with the steps below.
 1. To share your **Google Meet PPT presentation** just click the “Present Now” button on the bottom right-hand side of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet Present Now   ](https://images.wondershare.com/filmora/article-images/google-meet-present-now.jpg)
 
 There you will see two options and must click one of the following options,
@@ -337,10 +382,16 @@ There you will see two options and must click one of the following options,
 * A window - this allows the presenter to share only one selected window in the meeting (this option is advised)
 * A tab - this is best for presenting a video or animations, not a PowerPoint
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Meet Present Now Options   ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-options.jpg)
 
 1. If the presenter decides to go with the “A Window” option then click the window that shows your PowerPoint slides then select share.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Share PPT on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet.jpg)
 
 The slideshow will automatically start to broadcast to viewers. We are sure you are not wondering **how to present a ppt in Google Meet** anymore!
@@ -353,12 +404,18 @@ So to answer your question on **how to present slide in Google Meet**,
 
 1. Open up your Google Slides, go over to the Google Slides webpage and browse to find the slides you have prepared.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-google-meet.jpg)
 
 1. Open Google Meet on your browser and go on to the meeting link page. Here you have two options, one - you can join the session directly and then start presenting the screen, or two - share the screen and then join the session.
 
 If you decide to go with the latter option, then click the “Present” option. Since I’m using the Chrome browser, I will choose the slides tab to share. If you would like to share any audio, make sure to tick the share tab audio button as well!
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-tab-google-meet.jpg)
 
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
@@ -371,12 +428,19 @@ Step 1) Open your PowerPoint or Slides on your iPhone or iPad, and then join the
 
 Step 2) To start sharing your screen, press the three-button icon which appears in the bottom right corner of your screen, and then tap the **Share Screen** option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet-iphone.jpg)
 
  Step 3) After doing so, the presenter will see a notification on their screen allowing them to broadcast their entire screen. Upon clicking “Start Broadcast” the screen will start to share in three seconds. Switch from Google Meet to PowerPoint or Google Slides and the screen will automatically share slides.
 
 To be sure if the screen is being shared check the top of the iPhone or iPad and if there is a red stripe, it means the screen is being broadcasted to participants. Moreover, do not worry while switching apps, you will still be in the Google Meet session even if you go onto PowerPoint or Google Slides while sharing your screen on a mobile or tablet device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/iphone-screen-broadcast-share-powerpoint-google-meet.jpg)
 
 ## Part 4: Presenting PowerPoint or Slides in Google Meet on Android
@@ -389,10 +453,16 @@ Step 2) Join into the Google Meet session, if you have been invited into the ses
 
 Step 3) Upon joining the meeting, click the “More” option and tap the “Present Screen” menu.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Share slides on Google Meet on Android ](https://images.wondershare.com/filmora/article-images/present-screen-on-google-meet-android.jpg)
 
 Step 4) After that, allow presenting and go to your PowerPoint / Google Slides to share them with participants, easy right?! Remember, participants can pause your screen presentation and start presenting their screen in between, as well.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Stop Presenting PPT on Google Meet?
 
 All good things must come to an end, just like wrapping up a productive PowerPoint work session on Google Meet. When a presenter is done sharing their PowerPoint slides they must stop sharing their screen as well. One easy way to do that is to leave the Google Meet session, however, that might not be so polite.
@@ -407,8 +477,14 @@ If that option is not visible to the presenter, they can return to their Google 
 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![stop  PPT present on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-present-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQ about Presenting PowerPoint on Google Meet
 
 1. **Can others see you while you are presenting a PPT?**
@@ -427,6 +503,9 @@ Yes, an individual can present when someone else is presenting. If you start pre
 
 Presenting a ppt on Google Meet is not all that difficult, if you know what to do, how to do it, and when to do it, then you are good to go. Google Meet is a video conferencing tool created to ease virtual communication and make it more functional. So, if you were wondering **how to share slides in Google Meet**, well we hope you got the answer!
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -475,14 +554,23 @@ There you will see two options and must click one of the following options,
 * A window - this allows the presenter to share only one selected window in the meeting (this option is advised)
 * A tab - this is best for presenting a video or animations, not a PowerPoint
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Meet Present Now Options   ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-options.jpg)
 
 1. If the presenter decides to go with the “A Window” option then click the window that shows your PowerPoint slides then select share.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Share PPT on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet.jpg)
 
 The slideshow will automatically start to broadcast to viewers. We are sure you are not wondering **how to present a ppt in Google Meet** anymore!
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Presenting Google Slides in Google Meet on Laptop
 
 In some cases, individuals opt to use Google Slides instead of PowerPoint presentations, but have no fear because Google Meet is equipped to share Google Slides as well. The process is quite similar to that of sharing a PowerPoint, but there are a few changes.
@@ -491,6 +579,9 @@ So to answer your question on **how to present slide in Google Meet**,
 
 1. Open up your Google Slides, go over to the Google Slides webpage and browse to find the slides you have prepared.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-google-meet.jpg)
 
 1. Open Google Meet on your browser and go on to the meeting link page. Here you have two options, one - you can join the session directly and then start presenting the screen, or two - share the screen and then join the session.
@@ -501,6 +592,9 @@ If you decide to go with the latter option, then click the “Present” option.
 
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Present PowerPoint or Slides in Google Meet On iPhone and iPad?
 
 Wondering **how to present ppt in Google Meet in iPhone**? Well, don’t worry because even with a mobile or tablet you can access all the Google Meet features, even screen share!
@@ -509,6 +603,9 @@ Step 1) Open your PowerPoint or Slides on your iPhone or iPad, and then join the
 
 Step 2) To start sharing your screen, press the three-button icon which appears in the bottom right corner of your screen, and then tap the **Share Screen** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet-iphone.jpg)
 
  Step 3) After doing so, the presenter will see a notification on their screen allowing them to broadcast their entire screen. Upon clicking “Start Broadcast” the screen will start to share in three seconds. Switch from Google Meet to PowerPoint or Google Slides and the screen will automatically share slides.
@@ -541,6 +638,13 @@ Instead, there is another way, upon finishing the discussion on the PowerPoint s
 
 If that option is not visible to the presenter, they can return to their Google Meet session, and click the stop sharing button as shown in the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![stop  Google Meet present](https://images.wondershare.com/filmora/article-images/stop-google-meet-present.jpg)
 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
@@ -598,3 +702,76 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-video-transcriber-chrome-os-companion/"><u>[New] 2024 Approved  Best Video Transcriber  Chrome OS Companion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-harmonyhook-tracker-extracting-sound-and-insights/"><u>[New] 2024 Approved  HarmonyHook Tracker  Extracting Sound & Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovative-screen-recorders-top-10-for-enthusiastic-mac-users/"><u>[New] 2024 Approved  Innovative Screen Recorders  Top 10 for Enthusiastic Mac Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-overwatch-video-captures-done-right-made-simple/"><u>[New] 2024 Approved  Overwatch Video Captures – Done Right, Made Simple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-screen-recording-during-games/"><u>[New] 2024 Approved  Perfecting Your Screen Recording During Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-deeper-insight-into-augmented-reality-stickers-by-google/"><u>[New] A Deeper Insight Into Augmented Reality Stickers by Google</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieving-excellence-in-your-android-video-brightness/"><u>[New] Achieving Excellence in Your Android Video Brightness</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-bulk-delete-chats-a-guide-for-discord-users/"><u>[New] Bulk Delete Chats  A Guide for Discord Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-detailed-breakdown-of-camstudio-screencapture-pro-for-2024/"><u>[New] Detailed Breakdown of CamStudio ScreenCapture Pro for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-earning-excellence-a-guide-to-maximize-money-from-mobile-youtube-viewers/"><u>[New] Earning Excellence  A Guide to Maximize Money From Mobile YouTube Viewers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-screen-recording-tips-for-windows-8-pros/"><u>[New] Essential Screen Recording Tips for Windows 8 Pros</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-breakdown-free2x-webcam-tools-insight/"><u>[New] In 2024, Expert Breakdown  Free2X WebCam Tools Insight</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-your-dialogue-a-google-meet-strategy/"><u>[New] In 2024, Perfecting Your Dialogue  A Google Meet Strategy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-riddle-me-this-the-ultimate-room-conundrums/"><u>[New] In 2024, Riddle Me This  The Ultimate Room Conundrums</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-guide-to-straightforward-high-dynamic-range/"><u>[New] In-Depth Guide to Straightforward High-Dynamic Range</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lg-digital-cinema-31mu97-b-4k-monitor-review/"><u>[New] LG Digital Cinema 31MU97-B 4K Monitor Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-tech-for-home-screenings-for-2024/"><u>[New] Premium Tech for Home Screenings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-the-leading-free-srt-translation-tools/"><u>[New] Ranking the Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-detailed-breakdown-of-fbm-transcription-techniques/"><u>[New] The Detailed Breakdown of FBM Transcription Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveiling-the-best-for-screens-a-deep-dive-into-obs-studio-and-fraps-for-2024/"><u>[New] Unveiling the Best for Screens  A Deep Dive Into OBS Studio & Fraps for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-accelerate-your-retro-play-with-best-ps2-android-emulators/"><u>[Updated] 2024 Approved  Accelerate Your Retro Play with Best Ps2 Android Emulators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-filming-to-sharing-a-youtube-video-edition/"><u>[Updated] 2024 Approved  From Filming to Sharing  A YouTube Video Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>[Updated] 2024 Approved  Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>[Updated] 2024 Approved  Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cost-effective-obs-setup-tips-for-2024/"><u>[Updated] Cost-Effective OBS Setup Tips for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-craft-your-best-youtubing-exit-tips-from-industry-leaders-for-2024/"><u>[Updated] Craft Your Best YouTubing Exit - Tips From Industry Leaders for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-tech-analysis-the-best-screen-recorder-roundup-for-2024/"><u>[Updated] Cutting Edge Tech Analysis  The Best Screen Recorder Roundup for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-discover-clear-sound-recording-on-discord-for-2024/"><u>[Updated] Discover Clear Sound Recording on Discord for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-gamers-guide-to-high-quality-live-recording-for-2024/"><u>[Updated] Gamers' Guide to High-Quality Live Recording for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-apeaksofts-screen-recorder-mastery-2023-exposed/"><u>[Updated] In 2024, Apeaksoft's Screen Recorder Mastery - 2023 Exposed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android/"><u>[Updated] In 2024, Elevate Your Voice  Discovering the Leading Vocal Changer Applications for Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-strategies-for-clear-communication-on-google-meet/"><u>[Updated] In 2024, Expert Strategies for Clear Communication on Google Meet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-finest-accessible-switch-replicas/"><u>[Updated] In 2024, Finest Accessible Switch Replicas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-firefoxs-best-screenshot-add-ons/"><u>[Updated] In 2024, Firefox's Best Screenshot Add-Ons</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-join-the-jocular-joy-the-greatest-instagram-meme-gatherings/"><u>[Updated] In 2024, Join the Jocular Joy  The Greatest Instagram Meme Gatherings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-educators-resourceful-recorder-companion/"><u>[Updated] In 2024, The Educator's Resourceful Recorder Companion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigate-to-the-5-preferred-android-ps2-emulator-apps-for-2024/"><u>[Updated] Navigate to the 5 Preferred Android PS2 Emulator Apps for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-video-capture-a-comprehensive-fraps-test-for-2024/"><u>[Updated] Pro Video Capture  A Comprehensive Fraps Test for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-steps-for-accessing-google-meet-video-conferencing/"><u>[Updated] Steps for Accessing Google Meet Video Conferencing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-swiftly-flip-and-swivel-movies-for-a-better-viewing-experience-using-vlc/"><u>[Updated] Swiftly Flip and Swivel Movies for a Better Viewing Experience Using VLC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-relaxation-top-10-mobile-idle-games/"><u>[Updated] Ultimate Relaxation  Top 10 Mobile Idle Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-converting-zip-to-subrip-srt-format-a-step-by-step-guide/"><u>2024 Approved  Converting ZIP to SubRip (SRT) Format  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-web-based-voice-recorders-the-best-of-2023/"><u>2024 Approved  Elite Web-Based Voice Recorders - The Best of 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-cost-free-remote-desktop-sharing-software/"><u>2024 Approved  Essential, Cost-Free Remote Desktop Sharing Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-intensive-analysis-macos-screenflow-version-4/"><u>2024 Approved  Intensive Analysis  MacOS screenFlow Version 4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-visualize-your-movies-with-best-grabbers/"><u>2024 Approved  Visualize Your Movies with Best Grabbers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-mac-vlc-trimming-made-easy-preserve-video-quality/"><u>2024 Approved Mac VLC Trimming Made Easy Preserve Video Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-instagrams-video-spin-mechanism/"><u>Decoding Instagram’s Video Spin Mechanism</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-galaxy-f54-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Galaxy F54 5G</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-fix-obs-not-recording-audio-for-2024/"><u>How to Fix OBS Not Recording Audio for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-10-must-have-keyword-gurus-for-video-success/"><u>In 2024, 10 Must-Have Keyword Gurus for Video Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-explore-best-android-emulators-for-playstation-2-gaming/"><u>In 2024, Explore Best Android Emulators for PlayStation 2 Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fiscal-football-freedom-capturing-contests-without-cash/"><u>In 2024, Fiscal Football Freedom  Capturing Contests Without Cash</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-13-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 13 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>In 2024, The Future of Virtual Spaces  Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-timely-tweets-triumph-in-the-youtube-landscape/"><u>In 2024, Timely Tweets Triumph in the YouTube Landscape</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-ultimate-guide-instagrams-video-maximum-length-rule/"><u>In 2024, Ultimate Guide  Instagram's Video Maximum Length Rule</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creativity-with-gopros-time-lapse-technology/"><u>In 2024, Unleash Creativity with GoPro's Time-Lapse Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-which-is-better-for-streamers-obs-studio-or-fraps/"><u>In 2024, Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/latest-trends-in-mobile-viewing-android-edition-vr360-for-2024/"><u>Latest Trends in Mobile Viewing - Android Edition (VR/360) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-pixels-pro-tiktok-video-tricks-of-the-trade-for-2024/"><u>Perfect Pixels  Pro TikTok Video Tricks of the Trade for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spotlight-on-10-youtube-channels-with-swift-popularity-boosts-for-2024/"><u>Spotlight on 10 YouTube Channels With Swift Popularity Boosts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essentials-of-simple-straightforward-hdr-techniques/"><u>The Essentials of Simple, Straightforward HDR Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-hd-capture-suite-for-2024/"><u>Ultimate HD Capture Suite for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unbeatable-11-audio-devices-reviewed-here-for-2024/"><u>Unbeatable 11 Audio Devices Reviewed Here for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-extensive-info-on-vimeo-video-aspect-ratio-detailled/"><u>Updated In 2024, Extensive Info on Vimeo Video - Aspect Ratio Detailled</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-growth-secrets-masterful-narration-techniques/"><u>YouTube Growth Secrets  Masterful Narration Techniques</u></a></li>
+</ul></div>

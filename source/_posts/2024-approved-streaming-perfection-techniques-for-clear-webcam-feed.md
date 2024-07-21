@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streaming Perfection  Techniques for Clear Webcam Feed\""
-date: 2024-05-19T22:30:42.312Z
-updated: 2024-05-20T22:30:42.312Z
+date: 2024-07-20T07:08:53.418Z
+updated: 2024-07-21T07:08:53.418Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Streaming Perfection: Techniques for Clear Webcam Feed\""
 excerpt: "\"This Article Describes 2024 Approved: Streaming Perfection: Techniques for Clear Webcam Feed\""
 keywords: "\"Webcam Clarity Hacks,Stream Clearly Online,Enhance Webcam Video,High-Def Webstreaming,Improve Online Viewing,Clean WebCam Feed,Optimal Video Streaming\""
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Streaming Perfection: Techniques for Clear Webcam Feed
@@ -53,6 +53,9 @@ Step 3: Go to Record > Record PC Screen option.
 
 Step 4: Select the recording screen size as full screen. Select the audio sources to record game sound and your commentary through mic. To record webcam, turn on Record Camera Stream.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 Step 5: Click on the Record button to start recording the gameplay. You will get a few seconds to start playing your game.
@@ -81,6 +84,288 @@ Step 6: Under Controls tab, click on Start Recording option.
 
 Ste 7: Once you are done, click on Stop Recording option under Controls tab. You will find the recorded video under Video folder on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+## Way 3\. Record Game and Facecam with Mirillis Action
+
+Mirillis Action is another powerful and advanced software that can solve your query on how to record gameplay with webcam. You can use green screen mode to change your webcam video background. The user interface is straightforward and clean for finding the required options instantly. That is why many prefer it over OBS. However, it is a premium software though you can try out its 30-day trial version. Here are the steps to record game and facecam with Mirillis Action.
+
+![action recorder](https://images.wondershare.com/filmora/article-images/action-recorder.jpg)
+
+Step 1: Download and install Mirillis Action.
+
+Step 2: Launch the application and go to Video Capture tab.
+
+Step 3: For Capture Mode, select Game.
+
+Step 4: Under Game tab, turn on Webcam and select the connected webcam.
+
+Step 5: Go to Preview tab to check out if your settings are correct and if the screen as well as the webcam is going to get recorded. You can set the Recording Mode as always if you want to record gameplay and webcam together all the time.
+
+Step 6: When you are ready, click on Rec button or F9 to start recording.
+
+## Way 4\. Use Bandicam to Record Gameplay and Face
+
+Bandicam is a popular software in the gaming community and many gamers prefer it due to its on-time price plan. It is a lightweight software and hence, it does not affect the performance of the game. You can capture gameplay at 4K resolution and up to 480fps. In fact, you can record 3D games as well. Here are the steps on how to record gameplay and webcam at the same time with Bandicam.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-interface.jpg)
+
+Step 1: Download and install Bandicam.
+
+Step 2: Launch the application and go to Video option located on the left side.
+
+Step 3: Under Video tab, turn on Add Webcam Overlay option. Click on Settings button on the side and select your webcam.
+
+Step 4: Go to Home and select Game recording option.
+
+Step 5: Click on Rec button on the top bar to start recording.
+
+Step 6: If you are done playing, click on Stop button.
+
+## Way 5\. Record Face and Game Screen with FBX Recorder
+
+FBX Recorder is a favorite among amateur gamers as the software is very easy to use. The software lets users make instant clips and screenshots with hotkeys. You can record desktop games as well as web games. Besides, you can record your gameplay non-stop in the background as in DVR mode. FBX recorder automatically adjusts as per bandwidth availability and hence, there is no glitch and jerk in recording and live streaming. Here are the steps to follow to record face and game on FBX recorder.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![fbx recorder](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
+
+Step 1: Download and install FBX Recorder.
+
+Step 2: Launch the application and go to Settings.
+
+Step 3: Go to Webcam from the left menu and turn on Record Webcam and Show Webcam While Recording option.
+
+Step 4: Select your webcam from Source and click on "Preview webcam and set position and size" to see where the overlay window will be placed.
+
+Step 5: Start your game and press Ctrl+F12 to start recording.
+
+Step 6: When you are done, press Ctrl+F12 again to stop recording.
+
+The recorded video will be available on FBX Recorder under Recordings tab.
+
+## The Bottom Line
+
+If you are thinking about uploading your gameplay on online platforms, you have to record your gameplay along with your face through webcam. We have stated five different software applications that you can use to record game and face together. Our recommendation on how to record webcam and gameplay separately and together is Wondershare Filmora. You can record high-quality video and edit the video like a pro to get everyone’s attention immediately.
+
+Way 2. [Record Gameplay with Face using OBS](#part2)
+
+Way 3. [Record Game and Facecam with Mirillis Action](#part3)
+
+Way 4. [Use Bandicam to Record Gameplay and Face](#part4)
+
+Way 5. [Record Face and Game Screen with FBX Recorder](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 1\. Record Game and Webcam with Filmora
+
+The best way on how to record gameplay and webcam is by using a professional [screen and video recorder](https://tools.techidaily.com/wondershare/filmora/download/). We recommend Wondershare Filmora to record gameplay on your screen as well as record reaction on webcam with audio. You can record the gameplay at 4K resolution and 60fps. Besides, you can trim out unnecessary parts and add video effects before publishing the recorded video on various online platforms. Here are the steps to record game and webcam using Filmora.
+
+Step 1: Install and launch Wondershare Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Click on New Project option.
+
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record > Record PC Screen option.
+
+Step 4: Select the recording screen size as full screen. Select the audio sources to record game sound and your commentary through mic. To record webcam, turn on Record Camera Stream.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+Step 5: Click on the Record button to start recording the gameplay. You will get a few seconds to start playing your game.
+
+![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
+
+Step 6: Press F9 on your keyboard to stop recording. You can export the video after editing.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Way 2\. Record Gameplay with Face using OBS
+
+OBS is one of the most popular desktop applications among gamers and video creators who use the platform to live stream their gameplay. It is a completely free software, and it contains several advanced features for recording as per your requirements. The application is slightly complicated to use, and hence, we are providing you with a step-by-step guide on how to record gameplay with webcam with OBS.
+
+![obs](https://images.wondershare.com/filmora/article-images/obs-studio-recorder.jpg)
+
+Step 1: Download and install OBS on your computer.
+
+Step 2: Launch the application and go to Scenes tab present at the bottom of the screen. Click on "+" button to create a new scene.
+
+Step 3: Go to Sources tab located beside Scenes tab. Click on "+" button and from the menu, select Video Capture Device option.
+
+Step 4: Select your webcam and give it a name and click on Ok.
+
+Step 5: Under Sources, click on "+" button and this time, select Display Capture to record the gameplay on the screen. You will see the screen and webcam in OBS preview section.
+
+Step 6: Under Controls tab, click on Start Recording option.
+
+Ste 7: Once you are done, click on Stop Recording option under Controls tab. You will find the recorded video under Video folder on your system.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## Way 3\. Record Game and Facecam with Mirillis Action
+
+Mirillis Action is another powerful and advanced software that can solve your query on how to record gameplay with webcam. You can use green screen mode to change your webcam video background. The user interface is straightforward and clean for finding the required options instantly. That is why many prefer it over OBS. However, it is a premium software though you can try out its 30-day trial version. Here are the steps to record game and facecam with Mirillis Action.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+![action recorder](https://images.wondershare.com/filmora/article-images/action-recorder.jpg)
+
+Step 1: Download and install Mirillis Action.
+
+Step 2: Launch the application and go to Video Capture tab.
+
+Step 3: For Capture Mode, select Game.
+
+Step 4: Under Game tab, turn on Webcam and select the connected webcam.
+
+Step 5: Go to Preview tab to check out if your settings are correct and if the screen as well as the webcam is going to get recorded. You can set the Recording Mode as always if you want to record gameplay and webcam together all the time.
+
+Step 6: When you are ready, click on Rec button or F9 to start recording.
+
+## Way 4\. Use Bandicam to Record Gameplay and Face
+
+Bandicam is a popular software in the gaming community and many gamers prefer it due to its on-time price plan. It is a lightweight software and hence, it does not affect the performance of the game. You can capture gameplay at 4K resolution and up to 480fps. In fact, you can record 3D games as well. Here are the steps on how to record gameplay and webcam at the same time with Bandicam.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-interface.jpg)
+
+Step 1: Download and install Bandicam.
+
+Step 2: Launch the application and go to Video option located on the left side.
+
+Step 3: Under Video tab, turn on Add Webcam Overlay option. Click on Settings button on the side and select your webcam.
+
+Step 4: Go to Home and select Game recording option.
+
+Step 5: Click on Rec button on the top bar to start recording.
+
+Step 6: If you are done playing, click on Stop button.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+## Way 5\. Record Face and Game Screen with FBX Recorder
+
+FBX Recorder is a favorite among amateur gamers as the software is very easy to use. The software lets users make instant clips and screenshots with hotkeys. You can record desktop games as well as web games. Besides, you can record your gameplay non-stop in the background as in DVR mode. FBX recorder automatically adjusts as per bandwidth availability and hence, there is no glitch and jerk in recording and live streaming. Here are the steps to follow to record face and game on FBX recorder.
+
+![fbx recorder](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
+
+Step 1: Download and install FBX Recorder.
+
+Step 2: Launch the application and go to Settings.
+
+Step 3: Go to Webcam from the left menu and turn on Record Webcam and Show Webcam While Recording option.
+
+Step 4: Select your webcam from Source and click on "Preview webcam and set position and size" to see where the overlay window will be placed.
+
+Step 5: Start your game and press Ctrl+F12 to start recording.
+
+Step 6: When you are done, press Ctrl+F12 again to stop recording.
+
+The recorded video will be available on FBX Recorder under Recordings tab.
+
+## The Bottom Line
+
+If you are thinking about uploading your gameplay on online platforms, you have to record your gameplay along with your face through webcam. We have stated five different software applications that you can use to record game and face together. Our recommendation on how to record webcam and gameplay separately and together is Wondershare Filmora. You can record high-quality video and edit the video like a pro to get everyone’s attention immediately.
+
+Way 2. [Record Gameplay with Face using OBS](#part2)
+
+Way 3. [Record Game and Facecam with Mirillis Action](#part3)
+
+Way 4. [Use Bandicam to Record Gameplay and Face](#part4)
+
+Way 5. [Record Face and Game Screen with FBX Recorder](#part5)
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Way 1\. Record Game and Webcam with Filmora
+
+The best way on how to record gameplay and webcam is by using a professional [screen and video recorder](https://tools.techidaily.com/wondershare/filmora/download/). We recommend Wondershare Filmora to record gameplay on your screen as well as record reaction on webcam with audio. You can record the gameplay at 4K resolution and 60fps. Besides, you can trim out unnecessary parts and add video effects before publishing the recorded video on various online platforms. Here are the steps to record game and webcam using Filmora.
+
+Step 1: Install and launch Wondershare Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Click on New Project option.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record > Record PC Screen option.
+
+Step 4: Select the recording screen size as full screen. Select the audio sources to record game sound and your commentary through mic. To record webcam, turn on Record Camera Stream.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+Step 5: Click on the Record button to start recording the gameplay. You will get a few seconds to start playing your game.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
+
+Step 6: Press F9 on your keyboard to stop recording. You can export the video after editing.
+
+## Way 2\. Record Gameplay with Face using OBS
+
+OBS is one of the most popular desktop applications among gamers and video creators who use the platform to live stream their gameplay. It is a completely free software, and it contains several advanced features for recording as per your requirements. The application is slightly complicated to use, and hence, we are providing you with a step-by-step guide on how to record gameplay with webcam with OBS.
+
+![obs](https://images.wondershare.com/filmora/article-images/obs-studio-recorder.jpg)
+
+Step 1: Download and install OBS on your computer.
+
+Step 2: Launch the application and go to Scenes tab present at the bottom of the screen. Click on "+" button to create a new scene.
+
+Step 3: Go to Sources tab located beside Scenes tab. Click on "+" button and from the menu, select Video Capture Device option.
+
+Step 4: Select your webcam and give it a name and click on Ok.
+
+Step 5: Under Sources, click on "+" button and this time, select Display Capture to record the gameplay on the screen. You will see the screen and webcam in OBS preview section.
+
+Step 6: Under Controls tab, click on Start Recording option.
+
+Ste 7: Once you are done, click on Stop Recording option under Controls tab. You will find the recorded video under Video folder on your system.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3\. Record Game and Facecam with Mirillis Action
 
 Mirillis Action is another powerful and advanced software that can solve your query on how to record gameplay with webcam. You can use green screen mode to change your webcam video background. The user interface is straightforward and clean for finding the required options instantly. That is why many prefer it over OBS. However, it is a premium software though you can try out its 30-day trial version. Here are the steps to record game and facecam with Mirillis Action.
@@ -121,6 +406,10 @@ Step 6: If you are done playing, click on Stop button.
 
 FBX Recorder is a favorite among amateur gamers as the software is very easy to use. The software lets users make instant clips and screenshots with hotkeys. You can record desktop games as well as web games. Besides, you can record your gameplay non-stop in the background as in DVR mode. FBX recorder automatically adjusts as per bandwidth availability and hence, there is no glitch and jerk in recording and live streaming. Here are the steps to follow to record face and game on FBX recorder.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![fbx recorder](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
 
 Step 1: Download and install FBX Recorder.
@@ -179,6 +468,9 @@ Step 5: Click on the Record button to start recording the gameplay. You will get
 
 Step 6: Press F9 on your keyboard to stop recording. You can export the video after editing.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 2\. Record Gameplay with Face using OBS
 
 OBS is one of the most popular desktop applications among gamers and video creators who use the platform to live stream their gameplay. It is a completely free software, and it contains several advanced features for recording as per your requirements. The application is slightly complicated to use, and hence, we are providing you with a step-by-step guide on how to record gameplay with webcam with OBS.
@@ -217,10 +509,16 @@ Step 5: Go to Preview tab to check out if your settings are correct and if the s
 
 Step 6: When you are ready, click on Rec button or F9 to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 4\. Use Bandicam to Record Gameplay and Face
 
 Bandicam is a popular software in the gaming community and many gamers prefer it due to its on-time price plan. It is a lightweight software and hence, it does not affect the performance of the game. You can capture gameplay at 4K resolution and up to 480fps. In fact, you can record 3D games as well. Here are the steps on how to record gameplay and webcam at the same time with Bandicam.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-interface.jpg)
 
 Step 1: Download and install Bandicam.
@@ -239,242 +537,9 @@ Step 6: If you are done playing, click on Stop button.
 
 FBX Recorder is a favorite among amateur gamers as the software is very easy to use. The software lets users make instant clips and screenshots with hotkeys. You can record desktop games as well as web games. Besides, you can record your gameplay non-stop in the background as in DVR mode. FBX recorder automatically adjusts as per bandwidth availability and hence, there is no glitch and jerk in recording and live streaming. Here are the steps to follow to record face and game on FBX recorder.
 
-![fbx recorder](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
-
-Step 1: Download and install FBX Recorder.
-
-Step 2: Launch the application and go to Settings.
-
-Step 3: Go to Webcam from the left menu and turn on Record Webcam and Show Webcam While Recording option.
-
-Step 4: Select your webcam from Source and click on "Preview webcam and set position and size" to see where the overlay window will be placed.
-
-Step 5: Start your game and press Ctrl+F12 to start recording.
-
-Step 6: When you are done, press Ctrl+F12 again to stop recording.
-
-The recorded video will be available on FBX Recorder under Recordings tab.
-
-## The Bottom Line
-
-If you are thinking about uploading your gameplay on online platforms, you have to record your gameplay along with your face through webcam. We have stated five different software applications that you can use to record game and face together. Our recommendation on how to record webcam and gameplay separately and together is Wondershare Filmora. You can record high-quality video and edit the video like a pro to get everyone’s attention immediately.
-
-Way 2. [Record Gameplay with Face using OBS](#part2)
-
-Way 3. [Record Game and Facecam with Mirillis Action](#part3)
-
-Way 4. [Use Bandicam to Record Gameplay and Face](#part4)
-
-Way 5. [Record Face and Game Screen with FBX Recorder](#part5)
-
-## Way 1\. Record Game and Webcam with Filmora
-
-The best way on how to record gameplay and webcam is by using a professional [screen and video recorder](https://tools.techidaily.com/wondershare/filmora/download/). We recommend Wondershare Filmora to record gameplay on your screen as well as record reaction on webcam with audio. You can record the gameplay at 4K resolution and 60fps. Besides, you can trim out unnecessary parts and add video effects before publishing the recorded video on various online platforms. Here are the steps to record game and webcam using Filmora.
-
-Step 1: Install and launch Wondershare Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Click on New Project option.
-
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: Go to Record > Record PC Screen option.
-
-Step 4: Select the recording screen size as full screen. Select the audio sources to record game sound and your commentary through mic. To record webcam, turn on Record Camera Stream.
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
-
-Step 5: Click on the Record button to start recording the gameplay. You will get a few seconds to start playing your game.
-
-![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
-
-Step 6: Press F9 on your keyboard to stop recording. You can export the video after editing.
-
-## Way 2\. Record Gameplay with Face using OBS
-
-OBS is one of the most popular desktop applications among gamers and video creators who use the platform to live stream their gameplay. It is a completely free software, and it contains several advanced features for recording as per your requirements. The application is slightly complicated to use, and hence, we are providing you with a step-by-step guide on how to record gameplay with webcam with OBS.
-
-![obs](https://images.wondershare.com/filmora/article-images/obs-studio-recorder.jpg)
-
-Step 1: Download and install OBS on your computer.
-
-Step 2: Launch the application and go to Scenes tab present at the bottom of the screen. Click on "+" button to create a new scene.
-
-Step 3: Go to Sources tab located beside Scenes tab. Click on "+" button and from the menu, select Video Capture Device option.
-
-Step 4: Select your webcam and give it a name and click on Ok.
-
-Step 5: Under Sources, click on "+" button and this time, select Display Capture to record the gameplay on the screen. You will see the screen and webcam in OBS preview section.
-
-Step 6: Under Controls tab, click on Start Recording option.
-
-Ste 7: Once you are done, click on Stop Recording option under Controls tab. You will find the recorded video under Video folder on your system.
-
-## Way 3\. Record Game and Facecam with Mirillis Action
-
-Mirillis Action is another powerful and advanced software that can solve your query on how to record gameplay with webcam. You can use green screen mode to change your webcam video background. The user interface is straightforward and clean for finding the required options instantly. That is why many prefer it over OBS. However, it is a premium software though you can try out its 30-day trial version. Here are the steps to record game and facecam with Mirillis Action.
-
-![action recorder](https://images.wondershare.com/filmora/article-images/action-recorder.jpg)
-
-Step 1: Download and install Mirillis Action.
-
-Step 2: Launch the application and go to Video Capture tab.
-
-Step 3: For Capture Mode, select Game.
-
-Step 4: Under Game tab, turn on Webcam and select the connected webcam.
-
-Step 5: Go to Preview tab to check out if your settings are correct and if the screen as well as the webcam is going to get recorded. You can set the Recording Mode as always if you want to record gameplay and webcam together all the time.
-
-Step 6: When you are ready, click on Rec button or F9 to start recording.
-
-## Way 4\. Use Bandicam to Record Gameplay and Face
-
-Bandicam is a popular software in the gaming community and many gamers prefer it due to its on-time price plan. It is a lightweight software and hence, it does not affect the performance of the game. You can capture gameplay at 4K resolution and up to 480fps. In fact, you can record 3D games as well. Here are the steps on how to record gameplay and webcam at the same time with Bandicam.
-
-![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-interface.jpg)
-
-Step 1: Download and install Bandicam.
-
-Step 2: Launch the application and go to Video option located on the left side.
-
-Step 3: Under Video tab, turn on Add Webcam Overlay option. Click on Settings button on the side and select your webcam.
-
-Step 4: Go to Home and select Game recording option.
-
-Step 5: Click on Rec button on the top bar to start recording.
-
-Step 6: If you are done playing, click on Stop button.
-
-## Way 5\. Record Face and Game Screen with FBX Recorder
-
-FBX Recorder is a favorite among amateur gamers as the software is very easy to use. The software lets users make instant clips and screenshots with hotkeys. You can record desktop games as well as web games. Besides, you can record your gameplay non-stop in the background as in DVR mode. FBX recorder automatically adjusts as per bandwidth availability and hence, there is no glitch and jerk in recording and live streaming. Here are the steps to follow to record face and game on FBX recorder.
-
-![fbx recorder](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
-
-Step 1: Download and install FBX Recorder.
-
-Step 2: Launch the application and go to Settings.
-
-Step 3: Go to Webcam from the left menu and turn on Record Webcam and Show Webcam While Recording option.
-
-Step 4: Select your webcam from Source and click on "Preview webcam and set position and size" to see where the overlay window will be placed.
-
-Step 5: Start your game and press Ctrl+F12 to start recording.
-
-Step 6: When you are done, press Ctrl+F12 again to stop recording.
-
-The recorded video will be available on FBX Recorder under Recordings tab.
-
-## The Bottom Line
-
-If you are thinking about uploading your gameplay on online platforms, you have to record your gameplay along with your face through webcam. We have stated five different software applications that you can use to record game and face together. Our recommendation on how to record webcam and gameplay separately and together is Wondershare Filmora. You can record high-quality video and edit the video like a pro to get everyone’s attention immediately.
-
-Way 2. [Record Gameplay with Face using OBS](#part2)
-
-Way 3. [Record Game and Facecam with Mirillis Action](#part3)
-
-Way 4. [Use Bandicam to Record Gameplay and Face](#part4)
-
-Way 5. [Record Face and Game Screen with FBX Recorder](#part5)
-
-## Way 1\. Record Game and Webcam with Filmora
-
-The best way on how to record gameplay and webcam is by using a professional [screen and video recorder](https://tools.techidaily.com/wondershare/filmora/download/). We recommend Wondershare Filmora to record gameplay on your screen as well as record reaction on webcam with audio. You can record the gameplay at 4K resolution and 60fps. Besides, you can trim out unnecessary parts and add video effects before publishing the recorded video on various online platforms. Here are the steps to record game and webcam using Filmora.
-
-Step 1: Install and launch Wondershare Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Click on New Project option.
-
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: Go to Record > Record PC Screen option.
-
-Step 4: Select the recording screen size as full screen. Select the audio sources to record game sound and your commentary through mic. To record webcam, turn on Record Camera Stream.
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
-
-Step 5: Click on the Record button to start recording the gameplay. You will get a few seconds to start playing your game.
-
-![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
-
-Step 6: Press F9 on your keyboard to stop recording. You can export the video after editing.
-
-## Way 2\. Record Gameplay with Face using OBS
-
-OBS is one of the most popular desktop applications among gamers and video creators who use the platform to live stream their gameplay. It is a completely free software, and it contains several advanced features for recording as per your requirements. The application is slightly complicated to use, and hence, we are providing you with a step-by-step guide on how to record gameplay with webcam with OBS.
-
-![obs](https://images.wondershare.com/filmora/article-images/obs-studio-recorder.jpg)
-
-Step 1: Download and install OBS on your computer.
-
-Step 2: Launch the application and go to Scenes tab present at the bottom of the screen. Click on "+" button to create a new scene.
-
-Step 3: Go to Sources tab located beside Scenes tab. Click on "+" button and from the menu, select Video Capture Device option.
-
-Step 4: Select your webcam and give it a name and click on Ok.
-
-Step 5: Under Sources, click on "+" button and this time, select Display Capture to record the gameplay on the screen. You will see the screen and webcam in OBS preview section.
-
-Step 6: Under Controls tab, click on Start Recording option.
-
-Ste 7: Once you are done, click on Stop Recording option under Controls tab. You will find the recorded video under Video folder on your system.
-
-## Way 3\. Record Game and Facecam with Mirillis Action
-
-Mirillis Action is another powerful and advanced software that can solve your query on how to record gameplay with webcam. You can use green screen mode to change your webcam video background. The user interface is straightforward and clean for finding the required options instantly. That is why many prefer it over OBS. However, it is a premium software though you can try out its 30-day trial version. Here are the steps to record game and facecam with Mirillis Action.
-
-![action recorder](https://images.wondershare.com/filmora/article-images/action-recorder.jpg)
-
-Step 1: Download and install Mirillis Action.
-
-Step 2: Launch the application and go to Video Capture tab.
-
-Step 3: For Capture Mode, select Game.
-
-Step 4: Under Game tab, turn on Webcam and select the connected webcam.
-
-Step 5: Go to Preview tab to check out if your settings are correct and if the screen as well as the webcam is going to get recorded. You can set the Recording Mode as always if you want to record gameplay and webcam together all the time.
-
-Step 6: When you are ready, click on Rec button or F9 to start recording.
-
-## Way 4\. Use Bandicam to Record Gameplay and Face
-
-Bandicam is a popular software in the gaming community and many gamers prefer it due to its on-time price plan. It is a lightweight software and hence, it does not affect the performance of the game. You can capture gameplay at 4K resolution and up to 480fps. In fact, you can record 3D games as well. Here are the steps on how to record gameplay and webcam at the same time with Bandicam.
-
-![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-interface.jpg)
-
-Step 1: Download and install Bandicam.
-
-Step 2: Launch the application and go to Video option located on the left side.
-
-Step 3: Under Video tab, turn on Add Webcam Overlay option. Click on Settings button on the side and select your webcam.
-
-Step 4: Go to Home and select Game recording option.
-
-Step 5: Click on Rec button on the top bar to start recording.
-
-Step 6: If you are done playing, click on Stop button.
-
-## Way 5\. Record Face and Game Screen with FBX Recorder
-
-FBX Recorder is a favorite among amateur gamers as the software is very easy to use. The software lets users make instant clips and screenshots with hotkeys. You can record desktop games as well as web games. Besides, you can record your gameplay non-stop in the background as in DVR mode. FBX recorder automatically adjusts as per bandwidth availability and hence, there is no glitch and jerk in recording and live streaming. Here are the steps to follow to record face and game on FBX recorder.
-
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fbx recorder](https://images.wondershare.com/filmora/article-images/fbx-home-screen.jpg)
 
 Step 1: Download and install FBX Recorder.
@@ -520,3 +585,45 @@ If you are thinking about uploading your gameplay on online platforms, you have 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-advice-on-flawless-ipad-screen-captures/"><u>[New] 2024 Approved  Expert Advice on Flawless iPad Screen Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ios-champions-best-ps2-emulation-programs/"><u>[New] 2024 Approved  IOS Champions  Best PS2 Emulation Programs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-razer-kiyo-webcam-detailed-review/"><u>[New] 2024 Approved  Razer Kiyo Webcam - Detailed Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-essentials-of-efficiently-managing-your-digital-gathering-times-google/"><u>[New] 2024 Approved  The Essentials of Efficiently Managing Your Digital Gathering Times (Google)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-editors-elevate-your-webcam-recordings/"><u>[New] 2024 Approved  Top 10 Editors  Elevate Your Webcam Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-affordable-pc-video-grabbing-software-for-2024/"><u>[New] Best Affordable PC Video Grabbing Software for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-every-word-in-meetings-the-top-10-free-recorders-for-slack-for-2024/"><u>[New] Capture Every Word in Meetings - The Top 10 Free Recorders for Slack for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-compilation-of-excellent-video-capture-tools-for-windows-11-for-2024/"><u>[New] Compilation of Excellent Video Capture Tools for Windows 11 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cross-platform-calendar-coordination-zoom-to-your-devices-for-2024/"><u>[New] Cross-Platform Calendar Coordination  Zoom to Your Devices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-your-gaming-adventures-best-practices-reviewed/"><u>[New] In 2024, Capturing Your Gaming Adventures  Best Practices Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-compiling-leading-short-form-video-editors-iosandroid-edition/"><u>[New] In 2024, Compiling Leading Short-Form Video Editors  IOS/Android Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>[New] In 2024, Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simplified-strategies-for-google-voice-call-records/"><u>[New] In 2024, Simplified Strategies for Google Voice Call Records</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-silence-disabling-participants-in-gmeet-calls-for-2024/"><u>[New] Mastering Silence  Disabling Participants in GMeet Calls for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-phones-to-cameras-enhancing-your-live-stream-setup-for-2024/"><u>[New] Phones to Cameras  Enhancing Your Live Stream Setup for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-mac-photography-discovering-the-best-5-screen-shots-ways-for-2024/"><u>[New] Pro Mac Photography  Discovering the Best 5 Screen Shots Ways for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-13-incredible-minecraft-architectural-plans-for-2024/"><u>[Updated] 13 Incredible Minecraft Architectural Plans for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-explore-gbs-best-in-class-emulation-software-for-pc-users/"><u>[Updated] 2024 Approved  Explore GB's Best in Class Emulation Software for PC Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-flickerframe-fanfare-feedback/"><u>[Updated] 2024 Approved  FlickerFrame Fanfare Feedback</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquer-youtubes-default-snippet-feature/"><u>[Updated] Conquer YouTube's Default Snippet Feature</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-content-incorporating-exact-timestamps-in-videos-for-2024/"><u>[Updated] Elevate Your Content  Incorporating Exact Timestamps in Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-empathy-filled-nintendo-3ds-games-for-android-users-for-2024/"><u>[Updated] Empathy-Filled Nintendo 3DS Games for Android Users for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-androids-premier-animal-experience-compilation/"><u>[Updated] In 2024, Android's Premier Animal Experience Compilation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cyberlinks-screen-recorder-an-expert-evaluation/"><u>[Updated] In 2024, Cyberlink's Screen Recorder  An Expert Evaluation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister-for-2024/"><u>[Updated] The Ultimate Comparison  Top Screen Recorders, Focusing on Recmeister for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-craft-of-engaging-your-viewers-from-the-start/"><u>2024 Approved  Mastering the Craft of Engaging Your Viewers From The Start</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-stellar-background-choices-for-effective-video-conferencing/"><u>2024 Approved  Stellar Background Choices for Effective Video Conferencing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-audio-harvesters-in-learning-spaces/"><u>2024 Approved  Ultimate Audio Harvesters in Learning Spaces</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-y78plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo Y78+ Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beginners-bonanza-affordable-profitable-channel-options-for-2024/"><u>Beginner's Bonanza  Affordable, Profitable Channel Options for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>In 2024, Reflect Your Vision  Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-your-favorite-youtube-tracks-as-mp3s-a-guide/"><u>New In 2024, Get Your Favorite YouTube Tracks as MP3s A Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-6-services-for-live-video-localization/"><u>Premium 6 Services for Live Video Localization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-interest-the-art-of-youtube-intros-in-imovie/"><u>Spark Interest  The Art of YouTube Intros in iMovie</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unraveling-the-mysteries-of-stardew-valley-with-an-insiders-look-at-its-most-hidden-gem-ginger-isle-for-2024/"><u>Unraveling the Mysteries of Stardew Valley with an Insider's Look at Its Most Hidden Gem – Ginger Isle for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-explainer-video-software-showdown-top-picks/"><u>Updated Explainer Video Software Showdown Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleashing-creativity-the-top-10-final-cut-pro-movies/"><u>Updated In 2024, Unleashing Creativity The Top 10 Final Cut Pro Movies</u></a></li>
+</ul></div>

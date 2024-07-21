@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Gamer's Guide to Affordable, Yet Powerful Keyboards"
-date: 2024-05-19T22:30:16.812Z
-updated: 2024-05-20T22:30:16.812Z
+date: 2024-07-20T06:23:28.339Z
+updated: 2024-07-21T06:23:28.339Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Gamer's Guide to Affordable, Yet Powerful Keyboards"
 excerpt: "This Article Describes [New] In 2024, Gamer's Guide to Affordable, Yet Powerful Keyboards"
 keywords: "\"Budget Keyboards For Gamers,High-Performance Gaming Mice,Cost-Effective Game Setups,Affordable Gaming Hardware,Powerful PC Accessories,Essential Gamer Tech Guide,Efficient Keyboard Solutions\""
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Gamer's Guide to Affordable, Yet Powerful Keyboards
@@ -67,6 +67,10 @@ Gaming isn't as responsive.
 
 ### 3.G413 Logitech
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
 
 A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
@@ -127,6 +131,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
 The Corsair K55 RGB PRO XT is the best gaming keyboard for under 100$ with non-mechanical buttons. It features rubber dome buttons, unlike most of the other keyboards on this list. They're a little heavier to push than traditional mechanical keyboards, and they don't provide the same haptic feedback, and they're still light enough to satisfy gamers.
@@ -145,8 +152,14 @@ Its typing quality is low
 
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### 2.EVGA Z12
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
 
 Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
@@ -187,6 +200,9 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
@@ -247,8 +263,14 @@ Its typing quality is low
 
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.EVGA Z12
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
 
 Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
@@ -271,6 +293,9 @@ Gaming isn't as responsive.
 
 ### 3.G413 Logitech
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
 
 A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
@@ -289,8 +314,15 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
 
 The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
@@ -311,6 +343,10 @@ Keys can be noisy in a noisy setting.
 
 ### 5.Corsair K63
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
 
 Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
@@ -351,6 +387,9 @@ The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
 ### 2.EVGA Z12
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
 
 Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
@@ -371,8 +410,14 @@ The keyboard also lacks onboard memory.
 
 Gaming isn't as responsive.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.G413 Logitech
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
 
 A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
@@ -391,6 +436,9 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
@@ -413,6 +461,9 @@ Keys can be noisy in a noisy setting.
 
 ### 5.Corsair K63
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
 
 Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
@@ -460,3 +511,46 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovative-gb-recorder-for-games-on-fbx/"><u>[New] 2024 Approved  Innovative GB Recorder for Games on FBX</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-ways-to-fix-obs-black-screen-game-capture-for-2024/"><u>[New] 5 Ways to Fix OBS Black Screen Game Capture for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-tips-for-successful-hulu-capturing-on-various-platforms-for-2024/"><u>[New] Essential Tips for Successful Hulu Capturing on Various Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-chorus-cache-secure-and-inspect-audio-recordings/"><u>[New] In 2024, Chorus Cache  Secure & Inspect Audio Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ideal-choices-top-10-mac-video-recorders/"><u>[New] In 2024, Ideal Choices  Top 10 Mac Video Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-innovative-techniques-for-premium-webcam-recordings/"><u>[New] In 2024, Innovative Techniques for Premium Webcam Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-next-gen-screen-capture-unleashed-apeaksofts-2023-review/"><u>[New] Next-Gen Screen Capture Unleashed  Apeaksoft’s 2023 Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-windows-video-grabber/"><u>[New] Premium Windows Video Grabber</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlabs-versus-obs-a-compreran-analysis-for-broadcasters/"><u>[New] Streamlabs Versus OBS  A Compreran Analysis for Broadcasters</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-art-of-capturing-flawless-ootd-tiktoks-on-a-mac/"><u>[New] The Art of Capturing Flawless OOTD TikToks on a Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-basics-of-capturing-switch-gaming-moments/"><u>[New] The Basics of Capturing Switch Gaming Moments</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-ppt-recording-process-explained/"><u>[New] The Ultimate PPT Recording Process Explained</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-authenticity-voice-overs-that-resonate-with-audiences/"><u>[Updated] 2024 Approved  Capturing Authenticity  Voice Overs That Resonate with Audiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-compre-written-by-john-doe-for-2024/"><u>[Updated] A Compre Written By  John Doe for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-craft-your-own-story-the-top-5-instagram-tips-for-aspiring-social-stars-for-2024/"><u>[Updated] Craft Your Own Story  The Top 5 Instagram Tips for Aspiring Social Stars for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-creating-immersive-experiences-with-quality-video-voice-over-for-2024/"><u>[Updated] Creating Immersive Experiences with Quality Video Voice Over for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-excellent-live-streaming-capture-tools-for-2024/"><u>[Updated] Excellent Live Streaming Capture Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-fight-night-on-nintendo-switch-top-ten-picks-for-2024/"><u>[Updated] Fight Night on Nintendo Switch - Top Ten Picks for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop/"><u>[Updated] In 2024, Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-streaming-showdown-choose-between-obs-and-shadowgl/"><u>[Updated] Screen Streaming Showdown  Choose Between OBS & ShadowGL</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tips-for-optimal-online-vhs-photo-enhancement/"><u>[Updated] Top Tips for Optimal Online VHS Photo Enhancement</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-value-oriented-pc-screen-recorders/"><u>[Updated] Value-Oriented PC Screen Recorders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-v30-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo V30 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-examination-of-fb-video-dimensions/"><u>2024 Approved  Examination of FB Video Dimensions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-color-correction-top-15-luts-for-gopro-cams/"><u>2024 Approved  Ultimate Color Correction  Top 15 LUTs for GoPro Cams</u></a></li>
+<li><a href="https://win11.techidaily.com/7-strategies-to-rectify-chromes-profile-problems-on-desktop/"><u>7 Strategies to Rectify Chrome's Profile Problems on Desktop</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone-for-2024/"><u>Essential YouTube Strategies  Compiling 10 Basic Yet Engaging Ideas for Everyone for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-google-pixel-fold-devices-by-drfone-android/"><u>How to Reset Gmail Password on Google Pixel Fold Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c55-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C55 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-find-x6-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo Find X6 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-screen-recording-in-adobe-captivate-a-step-by-step-guide/"><u>In 2024, Mastering Screen Recording in Adobe Captivate  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-experts-guide-to-screencast-mastery-and-impactful-content/"><u>In 2024, The Expert's Guide to Screencast Mastery and Impactful Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>In 2024, The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>In 2024, Unlocking Stream Potential  Your Journey with OBS, YouTube, & Twitch</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/prime-collection-of-effortless-phone-apps-for-2024/"><u>Prime Collection of Effortless Phone Apps for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/step-by-step-uploading-videos-to-tiktok-on-macwindows/"><u>Step-by-Step  Uploading Videos to TikTok on Mac/Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-elite-battle-royale-contenders-for-2024/"><u>Top 10 Elite Battle Royale Contenders for 2024</u></a></li>
+</ul></div>

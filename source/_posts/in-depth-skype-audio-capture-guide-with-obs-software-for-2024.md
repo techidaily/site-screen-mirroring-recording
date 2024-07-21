@@ -1,7 +1,7 @@
 ---
 title: "\"In-Depth Skype Audio Capture Guide with OBS Software for 2024\""
-date: 2024-05-19T22:30:52.107Z
-updated: 2024-05-20T22:30:52.107Z
+date: 2024-07-20T07:26:02.283Z
+updated: 2024-07-21T07:26:02.283Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In-Depth Skype Audio Capture Guide with OBS Software for 2024\""
 excerpt: "\"This Article Describes In-Depth Skype Audio Capture Guide with OBS Software for 2024\""
 keywords: "\"Skype Audio Recording Tips,OBS Audio Settings Guide,In-Depth Skype Sound Capture,Video Editing with Skype,OBS Software Guide,Professional Skype Voice Record,OBS Audio Enhancement Techniques\""
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## In-Depth Skype Audio Capture Guide with OBS Software
@@ -31,12 +31,21 @@ Now to setup the environment for screen recording we have to follow the followin
 
 Initially, you’ll be required to have skype installed on your desktop along with the up-to-date version of OBS software. After installing skype you first have to make a secondary/backup account on skype. After that you require a secondary camera as well to record yourself because your webcam can be in demand elsewhere, so you would not be able to record yourself or even the guests wouldn’t be able to see you. And then turn on the given command in skype i-e: skype>settings>calling>advanced>’allow NDI usage’ as shown in the picture. This command allows OBS to access skype videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![skype calling settings advanced calling](https://images.wondershare.com/filmora/article-images/skype-calling-settings-advanced-calling.jpg)
 
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
@@ -49,6 +58,9 @@ And after addition of plug in you would want to click on ‘+’ again and selec
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs new window select the guest feed](https://images.wondershare.com/filmora/article-images/obs-new-window-select-the-guest-feed.jpg)
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
@@ -61,6 +73,9 @@ So you can just resize it similarly as you did yours earlier and pressing the lo
 
 ## Part 2: OBS Alternative to Record Skype
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Filmora
 
 Filmora is a very popular and perfect [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) and editor designed by Wondershare. Wondershare is software house created in 2003\. This software was designed by professional video makers. It has an easy to use and a friendly environment, and easy to understand commands. This software is available for free and compatible with windows and MAC both. This tool can help you connect in a better way with your audience since it allows a wide range of functions, varying from editing and cutting to screen detection, auto-crop and fisheye correction.
@@ -90,6 +105,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -129,6 +147,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -180,10 +201,16 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -192,6 +219,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -235,6 +265,9 @@ For macOS 10.12 or later
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -299,3 +332,40 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-advanced-conversational-machines-discord-for-2024/"><u>[New] Advanced Conversational Machines (Discord) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-cam-conversion-tools/"><u>[New] Cutting-Edge Cam Conversion Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mac-users-choice-top-screen-recorder-picks/"><u>[New] Mac Users' Choice  Top Screen Recorder Picks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mobile-apps-redefining-vocal-identity-2-cookie-jar/"><u>[New] Mobile Apps Redefining Vocal Identity (2 Cookie Jar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-next-gen-capture-the-leading-apps-decoded/"><u>[New] Next-Gen Capture  The Leading Apps Decoded</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-complete-guide-to-capturing-and-storing-youtube-livestreams-seamlessly/"><u>[New] The Complete Guide to Capturing and Storing YouTube Livestreams Seamlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-10-royale-duelists-arena/"><u>[New] Ultimate 10 Royale Duelists' Arena</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-hear-now-or-never-the-solution-for-twitter-vids/"><u>[Updated] Hear Now or Never  The Solution for Twitter Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-knowledge-keepers-premier-10-tools-to-record-teaching-sessions/"><u>[Updated] Knowledge Keepers  Premier 10 Tools to Record Teaching Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-masterclass-in-screenshotting-professional-level-techniques-using-mobizen/"><u>[Updated] Masterclass in Screenshotting  Professional-Level Techniques Using Mobizen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-streaming-windows-and-mac-guide/"><u>[Updated] OBS Streaming [Windows and Mac Guide]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamline-your-screen-recording-on-mac-with-these-tools/"><u>[Updated] Streamline Your Screen Recording on Mac with These Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tech-insights-the-best-browser-screen-capture-tools-of-the-year/"><u>[Updated] Tech Insights  The Best Browser Screen Capture Tools of the Year</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-rated-mp4-video-save-and-review/"><u>[Updated] Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-adjusting-low-bit-rate-settings-obs/"><u>2024 Approved  Adjusting Low-Bit Rate Settings (OBS)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-undersea-gopro-enhancements/"><u>2024 Approved  Best Undersea Gopro Enhancements</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>2024 Approved  Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimizing-visual-engagement-in-google-meet-sessions/"><u>2024 Approved  Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unmatched-portable-experience-with-top-gba-simulators-android/"><u>2024 Approved  Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-13t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi 13T to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-7-plus-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 7 Plus to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-innovative-ways-to-react-on-tiktok-videos/"><u>In 2024, Innovative Ways to React on TikTok Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-studio-screen-capture-an-in-depth-analysis/"><u>In 2024, OBS Studio Screen Capture  An In-Depth Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overlooked-marvels-free-transcription-tools-for-macos/"><u>In 2024, Overlooked Marvels  Free Transcription Tools for macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-revolutionize-your-webcam-footage-on-mac/"><u>In 2024, Revolutionize Your Webcam Footage on Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-top-tier-phone-apps-evolving-how-you-communicate/"><u>In 2024, The Top-Tier Phone Apps Evolving How You Communicate</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-samsung-gear-360-camera-alternatives/"><u>In 2024, Top 5 Samsung Gear 360 Camera Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-video-mastery-with-these-quick-trimming-tips-for-windows-10/"><u>In 2024, Unlock Video Mastery with These Quick Trimming Tips for Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/instant-recording-sight-and-sound-fused-for-2024/"><u>Instant Recording  Sight & Sound Fused for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-realme-note-50-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Realme Note 50 has been deleted.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamlabs-or-obs-picking-the-best-software-for-your-channel-for-2024/"><u>Streamlabs or OBS  Picking the Best Software for Your Channel for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-best-montage-songs-for-your-montage-video-for-2024/"><u>Updated Top 10 Best Montage Songs for Your Montage Video for 2024</u></a></li>
+</ul></div>
