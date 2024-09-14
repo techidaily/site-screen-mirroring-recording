@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Achieving Distraction-Free Video Conferencing with Skype for 2024\""
-date: 2024-09-07T17:11:06.198Z
-updated: 2024-09-08T17:11:06.198Z
+date: 2024-09-07T22:05:11.099Z
+updated: 2024-09-14T00:19:22.431Z
 tags: 
   - screen-recording
   - ai video
@@ -21,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -38,6 +32,13 @@ But a small problem that often arises while recording a video call is the backgr
 * [**Part 1:** How to Avoid Background Noise Before Skype Video Calls](#part1)
 * [**Part 2:** How to Remove Background Noise After a Recording Was Done](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Avoid Background Noise Before a Skype Video Call
 
 Here we will discuss removing the background noise before a Skype video call. This can be done by adjusting your sound settings on the desktop as well as in the Skype application. Let’s see how:
@@ -46,12 +47,6 @@ Here we will discuss removing the background noise before a Skype video call. Th
 
 ![recording-device1](https://images.wondershare.com/filmora/article-images/recording-device1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * 2\. Select the option **Recording devices**
 * 3\. A small window will appear in which you have to Right-click on the   **Microphone**option and then select **Properties**
 
@@ -61,20 +56,28 @@ Here we will discuss removing the background noise before a Skype video call. Th
 
 ![microphone-boost3](https://images.wondershare.com/filmora/article-images/microphone-boost3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * 5\. Now open Skype and click on the **Tools** option at the top. Select **Options** from it
 
 ![skype-options4](https://images.wondershare.com/filmora/article-images/skype-options4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * 6\. A window will appear on the screen. Go to   **Audio** settings on the right side of the window
 
 ![skype-audio5](https://images.wondershare.com/filmora/article-images/skype-audio5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * 7\. Now under the Microphone & Volume, there will be a box stating **Automatically adjust microphone settings**. Uncheck the box and tap on Save to save the settings.
 
 Note:
@@ -82,17 +85,12 @@ Note:
 Once you have done as stated above, you will experience a great reduction in the background noise as well as better quality while a Skype video call. Or you can also try the steps in this tutorial below to eliminate the background noise:
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Remove Background Noise After a Recording Was Done
 
 Now we know how to get rid of noise before a Skype video call, but what about the video that has already been recorded? How is it possible to remove the background noise and improve the voice quality?
@@ -105,36 +103,32 @@ So here we are going to show you how to remove background noise after a recordin
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    1. Go to **File**\-**I** **m** **port** **Media** to import the recorded file to the Media Library
 
 ![import-media8](https://images.wondershare.com/filmora/article-images/import-media8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    1. Add or drag and drop the recorded file to the timeline. (If it’s a video that’s being imported preview and trim the unnecessary parts you wish to avoid, you can also detach the audio from the video directly using the **Audio Detach** feature)
 
 ![audio-detach6](https://images.wondershare.com/filmora/article-images/audio-detach6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    1. Then right-click on the file on the timeline and select the Adjust Audio option
    2. Enable the **Remove background noise** option by checking it
 
 ![remove-background-noise7](https://images.wondershare.com/filmora/article-images/remove-background-noise7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Adjust the level of denoising to **Strong** by moving the pointer to the extreme right
 2. Playback the recorded file on timeline and check whether the voice quality have been improved
@@ -146,61 +140,11 @@ The advancement in technology and the development of apps like Skype have enable
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-11-secrets-to-increasing-your-facebook-video-reach-for-2024/"><u>[New] 11 Secrets to Increasing Your Facebook Video Reach for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-adaptive-gaming-techniques-by-pros/"><u>[New] 2024 Approved  Adaptive Gaming Techniques by Pros</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-strategy-optimizing-your-facebook-story/"><u>[New] 2024 Approved  Social Media Strategy  Optimizing Your Facebook Story</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-swift-screen-capture-with-your-idevice/"><u>[New] 2024 Approved  Swift Screen Capture with Your iDevice</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/oost-your-videos-popularity-on-youtube/"><u>[New] Boost Your Video's Popularity on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-timelapse-on-ipad-capturing-for-2024/"><u>[New] Effortless Timelapse on iPad Capturing for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-melodic-memory-bank-save-and-analyze-music-files-for-2024/"><u>[New] Melodic Memory Bank  Save & Analyze Music Files for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-showmore-screen-recorder-review-2023/"><u>[New] ShowMore Screen Recorder Review 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlabs-or-obs-picking-the-best-software-for-your-channel/"><u>[New] Streamlabs or OBS  Picking the Best Software for Your Channel</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-virtual-voyage-unlimited-the-ultimate-selection-of-free-roleplayers/"><u>[New] Virtual Voyage Unlimited  The Ultimate Selection of Free Roleplayers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-best-high-security-androidios-video-calling-tools-available-for-free/"><u>[Updated] 10 Best High-Security Android/iOS Video Calling Tools Available for Free</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-best-of-battles-10-most-epic-royale-games/"><u>[Updated] 2024 Approved  Best of Battles  10 Most Epic Royale Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-google-meet-unlocked-a-free-in-depth-user-manual/"><u>[Updated] 2024 Approved  Google Meet Unlocked  A Free, In-Depth User Manual</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-screencast-handbook-adept-techniques-and-tools/"><u>[Updated] 2024 Approved  Ultimate Screencast Handbook  Adept Techniques & Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-game-recordings-in-w11/"><u>[Updated] 2024 Approved  Unlock the Full Potential of Game Recordings in W11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-achieve-professional-level-recordings-with-these-top-4-methods-on-hp-devices-for-2024/"><u>[Updated] Achieve Professional-Level Recordings with These Top 4 Methods on HP Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-your-marketing-game-making-impactful-fb-videos-for-2024/"><u>[Updated] Elevating Your Marketing Game  Making Impactful FB Videos for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-seamless-sound-shift-best-10-youtube-audio-converters/"><u>[Updated] In 2024, Seamless Sound Shift  Best 10 YouTube Audio Converters</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-10-premier-android-and-ios-video-chat-tools/"><u>[Updated] In 2024, Top 10 Premier Android & iOS Video Chat Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-20-budget-friendly-screen-recorder-tools/"><u>[Updated] In 2024, Top 20 Budget-Friendly Screen Recorder Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-simplifying-complexities-in-youtube-shorts/"><u>[Updated] Simplifying Complexities in YouTube Shorts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-capturing-pc-moments-with-apowersoft-for-2024/"><u>[Updated] The Ultimate Guide to Capturing PC Moments with Apowersoft for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-gaming-spaces-for-solo-play-in-apex-legends-for-2024/"><u>[Updated] Top Gaming Spaces for Solo Play in Apex Legends for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-voice-memos-inspectors-handbook/"><u>[Updated] Voice Memos Inspector's Handbook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-clear-conferencing-backdrops-blurring-for-better-presence/"><u>2024 Approved  Clear Conferencing Backdrops  Blurring for Better Presence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-image-editing-on-iphone-with-best-apps-for-object-elimination/"><u>2024 Approved  Precision Image Editing on iPhone with Best Apps for Object Elimination</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 Pro Max Waze | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ballot-battlegrounds-prime-political-games-guide-for-2024/"><u>Ballot Battlegrounds  Prime Political Games Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-a05s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel A05s Phones with/without a PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-g04-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto G04 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizing-screen-captures-expert-techniques-for-hp-laptops/"><u>In 2024, Optimizing Screen Captures  Expert Techniques for HP Laptops</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-professional-webcam-recording-solutions-explored/"><u>In 2024, Professional WebCam Recording Solutions Explored</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-most-memorable-2022-ice-sculpture-moves/"><u>In 2024, The Most Memorable 2022 Ice Sculpture Moves</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-final-cut-pro-x-compression-made-easy-a-beginners-handbook-for-2024/"><u>New Final Cut Pro X Compression Made Easy A Beginners Handbook for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pioneering-virtual-realities-in-live-video-feeds-for-2024/"><u>Pioneering Virtual Realities in Live Video Feeds for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-dead-laptop-battery-a-step-by-step-guide-to-quick-charging/"><u>Revive Your Dead Laptop Battery – A Step-by-Step Guide to Quick Charging</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/saving-powerpoint-presentation-to-video/"><u>Saving PowerPoint Presentation to Video</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/tunefab-revolutionizing-the-art-of-video-capture-for-2024/"><u>Tunefab  Revolutionizing the Art of Video Capture for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-selection-of-secure-online-video-communication-sites/"><u>Updated The Ultimate Selection of Secure Online Video Communication Sites</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -208,3 +152,21 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-scrutinizing-vidmas-latest-screen-recording-tech/"><u>[New] 2024 Approved Scrutinizing Vidma’s Latest Screen Recording Tech</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-speech-logger-must-haves-for-mac-devices-our-picks-of-the-best-five/"><u>[New] Speech Logger Must-Haves for Mac Devices Our Picks of the Best Five</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-definitive-guide-to-valheim-agriculture/"><u>[New] The Definitive Guide to Valheim Agriculture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamlining-your-ps3-recorded-experiences/"><u>[Updated] 2024 Approved Streamlining Your PS3 Recorded Experiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-your-videos-status-on-youtube-for-2024/"><u>[Updated] Elevating Your Video's Status on YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-effortless-screen-capture-on-chrome-os-devices/"><u>[Updated] In 2024, Effortless Screen Capture on Chrome OS Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-money-on-youtube-shorts-effective-practical-ways/"><u>[Updated] In 2024, How to Make Money on YouTube Shorts? [Effective Practical Ways]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-11-game-recordings-the-ultimate-guide-to-successful-techniques-for-2024/"><u>[Updated] Windows 11 Game Recordings The Ultimate Guide to Successful Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-proven-steps-to-convert-webp-to-high-quality-jpeg/"><u>2024 Approved Proven Steps to Convert WebP to High-Quality JPEG</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels/"><u>In 2024, Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-top-10-apps-to-excitingly-edit-horizontal-and-vertical-igtv/"><u>In 2024, Top 10 Apps to Excitingly Edit Horizontal and Vertical IGTV</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-rated-desktop-video-recorders-for-pcmac/"><u>In 2024, Top-Rated Desktop Video Recorders for PC/Mac</u></a></li>
+</ul></div>
+

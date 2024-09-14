@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  PowerPoint to Video  Best Practices with Webcams, Now\""
-date: 2024-07-20T10:26:25.696Z
-updated: 2024-07-21T10:26:25.696Z
+date: 2024-09-11T18:09:48.996Z
+updated: 2024-09-13T20:32:44.651Z
 tags: 
   - screen-recording
   - ai video
@@ -30,359 +30,108 @@ Way 3. [Record PPT and Face with Panopto](#part3)
 Way 4. [Record PPT and Camera with Camtasia](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-## Way 1\. Record PPT and Webcam with PowerPoint Recording Feature
-
-The easiest way to record webcam with PowerPoint presentation is by using PowerPoint's built-in recording option. Yes, PowerPoint does come with an option to record slide show along with webcam and mic. The video from the webcam will be shown in Picture-in-Picture mode at one corner on top of the PowerPoint presentation. Here are the steps to record PPT with webcam without installing any external software.
-
-Step 1: Open PowerPoint and your presentation file.
-
-Step 2: Go to Slide Show tab and click on Record Slide Show.
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![record slide show](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
-
-Step 3: On the next screen, go to Settings located at the top-right corner. Select webcam and microphone properly.
-
-Step 4: Click on Record button at the top-left corner. You will get three seconds to get started.
-
-Step 5: When you want to stop recording, click on Stop button at the top-left corner.
-
-Step 6: Go to File> Export> Create A Video to save the recorded file.
-
-![create a video powerpoint](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Way 2\. Record PPT and Webcam with Wondershare Filmora
-
-There are some issues reported by users when they tried to record PPT with webcam such as video glitches, microphone sound not picking up and likewise. The best way to record PowerPoint presentation with webcam Mac and Windows is by using [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/). It is a premium software that is designed for recording video as well as editing videos like a professional. To record PPT with webcam, you need to record the screen along with webcam and microphone. Here are the steps you need to follow.
-
-Step 1: Download and install Wondershare Filmora on your computer.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Open Filmora and click on New Project option.
-
-Step 3: Go to Record and then go to Record PC Screen option.
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 4: Set screen size which is likely to be full screen for PPT. Make sure to turn on Microphone option to record your audio.
-
-![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
-
-Step 5: Click on Gear icon at the Gear icon and select “Record The Camera Stream” option to record the webcam along with PPT.
-
-![record ppt with face in filmora](https://images.wondershare.com/filmora/article-images/record-ppt-with-face-filmora.jpg)
-
-Step 6: When you are ready, click on Record button.
-
-You will get a few buffer seconds to start your PowerPoint slides and start your presentation.
-
-Step 7: Click on Stop button to stop recording whenever it is done and export the recorded file to save it.
-
-## Way 3\. Record PPT and Webcam with Panopto
-
-If you are looking for a free online video and screen recorder to record webcam with PowerPoint, Panopto is a great platform. The online platform of Panopto is super simple to use and the interface is as clean as it gets. With Panopto, you can record PPT with your narration in PiP mode as well as record PPT with your voice only. Here are the steps to follow to record PowerPoint with webcam on Panopto.
-
-Step 1: Open PowerPoint and open your PPT slides and get ready for recording.
-
-Step 2: Open your web browser and visit <www.panopto.com/record/?capture>.
-
-Step 3: Connect your webcam and microphone and Panopto will automatically detect them. You can click on Audio and Video tab at the top to ensure that the devices are configured correctly and working properly.
-
-Step 4: Click on Screen and Apps and select screen recording size which is likely to be Entire Screen in PowerPoint Presentation.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-![panopto recorder](https://images.wondershare.com/filmora/article-images/panopto-recorder.jpg)
-
-Step 5: Then click on Video to record your webcam video in PiP mode.
-
-Step 6: Finally, click on Record button and start recording your presentation.
-
-![record presentation webcam with panopto](https://images.wondershare.com/filmora/article-images/record-presentation-with-webcam-panopto.jpg)
-
-Step 7: When you are done, click on Stop button and on the next screen, you can download the recorded video.
-
-## Way 4\. Record PPT and Webcam with Camtasia
-
-Camtasia is a professional screen and video recorder with versatile video editing features. Before purchasing its premium plan, you can use its free trial version. You can capture anything on the screen starting from websites and PPT to video calls and gameplays. There is a PowerPoint Add-In available and you can even import PPT slides into Camtasia for convenience in recording PowerPoint presentations. Here are the steps to follow on how do you record a PowerPoint with a webcam
-
-Step 1: Download and install Camtasia. Camtasia comes with PPT add-in so that you get the recording options directly from PowerPoint.
-
-Step 2: Open PowerPoint and open the file where there are slides for presentation.
-
-Step 3: Go to Add-In tab and you will see all the recording controls. If you cannot see Add-In tab, go to File> Options> Add-ins and enable Camtasia.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![run camtasia](https://images.wondershare.com/filmora/article-images/run-camtasia.jpg)
-
-Step 4: Click on Recording Options to enable audio and camera recording.
-
-Step 5: Turn on Record Audio option and Record from Camera option from Picture in Picture. And click on Ok button.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![camtasia recording settings](https://images.wondershare.com/filmora/article-images/camtasia-recording-settings.jpg)
-
-Step 6: Click on Record button and start your presentation.
-
-Step 7: At the bottom-right corner, click on “Click To begin Recording” button.
-
-Step 8: Press Esc on your keyboard to Stop Recording. You can save the recorded video on your hard drive.
-
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Record computer screen and webcam
-
-Capture system and microphone audio
-
-Customize the target recording area
-
-Edit videos with thousands of effects and tools
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## The Bottom Line
-
-Hopefully, you have understood how do you record a PowerPoint with a webcam. You can do it using PowerPoint's inbuilt recording option as well as using an online recording tool. In both these methods, you do not need any external software but they have certain shortcomings. Hence, we recommend you Wondershare Filmora to record PPT with webcam and edit it before sharing and publishing on any platform.
-
-Way 2. [Record PPT and Webcam with Filmora](#part2)
-
-Way 3. [Record PPT and Face with Panopto](#part3)
-
-Way 4. [Record PPT and Camera with Camtasia](#part4)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Way 1\. Record PPT and Webcam with PowerPoint Recording Feature
-
-The easiest way to record webcam with PowerPoint presentation is by using PowerPoint's built-in recording option. Yes, PowerPoint does come with an option to record slide show along with webcam and mic. The video from the webcam will be shown in Picture-in-Picture mode at one corner on top of the PowerPoint presentation. Here are the steps to record PPT with webcam without installing any external software.
-
-Step 1: Open PowerPoint and your presentation file.
-
-Step 2: Go to Slide Show tab and click on Record Slide Show.
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![record slide show](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
-
-Step 3: On the next screen, go to Settings located at the top-right corner. Select webcam and microphone properly.
-
-Step 4: Click on Record button at the top-left corner. You will get three seconds to get started.
-
-Step 5: When you want to stop recording, click on Stop button at the top-left corner.
-
-Step 6: Go to File> Export> Create A Video to save the recorded file.
-
-![create a video powerpoint](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
-
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Way 2\. Record PPT and Webcam with Wondershare Filmora
-
-There are some issues reported by users when they tried to record PPT with webcam such as video glitches, microphone sound not picking up and likewise. The best way to record PowerPoint presentation with webcam Mac and Windows is by using [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/). It is a premium software that is designed for recording video as well as editing videos like a professional. To record PPT with webcam, you need to record the screen along with webcam and microphone. Here are the steps you need to follow.
-
-Step 1: Download and install Wondershare Filmora on your computer.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Open Filmora and click on New Project option.
-
-Step 3: Go to Record and then go to Record PC Screen option.
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 4: Set screen size which is likely to be full screen for PPT. Make sure to turn on Microphone option to record your audio.
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
-
-Step 5: Click on Gear icon at the Gear icon and select “Record The Camera Stream” option to record the webcam along with PPT.
-
-![record ppt with face in filmora](https://images.wondershare.com/filmora/article-images/record-ppt-with-face-filmora.jpg)
-
-Step 6: When you are ready, click on Record button.
-
-You will get a few buffer seconds to start your PowerPoint slides and start your presentation.
-
-Step 7: Click on Stop button to stop recording whenever it is done and export the recorded file to save it.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Way 3\. Record PPT and Webcam with Panopto
-
-If you are looking for a free online video and screen recorder to record webcam with PowerPoint, Panopto is a great platform. The online platform of Panopto is super simple to use and the interface is as clean as it gets. With Panopto, you can record PPT with your narration in PiP mode as well as record PPT with your voice only. Here are the steps to follow to record PowerPoint with webcam on Panopto.
-
-Step 1: Open PowerPoint and open your PPT slides and get ready for recording.
-
-Step 2: Open your web browser and visit <www.panopto.com/record/?capture>.
-
-Step 3: Connect your webcam and microphone and Panopto will automatically detect them. You can click on Audio and Video tab at the top to ensure that the devices are configured correctly and working properly.
-
-Step 4: Click on Screen and Apps and select screen recording size which is likely to be Entire Screen in PowerPoint Presentation.
-
-![panopto recorder](https://images.wondershare.com/filmora/article-images/panopto-recorder.jpg)
-
-Step 5: Then click on Video to record your webcam video in PiP mode.
-
-Step 6: Finally, click on Record button and start recording your presentation.
-
-![record presentation webcam with panopto](https://images.wondershare.com/filmora/article-images/record-presentation-with-webcam-panopto.jpg)
-
-Step 7: When you are done, click on Stop button and on the next screen, you can download the recorded video.
-
-## Way 4\. Record PPT and Webcam with Camtasia
-
-Camtasia is a professional screen and video recorder with versatile video editing features. Before purchasing its premium plan, you can use its free trial version. You can capture anything on the screen starting from websites and PPT to video calls and gameplays. There is a PowerPoint Add-In available and you can even import PPT slides into Camtasia for convenience in recording PowerPoint presentations. Here are the steps to follow on how do you record a PowerPoint with a webcam
-
-Step 1: Download and install Camtasia. Camtasia comes with PPT add-in so that you get the recording options directly from PowerPoint.
-
-Step 2: Open PowerPoint and open the file where there are slides for presentation.
-
-Step 3: Go to Add-In tab and you will see all the recording controls. If you cannot see Add-In tab, go to File> Options> Add-ins and enable Camtasia.
-
-![run camtasia](https://images.wondershare.com/filmora/article-images/run-camtasia.jpg)
-
-Step 4: Click on Recording Options to enable audio and camera recording.
-
-Step 5: Turn on Record Audio option and Record from Camera option from Picture in Picture. And click on Ok button.
-
-![camtasia recording settings](https://images.wondershare.com/filmora/article-images/camtasia-recording-settings.jpg)
-
-Step 6: Click on Record button and start your presentation.
-
-Step 7: At the bottom-right corner, click on “Click To begin Recording” button.
-
-Step 8: Press Esc on your keyboard to Stop Recording. You can save the recorded video on your hard drive.
-
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Record computer screen and webcam
-
-Capture system and microphone audio
-
-Customize the target recording area
-
-Edit videos with thousands of effects and tools
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## The Bottom Line
-
-Hopefully, you have understood how do you record a PowerPoint with a webcam. You can do it using PowerPoint's inbuilt recording option as well as using an online recording tool. In both these methods, you do not need any external software but they have certain shortcomings. Hence, we recommend you Wondershare Filmora to record PPT with webcam and edit it before sharing and publishing on any platform.
-
-Way 2. [Record PPT and Webcam with Filmora](#part2)
-
-Way 3. [Record PPT and Face with Panopto](#part3)
-
-Way 4. [Record PPT and Camera with Camtasia](#part4)
-
-## Way 1\. Record PPT and Webcam with PowerPoint Recording Feature
-
-The easiest way to record webcam with PowerPoint presentation is by using PowerPoint's built-in recording option. Yes, PowerPoint does come with an option to record slide show along with webcam and mic. The video from the webcam will be shown in Picture-in-Picture mode at one corner on top of the PowerPoint presentation. Here are the steps to record PPT with webcam without installing any external software.
-
-Step 1: Open PowerPoint and your presentation file.
-
-Step 2: Go to Slide Show tab and click on Record Slide Show.
-
-![record slide show](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
-
-Step 3: On the next screen, go to Settings located at the top-right corner. Select webcam and microphone properly.
-
-Step 4: Click on Record button at the top-left corner. You will get three seconds to get started.
-
-Step 5: When you want to stop recording, click on Stop button at the top-left corner.
-
-Step 6: Go to File> Export> Create A Video to save the recorded file.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![create a video powerpoint](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
-
-## Way 2\. Record PPT and Webcam with Wondershare Filmora
-
-There are some issues reported by users when they tried to record PPT with webcam such as video glitches, microphone sound not picking up and likewise. The best way to record PowerPoint presentation with webcam Mac and Windows is by using [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/). It is a premium software that is designed for recording video as well as editing videos like a professional. To record PPT with webcam, you need to record the screen along with webcam and microphone. Here are the steps you need to follow.
-
-Step 1: Download and install Wondershare Filmora on your computer.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Open Filmora and click on New Project option.
-
-Step 3: Go to Record and then go to Record PC Screen option.
-
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Way 1\. Record PPT and Webcam with PowerPoint Recording Feature
+
+The easiest way to record webcam with PowerPoint presentation is by using PowerPoint's built-in recording option. Yes, PowerPoint does come with an option to record slide show along with webcam and mic. The video from the webcam will be shown in Picture-in-Picture mode at one corner on top of the PowerPoint presentation. Here are the steps to record PPT with webcam without installing any external software.
+
+Step 1: Open PowerPoint and your presentation file.
+
+Step 2: Go to Slide Show tab and click on Record Slide Show.
+
+![record slide show](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: On the next screen, go to Settings located at the top-right corner. Select webcam and microphone properly.
+
+Step 4: Click on Record button at the top-left corner. You will get three seconds to get started.
+
+Step 5: When you want to stop recording, click on Stop button at the top-left corner.
+
+Step 6: Go to File> Export> Create A Video to save the recorded file.
+
+![create a video powerpoint](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 2\. Record PPT and Webcam with Wondershare Filmora
+
+There are some issues reported by users when they tried to record PPT with webcam such as video glitches, microphone sound not picking up and likewise. The best way to record PowerPoint presentation with webcam Mac and Windows is by using [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/). It is a premium software that is designed for recording video as well as editing videos like a professional. To record PPT with webcam, you need to record the screen along with webcam and microphone. Here are the steps you need to follow.
+
+Step 1: Download and install Wondershare Filmora on your computer.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Open Filmora and click on New Project option.
+
+Step 3: Go to Record and then go to Record PC Screen option.
+
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Set screen size which is likely to be full screen for PPT. Make sure to turn on Microphone option to record your audio.
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Click on Gear icon at the Gear icon and select “Record The Camera Stream” option to record the webcam along with PPT.
 
@@ -408,20 +157,362 @@ Step 4: Click on Screen and Apps and select screen recording size which is likel
 
 ![panopto recorder](https://images.wondershare.com/filmora/article-images/panopto-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Then click on Video to record your webcam video in PiP mode.
 
 Step 6: Finally, click on Record button and start recording your presentation.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![record presentation webcam with panopto](https://images.wondershare.com/filmora/article-images/record-presentation-with-webcam-panopto.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 7: When you are done, click on Stop button and on the next screen, you can download the recorded video.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Way 4\. Record PPT and Webcam with Camtasia
+
+Camtasia is a professional screen and video recorder with versatile video editing features. Before purchasing its premium plan, you can use its free trial version. You can capture anything on the screen starting from websites and PPT to video calls and gameplays. There is a PowerPoint Add-In available and you can even import PPT slides into Camtasia for convenience in recording PowerPoint presentations. Here are the steps to follow on how do you record a PowerPoint with a webcam
+
+Step 1: Download and install Camtasia. Camtasia comes with PPT add-in so that you get the recording options directly from PowerPoint.
+
+Step 2: Open PowerPoint and open the file where there are slides for presentation.
+
+Step 3: Go to Add-In tab and you will see all the recording controls. If you cannot see Add-In tab, go to File> Options> Add-ins and enable Camtasia.
+
+![run camtasia](https://images.wondershare.com/filmora/article-images/run-camtasia.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 4: Click on Recording Options to enable audio and camera recording.
+
+Step 5: Turn on Record Audio option and Record from Camera option from Picture in Picture. And click on Ok button.
+
+![camtasia recording settings](https://images.wondershare.com/filmora/article-images/camtasia-recording-settings.jpg)
+
+Step 6: Click on Record button and start your presentation.
+
+Step 7: At the bottom-right corner, click on “Click To begin Recording” button.
+
+Step 8: Press Esc on your keyboard to Stop Recording. You can save the recorded video on your hard drive.
+
+##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Record computer screen and webcam
+
+Capture system and microphone audio
+
+Customize the target recording area
+
+Edit videos with thousands of effects and tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Bottom Line
+
+Hopefully, you have understood how do you record a PowerPoint with a webcam. You can do it using PowerPoint's inbuilt recording option as well as using an online recording tool. In both these methods, you do not need any external software but they have certain shortcomings. Hence, we recommend you Wondershare Filmora to record PPT with webcam and edit it before sharing and publishing on any platform.
+
+Way 2. [Record PPT and Webcam with Filmora](#part2)
+
+Way 3. [Record PPT and Face with Panopto](#part3)
+
+Way 4. [Record PPT and Camera with Camtasia](#part4)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 1\. Record PPT and Webcam with PowerPoint Recording Feature
+
+The easiest way to record webcam with PowerPoint presentation is by using PowerPoint's built-in recording option. Yes, PowerPoint does come with an option to record slide show along with webcam and mic. The video from the webcam will be shown in Picture-in-Picture mode at one corner on top of the PowerPoint presentation. Here are the steps to record PPT with webcam without installing any external software.
+
+Step 1: Open PowerPoint and your presentation file.
+
+Step 2: Go to Slide Show tab and click on Record Slide Show.
+
+![record slide show](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
+
+Step 3: On the next screen, go to Settings located at the top-right corner. Select webcam and microphone properly.
+
+Step 4: Click on Record button at the top-left corner. You will get three seconds to get started.
+
+Step 5: When you want to stop recording, click on Stop button at the top-left corner.
+
+Step 6: Go to File> Export> Create A Video to save the recorded file.
+
+![create a video powerpoint](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 2\. Record PPT and Webcam with Wondershare Filmora
+
+There are some issues reported by users when they tried to record PPT with webcam such as video glitches, microphone sound not picking up and likewise. The best way to record PowerPoint presentation with webcam Mac and Windows is by using [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/). It is a premium software that is designed for recording video as well as editing videos like a professional. To record PPT with webcam, you need to record the screen along with webcam and microphone. Here are the steps you need to follow.
+
+Step 1: Download and install Wondershare Filmora on your computer.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Open Filmora and click on New Project option.
+
+Step 3: Go to Record and then go to Record PC Screen option.
+
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 4: Set screen size which is likely to be full screen for PPT. Make sure to turn on Microphone option to record your audio.
+
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+Step 5: Click on Gear icon at the Gear icon and select “Record The Camera Stream” option to record the webcam along with PPT.
+
+![record ppt with face in filmora](https://images.wondershare.com/filmora/article-images/record-ppt-with-face-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 6: When you are ready, click on Record button.
+
+You will get a few buffer seconds to start your PowerPoint slides and start your presentation.
+
+Step 7: Click on Stop button to stop recording whenever it is done and export the recorded file to save it.
+
+## Way 3\. Record PPT and Webcam with Panopto
+
+If you are looking for a free online video and screen recorder to record webcam with PowerPoint, Panopto is a great platform. The online platform of Panopto is super simple to use and the interface is as clean as it gets. With Panopto, you can record PPT with your narration in PiP mode as well as record PPT with your voice only. Here are the steps to follow to record PowerPoint with webcam on Panopto.
+
+Step 1: Open PowerPoint and open your PPT slides and get ready for recording.
+
+Step 2: Open your web browser and visit <www.panopto.com/record/?capture>.
+
+Step 3: Connect your webcam and microphone and Panopto will automatically detect them. You can click on Audio and Video tab at the top to ensure that the devices are configured correctly and working properly.
+
+Step 4: Click on Screen and Apps and select screen recording size which is likely to be Entire Screen in PowerPoint Presentation.
+
+![panopto recorder](https://images.wondershare.com/filmora/article-images/panopto-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 5: Then click on Video to record your webcam video in PiP mode.
+
+Step 6: Finally, click on Record button and start recording your presentation.
+
+![record presentation webcam with panopto](https://images.wondershare.com/filmora/article-images/record-presentation-with-webcam-panopto.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 7: When you are done, click on Stop button and on the next screen, you can download the recorded video.
+
+## Way 4\. Record PPT and Webcam with Camtasia
+
+Camtasia is a professional screen and video recorder with versatile video editing features. Before purchasing its premium plan, you can use its free trial version. You can capture anything on the screen starting from websites and PPT to video calls and gameplays. There is a PowerPoint Add-In available and you can even import PPT slides into Camtasia for convenience in recording PowerPoint presentations. Here are the steps to follow on how do you record a PowerPoint with a webcam
+
+Step 1: Download and install Camtasia. Camtasia comes with PPT add-in so that you get the recording options directly from PowerPoint.
+
+Step 2: Open PowerPoint and open the file where there are slides for presentation.
+
+Step 3: Go to Add-In tab and you will see all the recording controls. If you cannot see Add-In tab, go to File> Options> Add-ins and enable Camtasia.
+
+![run camtasia](https://images.wondershare.com/filmora/article-images/run-camtasia.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 4: Click on Recording Options to enable audio and camera recording.
+
+Step 5: Turn on Record Audio option and Record from Camera option from Picture in Picture. And click on Ok button.
+
+![camtasia recording settings](https://images.wondershare.com/filmora/article-images/camtasia-recording-settings.jpg)
+
+Step 6: Click on Record button and start your presentation.
+
+Step 7: At the bottom-right corner, click on “Click To begin Recording” button.
+
+Step 8: Press Esc on your keyboard to Stop Recording. You can save the recorded video on your hard drive.
+
+##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Record computer screen and webcam
+
+Capture system and microphone audio
+
+Customize the target recording area
+
+Edit videos with thousands of effects and tools
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Bottom Line
+
+Hopefully, you have understood how do you record a PowerPoint with a webcam. You can do it using PowerPoint's inbuilt recording option as well as using an online recording tool. In both these methods, you do not need any external software but they have certain shortcomings. Hence, we recommend you Wondershare Filmora to record PPT with webcam and edit it before sharing and publishing on any platform.
+
+Way 2. [Record PPT and Webcam with Filmora](#part2)
+
+Way 3. [Record PPT and Face with Panopto](#part3)
+
+Way 4. [Record PPT and Camera with Camtasia](#part4)
+
+## Way 1\. Record PPT and Webcam with PowerPoint Recording Feature
+
+The easiest way to record webcam with PowerPoint presentation is by using PowerPoint's built-in recording option. Yes, PowerPoint does come with an option to record slide show along with webcam and mic. The video from the webcam will be shown in Picture-in-Picture mode at one corner on top of the PowerPoint presentation. Here are the steps to record PPT with webcam without installing any external software.
+
+Step 1: Open PowerPoint and your presentation file.
+
+Step 2: Go to Slide Show tab and click on Record Slide Show.
+
+![record slide show](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
+
+Step 3: On the next screen, go to Settings located at the top-right corner. Select webcam and microphone properly.
+
+Step 4: Click on Record button at the top-left corner. You will get three seconds to get started.
+
+Step 5: When you want to stop recording, click on Stop button at the top-left corner.
+
+Step 6: Go to File> Export> Create A Video to save the recorded file.
+
+![create a video powerpoint](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
+
+## Way 2\. Record PPT and Webcam with Wondershare Filmora
+
+There are some issues reported by users when they tried to record PPT with webcam such as video glitches, microphone sound not picking up and likewise. The best way to record PowerPoint presentation with webcam Mac and Windows is by using [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/). It is a premium software that is designed for recording video as well as editing videos like a professional. To record PPT with webcam, you need to record the screen along with webcam and microphone. Here are the steps you need to follow.
+
+Step 1: Download and install Wondershare Filmora on your computer.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Open Filmora and click on New Project option.
+
+Step 3: Go to Record and then go to Record PC Screen option.
+
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 4: Set screen size which is likely to be full screen for PPT. Make sure to turn on Microphone option to record your audio.
+
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+Step 5: Click on Gear icon at the Gear icon and select “Record The Camera Stream” option to record the webcam along with PPT.
+
+![record ppt with face in filmora](https://images.wondershare.com/filmora/article-images/record-ppt-with-face-filmora.jpg)
+
+Step 6: When you are ready, click on Record button.
+
+You will get a few buffer seconds to start your PowerPoint slides and start your presentation.
+
+Step 7: Click on Stop button to stop recording whenever it is done and export the recorded file to save it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 3\. Record PPT and Webcam with Panopto
+
+If you are looking for a free online video and screen recorder to record webcam with PowerPoint, Panopto is a great platform. The online platform of Panopto is super simple to use and the interface is as clean as it gets. With Panopto, you can record PPT with your narration in PiP mode as well as record PPT with your voice only. Here are the steps to follow to record PowerPoint with webcam on Panopto.
+
+Step 1: Open PowerPoint and open your PPT slides and get ready for recording.
+
+Step 2: Open your web browser and visit <www.panopto.com/record/?capture>.
+
+Step 3: Connect your webcam and microphone and Panopto will automatically detect them. You can click on Audio and Video tab at the top to ensure that the devices are configured correctly and working properly.
+
+Step 4: Click on Screen and Apps and select screen recording size which is likely to be Entire Screen in PowerPoint Presentation.
+
+![panopto recorder](https://images.wondershare.com/filmora/article-images/panopto-recorder.jpg)
+
+Step 5: Then click on Video to record your webcam video in PiP mode.
+
+Step 6: Finally, click on Record button and start recording your presentation.
+
+![record presentation webcam with panopto](https://images.wondershare.com/filmora/article-images/record-presentation-with-webcam-panopto.jpg)
+
+Step 7: When you are done, click on Stop button and on the next screen, you can download the recorded video.
+
 ## Way 4\. Record PPT and Webcam with Camtasia
 
 Camtasia is a professional screen and video recorder with versatile video editing features. Before purchasing its premium plan, you can use its free trial version. You can capture anything on the screen starting from websites and PPT to video calls and gameplays. There is a PowerPoint Add-In available and you can even import PPT slides into Camtasia for convenience in recording PowerPoint presentations. Here are the steps to follow on how do you record a PowerPoint with a webcam
@@ -438,9 +529,6 @@ Step 4: Click on Recording Options to enable audio and camera recording.
 
 Step 5: Turn on Record Audio option and Record from Camera option from Picture in Picture. And click on Ok button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![camtasia recording settings](https://images.wondershare.com/filmora/article-images/camtasia-recording-settings.jpg)
 
 Step 6: Click on Record button and start your presentation.
@@ -481,6 +569,13 @@ Step 2: Go to Slide Show tab and click on Record Slide Show.
 
 ![record slide show](https://images.wondershare.com/filmora/article-images/powerpoint-screen-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: On the next screen, go to Settings located at the top-right corner. Select webcam and microphone properly.
 
 Step 4: Click on Record button at the top-left corner. You will get three seconds to get started.
@@ -489,9 +584,6 @@ Step 5: When you want to stop recording, click on Stop button at the top-left co
 
 Step 6: Go to File> Export> Create A Video to save the recorded file.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create a video powerpoint](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
 
 ## Way 2\. Record PPT and Webcam with Wondershare Filmora
@@ -514,6 +606,13 @@ Step 3: Go to Record and then go to Record PC Screen option.
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Set screen size which is likely to be full screen for PPT. Make sure to turn on Microphone option to record your audio.
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
@@ -527,6 +626,13 @@ Step 6: When you are ready, click on Record button.
 You will get a few buffer seconds to start your PowerPoint slides and start your presentation.
 
 Step 7: Click on Stop button to stop recording whenever it is done and export the recorded file to save it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 3\. Record PPT and Webcam with Panopto
 
@@ -542,6 +648,19 @@ Step 4: Click on Screen and Apps and select screen recording size which is likel
 
 ![panopto recorder](https://images.wondershare.com/filmora/article-images/panopto-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Then click on Video to record your webcam video in PiP mode.
 
 Step 6: Finally, click on Record button and start recording your presentation.
@@ -551,8 +670,12 @@ Step 6: Finally, click on Record button and start recording your presentation.
 Step 7: When you are done, click on Stop button and on the next screen, you can download the recorded video.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 4\. Record PPT and Webcam with Camtasia
 
 Camtasia is a professional screen and video recorder with versatile video editing features. Before purchasing its premium plan, you can use its free trial version. You can capture anything on the screen starting from websites and PPT to video calls and gameplays. There is a PowerPoint Add-In available and you can even import PPT slides into Camtasia for convenience in recording PowerPoint presentations. Here are the steps to follow on how do you record a PowerPoint with a webcam
@@ -563,19 +686,20 @@ Step 2: Open PowerPoint and open the file where there are slides for presentatio
 
 Step 3: Go to Add-In tab and you will see all the recording controls. If you cannot see Add-In tab, go to File> Options> Add-ins and enable Camtasia.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![run camtasia](https://images.wondershare.com/filmora/article-images/run-camtasia.jpg)
 
 Step 4: Click on Recording Options to enable audio and camera recording.
 
 Step 5: Turn on Record Audio option and Record from Camera option from Picture in Picture. And click on Ok button.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![camtasia recording settings](https://images.wondershare.com/filmora/article-images/camtasia-recording-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: Click on Record button and start your presentation.
 
@@ -621,8 +745,22 @@ Hopefully, you have understood how do you record a PowerPoint with a webcam. You
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-freemacos-the-ultimate-screen-logger/"><u>[New] 2024 Approved FreeMacOS The Ultimate Screen Logger</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-flipping-video-content-easily-in-android-applications/"><u>[New] Flipping Video Content Easily in Android Applications</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-guide-incorporating-facebook-live-into-websites/"><u>[New] In 2024, The Ultimate Guide Incorporating Facebook LIVE Into Websites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-navigating-the-maze-of-selecting-film-teasers-music/"><u>[New] Navigating the Maze of Selecting Film Teasers' Music</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-a-fair-assessment-unveiling-recordcasts-capabilities/"><u>[Updated] 2024 Approved A Fair Assessment Unveiling RecordCast's Capabilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-chromebooks-premium-free-video-capture-extensions-for-2024/"><u>[Updated] Chromebook's Premium Free Video Capture Extensions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-video-meeting-techniques-on-slack-plus-filmora/"><u>[Updated] Cutting-Edge Video Meeting Techniques on Slack + Filmora</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-start-to-mastering-io-screen-recording/"><u>[Updated] Quick Start to Mastering IO Screen Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-joyous-film-grabber-assessment/"><u>2024 Approved Joyous Film Grabber Assessment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-thrills-that-dont-involve-los-angeles-lives/"><u>2024 Approved Thrills That Don't Involve Los Angeles Lives</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-bluetooth-audio-glitches-in-your-windows-pc-step-by-step-fixes/"><u>How to Eliminate Bluetooth Audio Glitches in Your Windows PC: Step-by-Step Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-video-testimonials-shape-perception-and-trust-for-2024/"><u>How Video Testimonials Shape Perception and Trust for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C210? | Dr.fone</u></a></li>
+</ul></div>
 
