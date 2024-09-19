@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize the Save Spot of Mac Images"
-date: 2024-09-12T00:15:07.308Z
-updated: 2024-09-13T18:20:26.736Z
+date: 2024-09-14T18:31:50.215Z
+updated: 2024-09-18T20:20:35.291Z
 tags: 
   - screen-recording
   - ai video
@@ -31,13 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -55,38 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -95,13 +61,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -112,19 +71,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -153,17 +99,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-excellent-replacements-to-top-rated-fbx-recorder-apps/"><u>[New] 2024 Approved Excellent Replacements to Top-Rated FBX Recorder Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unending-screen-documentation-sites/"><u>[New] Unending Screen Documentation Sites</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-detailed-review-top-10-screen-recorders-for-mac-for-2024/"><u>[Updated] A Detailed Review Top 10 Screen Recorders for Mac for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-enhance-video-magic-find-your-favorite-mobile-edit-apps/"><u>[Updated] Enhance Video Magic Find Your Favorite Mobile Edit Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-flipping-frames-innovative-techniques-for-backward-viewing-on-yt/"><u>[Updated] Flipping Frames Innovative Techniques for Backward Viewing on YT</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-extensions-to-capture-firefox/"><u>[Updated] In 2024, Best Extensions to Capture Firefox</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pro-tips-for-streaming-and-screening-netflix-on-mac/"><u>[Updated] In 2024, Pro-Tips for Streaming & Screening Netflix on Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-picture-editor-tutorial/"><u>[Updated] The Ultimate Picture Editor Tutorial</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/dive-deep-into-high-quality-video-capture-technology-for-2024/"><u>Dive Deep Into High-Quality Video Capture Technology for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-20-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark 20 Pattern Lock Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-c32-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia C32</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-exactly-is-codegpt-can-this-ai-reliably-write-software-code/"><u>What Exactly Is CodeGPT? Can This AI Reliably Write Software Code?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mp3-recording-made-simple-with-skype-for-free/"><u>[Updated] 2024 Approved MP3 Recording Made Simple with Skype for FREE</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-documentation-mobile-and-desktop-meeting-recordings/"><u>[Updated] Digital Documentation Mobile & Desktop Meeting Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-timely-humor-for-various-gatherings/"><u>[Updated] Ultimate List Timely Humor for Various Gatherings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-streaming-of-popular-nollywood-films-online/"><u>Free Streaming of Popular Nollywood Films Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 5GFRP Lock</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-wildlife-wonders-androids-finest-animal-game-collection/"><u>In 2024, Wildlife Wonders Android’s Finest Animal Game Collection</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-hassle-seamless-setup-newest-tp-link-adapter-driver-for-pcs/"><u>No Hassle, Seamless Setup: Newest TP Link Adapter Driver for PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-llama-2-and-how-can-you-use-it/"><u>What Is Llama 2 and How Can You Use It?</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/winx-dvd-ripperdvd/"><u>WinX DVD Ripperのセキュリティについて学び、安全なDVDコピー手法を探求:ご利用者の皆様の信頼の証とします</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
