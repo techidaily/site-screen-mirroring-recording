@@ -1,7 +1,7 @@
 ---
 title: "[New] Methods for Amending Silent OBS Recordings"
-date: 2024-09-17T18:26:35.385Z
-updated: 2024-09-19T02:35:32.020Z
+date: 2024-09-19T00:05:31.468Z
+updated: 2024-09-23T20:21:29.901Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -78,13 +78,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -96,10 +89,17 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -110,6 +110,13 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -122,10 +129,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -145,10 +152,10 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -173,19 +180,18 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-cultivating-companions-best-farm-games-to-share-with-pals/"><u>[New] Cultivating Companions Best Farm Games to Share with Pals</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-video-production-mastering-obs-on-android/"><u>[Updated] In 2024, Elevate Video Production Mastering OBS on Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-enhancements-guide-to-superior-terria-for-2024/"><u>[Updated] Premium Enhancements Guide to Superior Terria for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capture-video-perfection-in-minutes/"><u>2024 Approved Capture Video Perfection in Minutes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-topping-bargain-software-for-screen-capture-on-chromebook/"><u>2024 Approved Topping Bargain Software for Screen Capture on Chromebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audiovisual-excellence-through-narrative-enrichment/"><u>Audiovisual Excellence Through Narrative Enrichment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convertissez-vos-videos-ogm-en-mp4-gratuitement-sur-la-plateforme-de-conversion-en-ligne-de-movavi/"><u>Convertissez Vos Vidéos OGM en MP4 Gratuitement Sur La Plateforme De Conversion en Ligne De Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-12-pro-max-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 12 Pro Max to Computer? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-methods-for-documenting-live-youtube-broadcasts/"><u>In 2024, Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>In 2024, Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-ai-forecasting-more-accurate-than-horoscope-claims/"><u>Is AI Forecasting More Accurate Than Horoscope Claims?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/quick-tips-for-easy-youtube-thumbnail-acquisition-zero-price-in-2024/"><u>Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price, In 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y27-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y27 5G FRP Bypass</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-step-by-step-guide-to-effective-screen-recording-with-mobizen/"><u>[New] In 2024, Step-by-Step Guide to Effective Screen Recording with Mobizen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2023-how-to-fix-live-video-interrupted-on-facebook-in-2024/"><u>[Updated] 2023 | How to Fix Live Video Interrupted on Facebook, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[Updated] 2024 Approved How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-complete-process-of-adding-soundtracks-to-ig/"><u>[Updated] 2024 Approved The Complete Process of Adding Soundtracks to IG</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-transformative-video-editing-master-the-art-of-ken-burns-in-camtasa-9/"><u>[Updated] 2024 Approved Transformative Video Editing Master the Art of Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-webcam-recording-made-simple-for-laptops-and-chromebooks/"><u>[Updated] In 2024, Webcam Recording Made Simple for Laptops & Chromebooks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-screencast-strategies-secrets-for-video-creators-for-2024/"><u>[Updated] Pro Screencast Strategies Secrets for Video Creators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-a-deep-dive-into-exceptional-screen-recording-using-adobe-captivity/"><u>2024 Approved A Deep Dive Into Exceptional Screen Recording Using Adobe Captivity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-spotlight-on-windows-11-innovations/"><u>2024 Approved Spotlight on Windows 11 Innovations</u></a></li>
+<li><a href="https://techidaily.com/convert-cele-mai-bune-5-converters-dvd-in-formati-moldovenesti-integrare-pc-si-acces-online-hd/"><u>Convert Cele Mai Bune – 5 Converters DVD În Formați Moldovenesti Integrare PC Și Acces Online | HD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-strategies-to-correct-missing-ftd2xxdll-errors-effectively/"><u>Expert Strategies to Correct Missing ftd2XX.dll Errors Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-theory-to-canvas-color-essentials/"><u>From Theory to Canvas Color Essentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-find-x6-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Find X6 Pro Screen | Dr.fone</u></a></li>
 </ul></div>
 

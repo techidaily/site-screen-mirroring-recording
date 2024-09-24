@@ -1,7 +1,7 @@
 ---
 title: "\"Pioneering Camera Tech  An Analysis of ManyCam's New Recorder\""
-date: 2024-07-20T10:10:45.447Z
-updated: 2024-07-21T10:10:45.447Z
+date: 2024-09-19T18:05:27.279Z
+updated: 2024-09-23T19:58:04.327Z
 tags: 
   - screen-recording
   - ai video
@@ -27,9 +27,6 @@ ManyCam is a premium software and hence, you have to purchase its plan to unlock
 
 Step 1: From your web browser, visit “manycam.com”. Click on ManyCam Download Now button. The install will get downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![manycam download now](https://images.wondershare.com/filmora/article-images/manycam-download-now.jpg)
 
 Step 2: Install ManyCam on your computer from the downloaded file. After proper installation, launch ManyCam.
@@ -44,15 +41,8 @@ Step 4: Once you are ready with the screen that you want to record, click on Sta
 
 Step 5: When you want to stop recording, click on Stop Recording icon.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![manycam stop recording](https://images.wondershare.com/filmora/article-images/manycam-stop-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Key Features of ManyCam
 
 ManyCam is an extremely feature-rich software, and you should know the main features of the software before you install and use it. Starting from live streaming to screen recording, here are the key features of ManyCam you should be aware of.
@@ -71,9 +61,6 @@ YouTube Integration: ManyCam allows the playing of YouTube videos and you can us
 
 Besides, you can import presets to improve your video quality. There is also an option to add other ManyCam users directly in your video. You can also stream your video live on Facebook and YouTube through ManyCam.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Pros and Cons
 
 Let us come to ManyCam review where we are going to state the pros and cons of ManyCam. Once you know the strengths and weaknesses of any software, you can conclude if the software is tailor-made to satisfy your requirements or if there is a better alternative available. Here are the pros and cons of ManyCam that you should be aware of.
@@ -96,79 +83,43 @@ Let us come to ManyCam review where we are going to state the pros and cons of M
 
 Therefore, it is safe to say that ManyCam as a live streaming platform is good enough but there are many limitations and dissatisfaction as far as ManyCam screen recorder is concerned. If your main objective to record professional-quality videos, ManyCam may not be suitable as there are better alternatives available.
 
+## 4\. Best alternative
+
+We recommend Filmora as the Best ManyCam alternative when it comes to recording your screen and webcam together. Filmora is also a far better editor than ManyCam and professionals use Filmora for [video recording](https://tools.techidaily.com/wondershare/filmora/download/) and video editing. You can capture 4K videos without any glitch or performance lag. Besides, you can save the recorded video in different file formats as per your requirements. Here are the steps to record screen and webcam with Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora on your computer. Launch Filmora and opt for PC Screen option.
+
+![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Select the recording screen area and audio sources as per your requirements. Enable Record the Camera Stream option to record webcam as well as screen video.
+
+![recording panel](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+Step 3: When you are ready, click on Record button. You will get a few buffer seconds to switch to your screen. You can press F9 key to stop recording. Thereafter, edit the recording and export in the desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## 4\. Best alternative
-
-We recommend Filmora as the Best ManyCam alternative when it comes to recording your screen and webcam together. Filmora is also a far better editor than ManyCam and professionals use Filmora for [video recording](https://tools.techidaily.com/wondershare/filmora/download/) and video editing. You can capture 4K videos without any glitch or performance lag. Besides, you can save the recorded video in different file formats as per your requirements. Here are the steps to record screen and webcam with Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora on your computer. Launch Filmora and opt for PC Screen option.
-
-![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Select the recording screen area and audio sources as per your requirements. Enable Record the Camera Stream option to record webcam as well as screen video.
-
-![recording panel](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-Step 3: When you are ready, click on Record button. You will get a few buffer seconds to switch to your screen. You can press F9 key to stop recording. Thereafter, edit the recording and export in the desired file format.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-## Conclusion
-
-ManyCam screen recorder is great as a live streaming platform but it does not live up to the expectations as a screen recorder. That is why if you are going to purchase a software for professional-quality screen and webcam video recording with a high-quality editor for post-production works, we recommend Wondershare Filmora.
-
-****Cons –**
-
-* The settings for recording video are limited and complicated.
-* Too many features and functionalities make the user interface messy.
-* Some glitches are reported while live streaming and recording at high resolution.
-* The editing option post recording is very limited.
-
-Therefore, it is safe to say that ManyCam as a live streaming platform is good enough but there are many limitations and dissatisfaction as far as ManyCam screen recorder is concerned. If your main objective to record professional-quality videos, ManyCam may not be suitable as there are better alternatives available.
-
-## 4\. Best alternative
-
-We recommend Filmora as the Best ManyCam alternative when it comes to recording your screen and webcam together. Filmora is also a far better editor than ManyCam and professionals use Filmora for [video recording](https://tools.techidaily.com/wondershare/filmora/download/) and video editing. You can capture 4K videos without any glitch or performance lag. Besides, you can save the recorded video in different file formats as per your requirements. Here are the steps to record screen and webcam with Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora on your computer. Launch Filmora and opt for PC Screen option.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
-![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Select the recording screen area and audio sources as per your requirements. Enable Record the Camera Stream option to record webcam as well as screen video.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
-![recording panel](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-Step 3: When you are ready, click on Record button. You will get a few buffer seconds to switch to your screen. You can press F9 key to stop recording. Thereafter, edit the recording and export in the desired file format.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
 
@@ -201,14 +152,25 @@ Step 1: Download and install Wondershare Filmora on your computer. Launch Filmor
 
 Step 2: Select the recording screen area and audio sources as per your requirements. Enable Record the Camera Stream option to record webcam as well as screen video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![recording panel](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: When you are ready, click on Record button. You will get a few buffer seconds to switch to your screen. You can press F9 key to stop recording. Thereafter, edit the recording and export in the desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -224,8 +186,12 @@ ManyCam screen recorder is great as a live streaming platform but it does not li
 Therefore, it is safe to say that ManyCam as a live streaming platform is good enough but there are many limitations and dissatisfaction as far as ManyCam screen recorder is concerned. If your main objective to record professional-quality videos, ManyCam may not be suitable as there are better alternatives available.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Best alternative
 
 We recommend Filmora as the Best ManyCam alternative when it comes to recording your screen and webcam together. Filmora is also a far better editor than ManyCam and professionals use Filmora for [video recording](https://tools.techidaily.com/wondershare/filmora/download/) and video editing. You can capture 4K videos without any glitch or performance lag. Besides, you can save the recorded video in different file formats as per your requirements. Here are the steps to record screen and webcam with Filmora.
@@ -240,14 +206,75 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora on your computer. Launch Filmora and opt for PC Screen option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 Step 2: Select the recording screen area and audio sources as per your requirements. Enable Record the Camera Stream option to record webcam as well as screen video.
 
 ![recording panel](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+Step 3: When you are ready, click on Record button. You will get a few buffer seconds to switch to your screen. You can press F9 key to stop recording. Thereafter, edit the recording and export in the desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Conclusion
+
+ManyCam screen recorder is great as a live streaming platform but it does not live up to the expectations as a screen recorder. That is why if you are going to purchase a software for professional-quality screen and webcam video recording with a high-quality editor for post-production works, we recommend Wondershare Filmora.
+
+****Cons –**
+
+* The settings for recording video are limited and complicated.
+* Too many features and functionalities make the user interface messy.
+* Some glitches are reported while live streaming and recording at high resolution.
+* The editing option post recording is very limited.
+
+Therefore, it is safe to say that ManyCam as a live streaming platform is good enough but there are many limitations and dissatisfaction as far as ManyCam screen recorder is concerned. If your main objective to record professional-quality videos, ManyCam may not be suitable as there are better alternatives available.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Best alternative
+
+We recommend Filmora as the Best ManyCam alternative when it comes to recording your screen and webcam together. Filmora is also a far better editor than ManyCam and professionals use Filmora for [video recording](https://tools.techidaily.com/wondershare/filmora/download/) and video editing. You can capture 4K videos without any glitch or performance lag. Besides, you can save the recorded video in different file formats as per your requirements. Here are the steps to record screen and webcam with Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora on your computer. Launch Filmora and opt for PC Screen option.
+
+![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Select the recording screen area and audio sources as per your requirements. Enable Record the Camera Stream option to record webcam as well as screen video.
+
+![recording panel](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: When you are ready, click on Record button. You will get a few buffer seconds to switch to your screen. You can press F9 key to stop recording. Thereafter, edit the recording and export in the desired file format.
 
@@ -279,8 +306,23 @@ ManyCam screen recorder is great as a live streaming platform but it does not li
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-mobile-relaxation-renders-idle-games/"><u>[New] 2024 Approved Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc/"><u>[New] Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-master-the-switch-making-your-graphic-style-a-sticker-on-every-platform/"><u>[New] Master the Switch Making Your Graphic Style a Sticker on Every Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveil-the-magic-of-media-rotation-using-vlc-players-features/"><u>[New] Unveil the Magic of Media Rotation Using VLC Player's Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-humorist-hub/"><u>[Updated] In 2024, Digital Humorist Hub</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook/"><u>[Updated] In 2024, Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-photo-your-desktop-windows-edition/"><u>2024 Approved Photo Your Desktop Windows Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-10-no-cost-video-conference-platforms-worklearn-edition-for-2024/"><u>Essential 10 No-Cost Video Conference Platforms Work/Learn Edition for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-15-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 15?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-boosting-views-with-analytics-in-youtube-strategy/"><u>In 2024, Boosting Views with Analytics in YouTube Strategy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-learn-screen-casting-on-macbook-air-step-by-step/"><u>In 2024, Learn Screen Casting on Macbook Air, Step by Step</u></a></li>
+<li><a href="https://win11.techidaily.com/new-wave-windows-leap-from-the-legacy-of-11/"><u>New Wave Windows: Leap From the Legacy of 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/simplewin10-screen-grab-utility/"><u>SimpleWin10 Screen Grab Utility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation-for-2024/"><u>Step-by-Step Guide for iOS Users JPG/PNG to PDF Transformation for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ten-instagram-feeds-blending-funny-and-sentimental-posts/"><u>Ten Instagram Feeds Blending Funny & Sentimental Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-edit-suite-apps-and-devices-tools-listed/"><u>Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+</ul></div>
 

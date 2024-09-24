@@ -1,7 +1,7 @@
 ---
 title: "Cod: Black Ops Cold War PC Launching Problems - Solved Techniques and Tips"
-date: 2024-09-16T11:02:14.041Z
-updated: 2024-09-18T21:35:39.327Z
+date: 2024-09-19T23:24:27.075Z
+updated: 2024-09-24T00:27:10.316Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ By checking your system specs, just follow the instructions below:
 
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Now you can check your system specs.
 
 ![check system specs
@@ -73,6 +80,13 @@ By checking your system specs, just follow the instructions below:
 [AMD](https://www.amd.com/en/support)
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics drivers (recommended)
 
  If you don’t feel like updating the drivers all on your own, we recommend you use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs the correct versions of drivers that your computer needs. With Driver Easy, updating graphics drivers becomes much easier.
@@ -83,6 +97,13 @@ By checking your system specs, just follow the instructions below:
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -92,18 +113,18 @@ OR
 
 ![update graphics drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/update-all-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After that, launch your game to see if the problem is solved. If not, try to update other drivers including sound drivers, and DirectX drivers as well.
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
@@ -112,6 +133,13 @@ OR
  1) Right-click on the Steam icon on your desktop and select**Open file location** .
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Open the**steamapps** folder.
 
@@ -128,10 +156,10 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
@@ -142,27 +170,26 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files.png)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Steam will verify the game’s files and this process may take several minutes.
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set Launch Options
 
@@ -179,13 +206,6 @@ OR
  3) When the window pops up, type**autoconfig** and click**OK** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Till then, try running the game. If you want to go back to the previous launch options, just delete**autoconfig** following the steps listed above.
 
@@ -219,20 +239,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-save-your-gameplay-moments-with-xbox-screen-recordings/"><u>[New] 2024 Approved Save Your Gameplay Moments with Xbox Screen Recordings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-zoom-tools-for-clear-session-capture-for-2024/"><u>[New] Best Zoom Tools for Clear Session Capture for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iy-digital-storytelling-making-moving-pictures-on-your-smartphone/"><u>[New] DIY Digital Storytelling Making Moving Pictures on Your Smartphone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/treamline-your-audio-savings-from-youtube-playback/"><u>[New] Streamline Your Audio Savings From YouTube Playback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-transforming-online-meetings-choose-from-these-top-5-recorders/"><u>[New] Transforming Online Meetings Choose From These Top 5 Recorders</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-windows-10-gamers-guide-to-effective-video-capture/"><u>[Updated] 2024 Approved Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-clear-views-combating-fog-in-gopro-photos/"><u>[Updated] Clear Views Combating Fog in GoPro Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-restoring-functionality-in-obs-capture-device/"><u>[Updated] Restoring Functionality in OBS Capture Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-hulu-recording-across-all-platforms-for-2024/"><u>[Updated] The Complete Guide to Hulu Recording Across All Platforms for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-excellence-in-android-form-a-comprehensive-review-of-the-google-pixel-3/"><u>Discovering Excellence in Android Form – A Comprehensive Review of the Google Pixel 3</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-apex-window-based-podcast-enhancements-top-8-selections/"><u>In 2024, Apex Window-Based Podcast Enhancements Top 8 Selections</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-expert-insights-streamlining-filters-integration-in-media-production/"><u>In 2024, Expert Insights Streamlining Filters Integration in Media Production</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>In 2024, Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/quick-tips-for-iphone-7-video-saving-for-2024/"><u>Quick Tips for iPhone 7 Video Saving for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-turning-online-videos-into-desktop-music-files-for-2024/"><u>Unlocking the Secrets of Turning Online Videos Into Desktop Music Files for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-archive-itunes-content-with-ease-using-these-tips/"><u>[New] Archive iTunes Content with Ease Using These Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-guide-to-ipados-screen-capture/"><u>[New] In 2024, Ultimate Guide to iPadOS Screen Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-cinematic-influence-building-a-powerful-video-marketing-strategy-for-2024/"><u>[New] Instagram Cinematic Influence Building a Powerful Video Marketing Strategy for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimal-tools-for-high-quality-zoom-recordings-for-2024/"><u>[New] Optimal Tools for High-Quality Zoom Recordings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-charismatic-communicator-overview-part-8/"><u>[Updated] Charismatic Communicator Overview, Part 8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-record-powerpoint-live-with-webcam/"><u>[Updated] Essential Tips Record PowerPoint Live with Webcam</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-getting-unstuck-fixing-a-stalled-qbittorrent-session/"><u>Expert Advice on Getting Unstuck: Fixing a Stalled qBittorrent Session</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/from-gameplay-to-recording-expert-techniques-for-ps3-screenshots-for-2024/"><u>From Gameplay to Recording Expert Techniques for PS3 Screenshots for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mov-mastery-on-windows-11-discover-the-best-recording-methods-from-our-six-step-guide/"><u>In 2024, .MOV Mastery on Windows 11 - Discover the Best Recording Methods From Our Six-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-capturing-desktop-image-on-windows-editions/"><u>In 2024, Capturing Desktop Image on Windows Editions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-ups-solutions-reviewed-choose-the-perfect-backup/"><u>Leading UPS Solutions Reviewed - Choose the Perfect Backup</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mac-efficiency-for-academics-audio-record-of-classroom-learning-for-2024/"><u>Mac Efficiency for Academics Audio Record of Classroom Learning for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-photographic-companion-fz80-reviewed/"><u>The Perfect Photographic Companion - FZ80 Reviewed</u></a></li>
 </ul></div>
 

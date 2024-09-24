@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Capturing Desktop Image on Windows Editions"
-date: 2024-09-13T18:33:45.050Z
-updated: 2024-09-19T01:23:43.633Z
+date: 2024-09-21T22:49:11.784Z
+updated: 2024-09-23T23:04:31.198Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,13 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
@@ -82,15 +89,43 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
@@ -99,10 +134,10 @@ This popular app for taking screenshots has been bundled with all versions of th
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
@@ -132,13 +167,6 @@ The Share Charm on Windows 8.1 enables you to share links, music, videos, photos
 Hold the Window + C keys or use the mouse to access the Charms Bar and then click on the Share option. The feature lets you share files through email, and you can also use it to take screenshots within the apps you downloaded from the Windows Store. For the purpose of this article, we chose to show you how you can take screenshots from the Video app.
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
@@ -178,13 +206,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -200,13 +221,25 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-discover-the-best-4k-capture-software-for-live-recording/"><u>[New] Discover the Best 4K Capture Software for Live Recording</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-navigating-the-path-of-extensive-video-transfers-iphone-mac-interface-for-2024/"><u>[New] Navigating the Path of Extensive Video Transfers IPhone-Mac Interface for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-guide-becoming-a-reel-star-on-instagram/"><u>[Updated] 2024 Approved Step-by-Step Guide Becoming a Reel Star on Instagram</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-clearview-pro-5-screen-mastery-for-2024/"><u>[Updated] ClearView Pro 5 - Screen Mastery for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-fantasy-forays-a-decades-best-games/"><u>[Updated] Fantasy Forays A Decade’s Best Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-steps-converting-avi-files-into-wmv-format-with-top-tools/"><u>Effortless Steps: Converting AVI Files Into WMV Format with Top Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-epson-et-2750-drivers-for-windows-computers-step-by-step-guide/"><u>How to Get and Install Epson ET- 2750 Drivers for Windows Computers - Step by Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/stream-quality-which-is-superior-obs-or-fraps-in-2024/"><u>Stream Quality Which Is Superior, OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs/"><u>[New] 2024 Approved Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-creating-a-streamlined-podcast-rss-feed-structure/"><u>[New] Creating a Streamlined Podcast RSS Feed Structure</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-tips-to-streamline-your-ipad-screen-saving/"><u>[New] In 2024, Ultimate Tips to Streamline Your iPad Screen Saving</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfect-flying-buddies-top-toys-for-children/"><u>[New] Perfect Flying Buddies Top Toys for Children</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-list-best-windows-11-webcams-for-recording/"><u>[New] Ultimate List Best Windows 11 Webcams for Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-8-free-emoji-websites-to-download-discord-animated-emojis/"><u>[Updated] 8 FREE Emoji Websites to Download Discord Animated Emojis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-10-royal-warfare-games-for-2024/"><u>[Updated] Elite 10 Royal Warfare Games for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-epic-historical-combat-showdowns-the-top-7-games/"><u>[Updated] In 2024, Epic Historical Combat Showdowns – The Top 7 Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secrets-of-streaming-sound-record-and-preserve-for-2024/"><u>[Updated] Secrets of Streaming Sound Record and Preserve for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlock-the-full-potential-of-your-pcgaming-with-obs/"><u>2024 Approved Unlock the Full Potential of Your PC/Gaming with OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-video-vanguard-showdown-which-is-worthier-obs-or-twitch-studio/"><u>2024 Approved Video Vanguard Showdown Which Is Worthier, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/csgo-headset-troubles-how-to-restore-microphone-functionality/"><u>CS:GO Headset Troubles: How to Restore Microphone Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-update-or-download-acer-aspire-drivers-for-windows-systems/"><u>Easy Steps to Update or Download Acer Aspire Drivers for Windows Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-tips-for-capturing-high-quality-audio-in-filmmaking/"><u>Essential Tips for Capturing High-Quality Audio in Filmmaking</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/golden-grounds-guided-the-finest-treasure-maps/"><u>Golden Grounds Guided The Finest Treasure Maps</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-xiaomi-redmi-a2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi Redmi A2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-the-secrets-of-obs-game-capture/"><u>In 2024, Unveiling the Secrets of OBS Game Capture</u></a></li>
+<li><a href="https://solve-info.techidaily.com/troubleshooting-downloads-how-to-successfully-retrieve-abema-previously-abematv-streaming-content/"><u>Troubleshooting Downloads: How to Successfully Retrieve ABEMA (Previously AbemaTV) Streaming Content</u></a></li>
 </ul></div>
 

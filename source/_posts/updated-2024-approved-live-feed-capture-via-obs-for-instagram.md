@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Live Feed Capture via OBS for Instagram\""
-date: 2024-09-11T21:34:54.445Z
-updated: 2024-09-19T01:16:01.590Z
+date: 2024-09-16T21:34:32.590Z
+updated: 2024-09-23T19:16:25.705Z
 tags: 
   - screen-recording
   - ai video
@@ -96,6 +96,13 @@ On Streamon, you will see a Speech Bubble icon where you can check the live chat
 
 ![obs speech bubble icon](https://images.wondershare.com/filmora/article-images/obs-speech-bubble-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop Streaming. Then go to Streamon app and click on Stop Live Stream as well.
 
 ## Conclusion
@@ -103,6 +110,13 @@ Step 6: To stop live streaming on Instagram through OBS Studio, click on Stop St
 If you want to live stream on Instagram from your computer, you can do it easily with OBS Studio. You will need Streamon app for OBS to Instagram live connection setup. Thereafter, you can live stream from OBS Studio like you do on all other video streaming platforms from your studio. You can even manage live chats from Streamon app and make sure you follow the steps minutely.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1\. Setup OBS Studio
 
@@ -127,38 +141,31 @@ Step 3: Click on Settings button located at the bottom-right corner.
 
 ![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: From Settings window, go to Video tab. Change the Base Resolution and Output Resolution so that the aspect ratio becomes 16:9\. You can tweak the other parameters as per your requirements. Finally, click on Apply and OK buttons.
 
 ![obs go to video tab](https://images.wondershare.com/filmora/article-images/obs-go-to-video-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: Now, it is time to add the video source. Make sure the webcam is connected properly. Go to Sources tab located at the bottom left corner. Click on “+” icon and select your Video Capture Device.
 
 ![obs make sure the webcam](https://images.wondershare.com/filmora/article-images/obs-make-sure-the-webcam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6: Add a label and select the device and setup up the parameters as per your preference.
 
 ![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
 
@@ -173,6 +180,13 @@ Step 1: Open Streamon and you need to sign into your Instagram account.
 Step 2: After you have logged in, click on Start Live Stream option. You will get the required Stream URL and Stream key which are needed for OBS Studio to connect with your Instagram account.
 
 ![obs click on start stream option](https://images.wondershare.com/filmora/article-images/obs-click-on-start-stream-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Go back to OBS Studio and click on Settings button at the bottom-right corner.
 
@@ -216,10 +230,10 @@ Step 2: Go to Profile> New and name it as “OBS Studio Instagram live“. You m
 ![obs studio instagram live](https://images.wondershare.com/filmora/article-images/obs-studio-instagram-live.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Click on Settings button located at the bottom-right corner.
@@ -237,6 +251,13 @@ Step 5: Now, it is time to add the video source. Make sure the webcam is connect
 Step 6: Add a label and select the device and setup up the parameters as per your preference.
 
 ![obs add a label](https://images.wondershare.com/filmora/article-images/obs-add-a-label.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 7: The label will appear under Sources. You can right-click on that and go to Transform and rotate to change the mode for convenient live streaming.
 
@@ -257,6 +278,13 @@ Step 3: Go back to OBS Studio and click on Settings button at the bottom-right c
 Step 4: Go to Stream tab. For Service, select Custom option and for Server, paste the Stream URL from Streamon. Similarly, copy Stream Key from Streamon and paste on OBS Studio. Click on Apply and OK button.
 
 ![obs go to stream tab](https://images.wondershare.com/filmora/article-images/obs-go-to-stream-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
 
@@ -332,13 +360,6 @@ Step 4: Go to Stream tab. For Service, select Custom option and for Server, past
 Step 5: Finally, click on Start Streaming button. Thereafter, go to Streamon app quickly and click on Go Live button. Now, you are live on Instagram through OBS Studio.
 
 ![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On Streamon, you will see a Speech Bubble icon where you can check the live chat messages and manage them accordingly. In order to check if your live stream is going correctly, you can open your web browser and go to “www.instagram.com/USERNAME/live” where you have to replace USERNAME with your Instagram username.
 
@@ -374,17 +395,21 @@ If you want to live stream on Instagram from your computer, you can do it easily
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-uncovering-hidden-content-secrets-of-fb-suggested-vids/"><u>[New] 2024 Approved Uncovering Hidden Content Secrets of FB Suggested Vids</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations-for-2024/"><u>[New] Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-top-win11-videography-software-selections-for-2024/"><u>[New] Unveiling Top Win11 Videography Software Selections for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-eluding-digital-footprints-while-enjoying-instagram-stories-online-for-2024/"><u>[Updated] Eluding Digital Footprints While Enjoying Instagram Stories Online for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-depth-look-techniques-for-screen-capturing-on-android/"><u>[Updated] In-Depth Look Techniques for Screen Capturing on Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-battlefield-brethren-compiling-the-ultimate-7-fps-collection/"><u>2024 Approved Battlefield Brethren Compiling the Ultimate 7 FPS Collection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-erasing-your-snapchat-messages-and-chats-permanently/"><u>Complete Guide: Erasing Your Snapchat Messages and Chats Permanently</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-resolve-oculus-setup-error-on-pc/"><u>How to Resolve Oculus Setup Error on PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-netflixs-innovative-multi-stream-feature/"><u>In 2024, Exploring Netflix's Innovative Multi-Stream Feature</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-no-wi-fi-no-worries-discover-the-best-offline-gaming-on-android/"><u>In 2024, No Wi-Fi, No Worries! Discover the Best Offline Gaming on Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>[New] 2024 Approved Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-voice-transformers-top-7-android-audio-apps-for-2024/"><u>[New] Best Voice Transformers Top 7 Android Audio Apps for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-essential-fb-video-ad-techniques-the-20-best-tactics/"><u>[New] Essential FB Video Ad Techniques The 20 Best Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-anniversary-graphics-kit/"><u>[New] In 2024, Anniversary Graphics Kit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-kazam-screen-recorder-review/"><u>[New] In 2024, Kazam Screen Recorder Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-mac-photography-discovering-the-best-5-screen-shots-ways-for-2024/"><u>[New] Pro Mac Photography Discovering the Best 5 Screen Shots Ways for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-seamless-video-meetings-from-home-a-guide-to-proficient-use-of-skypes-screen-sharing/"><u>[New] Seamless Video Meetings From Home A Guide to Proficient Use of Skype's Screen Sharing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-non-proprietary-serene-tunes/"><u>[Updated] Non-Proprietary Serene Tunes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-sims-4-experience-pc-performance-fixes-to-shed-lag-tips/"><u>Boost Your Sims 4 Experience: PC Performance Fixes to Shed Lag [Tips]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/camtech-dive-looking-for-improved-alternatives/"><u>CamTech Dive Looking for Improved Alternatives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo A2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-summertime-screens-top-10-family-vacay-movies/"><u>In 2024, Ideal Summertime Screens Top 10 Family Vacay Movies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obspluszoom-creating-a-flawless-production-workflow/"><u>In 2024, OBS+Zoom Creating a Flawless Production Workflow</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thrift-in-tech-streaming-free-seminars-on-youtube/"><u>In 2024, Thrift in Tech Streaming FREE Seminars on YouTube</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-make-a-video-from-photos-10-best-online-services-for-2024/"><u>New Make a Video From Photos 10 Best Online Services for 2024</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-c55-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme C55</u></a></li>
 </ul></div>
 

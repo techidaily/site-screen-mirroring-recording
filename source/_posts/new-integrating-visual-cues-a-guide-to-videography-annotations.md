@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Integrating Visual Cues  A Guide to Videography Annotations\""
-date: 2024-09-13T01:59:37.312Z
-updated: 2024-09-19T12:54:16.993Z
+date: 2024-09-18T19:07:33.511Z
+updated: 2024-09-24T00:10:52.431Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ You can use them to mark a place in the screen recording you're not too happy wi
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
 This type of marker is immensely useful if you want to organize the timeline in your project better and to know exactly where every clip you want to use in your video is located at all times. Besides being a highly efficient tool for organizing vast amounts of footage, timeline markers can also help you denote the beats in the audio file and then sync the video clip perfectly to the beat of the tune you're using as a soundtrack to your video.
@@ -74,19 +81,6 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -106,6 +100,13 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
@@ -113,10 +114,10 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
@@ -125,18 +126,18 @@ After importing the clip into the timeline and identifying the points of error i
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -159,18 +160,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-master-the-craft-streamlining-your-online-television-recordings/"><u>[New] 2024 Approved Master the Craft Streamlining Your Online Television Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-a-step-by-step-approach-for-creating-and-merging-stunning-hdr-photos-for-2024/"><u>[New] A Step-by-Step Approach for Creating & Merging Stunning HDR Photos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-the-world-of-youtube-channel-naming-innovative-ideas-for-vloggers-and-filmmakers-no-more-than-156-characters-for-2024/"><u>[New] Exploring the World of YouTube Channel Naming Innovative Ideas For Vloggers & Filmmakers (No More than 156 Characters) for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-everlasting-screen-saving-utility/"><u>[New] In 2024, Everlasting Screen Saving Utility</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlined-strategies-mastering-screen-record-on-an-hp-notebook-for-2024/"><u>[New] Streamlined Strategies Mastering Screen Record on an HP Notebook for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-become-a-periscope-expert-with-our-full-guide/"><u>[Updated] Become a Periscope Expert with Our Full Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fine-tuning-focus-closeups-on-teams/"><u>[Updated] Fine-Tuning Focus Closeups on Teams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-soundsnatch-aural-replay-analysis-for-2024/"><u>[Updated] SoundSnatch Aural Replay Analysis for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-introduction-to-effective-telegram-promotion-for-rookies/"><u>2024 Approved Introduction to Effective Telegram Promotion for Rookies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/hands-on-strategies-to-keep-vimeo-videos-for-2024/"><u>Hands-On Strategies to Keep Vimeo Videos for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-14-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 SIM Lock?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/restore-your-lost-kik-photos-and-messages-a-comprehensive-guide/"><u>Restore Your Lost Kik Photos and Messages: A Comprehensive Guide</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/speed-up-dvd-ripping-with-handbrakes-quick-sync-feature-convert-dvds-to-mp4mkv-in-record-time/"><u>Speed Up DVD Ripping with HandBrake's Quick Sync Feature: Convert DVDs to MP4/MKV in Record Time</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-selecting-the-right-video-recorder-for-teaching/"><u>[New] Selecting the Right Video Recorder for Teaching</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-8-easy-and-safe-video-call-options-for-enterprises-for-2024/"><u>[New] Top 8 Easy and Safe Video Call Options for Enterprises for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-9-mobile-apps-for-downloading-youtube-videos-android/"><u>[New] Top 9 Mobile Apps for Downloading YouTube Videos (Android)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-live-capture-success-explore-4-effective-recording-strategies/"><u>[Updated] 2024 Approved Live Capture Success Explore 4 Effective Recording Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-prime-7-fps-titles-you-cant-miss/"><u>[Updated] 2024 Approved Prime 7 FPS Titles You Can't Miss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-smart-selections-essential-mac-programs-for-videograbbing/"><u>[Updated] In 2024, Smart Selections Essential Mac Programs for Videograbbing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pedagogical-pros-ultimate-10-devices-for-lecture-preservation/"><u>[Updated] Pedagogical Pros Ultimate 10 Devices for Lecture Preservation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-periscope-a-comprehensive-tutorial/"><u>2024 Approved Mastering Periscope A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-tutorials-to-excel-at-google-meet-free-edition/"><u>2024 Approved Step-by-Step Tutorials to Excel at Google Meet (Free Edition)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-openais-core-principles-and-insights/"><u>Dive Into OpenAI's Core Principles and Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-the-balance-adding-videos-to-text-on-a-budget/"><u>Finding the Balance Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-f23-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo F23 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oppo-a78-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo A78 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-asus-rog-phone-8-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/smoothscreensaver-lightweight-recording-tool-for-2024/"><u>SmoothScreenSaver Lightweight Recording Tool for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tech-meets-pages-a-world-of-laptops-smartphones-and-books/"><u>Tech Meets Pages: A World of Laptops, Smartphones & Books!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/troubleshooting-obs-blackouts-on-game-recordings-for-2024/"><u>Troubleshooting OBS Blackouts on Game Recordings for 2024</u></a></li>
 </ul></div>
 

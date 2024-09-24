@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-09-15T09:35:16.522Z
-updated: 2024-09-18T23:56:35.159Z
+date: 2024-09-16T17:52:10.206Z
+updated: 2024-09-24T01:25:23.273Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,13 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -94,24 +115,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-conquering-gameplay-logic-from-console-to-computer-playback/"><u>[New] Conquering Gameplay Logic From Console to Computer Playback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-windowsmac-meeting-record-skype-guide/"><u>[New] In 2024, Windows/Mac Meeting Record - Skype Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-perfection-the-top-review-of-screensnapper-2023/"><u>[Updated] Capturing Perfection The Top Review of 'ScreenSnapper' 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>[Updated] In 2024, LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-replay-spotlight-how-vidma-measures-up-against-others/"><u>[Updated] Screen Replay Spotlight How Vidma Measures Up Against Others</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-windows-productivity-the-best-tech-tools-for-success/"><u>Elevate Windows Productivity: The Best Tech Tools for Success</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-the-finest-windows-11-drawers-here/"><u>Explore the Finest Windows 11 Drawers Here</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-edge-40-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Edge 40 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ating-the-financial-seas-of-youtube-success-carryminati/"><u>Navigating the Financial Seas of YouTube Success (CarryMinati)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/quick-access-to-fb-vids-as-mp4-files/"><u>Quick Access to FB Vids as MP4 Files</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-picks-for-extended-range-routers-best-options-available/"><u>Top Picks for Extended Range Routers - Best Options Available</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-a2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi A2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cultivating-a-visionary-channel-with-best-video-ideas-for-2024/"><u>[New] Cultivating a Visionary Channel with Best Video Ideas for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-finest-6-video-snaggers-for-mac-users-now/"><u>[New] In 2024, The Finest 6 Video Snaggers for Mac Users Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-your-picture-at-a-glance-quick-steps-for-saving-social-media-pics/"><u>[New] Your Picture at a Glance Quick Steps for Saving Social Media Pics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-audio-enthusiast-hub-capture-and-audit-mp3-files/"><u>[Updated] 2024 Approved Audio Enthusiast Hub Capture and Audit MP3 Files</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-record-console-gameplay-on-computer/"><u>[Updated] 2024 Approved How to Record Console Gameplay on Computer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-crafting-dynamic-vimeo-conclusions/"><u>[Updated] 2024 Approved The Ultimate Checklist for Crafting Dynamic Vimeo Conclusions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-guide-to-using-your-phone-as-an-alternative-camera-for-2024/"><u>[Updated] Easy Guide to Using Your Phone as an Alternative Camera for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-insights-capturing-the-essence-of-online-meetings/"><u>[Updated] In 2024, Expert Insights Capturing the Essence of Online Meetings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-11-pro-maxwindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 11 Pro Max/Windows/Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms/"><u>In 2024, The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stardew-insider-exploring-ginger-island-thoroughly/"><u>Stardew Insider Exploring Ginger Island Thoroughly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-leading-choices-for-law-enforcement-body-wearables-2e34-edition/"><u>The Leading Choices for Law Enforcement Body Wearables - 2E34 Edition</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

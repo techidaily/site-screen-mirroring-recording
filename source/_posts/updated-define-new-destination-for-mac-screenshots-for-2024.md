@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2024-09-17T07:49:21.373Z
-updated: 2024-09-19T14:32:45.448Z
+date: 2024-09-16T22:57:19.938Z
+updated: 2024-09-23T17:19:46.411Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Changing the folder where you store your screenshots is not an irreversible proc
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -61,6 +68,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -71,6 +85,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -83,6 +104,13 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -99,22 +127,25 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-hd-conversion-elevate-your-views/"><u>[New] Excellence in HD Conversion Elevate Your Views</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-prevent-these-8-key-mishaps-on-your-youtube-journey/"><u>[New] Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-value-for-money-selecting-the-leading-free-srt-services/"><u>[Updated] Best Value for Money Selecting the Leading Free SRT Services</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-techniques-recording-in-adobe-presenter/"><u>[Updated] Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-techniques-to-archivalize-chat-communication-in-whatsapp/"><u>[Updated] In 2024, Techniques to Archivalize Chat Communication in WhatsApp</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-key-methods-for-silent-screen-imaging/"><u>[Updated] Key Methods for Silent Screen Imaging</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-screen-grabber-for-win11/"><u>[Updated] Professional Screen Grabber for Win11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-ultimate-gym-music-lineup/"><u>2024'S Ultimate Gym Music Lineup</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-my-whatsapp-data-automatically-backed-up-to-icloud-expert-tips-for-resolution/"><u>Why Isn't My WhatsApp Data Automatically Backed Up to iCloud? Expert Tips for Resolution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-adept-vlc-playback-and-capture-techniques-for-2024/"><u>[New] Adept VLC Playback & Capture Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-zoom-tools-for-clear-session-capture/"><u>[New] Best Zoom Tools for Clear Session Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-high-quality-win11-screen-capture-pro-for-2024/"><u>[New] High-Quality Win11 Screen Capture Pro for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-sony-x1000-video-excellence-detailed-product-evaluation/"><u>[New] In 2024, Sony X1000 Video Excellence Detailed Product Evaluation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-seeking-the-best-ps2-games-try-these-5-android-emulators-for-2024/"><u>[New] Seeking the Best PS2 Games? Try These 5 Android Emulators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-innovative-techniques-in-digital-display-recording/"><u>[Updated] 2024 Approved Innovative Techniques in Digital Display Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-top-11-list-best-audio-tech-showcase/"><u>[Updated] 2024 Approved Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-detailed-breakdown-the-essence-of-hero4-black-for-2024/"><u>[Updated] Detailed Breakdown The Essence of Hero4 Black for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-convenient-alias-adjustment-in-google-meet-devices/"><u>[Updated] In 2024, Convenient Alias Adjustment in Google Meet Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-tech-list-screen-recorders-with-zero-latency/"><u>[Updated] In 2024, Elite Tech List Screen Recorders with Zero Latency</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-fade-in-fade-out-videos-in-4-easy-ways/"><u>[Updated] In 2024, Fade In Fade Out Videos in 4 Easy Ways</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-twitch-enthusiasts-recording-guidebook/"><u>[Updated] In 2024, The Twitch Enthusiast's Recording Guidebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quickshot-screen-grab-reviews/"><u>[Updated] QuickShot Screen Grab Reviews</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-for-exceptional-long-range-networking-devices-2024-selection/"><u>Expert Picks for Exceptional Long-Range Networking Devices - 2024 Selection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/eye-of-the-tech-giants-leading-screen-capture-apps/"><u>Eye of the Tech Giants Leading Screen Capture Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-inheritance-a-modern-twist-on-a-classic-platform/"><u>Instagram's Inheritance: A Modern Twist on a Classic Platform</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a05s-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A05s</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-a79-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo A79 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-c65-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Poco C65 | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

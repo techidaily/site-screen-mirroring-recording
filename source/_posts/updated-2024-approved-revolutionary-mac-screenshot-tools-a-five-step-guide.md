@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Revolutionary Mac Screenshot Tools  A Five-Step Guide\""
-date: 2024-09-12T11:02:50.070Z
-updated: 2024-09-19T00:09:49.235Z
+date: 2024-09-17T03:44:58.477Z
+updated: 2024-09-23T16:08:59.613Z
 tags: 
   - screen-recording
   - ai video
@@ -121,6 +121,19 @@ Besides using a screenshot tool, Mac also offers multiple ways to make screensho
 * [Method 3: Capture Screen with Built-in Preview App in Mac](#method3)
 * [Method 4: Make Screenshots with Pre-installed Grab App](#method4)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1 3 Ways to Take Screenshots with Keyboard Commands
 
 Mac offers 3 keyborad commands to capture the entire screen, specific screen area and window. Read on.
@@ -146,10 +159,10 @@ Launch the app or open the window you'd like to screenshot, and then hold the **
 ![capture a window or menu or app on mac](https://images.wondershare.com/filmora/article-images/capture-a-window-or-menu-on-mac-keyboard-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2 Taking Screenshots with Touch Bar on MacBook Pro
@@ -160,6 +173,13 @@ MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on 
 
 Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3 Capture Screen with Built-in Preview App
 
 Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-menu. You can either capture a full screen, a part of it you select or take a screenshot of an active window. Holding the Control button while taking a screenshot will enable you to save the picture to the clipboard and paste it into a photo editing software or a word processor.
@@ -168,6 +188,13 @@ Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-me
 
 The Preview app lets you select the saving path and name it before saving.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4 Make Screenshots with Pre-installed Grab App
 
 Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** menu and select the option that suits you best. You can take a screenshot of an entire screen, select the region of the screen you want to capture or take a screenshot of a particular window.
@@ -175,10 +202,10 @@ Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** me
 ![make screenshots on mac with grab](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
@@ -195,23 +222,9 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
@@ -219,16 +232,16 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -245,20 +258,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-11-best-streaming-audio-recorders/"><u>[New] 11 Best Streaming Audio Recorders</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-revolutionizing-content-creation-the-insight-into-vimeos-capabilities/"><u>[New] 2024 Approved Revolutionizing Content Creation The Insight Into Vimeo's Capabilities</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-10-online-screen-video-recorders/"><u>[New] 2024 Approved Top 10 Online Screen Video Recorders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-fresh-lg-bp550-update/"><u>[New] Unveiling the Fresh LG BP550 Update</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-the-web-in-full-color-the-best-screen-recorders-reviewed/"><u>[Updated] 2024 Approved Capturing the Web in Full Color The Best Screen Recorders Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-captureking-chronicles-the-best-recorders-unveiled/"><u>[Updated] CaptureKing Chronicles The Best Recorders Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-evaluating-macs-leading-snipping-tools-compilation-for-2024/"><u>[Updated] Evaluating Mac's Leading Snipping Tools Compilation for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-digital-game-chronicles-snappy-screenshots-for-every-moment/"><u>[Updated] In 2024, Digital Game Chronicles Snappy Screenshots for Every Moment</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-live-video-to-insta-platform-for-2024/"><u>[Updated] OBS Live Video to Insta Platform for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-your-personalized-music-compilation/"><u>[Updated] Your Personalized Music Compilation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/crafting-color-convincingness-like-a-pro/"><u>Crafting Color Convincingness Like a Pro</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-10-best-mobile-idle-games/"><u>In 2024, 10 Best Mobile Idle Games</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-razr-40-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Razr 40</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-techniques-to-boost-video-quality-on-web-browser-chrome/"><u>In 2024, Techniques to Boost Video Quality on Web Browser Chrome</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-filmora-alternative-no-crack-no-risk-just-results/"><u>New In 2024, Free Filmora Alternative No Crack, No Risk, Just Results</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-epic-virtual-realms-finest-10-budget-friendly-mmorpgs/"><u>[New] 2024 Approved Epic Virtual Realms Finest 10 Budget-Friendly MMORPGs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-transform-your-screen-with-webcam-creativity/"><u>[New] 2024 Approved Transform Your Screen with Webcam Creativity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>[New] Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-inclusive-iptv-service-distribution/"><u>[Updated] Inclusive IPTV Service Distribution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>[Updated] Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-detailed-guide-crafting-powerful-video-thumbnails-for-content-marketing/"><u>2024 Approved Detailed Guide Crafting Powerful Video Thumbnails for Content Marketing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-upgrades-to-shine-your-digital-clips-for-2024/"><u>5 Upgrades to Shine Your Digital Clips for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bard-unveiled-by-google-as-a-competitor-to-chatgpt-in-natural-language-processing-arena/"><u>Bard Unveiled by Google as a Competitor to ChatGPT in Natural Language Processing Arena</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-racing-games-the-ultimate-5-list/"><u>Essential Racing Games The Ultimate 5-List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-open-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Open Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-mac-video-capture-now-for-2024/"><u>Mastering MAC Video Capture Now for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/snatch-free-media-treasures-from-top-4-online-creators/"><u>Snatch Free Media Treasures From Top 4 Online Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-mastering-photo-reshaping-tools/"><u>The Essential Guide to Mastering Photo Reshaping Tools</u></a></li>
 </ul></div>
 

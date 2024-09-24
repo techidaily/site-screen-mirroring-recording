@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9\""
-date: 2024-09-15T12:10:43.829Z
-updated: 2024-09-19T01:16:23.985Z
+date: 2024-09-20T00:47:20.026Z
+updated: 2024-09-23T18:29:37.406Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,19 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -94,31 +121,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-top-timelapses-quick-capture-and-edit/"><u>[New] In 2024, Best Top Timelapses Quick Capture & Edit</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-hitting-the-high-score-in-ps4-game-capture-mastery/"><u>[Updated] 2024 Approved Hitting the High Score in PS4 Game Capture Mastery</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-master-the-art-of-live-sound-capture-on-the-internet/"><u>[Updated] 2024 Approved Master the Art of Live Sound Capture on the Internet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-budget-friendly-obs-optimization-techniques/"><u>[Updated] In 2024, Budget-Friendly OBS Optimization Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elite-firefox-visual-recorders/"><u>[Updated] In 2024, Elite Firefox Visual Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pixelplay-logger-analysis/"><u>[Updated] PixelPlay Logger Analysis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tips-for-easy-video-capture-of-youtube-content-for-2024/"><u>[Updated] Tips for Easy Video Capture of YouTube Content for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>2024 Approved Expert Review Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-for-a-more-organized-life-6-tips-for-home-efficiency-gains/"><u>ChatGPT for a More Organized Life: 6 Tips for Home Efficiency Gains</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-keyword-optimization-in-podcast-seo/"><u>In 2024, Navigating Keyword Optimization in Podcast SEO</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-razer-webcam-analysis/"><u>Ultimate Razer Webcam Analysis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/youtube-mastery-screen-recording-unveiled-for-2024/"><u>YouTube Mastery Screen Recording Unveiled for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069293527-new-2024-approved-little-legends-top-gaming-adventures/"><u>[New] 2024 Approved Little Legends Top Gaming Adventures!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-mac-screen-grabbers-compiled-here/"><u>[New] In 2024, Best Mac Screen Grabbers Compiled Here</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-audio-prime-9-mic-recording-solutions-for-2024/"><u>[New] Mastering Audio Prime 9 Mic Recording Solutions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-olympic-ice-rush-speed-skaters-best-from-games/"><u>[New] Olympic Ice Rush Speed Skaters' Best From Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ideal-pc-emulators-for-retro-ps1-gaming-for-2024/"><u>[Updated] Ideal PC Emulators for Retro PS1 Gaming for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mac-users-path-to-professional-audio-with-audacity/"><u>[Updated] In 2024, Mac Users' Path to Professional Audio with Audacity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-pro-screen-recording-tool-for-successful-youtubers/"><u>[Updated] In 2024, Pro Screen Recording Tool for Successful YouTubers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-exposure-boost-for-your-social-media-visuals/"><u>2024 Approved Exposure Boost for Your Social Media Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-routine-for-large-files-journey-from-iphones-to-macs/"><u>2024 Approved The Ultimate Routine for Large Files' Journey From iPhones to Macs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ace-circular-designs-and-spherical-structures-in-mc/"><u>Ace Circular Designs & Spherical Structures in MC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-action-plan-for-mtp-connection-errors/"><u>Immediate Action Plan for MTP Connection Errors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-facebook-livestreams-four-easy-steps/"><u>Mastering Facebook Livestreams Four Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-airpods-and-iphone-sync-issues-11-proven-remedies/"><u>Resolve AirPods and iPhone Sync Issues - 11 Proven Remedies</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-compilation-of-affordable-audio-manipulation-software-for-windows-and-mac-os-x-for-2024/"><u>The Ultimate Compilation of Affordable Audio Manipulation Software for Windows and Mac OS X for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-15-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 Plus without Passcode</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
