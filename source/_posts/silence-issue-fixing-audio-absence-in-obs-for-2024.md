@@ -1,7 +1,7 @@
 ---
 title: "\"Silence Issue  Fixing Audio Absence in OBS for 2024\""
-date: 2024-09-28T20:27:15.033Z
-updated: 2024-09-29T19:50:22.316Z
+date: 2024-09-28T16:47:56.471Z
+updated: 2024-10-05T00:46:29.484Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,19 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -60,13 +73,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -79,10 +85,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -96,17 +102,17 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -117,13 +123,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -152,10 +151,23 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -180,22 +192,22 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-free-meme-templates-for-2024/"><u>[New] Best Free Meme Templates for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-complete-review-of-razer-video-streaming-device-for-2024/"><u>[New] Complete Review of Razer Video Streaming Device for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-evaluating-itop-as-a-screen-recording-solution-for-2024/"><u>[New] Evaluating ITop as a Screen Recording Solution for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-solve-invisible-frames-in-video-capture-software/"><u>[New] In 2024, Solve Invisible Frames in Video Capture Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-warrior-spirits-rising-comparable-game-suggestions/"><u>[New] In 2024, Warrior Spirits Rising Comparable Game Suggestions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-serene-pc-games-catalog/"><u>[New] Premium Serene PC Games Catalog</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-diy-remote-podcast-production-tips/"><u>[Updated] 2024 Approved DIY Remote Podcast Production Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-fresh-off-the-press-film-review-and-complementary-options/"><u>[Updated] 2024 Approved Fresh-Off-the-Press Film Review and Complementary Options</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-economical-desktop-encoder-software-guide-revealed/"><u>[Updated] Economical Desktop Encoder Software Guide Revealed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-tips-to-stream-rust-like-a-pro/"><u>[Updated] Top Tips to Stream Rust Like a Pro</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ace-video-acquisition-strategies-for-savvy-software-and-no-software-use/"><u>Ace Video Acquisition Strategies for Savvy Software & No-Software Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-gifs-to-movie-format-quickly-top-rated-free-online-movavi-video-transcoder/"><u>Convert GIFs to Movie Format Quickly: Top-Rated FREE Online Movavi Video Transcoder</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-p40-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel P40 Through Google Earth?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-understanding-facebooks-chat-language-through-its-blue-signature-marker/"><u>In 2024, Understanding Facebook's Chat Language Through Its Blue Signature Marker</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-fcp-voice-over-guide-quick-start-tips/"><u>New 2024 Approved The Ultimate FCP Voice Over Guide Quick Start Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-resolving-tl-wn722n-network-adapter-undetectable-on-windows/"><u>Troubleshooting Guide: Resolving 'TL-WN722N' Network Adapter Undetectable on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unwanted-warning-fixes-for-chrome-on-windows-systems/"><u>Unwanted Warning Fixes for Chrome on Windows Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-untamed-video-preservation-units/"><u>[New] 2024 Approved Untamed Video Preservation Units</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-mov-file-management-on-modern-windows-10/"><u>[New] In 2024, Mastering .mov File Management on Modern Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-precise-mac-recording-without-costs-for-2024/"><u>[New] Precise Mac Recording Without Costs for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-iphone-xeasy-simple-guide-to-screen-capture/"><u>[Updated] 2024 Approved IPhone Xeasy Simple Guide to Screen Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11/"><u>[Updated] Elevate Your Gaming Experience with These 5 Techniques on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-viral-video-quarterly-watch/"><u>[Updated] In 2024, Viral Video Quarterly Watch</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obsudio-screen-recorder-analysis-your-best-choices-explored-for-2024/"><u>[Updated] Obsudio Screen Recorder Analysis Your Best Choices Explored for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-secure-and-slim-storage-cloud-cost-insights/"><u>[Updated] Secure & Slim Storage Cloud Cost Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-securely-save-your-windows-8-screenshots-for-2024/"><u>[Updated] Securely Save Your Windows 8 Screenshots for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-edu-favorites-best-learning-yt-channels/"><u>2024 Approved Edu-Favorites Best Learning YT Channels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-screencast-technology-with-itop-review/"><u>2024 Approved Mastering Screencast Technology with ITop Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-recording-methods-for-skype-calls-using-obs-for-2024/"><u>Efficient Recording Methods for Skype Calls Using OBS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>In 2024, Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/maximize-viewing-experience-best-4k-downloader-apps-for-2024/"><u>Maximize Viewing Experience Best 4K Downloader Apps for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-contrast-between-brazilian-and-european-keyboard-features/"><u>The Contrast Between Brazilian & European Keyboard Features</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-role-of-tech-in-crafting-a-superior-gaming-computer/"><u>The Role of Tech in Crafting a Superior Gaming Computer</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/ultimate-guide-shrinking-videos-like-a-pro-using-clipchamp/"><u>Ultimate Guide: Shrinking Videos Like a Pro Using Clipchamp</u></a></li>
 </ul></div>
 

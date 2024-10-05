@@ -1,7 +1,7 @@
 ---
 title: "[New] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)"
-date: 2024-08-29T12:34:30.890Z
-updated: 2024-08-30T12:34:30.890Z
+date: 2024-09-30T19:52:58.184Z
+updated: 2024-10-04T18:25:55.168Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Capture Screen on a Huawei Smartphone
 
 With the built-in [screen record](https://tools.techidaily.com/wondershare/filmora/download/) features, you can start or stop recording sessions in three different ways on your Huawei P10/P20 or Mate10 screen. You can both enable the screen recording shortcut in the notification panel, and press the volume up button and the Power button at the same time. Besides, you can record your Huawei screen with knuckling gestures. Let’s check the detailed screen recording steps.
@@ -76,20 +83,28 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
@@ -97,15 +112,17 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,3 +130,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-fashion-finds-filled-with-fun-editing-for-hauls/"><u>[New] Fashion Finds Filled with Fun Editing for Hauls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-camera-powerhouse-the-sj-cam-s6-reviewed/"><u>[New] Pro Camera Powerhouse The SJ-CAM S6 Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-10-best-farming-games/"><u>[Updated] 2024 Approved Top 10 Best Farming Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-video-management-made-easy-the-best-practices-in-mov-on-win-11/"><u>[Updated] 2024 Approved Video Management Made Easy The Best Practices in .MOV on Win 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-strategies-for-success-on-ginger-island-for-2024/"><u>[Updated] Expert Strategies for Success on Ginger Island for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-frame-by-frame-focus-high-quality-video-devices/"><u>[Updated] In 2024, Frame by Frame Focus High-Quality Video Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-harvest-hits-the-next-level-of-virtual-farms/"><u>[Updated] In 2024, Harvest Hits The Next Level of Virtual Farms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-full-unpacked-experience-of-the-logitech-4k-webcam/"><u>[Updated] The Full Unpacked Experience of the Logitech 4K Webcam</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ideal-mac-video-logic-tool/"><u>2024 Approved Ideal Mac Video Logic Tool</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-seamless-art-of-game-recording-on-sonys-playstation-4/"><u>2024 Approved The Seamless Art of Game Recording on Sony's PlayStation 4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/avoid-spending-discover-the-finest-free-mac-screen-recorders-for-2024/"><u>Avoid Spending Discover the Finest Free Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-online-gaming-worlds-whats-their-value/"><u>Ephemeral Online Gaming Worlds – What's Their Value?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-audiovisual-pro-perfect-ppt-presentation-recording/"><u>In 2024, Audiovisual Pro Perfect PPT Presentation Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>In 2024, Capturing Every Moment An Overview of Apowersoft's Screenshot Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-websites-for-premium-pixel-ringtones/"><u>In 2024, Uncover Websites for Premium Pixel Ringtones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/joking-jokebooks-top-10-hilarious-social-media-posts/"><u>Joking Jokebooks Top 10 Hilarious Social Media Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/master-guide-implementing-chapters-in-vimeo-for-2024/"><u>Master Guide Implementing Chapters in Vimeo for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone-for-2024/"><u>Navigating GIF Storage and Use in the Digital Age (iPhone) for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453334631-why-arent-your-iphone-siri-suggestions-appearing-solutions-inside/"><u>Why Aren't Your iPhone Siri Suggestions Appearing? Solutions Inside</u></a></li>
+</ul></div>
+

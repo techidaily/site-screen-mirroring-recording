@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2024-09-24T16:38:52.422Z
-updated: 2024-09-29T20:41:17.801Z
+date: 2024-10-02T00:17:37.700Z
+updated: 2024-10-05T07:17:36.450Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,10 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,19 +127,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-utilize-obs-studio-android-solutions-effective-ways/"><u>[New] 2024 Approved How to Utilize OBS Studio Android Solutions [Effective Ways]</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-screencast-mastery-guide-essential-tips-unveiled/"><u>[New] 2024 Approved Screencast Mastery Guide Essential Tips Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-every-word-in-meetings-the-top-10-free-recorders-for-slack-for-2024/"><u>[New] Capture Every Word in Meetings - The Top 10 Free Recorders for Slack for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[New] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-simplified-methods-to-screen-record-instagrams-story-feature/"><u>[Updated] 2024 Approved Simplified Methods to Screen Record Instagram's Story Feature</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>[Updated] 2024 Approved Sonic Gold Standard 10 Ways to Elevate Home Recordings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-change-name-in-google-meet-in-2024/"><u>[Updated] How to Change Name in Google Meet, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-jumpstart-high-res-webcam-filming-for-amazing-results/"><u>[Updated] Jumpstart High-Res WebCam Filming for Amazing Results</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuite-garantie-transformez-votre-fichier-gif-en-format-avi-sur-internet-moviwizard/"><u>Gratuité Garantie : Transformez Votre Fichier GIF en Format AVI Sur Internet - MoviWizard</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-outpost-infinity-siege-pc-freezing-issue-easy-guide/"><u>Solving the Outpost: Infinity Siege PC Freezing Issue - Easy Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unlocking-desktop-recording-the-ezvide-approach/"><u>Unlocking Desktop Recording - The EZvide Approach</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1726224819349-tta-mp3-movavi/"><u>영구 무료 TTA 오토바이오에서 MP3 변환기 - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-live-discussions-iphoneandroids-screen-recording/"><u>[New] 2024 Approved Capturing Live Discussions IPhone/Android's Screen Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-live-screen-archive-aggregators/"><u>[New] 2024 Approved Live Screen Archive Aggregators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[New] From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[Updated] 2024 Approved The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-investors-edge-tapping-into-youtube-creators-earnings-for-2024/"><u>[Updated] The Investor’s Edge Tapping Into YouTube Creators' Earnings for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-rated-5-backdrop-change-utilities-for-iphones-x78/"><u>2024 Approved Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ipads-best-practices-for-clear-voice-recording/"><u>2024 Approved IPad's Best Practices for Clear Voice Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-perfecting-the-art-of-filming-and-post-production-with-adobe-connects-features/"><u>2024 Approved Perfecting the Art of Filming & Post-Production with Adobe Connect's Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-screen-grabs-for-win-11-users/"><u>2024 Approved Quick Screen Grabs for Win 11 Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-step-by-step-guide-to-capturing-webcam-dialogues/"><u>2024 Approved Step-by-Step Guide to Capturing Webcam Dialogues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/frontier-fantasies-selecting-the-most-impressive-titles/"><u>Frontier Fantasies Selecting the Most Impressive Titles</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-sony-xperia-1-v-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Sony Xperia 1 V Phone Pattern Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-paperwork-next-generation-smart-document-handling-transforms-efficiency/"><u>Revolutionizing Paperwork: Next-Generation Smart Document Handling Transforms Efficiency</u></a></li>
+<li><a href="https://tools.techidaily.com/winxdvd/winxvideo-ai/"><u>Winxvideo AI</u></a></li>
 </ul></div>
 
