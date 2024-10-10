@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Virtual Verbal Excellence  Proven Methods for Effective Zoom Interactions\""
-date: 2024-09-29T21:06:17.966Z
-updated: 2024-10-04T22:22:33.358Z
+date: 2024-10-07T16:06:26.852Z
+updated: 2024-10-10T16:01:03.197Z
 tags: 
   - screen-recording
   - ai video
@@ -73,13 +73,6 @@ The **Do not disturb from** checkbox allows you to define the duration of the da
 
 When the **Show message preview** box is unchecked, Zoom prevents the text of the chat messages from appearing on the screen, and you must open the message to view its content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Chat in Zoom
 
 When it comes to texting there are several options available for you to choose **how to chat in Zoom**. For instance, you can send a message to everyone in the chat or send a private message to one of the participants, mention participant(s) while typing a message, and can even send a file to them if need be. You can learn how to do all these by following their corresponding methods given below:
@@ -87,6 +80,13 @@ When it comes to texting there are several options available for you to choose *
 ### 1\. How to Mention People in Zoom Chat?
 
 As it is with most social media platforms these days, even in Zoom chat, you can use the @ sign followed by the starting few characters of the person you want to mention. When you start typing, a list of participants with the matching names would appear, and you can then choose the one you want to mention.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to Send Chat Announcements?
 
@@ -106,20 +106,33 @@ Click the **+** icon, in the available field type the email address(es) of the u
 
 ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. What File Types Does Zoom Chat Support?
 
 **Note:** Restricting file types and configuring other options granularly can only be done if you have purchased a paid subscription plan.
 
 At the time of this writing, **Zoom chat** supports almost all types of files. However, by signing in to your account on Zoom’s web portal, you can restrict them by their extensions. For example, you can configure your Zoom account to send only the files with JPG, ZIP, or RAR extensions.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Save Zoom Chats
 
@@ -134,16 +147,10 @@ Launch a web browser and sign in to your Zoom account on the web portal. From th
 ![Zoom Meeting Basic In meeting settings](https://images.wondershare.com/filmora/article-images/set-zoom-meeting-basic.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Enable Autosave
@@ -153,10 +160,10 @@ Turn on the toggle switch next to **Auto saving chats** to configure your Zoom a
 ![Zoom Meeting Chat  Auto save](https://images.wondershare.com/filmora/article-images/auto-saving-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Save Zoom Chats Manually
@@ -166,13 +173,6 @@ Turn on the toggle switch next to **Auto saving chats** to configure your Zoom a
 During a meeting/conference session, click the **Chat** icon from the bottom to reveal the chat pane if not already expanded. Next, review the all the chat messages to see if they are of any significance. If so, proceed to the next step.
 
 ![Zoom Meeting Chat  Save](https://images.wondershare.com/filmora/article-images/save-chat-in-zoom-meeting-manually.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Save the Chat Manually
 
@@ -197,10 +197,10 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 ![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Permanently Disable Zoom Chats?
@@ -231,6 +231,13 @@ As a video call host, if you don’t want the participant to save the chat conte
 
 ![Zoom Meeting Chat  Saving Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-prevent-participants-from-saving-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Furthermore, if you have a paid subscription of Zoom, you can use advanced encryption method that is available on the **IM Management** page on your account’s web portal. About the second question, the host cannot see the private messages that the participants send to each other during a meeting session.
 
 #### **Q) Can people see my chat when I am screen sharing?**
@@ -244,13 +251,6 @@ As long as you are chatting using **Zoom chat**, other participants cannot see y
 **Zoom chat** is an easy way to converse with the participants in case there are some typical words that need to be spelled or some files to be shared. These chats are not only encrypted, they can also be controlled by the host so that the participants can send messages only to the host, to each other, or to no one at all.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -267,22 +267,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-screen-snapshot-service-chromebook-for-2024/"><u>[New] Ideal Screen Snapshot Service Chromebook for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-tips-to-ensure-seamless-and-timed-google-collaborative-sessions/"><u>[New] In 2024, Expert Tips to Ensure Seamless and Timed Google Collaborative Sessions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-kakaotalk-elites-flash-chats-on-snapchat/"><u>[New] KakaoTalk Elites' Flash Chats on Snapchat</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-guide-to-efficient-video-capture-with-zd-software-tools/"><u>[New] Step-by-Step Guide to Efficient Video Capture with ZD Software Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-picks-for-traditional-japanese-huts-in-mc-worlds/"><u>[Updated] In 2024, Top Picks for Traditional Japanese Huts in MC Worlds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-tips-streaming-via-obs-directly-to-facebook/"><u>[Updated] In 2024, Top Tips Streaming via OBS Directly to Facebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ppt-visualization-leveraging-webcam-tech/"><u>[Updated] PPT Visualization Leveraging Webcam Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-strategizing-your-data-space-pre-eminent-cloud-services/"><u>[Updated] Strategizing Your Data Space Pre-Eminent Cloud Services</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-c110-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia C110 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-tackle-complex-math-questions/"><u>Can AI Like ChatGPT Tackle Complex Math Questions?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/fitbit-charge-3-assessment-is-it-still-a-worthwhile-pick/"><u>Fitbit Charge 3 Assessment - Is It Still a Worthwhile Pick?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-14-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 14 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>In 2024, Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/premier-windows-11-webcam-capture-models-for-2024/"><u>Premier Windows 11 Webcam Capture Models for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/revolutionize-video-closings-exclusive-end-screen-templates-for-2024/"><u>Revolutionize Video Closings - Exclusive End Screen Templates for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211107586-step-by-step-guide-to-fixing-missing-audiovideo-drivers/"><u>Step-by-Step Guide to Fixing Missing Audio/Video Drivers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-precision-playbacks-mastering-4-methods-of-recording-on-xbox/"><u>[New] 2024 Approved Precision Playbacks Mastering 4 Methods of Recording on Xbox</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-tips-efficiently-capturing-moments-with-snap-features-in-meet/"><u>[New] 2024 Approved Quick Tips Efficiently Capturing Moments with Snap Features in Meet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-art-of-extended-frame-videos-on-iphone/"><u>[New] 2024 Approved The Art of Extended Frame Videos on iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-great-live-showdown-obs-vs-twitch-studio/"><u>[New] The Great Live Showdown OBS vs Twitch Studio</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-zooming-in-advanced-screen-share-techniques-for-2024/"><u>[New] Zooming In Advanced Screen-Share Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-efficiently-merging-webcam-with-monitor-data/"><u>[Updated] 2024 Approved Efficiently Merging Webcam with Monitor Data</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-explore-the-best-webcams-on-your-windows-10-pc/"><u>[Updated] 2024 Approved Explore the Best Webcams on Your Windows 10 PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-audio-log-analysis-guidebook/"><u>[Updated] Audio Log Analysis Guidebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[Updated] Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-sound-spectrum-listing-websites-for-legal-ringtones/"><u>[Updated] In 2024, Sound Spectrum Listing Websites for Legal Ringtones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-minecraft-shaping-mastery-crafting-circles-and-spheres-for-2024/"><u>[Updated] Minecraft Shaping Mastery Crafting Circles & Spheres for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-screen-recordings-with-gotomeeting/"><u>[Updated] Navigating Screen Recordings with GoToMeeting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unmatched-video-downloads-top-8/"><u>2024 Approved Unmatched Video Downloads Top 8</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function/"><u>Archive Everyday Moments Seamlessly by Using VLC's Webcam Function</u></a></li>
+<li><a href="https://facebook.techidaily.com/epic-games-discloses-tracking-for-unlimited-game-playtime/"><u>Epic Games Discloses Tracking for Unlimited Game Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-advantages-the-new-reality-for-xbox-gold-users/"><u>Game Pass Advantages: The New Reality for Xbox Gold Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-silent-minecraft-world-troubleshooting-audio-issues-on-your-pc/"><u>How to Fix Silent Minecraft World: Troubleshooting Audio Issues on Your PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-precision-play-mastering-steams-switch-controllers/"><u>In 2024, Precision Play Mastering Steam's Switch Controllers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-spark-go-2023-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Spark Go (2023) Phones</u></a></li>
 </ul></div>
 

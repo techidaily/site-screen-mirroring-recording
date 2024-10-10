@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capturing Speech  IPhone Memo-Making Steps\""
-date: 2024-08-29T12:29:34.657Z
-updated: 2024-08-30T12:29:34.657Z
+date: 2024-10-05T16:16:18.594Z
+updated: 2024-10-10T16:17:11.988Z
 tags: 
   - screen-recording
   - ai video
@@ -145,10 +145,6 @@ Step 4: Tap anywhere on the recording pane to see the Pause button in case you w
 
 ![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
 
 Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
@@ -211,12 +207,6 @@ Step 5: The app will now allow you to choose the app where you want to share the
 
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Voice Memos app -
 
 Where is the voice memo app on iPhone 7?
@@ -253,6 +243,13 @@ Step 4: Tap anywhere on the recording pane to see the Pause button in case you w
 
 ![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
 
 Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
@@ -261,9 +258,6 @@ Note: To listen to a voice memo, you need to launch Voice Memos app. You will se
 
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ****How To Trim and Edit A Voice Memo?**
 
 There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
@@ -277,8 +271,12 @@ Step 3: Tap on three-dot More button.
 ![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 4: Choose Edit Recording option.
 
 Step 5: Tap on the Trim button.
@@ -288,6 +286,13 @@ Step 6: By using your finger, you can easily drag the trim sliders from any end 
 Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
 
 ![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 8: Finally, you will have to tap on Save followed by Done.
 
@@ -303,9 +308,6 @@ Step 3: Tap on Trash icon to delete the recording.
 
 ![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
 
 Here are the steps to share any recording instantly from iPhone voice memo app.
@@ -318,9 +320,6 @@ Step 3: Tap on the three-dot More button.
 
 ![again](https://images.wondershare.com/filmora/article-images/again.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 4: Finally, tap on Share option.
 
 Step 5: The app will now allow you to choose the app where you want to share the voice recording.
@@ -328,9 +327,25 @@ Step 5: The app will now allow you to choose the app where you want to share the
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs About Voice Memos app -
 
 Where is the voice memo app on iPhone 7?
@@ -354,8 +369,12 @@ There is no limit of recording time when it comes to recording a voice memo or n
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -370,9 +389,6 @@ Step 4: Tap anywhere on the recording pane to see the Pause button in case you w
 
 ![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
 
 Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
@@ -381,9 +397,6 @@ Note: To listen to a voice memo, you need to launch Voice Memos app. You will se
 
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ****How To Trim and Edit A Voice Memo?**
 
 There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
@@ -405,6 +418,13 @@ Step 6: By using your finger, you can easily drag the trim sliders from any end 
 Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
 
 ![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 8: Finally, you will have to tap on Save followed by Done.
 
@@ -433,17 +453,18 @@ Step 3: Tap on the three-dot More button.
 ![again](https://images.wondershare.com/filmora/article-images/again.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 4: Finally, tap on Share option.
 
 Step 5: The app will now allow you to choose the app where you want to share the voice recording.
 
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQs About Voice Memos app -
 
 Where is the voice memo app on iPhone 7?
@@ -486,4 +507,17 @@ There is no limit of recording time when it comes to recording a voice memo or n
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-zoomjoint-reporting/"><u>[New] In 2024, ZoomJoint Reporting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-efficient-mac-screenshotting-via-keyboard/"><u>[Updated] 2024 Approved The Ultimate Guide to Efficient Mac Screenshotting via Keyboard</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-role-of-frequency-in-attracting-more-viewers-on-youtube/"><u>[Updated] The Role of Frequency in Attracting More Viewers on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-assessment-exploring-dji-inspire-1/"><u>2024 Approved Complete Assessment Exploring DJI Inspire 1</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-stepwise-blend-integrating-obs-and-zoom/"><u>2024 Approved Stepwise Blend Integrating OBS and Zoom</u></a></li>
+<li><a href="https://win11.techidaily.com/best-high-quality-audio-formats-which-offers-smaller-sizes/"><u>Best High-Quality Audio Formats: Which Offers Smaller Sizes?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-effortless-video-recordings-of-google-meets-on-phones/"><u>In 2024, Effortless Video Recordings of Google Meets on Phones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-samsung-ru7300-55-smart-led-tv-with-4k-resolution-justifying-its-sleek-curved-display-a-thorough-review/"><u>Is Samsung RU7300 55 Smart LED TV with 4K Resolution Justifying Its Sleek, Curved Display? A Thorough Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-minecrafts-opengl-issues/"><u>Step-by-Step Guide: Troubleshooting Minecraft's OpenGL Issues</u></a></li>
+</ul></div>
 

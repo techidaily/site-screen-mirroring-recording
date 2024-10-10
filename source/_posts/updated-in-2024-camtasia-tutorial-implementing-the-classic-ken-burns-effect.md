@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Camtasia Tutorial  Implementing the Classic Ken Burns Effect\""
-date: 2024-09-27T16:02:41.245Z
-updated: 2024-10-04T17:20:02.910Z
+date: 2024-10-03T16:04:26.021Z
+updated: 2024-10-10T16:13:38.838Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,16 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,16 +69,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +100,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,19 +121,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069877829-new-in-2024-capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>[New] In 2024, Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones.</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-tricks-of-trade-remote-recording-mastery/"><u>[New] In 2024, Tricks of Trade Remote Recording Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-peeking-beyond-one-camera-limitations-for-2024/"><u>[New] Peeking Beyond One-Camera Limitations for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-thriving-in-the-world-of-instavids-design-an-impactful-strategy-for-2024/"><u>[New] Thriving in the World of InstaVids Design an Impactful Strategy for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-basics-of-narrative-crafting/"><u>[Updated] 2024 Approved Basics of Narrative Crafting</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-crop-circles-the-essential-list-of-farming-games-for-2024/"><u>[Updated] Crop Circles The Essential List of Farming Games for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/dive-deep-into-the-world-of-timelapses-with-your-ipad-for-2024/"><u>Dive Deep Into the World of Timelapses with Your iPad for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-dissonance-to-harmony-crafting-audio-transitions-in-audacity/"><u>In 2024, From Dissonance to Harmony Crafting Audio Transitions in Audacity</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-c02-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia C02 Easily?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-playbackquality-diagnosis/"><u>In 2024, PlaybackQuality Diagnosis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-magic-vs-2-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor Magic Vs 2 and Browser | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>In 2024, Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lifewires-current-must-watch-movies-best-picks-for-todays-viewers/"><u>Lifewire's Current Must-Watch Movies - Best Picks for Today’s Viewers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-mobility-and-professionality/"><u>The Perfect Blend of Mobility & Professionality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-stream-downloading-on-different-operating-systems/"><u>[New] 2024 Approved FB Stream Downloading on Different Operating Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-selecting-a-prime-livestream-service-top-10-essentials/"><u>[New] 2024 Approved Selecting a Prime Livestream Service Top 10 Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>[New] The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-lost-footage-on-tiktok-repeat-video-history/"><u>[Updated] 2024 Approved Lost Footage on TikTok Repeat Video History</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-prime-video-conferencing-and-communication-aids/"><u>[Updated] In 2024, Prime Video Conferencing & Communication Aids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-vanguard-firefox-recording-software/"><u>[Updated] In 2024, Vanguard FireFox Recording Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-upgrade-tips-clearer-footage-for-2024/"><u>[Updated] OBS Upgrade Tips Clearer Footage for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-gain-recovery-of-personal-snapshots/"><u>2024 Approved Gain Recovery of Personal Snapshots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pocket-safari-androids-selection-of-best-simulators/"><u>2024 Approved Pocket Safari Android's Selection of Best Simulators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-f34-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy F34 5G Face Lock?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/iptv-recording-on-various-platforms/"><u>IPTV Recording on Various Platforms</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-clip-to-cinema-the-simple-way-to-create-stunning-movies-from-any-video/"><u>Updated 2024 Approved Clip to Cinema The Simple Way to Create Stunning Movies From Any Video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Integrating Visual Cues  A Guide to Videography Annotations\""
-date: 2024-10-01T02:22:41.818Z
-updated: 2024-10-05T03:46:11.887Z
+date: 2024-10-05T16:20:29.360Z
+updated: 2024-10-10T16:01:16.609Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Distinctions Between the Two Types of Markers
 
 Watching the footage you've captured over and over can be a tiresome process that consumes both time and energy, so in order to increase your efficiency during the process of capturing and editing videos, you can simply add markers both to the files you're creating while recording or to your project's timeline.
@@ -57,19 +70,6 @@ The **media markers** are the markers you can add directly to the video file you
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -87,6 +87,13 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -106,6 +113,13 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
@@ -113,10 +127,10 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
@@ -125,25 +139,11 @@ After importing the clip into the timeline and identifying the points of error i
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,20 +166,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-fast-fingers-for-capturing-chat-transcripts/"><u>[New] 2024 Approved Fast Fingers for Capturing Chat Transcripts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-game-bar-alternative-recorders-for-2024/"><u>[New] Top 10 Game Bar Alternative Recorders for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-windowgrabber-3d-top-choice/"><u>[Updated] 2024 Approved WindowGrabber 3D - Top Choice</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-5-safest-and-most-enjoyable-quadcopters-for-kids/"><u>[Updated] 5 Safest and Most Enjoyable Quadcopters for Kids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-best-of-the-year-top-10-playlists/"><u>[Updated] In 2024, The Best of the Year Top 10 Playlists</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-10-educational-youtube-channels/"><u>[Updated] In 2024, Top 10 Educational YouTube Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-ps3-gaming-capture-step-by-step-guide-for-2024/"><u>[Updated] Mastering PS3 Gaming Capture Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-refine-iphone-image-capture-specialized-filming-tools/"><u>2024 Approved Refine iPhone Image Capture Specialized Filming Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-not-picking-up-sound-heres-what-you-can-do/"><u>Corsair HS60 Not Picking Up Sound? Here's What You Can Do!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-techniques-for-soundless-video-for-2024/"><u>Essential Techniques for Soundless Video for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-screen-record-on-mac-for-2024/"><u>How to Screen Record on Mac for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/nostalgia-unleashed-a-guide-to-fb-archives-for-2024/"><u>Nostalgia Unleashed A Guide to FB Archives for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/recording-made-easy-tips-for-youtube-vids-for-2024/"><u>Recording Made Easy Tips for YouTube Vids for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-educator-approved-video-capture-apps/"><u>Top 10 Educator-Approved Video Capture Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-accessible-steps-to-proficiently-watch-facebook-live-feeds/"><u>[New] 2024 Approved Accessible Steps to Proficiently Watch Facebook Live Feeds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-mobile-relaxation-renders-idle-games/"><u>[New] 2024 Approved Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc/"><u>[New] Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-level-up-your-livestream-game-using-obs-youtube-and-twitch-for-2024/"><u>[New] Level-Up Your Livestream Game Using OBS, YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveil-the-magic-of-media-rotation-using-vlc-players-features/"><u>[New] Unveil the Magic of Media Rotation Using VLC Player's Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beat-makers-paradise-downloading-premium-dj-visuals-for-2024/"><u>[Updated] Beat Makers' Paradise Downloading Premium DJ Visuals for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-by-step-obs-tutorial-for-skype-sessions/"><u>[Updated] Step-by-Step OBS Tutorial for Skype Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimizing-visual-engagement-in-google-meet-sessions/"><u>2024 Approved Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-photo-your-desktop-windows-edition/"><u>2024 Approved Photo Your Desktop Windows Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-10-no-cost-video-conference-platforms-worklearn-edition-for-2024/"><u>Essential 10 No-Cost Video Conference Platforms Work/Learn Edition for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-cameras-for-cutting-edge-concert-filming-in-4khd-for-2024/"><u>Essential Cameras for Cutting-Edge Concert Filming in 4K/HD for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 without Losing Data? | Stellar</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-efficient-techniques-to-solve-w10s-photo-viewer-errors/"><u>In 2024, Efficient Techniques to Solve W10's Photo Viewer Errors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-learn-screen-casting-on-macbook-air-step-by-step/"><u>In 2024, Learn Screen Casting on Macbook Air, Step by Step</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lunapic-101-a-step-by-step-photo-editing-guide/"><u>In 2024, LunaPic 101 A Step-by-Step Photo Editing Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/making-avatar-creation-a-breeze-in-the-digital-realm/"><u>Making Avatar Creation a Breeze in the Digital Realm</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revive-your-peripheral-connection-a-comprehensive-drivers-refresh-for-usb-serial-devices/"><u>Revive Your Peripheral Connection: A Comprehensive Drivers Refresh for USB-Serial Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/simplewin10-screen-grab-utility/"><u>SimpleWin10 Screen Grab Utility</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
 </ul></div>
 

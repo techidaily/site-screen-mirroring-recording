@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9\""
-date: 2024-10-02T00:55:49.432Z
-updated: 2024-10-04T21:42:02.304Z
+date: 2024-10-09T16:00:55.512Z
+updated: 2024-10-10T16:07:55.808Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,20 +115,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-tips-for-remotely-recording-your-podcasts/"><u>[New] 2024 Approved Top 10 Tips for Remotely Recording Your Podcasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-recording-methods-for-environmentally-friendly-screens/"><u>[New] Best Recording Methods for Environmentally Friendly Screens</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-guide-to-successfully-post-movies-made-with-wmm-onto-vimeo/"><u>[New] Guide to Successfully Post Movies Made with WMM Onto Vimeo</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-precise-aural-link-the-casters-toolkit-for-2024/"><u>[New] Precise Aural Link The Caster's Toolkit for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-strategies-for-bulk-tiktok-video-acquisition/"><u>[New] Strategies for Bulk TikTok Video Acquisition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-foremost-non-udemy-virtual-learning-experiences-reviewed/"><u>[Updated] 2024 Approved The Foremost Non-Udemy Virtual Learning Experiences Reviewed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-prime-windows-snipper-apps-listed-at-5/"><u>[Updated] In 2024, Prime Windows Snipper Apps Listed at #5</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-20-best-free-and-paid-gif-software-options/"><u>[Updated] In 2024, The 20 Best Free and Paid GIF Software Options</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streaming-software-showdown-the-verdict-between-obs-and-bandicam/"><u>[Updated] Streaming Software Showdown The Verdict Between OBS and Bandicam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-effective-screen-recorders-for-2024/"><u>[Updated] The Ultimate Guide to Effective Screen Recorders for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-avoiding-common-mistakes-in-screencasting/"><u>2024 Approved Avoiding Common Mistakes in Screencasting</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oneplus-ace-2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For OnePlus Ace 2</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/easy-audio-conversion-solution-save-videos-and-sound-from-any-source-as-high-quality-mp3-wav-or-mp4-files/"><u>Easy Audio Conversion Solution: Save Videos & Sound From Any Source as High-Quality MP3, WAV, or MP4 Files</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>In 2024, Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>In 2024, The Complete Blueprint Record WhatsApp Conversations Effectively</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-uncomplicated-guide-to-mobile-device-live-captures/"><u>[New] 2024 Approved Uncomplicated Guide to Mobile Device Live Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-guide-to-lol-gaming-broadcasts-3-methods-for-2024/"><u>[New] Quick Guide to LOL Gaming Broadcasts (3 Methods) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-5-browser-screen-recorders-2023/"><u>[Updated] In 2024, Top 5 Browser Screen Recorders 2023</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 12 4G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-shotchrome-fx-chromes-screen-capturing/"><u>In 2024, ShotChrome FX Chrome's Screen Capturing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-storm-expert-advice-to-prevent-frequent-crashes-in-risk-of-rain-2/"><u>Master the Storm: Expert Advice to Prevent Frequent Crashes in Risk of Rain 2</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>New Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfected-presence-the-art-of-blurring-conference-backdrops/"><u>Perfected Presence The Art of Blurring Conference Backdrops</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-90-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor 90 and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers-for-2024/"><u>The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725284080681-winxvideo-ai/"><u>Winxvideo AI 기능: 제공되는 비디오 함량에서 가장 최고의 품질</u></a></li>
 </ul></div>
 

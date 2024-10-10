@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2024-10-02T00:17:37.700Z
-updated: 2024-10-05T07:17:36.450Z
+date: 2024-10-03T16:02:59.659Z
+updated: 2024-10-10T16:09:52.824Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,10 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -93,6 +93,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -104,13 +111,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -127,20 +127,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-live-discussions-iphoneandroids-screen-recording/"><u>[New] 2024 Approved Capturing Live Discussions IPhone/Android's Screen Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-live-screen-archive-aggregators/"><u>[New] 2024 Approved Live Screen Archive Aggregators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[New] From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[Updated] 2024 Approved The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-investors-edge-tapping-into-youtube-creators-earnings-for-2024/"><u>[Updated] The Investor’s Edge Tapping Into YouTube Creators' Earnings for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-rated-5-backdrop-change-utilities-for-iphones-x78/"><u>2024 Approved Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ipads-best-practices-for-clear-voice-recording/"><u>2024 Approved IPad's Best Practices for Clear Voice Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-perfecting-the-art-of-filming-and-post-production-with-adobe-connects-features/"><u>2024 Approved Perfecting the Art of Filming & Post-Production with Adobe Connect's Features</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-screen-grabs-for-win-11-users/"><u>2024 Approved Quick Screen Grabs for Win 11 Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-step-by-step-guide-to-capturing-webcam-dialogues/"><u>2024 Approved Step-by-Step Guide to Capturing Webcam Dialogues</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/frontier-fantasies-selecting-the-most-impressive-titles/"><u>Frontier Fantasies Selecting the Most Impressive Titles</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-sony-xperia-1-v-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Sony Xperia 1 V Phone Pattern Lock</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-paperwork-next-generation-smart-document-handling-transforms-efficiency/"><u>Revolutionizing Paperwork: Next-Generation Smart Document Handling Transforms Efficiency</u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/winxvideo-ai/"><u>Winxvideo AI</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-test-mycam-cams-features-analyzed/"><u>[New] 2024 Approved The Ultimate Test MyCam Cam's Features Analyzed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-end-screen-essentials-for-social-media-success-on-youtube/"><u>[New] In 2024, End-Screen Essentials for Social Media Success on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-music-device-innovations-spotlighted-for-2024/"><u>[New] Music Device Innovations Spotlighted for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-accurate-speech-to-text-googles-breakthrough-approach/"><u>[Updated] In 2024, Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimize-your-macs-screen-record-functionality-with-keystrokes/"><u>[Updated] In 2024, Optimize Your Mac's Screen Record Functionality with Keystrokes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-live-stream-frontier-deciding-between-obs-and-twitch-space/"><u>[Updated] Live Stream Frontier Deciding Between OBS and Twitch Space</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-resolve-frozen-youtube-videos-on-androidios-for-2024/"><u>[Updated] Resolve Frozen YouTube Videos on Android/iOS for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enhance-your-social-presence-with-easy-fb-video-upload-pc-and-android/"><u>2024 Approved Enhance Your Social Presence with Easy FB Video Upload, PC & Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-gaming-fix-eliminating-the-ue4-madness-unreal-process-crash-glitch/"><u>Outriders Gaming Fix - Eliminating the 'UE4 Madness' Unreal Process Crash Glitch</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-intro-maker-tools-for-pc-top-picks-online-and-offline/"><u>Updated In 2024, Intro Maker Tools for PC Top Picks Online and Offline</u></a></li>
 </ul></div>
 

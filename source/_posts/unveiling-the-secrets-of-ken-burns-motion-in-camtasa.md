@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-10-02T02:36:01.589Z
-updated: 2024-10-04T22:54:45.928Z
+date: 2024-10-09T16:06:24.142Z
+updated: 2024-10-10T16:05:42.748Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,16 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,20 +115,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-enhancing-facebook-viewership-with-obs-broadcasts/"><u>[New] 2024 Approved Enhancing Facebook Viewership with OBS Broadcasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-cinemas-next-frontier-virtual-reality/"><u>[New] 2024 Approved Unlocking Cinema's Next Frontier Virtual Reality</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unlocking-google-meets-whiteboard-capabilities-on-diverse-tech-ecosystems/"><u>[New] In 2024, Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-syncing-melodies-with-video-in-premiere-pro/"><u>[New] Syncing Melodies with Video in Premiere Pro</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-blueprint-for-perfecting-zooms-screen-cast/"><u>[New] The Ultimate Blueprint for Perfecting Zoom's Screen Cast</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-image-protection-the-art-of-photowatermarking/"><u>[Updated] In 2024, Instagram Image Protection The Art of Photowatermarking</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-visual-stories-in-25-steps-blending-pictures-for-maximum-engagement/"><u>[Updated] In 2024, Visual Stories in 25 Steps Blending Pictures for Maximum Engagement</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-goovision-pro-high-quality-chromecasting/"><u>2024 Approved GooVision Pro High-Quality Chromecasting</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crafting-your-unique-look-in-windows-photos-app-with-music-and-filter-choices-for-2024/"><u>Crafting Your Unique Look in Windows Photos App with Music and Filter Choices for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oneplus-11-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass OnePlus 11 5G FRP</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/premier-11-sound-capture-gadgets/"><u>Premier 11 Sound Capture Gadgets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/smart-choices-best-windows-camcorders-list/"><u>Smart Choices Best Windows Camcorders List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-artistic-expression-in-the-age-of-ai-writing-assistants/"><u>The Evolution of Artistic Expression in the Age of AI Writing Assistants</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-economical-live-capture-software-suite-for-2024/"><u>Top Economical Live Capture Software Suite for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[New] 2024 Approved Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery/"><u>[New] 2024 Approved Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-a-hit-list-youtubes-way-for-fans-for-2024/"><u>[New] Crafting a Hit-List Youtube's Way for Fans for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-breaking-news-working-obs-cam/"><u>[New] In 2024, Breaking News Working OBS Cam</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-humorhub-quick-and-quirky-images/"><u>[New] In 2024, HumorHub Quick & Quirky Images</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-chronicles-of-puzzles-vs-endless-adventure/"><u>[Updated] 2024 Approved Chronicles of Puzzles Vs. Endless Adventure</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[Updated] In 2024, How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-spectacular-video-connections-quest/"><u>[Updated] In 2024, Spectacular Video Connections Quest</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-devices-for-google-meet-session-for-2024/"><u>[Updated] Navigating Devices for Google Meet Session for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-clash-livestream-prodigies/"><u>[Updated] OBS Clash - LiveStream Prodigies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-troubleshoot-mute-audio-in-tweeted-vids/"><u>[Updated] Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-passion-in-push-ups-and-jumps-with-these-top-20-songs/"><u>2024 Approved Ignite Passion in Push-Ups and Jumps with These Top 20 Songs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>Creating Breathtaking Slow Motion Photo Editing Techniques Explored</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-create-a-heart-emoji-using-your-keyboard-shortcuts/"><u>How to Effortlessly Create a Heart Emoji Using Your Keyboard Shortcuts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-comparison-vsdc-screen-recorder-vs-other-leading-solutions/"><u>The Ultimate Comparison VSDC Screen Recorder vs Other Leading Solutions</u></a></li>
 </ul></div>
 
