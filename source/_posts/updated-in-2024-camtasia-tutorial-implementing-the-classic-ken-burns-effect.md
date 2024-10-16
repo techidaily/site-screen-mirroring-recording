@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Camtasia Tutorial  Implementing the Classic Ken Burns Effect\""
-date: 2024-10-03T16:04:26.021Z
-updated: 2024-10-10T16:13:38.838Z
+date: 2024-10-15T16:36:19.396Z
+updated: 2024-10-16T22:02:16.507Z
 tags: 
   - screen-recording
   - ai video
@@ -48,16 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -69,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,17 +115,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-stream-downloading-on-different-operating-systems/"><u>[New] 2024 Approved FB Stream Downloading on Different Operating Systems</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-selecting-a-prime-livestream-service-top-10-essentials/"><u>[New] 2024 Approved Selecting a Prime Livestream Service Top 10 Essentials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>[New] The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-lost-footage-on-tiktok-repeat-video-history/"><u>[Updated] 2024 Approved Lost Footage on TikTok Repeat Video History</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-prime-video-conferencing-and-communication-aids/"><u>[Updated] In 2024, Prime Video Conferencing & Communication Aids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-vanguard-firefox-recording-software/"><u>[Updated] In 2024, Vanguard FireFox Recording Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-upgrade-tips-clearer-footage-for-2024/"><u>[Updated] OBS Upgrade Tips Clearer Footage for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-gain-recovery-of-personal-snapshots/"><u>2024 Approved Gain Recovery of Personal Snapshots</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pocket-safari-androids-selection-of-best-simulators/"><u>2024 Approved Pocket Safari Android's Selection of Best Simulators</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-f34-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy F34 5G Face Lock?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/iptv-recording-on-various-platforms/"><u>IPTV Recording on Various Platforms</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-clip-to-cinema-the-simple-way-to-create-stunning-movies-from-any-video/"><u>Updated 2024 Approved Clip to Cinema The Simple Way to Create Stunning Movies From Any Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-fundamentals-of-vimeo-video-logging/"><u>[New] 2024 Approved The Fundamentals of Vimeo Video Logging</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-quick-step-to-cutting-edge-gif-creation-from-vimeo/"><u>[New] 2024 Approved The Quick-Step to Cutting Edge GIF Creation From Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unmatched-warfare-discovering-the-prime-7-total-war-battles/"><u>[New] 2024 Approved Unmatched Warfare Discovering the Prime 7 Total War Battles</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-culinary-crossroads-global-flavors-unleashed/"><u>[New] Culinary Crossroads Global Flavors Unleashed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>[New] In 2024, How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-screen-captures-in-firefox-land-for-2024/"><u>[New] Top Screen Captures in Firefox Land for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-video-spin-vlcs-rotation-guide/"><u>[Updated] 2024 Approved Mastering Video Spin VLC's Rotation Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-becoming-a-viral-icon-instagrams-secrets-revealed/"><u>[Updated] In 2024, Becoming a Viral Icon Instagram's Secrets Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-7-best-fps-games/"><u>[Updated] In 2024, The 7 Best Fps Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-introducing-the-essence-of-motion-blur-techniques-on-iphone/"><u>In 2024, Introducing the Essence of Motion-Blur Techniques on iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-breakdown-setting-up-game-capture-on-ps4-console-for-2024/"><u>The Complete Breakdown Setting Up Game Capture on PS4 Console for 2024</u></a></li>
 </ul></div>
 

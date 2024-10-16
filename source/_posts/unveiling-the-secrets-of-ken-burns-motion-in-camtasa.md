@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-10-09T16:06:24.142Z
-updated: 2024-10-10T16:05:42.748Z
+date: 2024-10-15T16:40:41.071Z
+updated: 2024-10-16T16:15:58.673Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,22 +115,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[New] 2024 Approved Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery/"><u>[New] 2024 Approved Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-a-hit-list-youtubes-way-for-fans-for-2024/"><u>[New] Crafting a Hit-List Youtube's Way for Fans for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-breaking-news-working-obs-cam/"><u>[New] In 2024, Breaking News Working OBS Cam</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-humorhub-quick-and-quirky-images/"><u>[New] In 2024, HumorHub Quick & Quirky Images</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-chronicles-of-puzzles-vs-endless-adventure/"><u>[Updated] 2024 Approved Chronicles of Puzzles Vs. Endless Adventure</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[Updated] In 2024, How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-spectacular-video-connections-quest/"><u>[Updated] In 2024, Spectacular Video Connections Quest</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-devices-for-google-meet-session-for-2024/"><u>[Updated] Navigating Devices for Google Meet Session for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-clash-livestream-prodigies/"><u>[Updated] OBS Clash - LiveStream Prodigies</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-troubleshoot-mute-audio-in-tweeted-vids/"><u>[Updated] Troubleshoot Mute Audio in Tweeted Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-passion-in-push-ups-and-jumps-with-these-top-20-songs/"><u>2024 Approved Ignite Passion in Push-Ups and Jumps with These Top 20 Songs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>Creating Breathtaking Slow Motion Photo Editing Techniques Explored</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-create-a-heart-emoji-using-your-keyboard-shortcuts/"><u>How to Effortlessly Create a Heart Emoji Using Your Keyboard Shortcuts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-comparison-vsdc-screen-recorder-vs-other-leading-solutions/"><u>The Ultimate Comparison VSDC Screen Recorder vs Other Leading Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>[New] In 2024, Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sharpen-your-shots-easy-cropping-methods-with-iphone/"><u>[Updated] Sharpen Your Shots Easy Cropping Methods with iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-battle-for-honor-other-10-great-games-like-tsushi/"><u>2024 Approved Battle for Honor Other 10 Great Games Like Tsushi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-video-synchronization-with-obs/"><u>2024 Approved Mastering Video Synchronization with OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pure-joy-of-gratuitous-screen-mingle-games/"><u>2024 Approved Pure Joy of Gratuitous Screen Mingle Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-visual-content-a-guide-to-adding-descriptions-on-instagram-for-2024/"><u>Elevating Visual Content A Guide to Adding Descriptions on Instagram for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-preparations-for-returning-students-7-complimentary-learning-apps-to-try/"><u>Essential Preparations for Returning Students: 7 Complimentary Learning Apps to Try</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-collective-wisdom-on-easeus-products/"><u>In 2024, Collective Wisdom on EaseUS Products</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
 

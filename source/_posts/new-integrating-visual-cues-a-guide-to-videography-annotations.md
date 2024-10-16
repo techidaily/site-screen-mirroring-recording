@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Integrating Visual Cues  A Guide to Videography Annotations\""
-date: 2024-10-05T16:20:29.360Z
-updated: 2024-10-10T16:01:16.609Z
+date: 2024-10-15T19:16:45.921Z
+updated: 2024-10-16T19:01:53.486Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Distinctions Between the Two Types of Markers
@@ -70,6 +64,13 @@ The **media markers** are the markers you can add directly to the video file you
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -87,13 +88,6 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -113,25 +107,11 @@ Filmora lets you adjust your marker settings for your video. Right-click on the 
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3: Customize the Markers
 
 In the Marker Editor window, make relevant changes such as naming the marker, adding a comment in the **"Comment"** box, and changing the marker color.
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
 
@@ -139,11 +119,25 @@ After importing the clip into the timeline and identifying the points of error i
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,24 +160,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-accessible-steps-to-proficiently-watch-facebook-live-feeds/"><u>[New] 2024 Approved Accessible Steps to Proficiently Watch Facebook Live Feeds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-mobile-relaxation-renders-idle-games/"><u>[New] 2024 Approved Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc/"><u>[New] Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-level-up-your-livestream-game-using-obs-youtube-and-twitch-for-2024/"><u>[New] Level-Up Your Livestream Game Using OBS, YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveil-the-magic-of-media-rotation-using-vlc-players-features/"><u>[New] Unveil the Magic of Media Rotation Using VLC Player's Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-beat-makers-paradise-downloading-premium-dj-visuals-for-2024/"><u>[Updated] Beat Makers' Paradise Downloading Premium DJ Visuals for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-by-step-obs-tutorial-for-skype-sessions/"><u>[Updated] Step-by-Step OBS Tutorial for Skype Sessions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimizing-visual-engagement-in-google-meet-sessions/"><u>2024 Approved Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-photo-your-desktop-windows-edition/"><u>2024 Approved Photo Your Desktop Windows Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/essential-10-no-cost-video-conference-platforms-worklearn-edition-for-2024/"><u>Essential 10 No-Cost Video Conference Platforms Work/Learn Edition for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/essential-cameras-for-cutting-edge-concert-filming-in-4khd-for-2024/"><u>Essential Cameras for Cutting-Edge Concert Filming in 4K/HD for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 without Losing Data? | Stellar</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-efficient-techniques-to-solve-w10s-photo-viewer-errors/"><u>In 2024, Efficient Techniques to Solve W10's Photo Viewer Errors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-learn-screen-casting-on-macbook-air-step-by-step/"><u>In 2024, Learn Screen Casting on Macbook Air, Step by Step</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lunapic-101-a-step-by-step-photo-editing-guide/"><u>In 2024, LunaPic 101 A Step-by-Step Photo Editing Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/making-avatar-creation-a-breeze-in-the-digital-realm/"><u>Making Avatar Creation a Breeze in the Digital Realm</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revive-your-peripheral-connection-a-comprehensive-drivers-refresh-for-usb-serial-devices/"><u>Revive Your Peripheral Connection: A Comprehensive Drivers Refresh for USB-Serial Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/simplewin10-screen-grab-utility/"><u>SimpleWin10 Screen Grab Utility</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-immediate-cessation-of-recordings-in-qt-app/"><u>[New] Immediate Cessation of Recordings in QT App</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-vr-unveiled-understanding-the-digital-illusion/"><u>[New] VR Unveiled Understanding the Digital Illusion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-garmins-innovative-ultra-30-review-full-capabilities-examined-for-2024/"><u>[Updated] Garmin's Innovative Ultra 30 Review Full Capabilities Examined for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-desktop-capture-the-windows-user-guide/"><u>[Updated] In 2024, Desktop Capture The Windows User Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-advice-on-reversing-non-functional-obs-fullscreen/"><u>2024 Approved Advice on Reversing Non-Functional OBS Fullscreen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-budget-gaming-setup-find-the-best-keyboards-for-less/"><u>2024 Approved Budget Gaming Setup Find the Best Keyboards for Less</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-complete-guide-to-iphone-7-screen-recordings/"><u>2024 Approved The Complete Guide to iPhone 7 Screen Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/az-video-grabber-in-depth-app-analysis-and-diversions/"><u>AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/diverse-devices-no-problem-record-youtube-livestream-easily-for-2024/"><u>Diverse Devices? No Problem! Record YouTube Livestream Easily for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/email-tutorial-how-to-send-a-flipbook-file-with-displayed-cover-via-email-platforms-flipbuilder/"><u>Email Tutorial: How to Send a FlipBook File with Displayed Cover via Email Platforms (FlipBuilder)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/filmora-vs-democreator-a-guide-to-the-best-video-editor-for-2024/"><u>Filmora Vs. Democreator A Guide to the Best Video Editor for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/harnessing-skypes-voice-free-mp3-exclusive/"><u>Harnessing Skype's Voice - Free MP3 Exclusive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-methods-for-recording-youtube-live-streaming/"><u>In 2024, Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-in-depth-insights-on-preserving-ps4-gaming-history/"><u>In 2024, In-Depth Insights on Preserving PS4 Gaming History</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-video-editing-a-step-by-step-guide-to-using-vlc-media-player/"><u>Mastering the Art of Video Editing: A Step-by-Step Guide to Using VLC Media Player</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/start-a-stream-reap-riches-vlog-money-secrets-for-2024/"><u>Start a Stream, Reap Riches Vlog Money Secrets for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-how-to-troubleshoot-and-repair-sony-ps4-microphone-issues/"><u>Ultimate Guide: How To Troubleshoot and Repair Sony PS4 Microphone Issues</u></a></li>
 </ul></div>
 

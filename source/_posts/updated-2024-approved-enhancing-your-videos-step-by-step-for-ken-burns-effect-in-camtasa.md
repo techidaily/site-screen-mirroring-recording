@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Enhancing Your Videos  Step-by-Step for Ken Burns Effect in Camtasa\""
-date: 2024-08-24T12:09:08.596Z
-updated: 2024-08-25T12:09:08.596Z
+date: 2024-10-13T17:56:42.660Z
+updated: 2024-10-16T20:00:18.328Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-audiopiece-recorder-guide-installation-and-test/"><u>[New] 2024 Approved AudioPiece Recorder Guide Installation & Test</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-console-chronos-review/"><u>[New] Console Chronos Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-detailed-dissection-straightforward-hdr-methods/"><u>[New] Detailed Dissection Straightforward HDR Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-excellence-engineers-select-laptop-choices-for-4k-editing-pros/"><u>[New] In 2024, Excellence Engineers Select Laptop Choices for 4K Editing Pros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-gamers-playbook-4-essential-steps-for-recording-games/"><u>[New] In 2024, The Gamer's Playbook 4 Essential Steps for Recording Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimize-your-gaming-by-learning-ps3-video-capture-techniques-for-2024/"><u>[New] Optimize Your Gaming by Learning PS3 Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-guide-to-screen-capture-on-laptops-and-chromeos-for-2024/"><u>[New] Quick Guide to Screen Capture on Laptops and ChromeOS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-xbox-one-shutterbug-techniques/"><u>[New] The Ultimate Xbox One Shutterbug Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-srt-openedit-manual-for-mac-users/"><u>[New] Ultimate SRT Open/Edit Manual for Mac Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-daily-digital-domination-top-10-youtube-viewership-ranking/"><u>[Updated] 2024 Approved Daily Digital Domination Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-20-quirky-tiktok-joke-threads-for-endless-chuckles/"><u>[Updated] In 2024, 20 Quirky TikTok Joke Threads for Endless Chuckles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-urban-uprising-video-game-list-like-gta-v/"><u>[Updated] Urban Uprising Video Game List Like GTA V</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/best-practices-in-music-video-production-and-editing/"><u>Best Practices in Music Video Production and Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-engagement-and-growth-unlocking-youtube-analytics-via-social-blade-for-2024/"><u>Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/drone-selections-on-a-budget-affordable-options-above/"><u>Drone Selections on a Budget Affordable Options Above</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-creating-an-efficient-framework-for-ps3-game-screencasts/"><u>In 2024, Creating an Efficient Framework for PS3 Game Screencasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-and-simple-4-ways-to-take-screenshots-on-chromebook/"><u>In 2024, Quick & Simple 4 Ways To Take Screenshots On Chromebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-live-broadcasts-obs-on-youtube-and-twitch-for-2024/"><u>Mastering Live Broadcasts OBS on YouTube and Twitch for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-downloads-for-windows-top-10-choices-revealed/"><u>Secure Downloads for Windows: Top 10 Choices Revealed</u></a></li>
+</ul></div>
+

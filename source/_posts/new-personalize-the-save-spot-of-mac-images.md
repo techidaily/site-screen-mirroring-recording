@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize the Save Spot of Mac Images"
-date: 2024-10-05T16:23:08.544Z
-updated: 2024-10-10T16:19:36.827Z
+date: 2024-10-10T22:10:32.804Z
+updated: 2024-10-16T17:07:42.526Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,16 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,19 +127,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>[New] 2024 Approved Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-channel-upgrade-the-beginners-roadmap-to-video-mastery/"><u>[New] In 2024, Channel Upgrade The Beginner's Roadmap to Video Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-screen-grab-king-macos-recorder-free/"><u>[New] In 2024, Screen Grab King MacOS Recorder, Free</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>[New] Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-producing-an-expressive-tiktok-conclusion-snippet/"><u>[Updated] 2024 Approved Producing an Expressive TikTok Conclusion Snippet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-use-vlc-for-easy-webcam-footage-save/"><u>[Updated] 2024 Approved Use VLC for Easy Webcam Footage Save</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>2024 Approved Breaking the Barrier Acquiring Mass TikTok Videos Easily</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-make-youtube-video/"><u>2024 Approved How to Make YouTube Video</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-masterclass-acquiring-free-photo-frames-effortlessly/"><u>2024 Approved Masterclass Acquiring Free Photo Frames Effortlessly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-universe-explorer-top-ranking-of-best-free-mmorpg-games/"><u>In 2024, Universe Explorer Top Ranking of Best Free MMORPG Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-virtual-ventures-10-near-misses-to-gta-v/"><u>In 2024, Virtual Ventures 10 Near-Misses to GTA V</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-video-editing-software-for-gaming-content-creators-for-2024/"><u>The Best Free Video Editing Software for Gaming Content Creators for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oppo-k11-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo K11 5G</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-the-potential-of-capturing-digital-entertainment-for-2024/"><u>Unlocking the Potential of Capturing Digital Entertainment for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-detailed-guide-securely-recording-on-vimeo/"><u>[New] In 2024, Detailed Guide Securely Recording on Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unparalleled-audio-capture-top-9-online-microphone-systems-in-23/"><u>[New] In 2024, Unparalleled Audio Capture Top 9 Online Microphone Systems in '23</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-frills-screensaver-windows-compatible/"><u>[New] No Frills Screensaver - Windows Compatible</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-screencast-blueprint-tools-and-techniques-mastery/"><u>[Updated] 2024 Approved The Ultimate Screencast Blueprint Tools & Techniques Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-complete-walkthrough-of-vlc-capture-settings/"><u>[Updated] In 2024, A Complete Walkthrough of VLC Capture Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-top-8-metod-prekonavani-mts-souboru-do-formatu-mp4-pro-windows-a-mac/"><u>1. Top 8 Metod Prekonávaní MTS Souboru Do Formátu MP4 Pro Windows a Mac</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-down-sarcasm-and-jokes-in-fbc-messages/"><u>Breaking Down Sarcasm & Jokes in FBC Messages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/front-seat-recreation-10-non-athletic-delights/"><u>Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-14-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 14?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-starter-selection-affordable-site-purchases-for-beginners/"><u>In 2024, Starter Selection Affordable Site Purchases for Beginners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-drone-racers-and-top-5-fpv-drones-for-2024/"><u>Ultimate Guide to Drone Racers & Top 5 FPV Drones for 2024</u></a></li>
 </ul></div>
 
