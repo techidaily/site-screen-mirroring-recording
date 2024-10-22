@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9\""
-date: 2024-10-11T18:03:08.029Z
-updated: 2024-10-16T16:08:25.684Z
+date: 2024-10-20T16:00:31.623Z
+updated: 2024-10-22T16:15:00.456Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,15 +115,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-become-an-expert-in-no-time-mastering-ez-grabbers-functions/"><u>[New] 2024 Approved Become an Expert in No Time! Mastering EZ Grabber's Functions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-3-ipad-speech-capture-methods/"><u>[New] 2024 Approved Top 3 iPad Speech Capture Methods</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-screen-recording-with-nvidia-for-2024/"><u>[New] Streamlining Screen Recording with NVIDIA for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveiling-effective-techniques-for-setting-up-and-gauging-fbs-instream-ads/"><u>[Updated] 2024 Approved Unveiling Effective Techniques for Setting Up and Gauging FB's Instream Ads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-apple-ecosystem-unleash-the-full-potential-of-magsafe-for-your-android-phone/"><u>Beyond Apple Ecosystem: Unleash the Full Potential of MagSafe for Your Android Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-a-guide-to-troubleshooting-sound-problems/"><u>Fixing Silent PCs: A Guide to Troubleshooting Sound Problems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/foremost-corporate-cloud-storage-hubs-for-2024/"><u>Foremost Corporate Cloud Storage Hubs for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/insightful-pricing-comparison-for-cloud-platforms-for-2024/"><u>Insightful Pricing Comparison for Cloud Platforms for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-your-android-experience-with-screen-and-video-tech/"><u>Perfect Your Android Experience with Screen & Video Tech</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-end-screen-creation-made-simple-free-templates-and-guides/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration-for-2024/"><u>[New] From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-methodology-for-going-live-with-podcasts/"><u>[New] Seamless Methodology for Going Live with Podcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-crafting-compelling-narratives-with-vo-in-powerpoint/"><u>[Updated] 2024 Approved Crafting Compelling Narratives with VO in PowerPoint</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[Updated] 2024 Approved Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-seamless-access-watching-fb-videos-on-apple-tv-explained/"><u>[Updated] In 2024, Seamless Access Watching FB Videos on Apple TV Explained</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-overcoming-shyness-in-the-spotlight-top-video-blogger-fears-for-2024/"><u>[Updated] Overcoming Shyness in the Spotlight Top Video Blogger Fears for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ranking-video-chat-winning-windows-tools-6-1/"><u>[Updated] Ranking Video Chat Winning Windows Tools #6-#1</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>[Updated] Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-crack-up-compilation-the-most-funny-tiktok-joke-threads/"><u>2024 Approved Crack-Up Compilation The Most Funny TikTok Joke Threads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlocking-obs-video-potential-five-must-know-techniques/"><u>2024 Approved Unlocking OBS Video Potential Five Must-Know Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-tactics-for-mastering-mobizen-mobile-screen-recording/"><u>Essential Tactics for Mastering Mobizen Mobile Screen Recording</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-xcover-6-pro-tactical-edition-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy XCover 6 Pro Tactical Edition Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-premier-lineup-best-free-video-editors-unveiled/"><u>In 2024, Premier Lineup Best Free Video Editors Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>In 2024, Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vidmas-advantages-in-digital-video-recording-unpacked/"><u>Vidma’s Advantages in Digital Video Recording Unpacked</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 8 Plus | Dr.fone</u></a></li>
 </ul></div>
 

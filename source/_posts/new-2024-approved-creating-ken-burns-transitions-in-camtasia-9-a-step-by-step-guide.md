@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-08-24T12:02:14.376Z
-updated: 2024-08-25T12:02:14.376Z
+date: 2024-10-16T16:33:07.588Z
+updated: 2024-10-22T17:03:44.003Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-guide-to-cost-free-camera-screen-recorder-software/"><u>[New] In 2024, Essential Guide to Cost-Free Camera Screen Recorder Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-tips-for-high-quality-sound-memos/"><u>[Updated] 2024 Approved Expert Tips for High-Quality Sound Memos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-practices-in-digital-media-capturing/"><u>[Updated] In 2024, Best Practices in Digital Media Capturing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>2024 Approved OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/screen-recorder-for-youtube/"><u>Best Screen Recorder for YouTube</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-platform-compatibility-androidpc-connectivity-guide/"><u>Cross-Platform Compatibility: Android/PC Connectivity Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-common-errors-with-corsairs-icue-software-in-modern-windows-environments/"><u>Diagnosing and Fixing Common Errors with Corsair's iCUE Software in Modern Windows Environments</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fix-how-to-restore-disappeared-shortcuts-and-icons-on-windows-11-desktops/"><u>Fix: How to Restore Disappeared Shortcuts and Icons on Windows 11 Desktops</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-cutting-edge-recording-sounds-in-the-mac-era/"><u>In 2024, The Cutting Edge Recording Sounds in the Mac Era</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/looms-labyrinth-navigating-screen-record-art-for-2024/"><u>Loom's Labyrinth Navigating Screen Record Art for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/precision-planning-of-collaborative-slack-plus-filmora-meetings-for-2024/"><u>Precision Planning of Collaborative Slack + Filmora Meetings for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stanley-j5c09-examined-powerful-performance-in-a-big-package/"><u>Stanley J5C09 Examined: Powerful Performance in a Big Package</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-selecting-screen-recorder-software-for-2024/"><u>The Ultimate Guide to Selecting Screen Recorder Software for 2024</u></a></li>
+</ul></div>
+

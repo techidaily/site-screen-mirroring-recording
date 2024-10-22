@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Switch Pro Techniques on Steam Platform for 2024"
-date: 2024-10-10T20:18:13.515Z
-updated: 2024-10-16T18:31:04.607Z
+date: 2024-10-20T16:26:25.436Z
+updated: 2024-10-22T16:31:59.314Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -66,23 +73,9 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -94,6 +87,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -108,26 +108,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -138,6 +125,13 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -160,20 +154,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unbeatable-ways-to-archive-lol-encounters-for-2024/"><u>[New] Unbeatable Ways to Archive LOL Encounters for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069349687-updated-in-2024-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>[Updated] In 2024, An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-multimedia-meetings-fusing-zooms-potential-with-skype/"><u>[Updated] Mastering Multimedia Meetings Fusing Zoom's Potential with Skype</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2023s-premier-ios-solutions-best-psp-game-simulators/"><u>2023'S Premier iOS Solutions Best PSP Game Simulators</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-convenient-snipping-identify-the-top-5-apps-for-pc-captures/"><u>2024 Approved Convenient Snipping Identify the Top 5 Apps for PC Captures</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-protocols-for-high-quality-iptv-screening/"><u>2024 Approved Efficient Protocols for High-Quality IPTV Screening</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-iphoneipad-advanced-screen-recording-tips-new-methods-2023/"><u>2024 Approved IPhone/iPad Advanced Screen Recording Tips - New Methods 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimizing-vr-video-quality-during-live-gaming/"><u>2024 Approved Optimizing VR Video Quality During Live Gaming</u></a></li>
-<li><a href="https://win-help.techidaily.com/amazingly-odd-phenomenon-when-deleting-files-understanding-emeditors-behavior/"><u>Amazingly Odd Phenomenon When Deleting Files - Understanding EmEditor's Behavior</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-5-chromebook-screen-capture-tools-unveiled-for-2024/"><u>Best 5 Chromebook Screen Capture Tools Unveiled for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/captivating-titles-easily-achievable/"><u>Captivating Titles, Easily Achievable</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-c51-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco C51</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimizing-tiktok-video-batch-downloads-for-2024/"><u>Optimizing TikTok Video Batch Downloads for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/revolutionizing-audio-documentation-the-art-of-call-recording/"><u>Revolutionizing Audio Documentation The Art of Call Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-select-vhs-magic-transforming-video-editing-today/"><u>[New] 2024 Approved Select VHS Magic Transforming Video Editing Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-enhance-browsing-with-effortless-side-by-side-view-on-chromes-fullscreen-for-2024/"><u>[New] Enhance Browsing with Effortless Side-by-Side View on Chrome's Fullscreen for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-examine-groups-collaborative-media-on-messenger/"><u>[New] In 2024, Examine Group's Collaborative Media on Messenger</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-11-audio-recording-tools-guide/"><u>[Updated] Leading 11 Audio Recording Tools Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-10-survival-showdowns-for-2024/"><u>[Updated] Premier 10 Survival Showdowns for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-charge-awareness-customizing-battery-indicators-in-win11/"><u>Boosting Charge Awareness: Customizing Battery Indicators in Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effective-solutions-for-smoothing-out-mkv-playback-stuttering-across-various-media-applications/"><u>Effective Solutions for Smoothing Out MKV Playback Stuttering Across Various Media Applications</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/eyesharp-record-chromeos-native-cam/"><u>EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/harnessing-power-at-no-cost-guide-to-hosting-and-participating-in-gmeet-for-2024/"><u>Harnessing Power at No Cost Guide to Hosting & Participating in GMeet for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-deathloop-crashing-on-pc-easy-steps/"><u>How to Fix Deathloop Crashing on PC [Easy Steps]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-digital-dive-essential-recording-tactics-for-shows/"><u>In 2024, Digital Dive Essential Recording Tactics for Shows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-essential-8-platforms-for-private-screenings/"><u>In 2024, Essential 8 Platforms for Private Screenings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizing-obs-studio-5-editing-game-changers/"><u>In 2024, Optimizing OBS Studio 5 Editing Game Changers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-doom-eternal-from-crashing-effective-troubleshooting-tips-and-solutions/"><u>Stop DOOM Eternal From Crashing: Effective Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/virtual-journey-logging-top-6-methods-for-minecraft-recordings/"><u>Virtual Journey Logging Top 6 Methods for Minecraft Recordings</u></a></li>
 </ul></div>
 

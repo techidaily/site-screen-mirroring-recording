@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2024-10-10T18:41:27.544Z
-updated: 2024-10-16T21:00:42.425Z
+date: 2024-10-15T16:09:10.569Z
+updated: 2024-10-22T16:20:46.628Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -76,19 +76,6 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -98,6 +85,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -112,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,14 +127,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-leading-tools-to-personalize-and-enhance-your-speech-on-the-go/"><u>2024 Approved Leading Tools to Personalize and Enhance Your Speech on the Go</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-selecting-the-optimal-mac-microphone-recorders-our-expert-picks-of-5/"><u>2024 Approved Selecting the Optimal Mac Microphone Recorders Our Expert Picks of 5</u></a></li>
-<li><a href="https://win-blog.techidaily.com/converti-file-ogv-in-mp3-gratuitamente-online-con-movavi/"><u>Converti File OGV in MP3 Gratuitamente Online Con Movavi</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-gaming-recorders-that-offer-more-than-just-fbx-files/"><u>Elite Gaming Recorders That Offer More Than Just FBX Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-unexpected-voltage-spike-in-rack-connector-system/"><u>Expert Advice: Fixing Unexpected Voltage Spike in Rack Connector System</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-androids-chosen-3ds-game-simulators/"><u>In 2024, Android's Chosen 3DS Game Simulators</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/laptop-auf-desktop-pc-daten-ubertragen-einfachste-schritte-fur-einen-reibungslosen-transfer/"><u>Laptop Auf Desktop PC Daten Übertragen: Einfachste Schritte Für Einen Reibungslosen Transfer</u></a></li>
-<li><a href="https://discover-community.techidaily.com/les-meilleurs-outils-gratuits-pour-reduire-la-taille-des-fichiers-video-sans-pertes-de-definition-guide-exhaustif/"><u>Les Meilleurs Outils Gratuits Pour Réduire La Taille Des Fichiers Vidéo Sans Pertes De Définition : Guide Exhaustif</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-choosing-your-stream-obs-or-twitch-studio/"><u>[New] 2024 Approved Choosing Your Stream OBS or Twitch Studio?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-decoding-youtubes-operations-following-uploads/"><u>[New] 2024 Approved Decoding YouTube’s Operations Following Uploads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>[New] Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-browser-snapshot-guide-for-tech-enthusiasts-for-2024/"><u>[New] The Ultimate Browser Snapshot Guide for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-song-guide-for-newbies/"><u>[Updated] 2024 Approved The Ultimate Song Guide for Newbies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-recording-tech-the-leaders-choice/"><u>[Updated] In 2024, Innovative Recording Tech The Leaders' Choice</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixelpilot-expert-tips-for-screen-snagging-for-2024/"><u>[Updated] PixelPilot Expert Tips for Screen Snagging for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-cam-cover-selection/"><u>2024 Approved The Ultimate Guide to Cam Cover Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixma-mx922-fresh-driver-upgrade-tips-for-windows-users/"><u>Canon PIXMA MX922: Fresh Driver Upgrade Tips for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-delegate-your-health-to-programmed-predictions/"><u>Don't Delegate Your Health to Programmed Predictions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-billions-on-social-media-mastering-facebook-twitter-instagram-youtube-strategies/"><u>Engage with Billions on Social Media: Mastering Facebook, Twitter, Instagram, YouTube Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-premium-gif-software-for-iphone-users/"><u>Exploring Premium GIF Software for iPhone Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-driver-setup-and-download-compatible-with-all-windows-versions/"><u>HP DeskJet Driver Setup & Download: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-the-optimal-cloud-data-vaults-for-2024/"><u>Identifying the Optimal Cloud Data Vaults for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-google-podcast-mastery-from-creation-to-publication/"><u>In 2024, Google Podcast Mastery From Creation to Publication</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-live-streaming-capture-services/"><u>In 2024, Live-Streaming Capture Services</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Choosing Between OBS and Streamlabs for Broadcast Excellence\""
-date: 2024-10-12T19:47:53.006Z
-updated: 2024-10-16T16:28:10.395Z
+date: 2024-10-15T16:11:27.543Z
+updated: 2024-10-22T16:52:23.693Z
 tags: 
   - screen-recording
   - ai video
@@ -64,10 +64,10 @@ OBS Studio lets you customize the video quality as per your requirements. You ca
 * Not very suitable for 4K video quality.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. About Streamlabs Desktop
@@ -76,11 +76,70 @@ Now that you have understood the pros and cons of OBS Studio, let us focus on St
 
 ![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
 
+Performance:
+
+The best part of Streamlabs is that it sets the configuration parameters automatically depending on your system resources. Therefore, the pressure of CPU resources is always optimal so that there is no effect on recording or streaming performance. Moreover, it can automatically detect an active game if you are into recording gameplay.
+
+However, there are many fancy features available which are useful such as test widget and custom themes that unnecessarily put pressure on CPU. But it lets you customize the UI, and you can remove the useless items so that the performance could be better. You can also optimize all automatically set parameters to satisfy your requirements.
+
+Recording:
+
+You can record both screen and webcam on Streamlabs. You will find the feature of Selective Recording that lets you set the widgets such as notifications and live alerts that you want to see while recording. Thanks to its widgets while recording, you do not have to switch between tabs to check important things. In comparison to OBS Studio, the range of compatibility of video and audio sources is not as wide as expected but the useful widgets are not available on OBS.
+
+Streaming:
+
+Streamlabs is best for live streaming on Facebook Gaming, Twitch, and YouTube. Get the stream key and run the optimizer to get the best settings to go live. Besides, there is an extremely useful Test mode available to ensure all the things are perfectly working as expected. There is a built-in widget available to check live chants and interact without switching. Streamlabs saves buffer replays so that you can play them back instantly in real-time. You also create highlights from live stream replays.
+
+Ease of Use:
+
+Streamlabs is super easy to use, and hence, it is perfect for beginners. You can customize the UI as per your requirements by dragging and dropping components. There are various integrated themes available to choose from. All the required options are easily available, and overall, the user interface is highly intuitive. Recording and live streaming can actually be fun with Streamlabs. There is no dearth of useful widgets that are exclusively available in Streamlabs only. Overall, Streamlabs beats OBS Studio completely in ease of use and better user interface.
+
+Video quality:
+
+With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Pros
+
+* Multi-stream functionality for streaming from different platforms.
+* Complete customization with integrated themes.
+* The intuitive interface enables easy operation.
+* Wide range of widgets available for better recording and streaming.
+* Useful test button function to check stream alerts.
+* Built-in chat feature for easy chat management and audience engagement.
+
+### Cons
+
+* Too many fancy widgets and custom themes.
+* Few plugins available for better improvement.
+
+## Conclusion
+
+If you are a beginner, Streamlabs is an automatic choice because the user interface is truly user-friendly. Even in terms of performance and video quality, Streamlabs scores over OBS Studio. However, OBS Studio is perfect for better recording and live streaming across all platforms. But specifically for gamers, Streamlabs is a better software thanks to its widgets and automation.
+
+Cons
+
+* Does not have user-friendly interface.
+* Excessive CPU usage and frequent crashes.
+* Not very suitable for 4K video quality.
+
+## 2\. About Streamlabs Desktop
+
+Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
+
+![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Performance:
@@ -113,13 +172,6 @@ With Streamlabs, you can have the best quality video. It enables you to customiz
 * Wide range of widgets available for better recording and streaming.
 * Useful test button function to check stream alerts.
 * Built-in chat feature for easy chat management and audience engagement.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Cons
 
@@ -165,10 +217,10 @@ Video quality:
 With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pros
@@ -185,6 +237,13 @@ With Streamlabs, you can have the best quality video. It enables you to customiz
 * Too many fancy widgets and custom themes.
 * Few plugins available for better improvement.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If you are a beginner, Streamlabs is an automatic choice because the user interface is truly user-friendly. Even in terms of performance and video quality, Streamlabs scores over OBS Studio. However, OBS Studio is perfect for better recording and live streaming across all platforms. But specifically for gamers, Streamlabs is a better software thanks to its widgets and automation.
@@ -195,6 +254,13 @@ Cons
 * Excessive CPU usage and frequent crashes.
 * Not very suitable for 4K video quality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. About Streamlabs Desktop
 
 Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
@@ -202,10 +268,10 @@ Now that you have understood the pros and cons of OBS Studio, let us focus on St
 ![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Performance:
@@ -230,78 +296,18 @@ Video quality:
 
 With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
 
-### Pros
-
-* Multi-stream functionality for streaming from different platforms.
-* Complete customization with integrated themes.
-* The intuitive interface enables easy operation.
-* Wide range of widgets available for better recording and streaming.
-* Useful test button function to check stream alerts.
-* Built-in chat feature for easy chat management and audience engagement.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### Cons
-
-* Too many fancy widgets and custom themes.
-* Few plugins available for better improvement.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Conclusion
-
-If you are a beginner, Streamlabs is an automatic choice because the user interface is truly user-friendly. Even in terms of performance and video quality, Streamlabs scores over OBS Studio. However, OBS Studio is perfect for better recording and live streaming across all platforms. But specifically for gamers, Streamlabs is a better software thanks to its widgets and automation.
-
-Cons
-
-* Does not have user-friendly interface.
-* Excessive CPU usage and frequent crashes.
-* Not very suitable for 4K video quality.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 2\. About Streamlabs Desktop
-
-Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
-
-![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
-
-Performance:
-
-The best part of Streamlabs is that it sets the configuration parameters automatically depending on your system resources. Therefore, the pressure of CPU resources is always optimal so that there is no effect on recording or streaming performance. Moreover, it can automatically detect an active game if you are into recording gameplay.
-
-However, there are many fancy features available which are useful such as test widget and custom themes that unnecessarily put pressure on CPU. But it lets you customize the UI, and you can remove the useless items so that the performance could be better. You can also optimize all automatically set parameters to satisfy your requirements.
-
-Recording:
-
-You can record both screen and webcam on Streamlabs. You will find the feature of Selective Recording that lets you set the widgets such as notifications and live alerts that you want to see while recording. Thanks to its widgets while recording, you do not have to switch between tabs to check important things. In comparison to OBS Studio, the range of compatibility of video and audio sources is not as wide as expected but the useful widgets are not available on OBS.
-
-Streaming:
-
-Streamlabs is best for live streaming on Facebook Gaming, Twitch, and YouTube. Get the stream key and run the optimizer to get the best settings to go live. Besides, there is an extremely useful Test mode available to ensure all the things are perfectly working as expected. There is a built-in widget available to check live chants and interact without switching. Streamlabs saves buffer replays so that you can play them back instantly in real-time. You also create highlights from live stream replays.
-
-Ease of Use:
-
-Streamlabs is super easy to use, and hence, it is perfect for beginners. You can customize the UI as per your requirements by dragging and dropping components. There are various integrated themes available to choose from. All the required options are easily available, and overall, the user interface is highly intuitive. Recording and live streaming can actually be fun with Streamlabs. There is no dearth of useful widgets that are exclusively available in Streamlabs only. Overall, Streamlabs beats OBS Studio completely in ease of use and better user interface.
-
-Video quality:
-
-With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
 
 ### Pros
 
@@ -345,17 +351,24 @@ If you are a beginner, Streamlabs is an automatic choice because the user interf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-equitable-technology-review-by-inclusive-gurus/"><u>[New] 2024 Approved Equitable Technology Review by Inclusive Gurus</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-big-catch-bigger-views-top-5-aquatic-cameras/"><u>[New] Big Catch, Bigger Views - Top 5 Aquatic Cameras</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-easy-recording-tips-for-your-hp-laptops-camera/"><u>[New] In 2024, Easy Recording Tips for Your HP Laptop's Camera</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-primepickings-top-twitters-and-top-viewers-favorites/"><u>[New] In 2024, PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-simplifying-visual-sharing-in-ms-teams-with-snap-camera/"><u>[New] In 2024, Simplifying Visual Sharing in MS Teams with Snap Camera</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-the-future-top-tips-for-remotely-capturing-talent-for-2024/"><u>[New] Pioneering the Future Top Tips for Remotely Capturing Talent for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-best-photo-and-video-display-apps-from-xi-to-x/"><u>[Updated] Best Photo & Video Display Apps From XI to X</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-visioncast-feedback-interface/"><u>[Updated] In 2024, VisionCast Feedback Interface</u></a></li>
-<li><a href="https://extra-information.techidaily.com/echoes-of-the-northmen-essential-sites-to-grab-got-audio-calls/"><u>Echoes of the Northmen Essential Sites to Grab GoT Audio Calls</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g42-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Nokia G42 5G Phone without PIN</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo/"><u>In 2024, Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-note-12-pro-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi Note 12 Pro 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-edge-webcams-the-best-on-windows-10-for-2024/"><u>[New] Leading Edge Webcams The Best on Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-video-setup-utilizing-your-logitech-webcam-for-2024/"><u>[New] Pro Video Setup Utilizing Your Logitech Webcam for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-leading-tips-to-record-videos-in-silence/"><u>[Updated] In 2024, Leading Tips to Record Videos in Silence</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ranking-the-best-free-passport-picture-services-worldwide/"><u>[Updated] In 2024, Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-revolutionize-slack-discussions-with-10-free-recorders/"><u>[Updated] In 2024, Revolutionize Slack Discussions with 10 Free Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-securing-students-learning-mac-based-lecture-recording/"><u>[Updated] Securing Students' Learning Mac-Based Lecture Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-iphone-voice-memos-setup-for-2024/"><u>[Updated] The Complete Guide to iPhone Voice Memos Setup for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-key-steps-to-composing-engaging-youtube-video-plans-for-2024/"><u>[Updated] The Key Steps to Composing Engaging YouTube Video Plans for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-for-windows-partition-consolidation/"><u>Advanced Techniques for Windows Partition Consolidation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/archer-ax6000-vs-nighthawk-ax12-ultimate-wifi-router-review-for-enthusiasts/"><u>Archer AX6000 Vs. Nighthawk AX12: Ultimate WiFi Router Review for Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/convenient-steps-upside-down-video-via-vlc-application-for-2024/"><u>Convenient Steps Upside Down Video via VLC Application for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-recording-setups-for-lol-enthusiasts-3-ways/"><u>Easy Recording Setups for LOL Enthusiasts (3 Ways)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/nature-of-the-cosmos-select-sky-photography-websites/"><u>Nature of the Cosmos Select Sky Photography Websites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/professional-ppt-recording-tactics-and-tricks-for-2024/"><u>Professional PPT Recording Tactics and Tricks for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/razer-portal-critique-advanced-wi-fi-networking-for-the-competitive-player/"><u>Razer Portal Critique: Advanced Wi-Fi Networking for the Competitive Player</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-faulty-troubleshooting-tools-in-windows-1011/"><u>Resolving Faulty Troubleshooting Tools in Windows 10/11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-bsod-bluescreen-solving-unmountable-boot-volume-problems-successfully/"><u>Windows 10 BSOD Bluescreen - Solving Unmountable Boot Volume Problems Successfully</u></a></li>
 </ul></div>
 

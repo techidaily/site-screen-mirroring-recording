@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-10-15T16:40:41.071Z
-updated: 2024-10-16T16:15:58.673Z
+date: 2024-10-17T16:06:14.912Z
+updated: 2024-10-22T16:35:37.874Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,14 +115,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>[New] In 2024, Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sharpen-your-shots-easy-cropping-methods-with-iphone/"><u>[Updated] Sharpen Your Shots Easy Cropping Methods with iPhone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-battle-for-honor-other-10-great-games-like-tsushi/"><u>2024 Approved Battle for Honor Other 10 Great Games Like Tsushi</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-video-synchronization-with-obs/"><u>2024 Approved Mastering Video Synchronization with OBS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pure-joy-of-gratuitous-screen-mingle-games/"><u>2024 Approved Pure Joy of Gratuitous Screen Mingle Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevating-visual-content-a-guide-to-adding-descriptions-on-instagram-for-2024/"><u>Elevating Visual Content A Guide to Adding Descriptions on Instagram for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-preparations-for-returning-students-7-complimentary-learning-apps-to-try/"><u>Essential Preparations for Returning Students: 7 Complimentary Learning Apps to Try</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-collective-wisdom-on-easeus-products/"><u>In 2024, Collective Wisdom on EaseUS Products</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-holistic-evaluation-full-screenflow-for-mac-functionality/"><u>[New] In 2024, Holistic Evaluation Full ScreenFlow for Mac Functionality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-2023s-leading-facebook-film-extractors-top-picks/"><u>[Updated] 2024 Approved 2023'S Leading Facebook Film Extractors - Top Picks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-achieving-professional-audio-in-home-recording-studios/"><u>[Updated] 2024 Approved Achieving Professional Audio in Home Recording Studios</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-customizing-youtube-viewing-policies-for-your-content-for-2024/"><u>[Updated] Customizing YouTube Viewing Policies for Your Content for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-exclusive-insiders-pick-best-open-world-games/"><u>[Updated] In 2024, Exclusive Insider's Pick Best Open World Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-iphone-screen-capture-simplified-guide/"><u>[Updated] In 2024, IPhone Screen Capture Simplified Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-safekeeping-sensitive-visuals-from-public-eyes/"><u>[Updated] Safekeeping Sensitive Visuals From Public Eyes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-united-experts-easeus-expert-reviews/"><u>[Updated] United Experts EaseUS Expert Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-image-quality-a-newbies-comprehensible-guide/"><u>2024 Approved Unveiling Image Quality A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/deciphering-adware-recognizing-dangerous-pop-ups-and-learning-secure-eradication-methods/"><u>Deciphering Adware: Recognizing Dangerous Pop-Ups & Learning Secure Eradication Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/end-of-an-era-saying-goodbye-to-iphone-13-and-15-pro-top-picks-for-your-next-smartphone-tech-analysis/"><u>End of an Era: Saying Goodbye to iPhone 13 and 15 Pro - Top Picks for Your Next Smartphone | Tech Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-a2-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi A2 Phone that is Locked?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-phantom-v-fold-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Phantom V Fold Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/laying-the-foundation-of-zoom-room-use/"><u>Laying the Foundation of Zoom Room Use</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-hot-40i-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix Hot 40i on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/secure-your-device-footage-with-mi-11-techniques-for-2024/"><u>Secure Your Device Footage with Mi 11 Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/which-screen-grab-tool-wins-insights-into-obs-vs-fraps-for-2024/"><u>Which Screen Grab Tool Wins? Insights Into OBS vs Fraps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Secrets to Compelling Presentations  PPT on Mobile & Desktop GMeet\""
-date: 2024-08-24T12:06:03.039Z
-updated: 2024-08-25T12:06:03.039Z
+date: 2024-10-21T16:06:51.647Z
+updated: 2024-10-22T16:07:58.434Z
 tags: 
   - screen-recording
   - ai video
@@ -88,8 +88,12 @@ If you decide to go with the latter option, then click the “Present” option.
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Present PowerPoint or Slides in Google Meet On iPhone and iPad?
 
 Wondering **how to present ppt in Google Meet in iPhone**? Well, don’t worry because even with a mobile or tablet you can access all the Google Meet features, even screen share!
@@ -107,11 +111,12 @@ To be sure if the screen is being shared check the top of the iPhone or iPad and
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/iphone-screen-broadcast-share-powerpoint-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 4: Presenting PowerPoint or Slides in Google Meet on Android
 
 The process of presenting a PowerPoint or Google Slides during a Google Meet session on an android is very similar to that of an Apple device.
@@ -125,8 +130,12 @@ Step 3) Upon joining the meeting, click the “More” option and tap the “Pre
 ![Share slides on Google Meet on Android ](https://images.wondershare.com/filmora/article-images/present-screen-on-google-meet-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 4) After that, allow presenting and go to your PowerPoint / Google Slides to share them with participants, easy right?! Remember, participants can pause your screen presentation and start presenting their screen in between, as well.
 
 ## Part 5: How to Stop Presenting PPT on Google Meet?
@@ -146,8 +155,19 @@ Moreover, if you are on an iPhone or iPad, you can simply click the red stripe o
 ![stop  PPT present on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-present-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ about Presenting PowerPoint on Google Meet
 
 1. **Can others see you while you are presenting a PPT?**
@@ -168,16 +188,11 @@ Presenting a ppt on Google Meet is not all that difficult, if you know what to d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +200,25 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-learn-to-screen-capture-flawlessly-on-mac-using-just-keys/"><u>[New] 2024 Approved Learn to Screen Capture Flawlessly on Mac Using Just Keys</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-recordingcritique-assessment/"><u>[New] 2024 Approved RecordingCritique Assessment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-slide-video-creators-for-2024/"><u>[New] Best Slide Video Creators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-windows-11-premium-video-grabber-selections/"><u>[New] In 2024, Windows 11 Premium Video Grabber Selections</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfecting-video-conferencing-the-ultimate-screen-recorder-list/"><u>[New] Perfecting Video Conferencing The Ultimate Screen Recorder List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/"><u>[Updated] 2024 Approved Harnessing the Power of Imagery for Engaging FB Slideshows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>[Updated] 2024 Approved Unveiling The Leading Mac Speech Recorders Our Curated List of 5</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ideas-for-soundless-video-preservation/"><u>[Updated] Ideas for Soundless Video Preservation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-5-hdmi-21-gaming-monitors-you-can-find/"><u>[Updated] Top 5 HDMI 2.1 Gaming Monitors You Can Find</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-streaming-steps-to-airplay-macos-from-macbook-to-tv-without-cables/"><u>Effortless Streaming: Steps to AirPlay macOS From MacBook to TV Without Cables</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/everything-you-need-to-know-about-your-digital-video-recorder/"><u>Everything You Need to Know About Your Digital Video Recorder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a14-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A14 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-integration-of-youtube-melodies-into-imovie-for-2024/"><u>Seamless Integration of YouTube Melodies Into iMovie for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fixes-for-the-elusive-coredll-file-not-found-issue/"><u>Step-by-Step Fixes for the Elusive Core.DLL File Not Found Issue</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stitch-ppt-tiles-into-video-mosaic/"><u>Stitch PPT Tiles Into Video Mosaic</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-workflow-mending-outlook-glitches/"><u>Streamlining Your Workflow: Mending Outlook Glitches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+</ul></div>
+

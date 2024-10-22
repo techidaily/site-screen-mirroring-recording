@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize the Save Spot of Mac Images"
-date: 2024-10-10T22:10:32.804Z
-updated: 2024-10-16T17:07:42.526Z
+date: 2024-10-20T16:46:19.230Z
+updated: 2024-10-22T17:10:11.543Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,16 +127,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-detailed-guide-securely-recording-on-vimeo/"><u>[New] In 2024, Detailed Guide Securely Recording on Vimeo</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unparalleled-audio-capture-top-9-online-microphone-systems-in-23/"><u>[New] In 2024, Unparalleled Audio Capture Top 9 Online Microphone Systems in '23</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-frills-screensaver-windows-compatible/"><u>[New] No Frills Screensaver - Windows Compatible</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-screencast-blueprint-tools-and-techniques-mastery/"><u>[Updated] 2024 Approved The Ultimate Screencast Blueprint Tools & Techniques Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-complete-walkthrough-of-vlc-capture-settings/"><u>[Updated] In 2024, A Complete Walkthrough of VLC Capture Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-top-8-metod-prekonavani-mts-souboru-do-formatu-mp4-pro-windows-a-mac/"><u>1. Top 8 Metod Prekonávaní MTS Souboru Do Formátu MP4 Pro Windows a Mac</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-down-sarcasm-and-jokes-in-fbc-messages/"><u>Breaking Down Sarcasm & Jokes in FBC Messages</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/front-seat-recreation-10-non-athletic-delights/"><u>Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-14-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 14?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-starter-selection-affordable-site-purchases-for-beginners/"><u>In 2024, Starter Selection Affordable Site Purchases for Beginners</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-drone-racers-and-top-5-fpv-drones-for-2024/"><u>Ultimate Guide to Drone Racers & Top 5 FPV Drones for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unplugged-joy-a-list-of-great-offline-ipad-games/"><u>[New] 2024 Approved Unplugged Joy A List of Great Offline iPad Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed/"><u>[New] A Picture's Worth a Thousand Dollars Online Top Photo Cloud Services Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-end-live-recording-mode-immediately-in-qt-app/"><u>[Updated] End Live Recording Mode Immediately in QT App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-playful-portraits-how-to-apply-a-cartoon-face-on-snapchat/"><u>[Updated] Playful Portraits How to Apply a Cartoon Face on Snapchat</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-non-udemy-platforms-for-personalized-e-learning-for-2024/"><u>[Updated] Premier Non-Udemy Platforms for Personalized E-Learning for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-rankings-top-11-streaming-audio-gear-for-2024/"><u>[Updated] Ultimate Rankings Top 11 Streaming Audio Gear for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-from-observing-to-involved-the-tiktok-life-journey/"><u>2024 Approved From Observing to Involved The TikTok Life Journey</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-pioneering-virtual-meetings-mastering-gmail-and-zoom-usage-together/"><u>2024 Approved Pioneering Virtual Meetings Mastering Gmail and Zoom Usage Together</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/spectacular-20-anime-openers-hits/"><u>Spectacular 20 Anime Openers' Hits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-app-downloads-try-these-10-effective-remedies-now/"><u>Struggling With iPhone App Downloads? Try These 10 Effective Remedies Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-for-when-discord-voice-chat-freezes/"><u>Troubleshooting Solutions for When Discord Voice Chat Freezes</u></a></li>
 </ul></div>
 
