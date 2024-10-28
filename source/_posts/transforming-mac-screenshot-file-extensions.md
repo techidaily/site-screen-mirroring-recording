@@ -1,7 +1,7 @@
 ---
 title: "Transforming Mac Screenshot File Extensions"
-date: 2024-08-24T11:55:35.017Z
-updated: 2024-08-25T11:55:35.017Z
+date: 2024-10-25T09:35:21.708Z
+updated: 2024-10-28T00:19:20.886Z
 tags: 
   - screen-recording
   - ai video
@@ -48,15 +48,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -64,16 +68,29 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
 When the Terminal window appears on the screen you will have to insert the following command:
@@ -111,15 +128,23 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -127,3 +152,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-overwatch-gamers-record-like-a-pro-in-2024/"><u>[New] Overwatch Gamers, Record Like a Pro, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-communication-scheduling-monthly-meets/"><u>[New] Streamlining Communication Scheduling Monthly Meets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlock-xbox-gaming-memories-with-these-4-methods/"><u>[New] Unlock Xbox Gaming Memories with These 4 Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pinnacle-enterprise-data-vaulting/"><u>[Updated] 2024 Approved Pinnacle Enterprise Data Vaulting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evaluating-dailymotion-vs-youtube-profitability/"><u>[Updated] In 2024, Evaluating Dailymotion vs YouTube Profitability</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-live-video-logging-on-mac-free/"><u>2024 Approved Live Video Logging on Mac, Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/abandoning-gpt-conversation-steps-here/"><u>Abandoning GPT Conversation: Steps Here</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/androids-screen-shutter-select-the-best-eight-free-tools/"><u>Android's Screen Shutter - Select the Best Eight Free Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-spectacular-gopro-time-lapses-made-easy-for-2024/"><u>Crafting Spectacular GoPro Time-Lapses Made Easy for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/frosty-filming-experts-ice-cream-screen-capture-method/"><u>Frosty Filming Expert's Ice Cream Screen Capture Method</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-g310-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia G310 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-online-functionality-for-an-offline-alexa/"><u>How To Restore Online Functionality for an Offline Alexa</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-potential-of-mobile-platforms-for-personalbusiness-yt/"><u>In 2024, Unlocking the Potential of Mobile Platforms for Personal/Business YT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-video-edits-made-simple-with-windows-10s-story-remix-for-2024/"><u>Innovative Video Edits Made Simple with Windows 10'S Story Remix for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/keeping-up-with-the-screen-capturing-internet-television-online-for-2024/"><u>Keeping Up With The Screen - Capturing Internet Television Online for 2024</u></a></li>
+</ul></div>
+

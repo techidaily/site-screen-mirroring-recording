@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2024-10-15T16:09:10.569Z
-updated: 2024-10-22T16:20:46.628Z
+date: 2024-10-23T18:00:16.301Z
+updated: 2024-10-28T01:11:58.341Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -76,6 +76,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -85,13 +92,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,22 +127,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-choosing-your-stream-obs-or-twitch-studio/"><u>[New] 2024 Approved Choosing Your Stream OBS or Twitch Studio?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-decoding-youtubes-operations-following-uploads/"><u>[New] 2024 Approved Decoding YouTube’s Operations Following Uploads</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>[New] Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-browser-snapshot-guide-for-tech-enthusiasts-for-2024/"><u>[New] The Ultimate Browser Snapshot Guide for Tech Enthusiasts for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-song-guide-for-newbies/"><u>[Updated] 2024 Approved The Ultimate Song Guide for Newbies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-recording-tech-the-leaders-choice/"><u>[Updated] In 2024, Innovative Recording Tech The Leaders' Choice</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixelpilot-expert-tips-for-screen-snagging-for-2024/"><u>[Updated] PixelPilot Expert Tips for Screen Snagging for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-cam-cover-selection/"><u>2024 Approved The Ultimate Guide to Cam Cover Selection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-pixma-mx922-fresh-driver-upgrade-tips-for-windows-users/"><u>Canon PIXMA MX922: Fresh Driver Upgrade Tips for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dont-delegate-your-health-to-programmed-predictions/"><u>Don't Delegate Your Health to Programmed Predictions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-with-billions-on-social-media-mastering-facebook-twitter-instagram-youtube-strategies/"><u>Engage with Billions on Social Media: Mastering Facebook, Twitter, Instagram, YouTube Strategies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-premium-gif-software-for-iphone-users/"><u>Exploring Premium GIF Software for iPhone Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-driver-setup-and-download-compatible-with-all-windows-versions/"><u>HP DeskJet Driver Setup & Download: Compatible with All Windows Versions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/identifying-the-optimal-cloud-data-vaults-for-2024/"><u>Identifying the Optimal Cloud Data Vaults for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-google-podcast-mastery-from-creation-to-publication/"><u>In 2024, Google Podcast Mastery From Creation to Publication</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-live-streaming-capture-services/"><u>In 2024, Live-Streaming Capture Services</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-obs-adjustments-for-inexpensive-machines/"><u>[New] 2024 Approved Essential OBS Adjustments for Inexpensive Machines</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-essential-guide-to-integrating-voice-over-in-ppts/"><u>[New] 2024 Approved The Essential Guide to Integrating Voice Over in PPTs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-zero-cost-chromebook-recorders-for-2024/"><u>[Updated] Best Zero Cost Chromebook Recorders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-epic-historical-combat-showdowns-the-top-7-games-for-2024/"><u>[Updated] Epic Historical Combat Showdowns – The Top 7 Games for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-premium-recording-application-chromebook-focus/"><u>[Updated] In 2024, Premium Recording Application Chromebook Focus</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixicapture-studio-winos-series-for-2024/"><u>[Updated] PixiCapture Studio WinOS Series for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-reference-mistake-for-token-in-windows-1011/"><u>Fixing Reference Mistake for Token in Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-geforce-rtx-2070-graphics-card-drivers-for-windows-1187-secure-your-free-downloads-now/"><u>Get the Latest GeForce RTX 2070 Graphics Card Drivers for Windows 11/8/7: Secure Your Free Downloads Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-xr-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone XR Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-monetization-marvels-worldwide-youtuber-winners/"><u>In 2024, Monetization Marvels - Worldwide Youtuber Winners</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-the-hiccups-a-comprehensive-guide-to-call-of-duty-modern-warfare-3-stutter-issues-and-optimization-tips/"><u>Navigating Through the Hiccups: A Comprehensive Guide to Call of Duty Modern Warfare 3 Stutter Issues and Optimization Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-transforming-standard-hd-videos-into-ultra-high-definition-on-pc-with-specialized-software-solutions/"><u>Step-by-Step Tutorial for Transforming Standard HD Videos Into Ultra High Definition on PC with Specialized Software Solutions</u></a></li>
 </ul></div>
 
