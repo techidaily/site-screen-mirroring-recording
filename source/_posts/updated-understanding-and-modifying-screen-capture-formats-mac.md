@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding and Modifying Screen Capture Formats (Mac)"
-date: 2024-08-17T01:34:14.757Z
-updated: 2024-08-18T01:34:14.757Z
+date: 2024-10-27T03:45:07.370Z
+updated: 2024-11-03T04:02:06.078Z
 tags: 
   - screen-recording
   - ai video
@@ -48,9 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
@@ -58,8 +55,12 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -67,13 +68,27 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -111,8 +126,12 @@ _defaults write com.apple.screencapture type PNG_
 You can switch back to capturing screenshots in PNG file format at any moment by simply following the steps we described for all other image file formats supported by the macOS. Leave a comment and let us know which file format you like to use the most as the default screenshot format on your Mac.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,11 +140,27 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-designing-impactful-social-media-fb-ads/"><u>[New] In 2024, Designing Impactful Social Media FB Ads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>[New] In 2024, From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-10-survival-arena-matches/"><u>[New] In 2024, Ultimate 10 Survival Arena Matches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screenshoting-made-easy-leveraging-ezvid-video-maker-for-2024/"><u>[New] Screenshoting Made Easy Leveraging Ezvid Video Maker for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-everspace-2-crashing-on-pc/"><u>[SOLVED] Everspace 2 Crashing on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-examining-benq-sw320-the-4k-visionary/"><u>[Updated] Examining BenQ SW320 The 4K Visionary</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-culinary-callings-30-unique-show-title-suggestions/"><u>[Updated] In 2024, Culinary Callings 30 Unique Show Title Suggestions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unraveling-instagrams-complex-world-of-data-a-beginner-to-pro-guide/"><u>[Updated] In 2024, Unraveling Instagram's Complex World of Data A Beginner to Pro Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-taking-screenshots-on-mac-5-methods/"><u>[Updated] Taking Screenshots on Mac [5 Methods]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-diy-filmmaking-tricks-for-top-notch-results/"><u>Essential DIY Filmmaking Tricks for Top-Notch Results</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-14-plus-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 14 Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/snap-clean-top-10-apps-to-sharpen-your-digital-world-for-2024/"><u>Snap Clean Top 10 Apps to Sharpen Your Digital World for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-youtube-conclusion-handbook-creators-choice/"><u>The Ultimate YouTube Conclusion Handbook [Creators' Choice]</u></a></li>
+</ul></div>
+

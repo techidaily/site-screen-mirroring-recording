@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-10-22T06:55:59.921Z
-updated: 2024-10-28T04:58:13.064Z
+date: 2024-10-30T19:00:14.436Z
+updated: 2024-11-03T01:07:35.013Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,18 +115,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-guide-to-screen-capture-on-laptops-and-chromeos/"><u>[New] 2024 Approved Quick Guide to Screen Capture on Laptops and ChromeOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-the-action-ps4-to-video-using-obs/"><u>[New] In 2024, Capturing the Action PS4 to Video Using OBS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-your-videos-acoustic-appeal-on-youtube/"><u>[New] In 2024, Streamline Your Video's Acoustic Appeal on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-screen-capture-apps-beyond-official-gaming-tools/"><u>[Updated] 2024 Approved Essential Screen Capture Apps Beyond Official Gaming Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-5-inspiring-book-trailers/"><u>[Updated] 2024 Approved Top 5 Inspiring Book Trailers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-integrated-capture-camera-and-desktop-together-for-2024/"><u>[Updated] Integrated Capture Camera and Desktop Together for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-chilly-cinematography-comprehensive-ice-cream-monitoring-tutorial/"><u>2024 Approved Chilly Cinematography Comprehensive Ice Cream Monitoring Tutorial</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-frustrated-photographers-face-black-screen-woes/"><u>2024 Approved Frustrated Photographers Face Black Screen Woes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-open-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus Open to Roku | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-c67-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme C67 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-hiccups-fix-0x80070643-error-in-windows-updates/"><u>Overcoming Installation Hiccups: Fix 0X80070643 Error in Windows Updates</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reclaimcontent-repairing-video-files/"><u>ReclaimContent: Repairing Video Files</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-littlecapture-reviews-on-small-recorder-apps/"><u>[New] In 2024, LittleCapture Reviews on Small Recorder Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>[New] In 2024, The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[Updated] In 2024, Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pinnacle-10-royale-struggle-games/"><u>2024 Approved Pinnacle 10 Royale Struggle Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461109203-fix-aol-email-problems-on-iphones-with-these-6-easy-solutions/"><u>Fix AOL Email Problems on iPhones with These 6 Easy Solutions!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Lock Screen Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Phone that is Locked?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-motorola-g54-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Motorola G54 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sail-through-history-with-assassins-creed-valhalla-a-captivating-viking-chronicle-set-amidst-castles-and-kingdoms/"><u>Sail Through History with 'Assassin's Creed: Valhalla' - A Captivating Viking Chronicle Set Amidst Castles & Kingdoms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-reno-8t-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 8T 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

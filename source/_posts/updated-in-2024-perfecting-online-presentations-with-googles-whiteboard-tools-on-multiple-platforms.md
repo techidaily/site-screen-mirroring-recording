@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms"
-date: 2024-08-17T01:35:57.155Z
-updated: 2024-08-18T01:35:57.155Z
+date: 2024-10-27T18:14:42.833Z
+updated: 2024-11-03T03:46:18.133Z
 tags: 
   - screen-recording
   - ai video
@@ -41,9 +41,6 @@ If you are interested in using this fantastic tool, the following article will c
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
 The in-built whiteboard can be comfortably used in Google Meet on a laptop. You do not need any extension or third-party application to use a whiteboard. Moreover, you can create a new whiteboard or use the one you have already created. You can access the already saved whiteboard from Google Drive. If you want to excel in the art of creating a whiteboard on Google Meet, we have summarized the process in simple steps.
@@ -59,8 +56,12 @@ Open Google Meet and click **new meeting** to host a meeting.
 Click on the **three dots** at the bottom of your screen and select **the whiteboard** at the top of the menu list.
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Create Whiteboard**
@@ -70,8 +71,19 @@ Click on the **start a new whiteboard** option**.**
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -92,9 +104,6 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -112,13 +121,14 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
 Once you end up in a meeting, the Jamboard activity can be shared in a PDF file. This can help you recall the discussion during a class or seminar. Similarly, the saved Jams can also help you narrow down random ideas generated after brainstorming. Sounds Interesting? Learn to save and send Jams as PDF by following the easy steps.
@@ -151,11 +161,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-copyright-woes-instant-video-ban/"><u>[New] 2024 Approved Copyright Woes Instant Video Ban</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-game-line-up-best-7-fps-classics/"><u>[Updated] 2024 Approved Elite Game Line-Up Best 7 FPS Classics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-insiders-techniques-for-google-voice-recordings/"><u>[Updated] 2024 Approved The Insider's Techniques for Google Voice Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-group-of-12-tools-for-endless-video-capture-for-2024/"><u>[Updated] Elite Group of 12 Tools for Endless Video Capture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-and-easy-caption-crafting-for-engaging-fb-video-posts/"><u>[Updated] Quick and Easy Caption Crafting for Engaging FB Video Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-swiftly-remove-live-videos-on-social-platforms-for-2024/"><u>[Updated] Swiftly Remove Live Videos on Social Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-zoom-webinar-mastery-a-novices-step-by-step-tutorial/"><u>[Updated] Zoom Webinar Mastery A Novice's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-4-unrooted-ways-to-log-internal-android-audio/"><u>2024 Approved 4 Unrooted Ways to Log Internal Android Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-conversational-sessions-important-for-ais-knowledge-enhancement/"><u>Are Conversational Sessions Important for AI's Knowledge Enhancement?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-the-perfect-sound-for-stories-and-reels-on-instagram-for-2024/"><u>Crafting the Perfect Sound for Stories & Reels on Instagram for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/dissecting-apowersoft-an-in-depth-screen-recorder-study-for-2024/"><u>Dissecting Apowersoft An In-Depth Screen Recorder Study for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-drivers-for-windows-operating-systems-windows-1078/"><u>Get the Latest NVIDIA Drivers for Windows Operating Systems (Windows 10/7/8)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-audience-take-movaviscreenvisions-new-release/"><u>In 2024, Audience Take MovaviScreenVision's New Release</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/innovative-steps-to-preserve-voice-memos-of-whatsapp-calls-for-2024/"><u>Innovative Steps to Preserve Voice Memos of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-safe-to-rely-on-ai-assistants-such-as-chatgpt-and-bard-for-managing-your-finances/"><u>Is It Safe to Rely on AI Assistants Such as ChatGPT and Bard for Managing Your Finances?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigate-school-with-ease-discovering-the-9-key-technological-essentials-every-student-requires/"><u>Navigate School with Ease: Discovering the 9 Key Technological Essentials Every Student Requires</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+</ul></div>
+

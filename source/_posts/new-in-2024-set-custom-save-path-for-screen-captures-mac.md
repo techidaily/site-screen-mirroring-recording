@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Set Custom Save Path for Screen Captures (Mac)"
-date: 2024-08-24T11:50:09.337Z
-updated: 2024-08-25T11:50:09.337Z
+date: 2024-10-29T02:41:24.140Z
+updated: 2024-11-02T17:37:28.593Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,6 +69,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -73,9 +87,12 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -89,15 +106,17 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +124,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-leap-into-broadcasting-effortless-setup-for-your-mobile-youtube-ventures/"><u>[New] 2024 Approved Leap Into Broadcasting Effortless Setup for Your Mobile YouTube Ventures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-tactical-approach-to-effortless-ipad-screen-records/"><u>[New] 2024 Approved Tactical Approach to Effortless iPad Screen Records</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-tier-tips-for-naming-your-podcast-right-plus-inspiring-title-ideas-countdown/"><u>[New] 2024 Approved Top-Tier Tips for Naming Your Podcast Right + Inspiring Title Ideas Countdown</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-video-editing-expert-use-of-obs-on-mobile-devices-for-2024/"><u>[New] Elevate Video Editing Expert Use of OBS on Mobile Devices for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-make-a-favorite-tiktok-sound-your-caller-id-for-2024/"><u>[New] How to Make a Favorite TikTok Sound Your Caller ID for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-six-visionaries-revolutionizing-the-nft-art-scene/"><u>[New] Six Visionaries Revolutionizing the NFT Art Scene</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-leading-webcam-models-enhancing-twitchs-viewer-experience/"><u>[Updated] 2024 Approved Leading Webcam Models Enhancing Twitch's Viewer Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-challenge-away-from-grand-theft/"><u>[Updated] 2024 Approved The Ultimate Challenge Away From Grand Theft</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-clarity-powerpoint-and-webcam-synergy-for-2024/"><u>[Updated] Capturing Clarity PowerPoint and Webcam Synergy for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-optimal-storage-solution-for-sony-a7c-cameras/"><u>[Updated] In 2024, Optimal Storage Solution for Sony A7C Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-win10-gamers-ultimate-guide-to-screen-recordings/"><u>[Updated] In 2024, Win10 Gamers' Ultimate Guide to Screen Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-winning-the-game-of-tv-recording-on-a-budget-pc/"><u>[Updated] In 2024, Winning the Game of TV Recording on a Budget PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-picks-for-classroom-audio/"><u>2024 Approved Prime Picks for Classroom Audio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-iphone-camera-settings-simplified/"><u>Expert iPhone Camera Settings Simplified</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-mpow-bluetooth-software-for-your-pc-supports-windows-11-8-and-7/"><u>Get the Newest MPOW Bluetooth Software for Your PC: Supports Windows 11, 8, and 7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-streamline-your-content-top-8-youtube-to-avi-solutions/"><u>In 2024, Streamline Your Content Top 8 YouTube-to-AVI Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-videocapture-analysis-hub/"><u>In 2024, VideoCapture Analysis Hub</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/must-know-youtube-directives-for-successful-channels-for-2024/"><u>Must-Know YouTube Directives for Successful Channels for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/outstanding-non-zoom-video-conferencing-tech/"><u>Outstanding Non-Zoom Video Conferencing Tech</u></a></li>
+</ul></div>
+

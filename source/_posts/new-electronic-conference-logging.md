@@ -1,7 +1,7 @@
 ---
 title: "[New] Electronic Conference Logging"
-date: 2024-08-24T11:52:51.260Z
-updated: 2024-08-25T11:52:51.260Z
+date: 2024-11-02T01:43:24.433Z
+updated: 2024-11-02T19:47:44.857Z
 tags: 
   - screen-recording
   - ai video
@@ -62,9 +62,23 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -74,11 +88,25 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -92,10 +120,6 @@ Following these simple steps will help you produce insightful and well-rounded w
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -104,16 +128,11 @@ Making sure that all the settings are adjusted properly and that the amount of b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -121,3 +140,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-critical-look-at-itop-for-tech-enthusiasts/"><u>[New] In 2024, A Critical Look at ITop for Tech Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[New] Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixelpreserve-a-comprehensive-screen-record-review-for-2024/"><u>[Updated] 'PixelPreserve' A Comprehensive Screen Record Review for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-cutting-edge-tips-for-elite-instagram-image-editing/"><u>[Updated] Cutting-Edge Tips for Elite Instagram Image Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-demystifying-copyright-policies-for-your-instagram-playlist-for-2024/"><u>[Updated] Demystifying Copyright Policies for Your Instagram Playlist for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-your-broadcast-game-4-innovative-methods-from-desktop-users-on-tiktok/"><u>[Updated] Elevate Your Broadcast Game 4 Innovative Methods From Desktop Users on TikTok</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-minimal-shake-cam-for-dynamic-shooting/"><u>2024 Approved Minimal-Shake Cam for Dynamic Shooting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamer-struggle-navigating-the-waters-between-obs-and-twitch/"><u>2024 Approved Streamer Struggle Navigating the Waters Between OBS & Twitch</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/explore-all-features-of-movavi-software-enjoy-unrestricted-usage/"><u>Explore All Features of Movavi Software - Enjoy Unrestricted Usage!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-and-open-source-video-capturing-tools/"><u>Free & Open Source Video Capturing Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-motorola-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Unlock Without Password</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-images-a-beginners-guide-to-the-ken-burns-effect/"><u>New Transform Your Images A Beginners Guide to the Ken Burns Effect</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-tips-streamline-screen-capture-on-dell-systems-for-2024/"><u>Quick Tips Streamline Screen Capture on Dell Systems for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-recorder-pro-for-windows-11-for-2024/"><u>Screen Recorder Pro for Windows 11 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-selection-of-top-10-no-cost-conference-software/"><u>Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize the Save Spot of Mac Images"
-date: 2024-10-21T02:34:55.622Z
-updated: 2024-10-28T02:22:47.037Z
+date: 2024-10-26T21:40:59.910Z
+updated: 2024-11-03T01:36:54.977Z
 tags: 
   - screen-recording
   - ai video
@@ -48,18 +48,24 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -70,10 +76,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +93,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +112,16 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,24 +139,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastery-in-saving-lesson-content/"><u>[New] 2024 Approved Mastery in Saving Lesson Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pixelpilot-review-the-years-leading-screen-capture-tech/"><u>[New] 2024 Approved PixelPilot Review The Year's Leading Screen Capture Tech</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-master-the-art-of-recording-10-best-no-cost-mac-software/"><u>[Updated] 2024 Approved Master the Art of Recording 10 Best No-Cost Mac Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-dissecting-splitcams-superiority-as-a-recorder/"><u>[Updated] Dissecting SplitCam’s Superiority as a Recorder</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-efficient-methods-for-sharing-powerful-ppt-in-google-meet-sessions-for-2024/"><u>[Updated] Efficient Methods for Sharing Powerful PPT in Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-undercover-echo-enthusiasts-6-hidden-voice-capture-apps/"><u>[Updated] In 2024, Undercover Echo Enthusiasts 6 Hidden Voice Capture Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-video-capture-without-extras-for-2024/"><u>[Updated] Premium Video Capture Without Extras for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations/"><u>2024 Approved Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-your-usb-30-ethernet-controllers-latest-drivers-on-a-windows-machine/"><u>How to Get Your USB 3.0 Ethernet Controller's Latest Drivers on a Windows Machine</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-se-2020-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From iPhone SE (2020) Lock Screen</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-film-capture-on-mac-pc-and-smartphones/"><u>In 2024, Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-memory-allocation-elevating-minecraft-experience/"><u>Mastering Memory Allocation Elevating Minecraft Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mediatek-enters-the-fray-preparing-arm-chips-for-laptops-running-windows-after-qualcomm-deal-concludes/"><u>MediaTek Enters the Fray: Preparing ARM Chips for Laptops Running Windows After Qualcomm Deal Concludes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs/"><u>Optimize Media Storage Tips & Tricks for .mov on Windows PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-issues-keeping-fortnite-runs-smooth-without-interruption/"><u>Overcoming Common Issues: Keeping Fortnite Runs Smooth Without Interruption</u></a></li>
-<li><a href="https://windows11.techidaily.com/steady-app-placement-tips-for-windows-task-manager/"><u>Steady App Placement Tips for Windows Task Manager</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/switch-to-shine-with-premium-capture-cards/"><u>Switch to Shine with Premium Capture Cards</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-simple-smooth-gaming-video-editors-for-starters-for-2024/"><u>Unveiling Simple, Smooth Gaming Video Editors for Starters for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-humorhub-design-your-own-jokes-and-gifs/"><u>[New] 2024 Approved HumorHub Design Your Own Jokes and Gifs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quickquip-quarterfreeze-media/"><u>[New] 2024 Approved QuickQuip QuarterFreeze Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-encapsulate-powerpoint-visuals-in-media/"><u>[New] In 2024, Encapsulate PowerPoint Visuals in Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamlining-your-zoom-collaboration-calendar/"><u>[New] In 2024, Streamlining Your Zoom Collaboration Calendar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovative-solutions-made-simple-using-ez-grabber-for-2024/"><u>[New] Innovative Solutions Made Simple Using EZ Grabber for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-overcoming-connectivity-issues-in-remote-recording-for-2024/"><u>[New] Overcoming Connectivity Issues in Remote Recording for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfecting-your-video-game-broadcast-the-obs-way/"><u>[Updated] 2024 Approved Perfecting Your Video Game Broadcast The OBS Way</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-proven-methods-to-infuse-engaging-dialogue-in-videos/"><u>[Updated] 2024 Approved Proven Methods to Infuse Engaging Dialogue in Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers/"><u>[Updated] 2024 Approved The Art of 360-Degree Video 9 Must-Have Tips for Filmmakers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10-for-2024/"><u>[Updated] Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-recording-mastery-utilizing-gameye-and-more/"><u>[Updated] Game Recording Mastery Utilizing GamEye and More</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-video-file-processing-movs-in-windows-11-edition-for-2024/"><u>[Updated] Mastering Video File Processing MOVs in Windows 11 Edition for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-perfect-memos-through-sound-waves/"><u>2024 Approved Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-tips-for-sharing-content-on-instagram/"><u>2024 Approved Tips for Sharing Content on Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-copyright-landscape-decoded-a-complete-analysis/"><u>2024 Approved YouTube's Copyright Landscape Decoded A Complete Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-90-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-txt-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .txt file Document</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-cross-platform-connection-masterclass-instagramfacebook/"><u>In 2024, Cross-Platform Connection Masterclass Instagram/Facebook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-g54-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola G54 5G Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

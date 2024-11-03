@@ -1,7 +1,7 @@
 ---
 title: "[New] Methods for Amending Silent OBS Recordings"
-date: 2024-10-24T03:18:13.305Z
-updated: 2024-10-27T16:18:02.814Z
+date: 2024-10-26T18:39:01.975Z
+updated: 2024-11-02T22:06:32.168Z
 tags: 
   - screen-recording
   - ai video
@@ -35,11 +35,31 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -52,17 +72,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -86,10 +99,16 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -112,10 +131,10 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -127,13 +146,6 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -152,10 +164,10 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -180,20 +192,18 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-5-second-lapses-recorder-top-pick/"><u>[New] Best 5-Second Lapses Recorder - Top Pick</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-list-of-ps2-games-for-ios-emulation/"><u>[New] In 2024, The Ultimate List of PS2 Games for iOS Emulation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy-for-2024/"><u>[New] Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-speech-gatherers-in-educational-environments/"><u>[New] Leading Speech Gatherers in Educational Environments</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-record-and-share-every-victory-in-obs/"><u>[Updated] 2024 Approved Record & Share Every Victory in OBS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-ipads-full-potential-a-timelapse-journey-begins-here/"><u>[Updated] 2024 Approved Unveiling iPad's Full Potential A Timelapse Journey Begins Here</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-speed-with-premium-controller-add-ons/"><u>[Updated] In 2024, Mastering Speed with Premium Controller Add-Ons</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-smooth-operations-screen-recording-basics-for-lenovo-users/"><u>[Updated] In 2024, Smooth Operations Screen Recording Basics for Lenovo Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-pinnacle-posts-on-reddit-celebrating-the-most-popular-10/"><u>2024 Approved Pinnacle Posts on Reddit Celebrating the Most Popular (10)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>2024 Approved Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-asus-proart-review-pushing-boundaries-in-color-accuracy/"><u>In 2024, ASUS ProArt Review Pushing Boundaries in Color Accuracy</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-engagement-top-5-compelling-book-trailers/"><u>In 2024, Unlocking Engagement Top 5 Compelling Book Trailers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/leveraging-likes-a-guide-to-profitable-vimeo-marketing-for-2024/"><u>Leveraging Likes A Guide to Profitable Vimeo Marketing for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-itel-p40plus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Itel P40+ Phones</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[New] 2024 Approved Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery/"><u>[New] 2024 Approved Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-integrating-websites-into-your-instagram-presence/"><u>[New] Integrating Websites Into Your Instagram Presence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-chronicles-of-puzzles-vs-endless-adventure/"><u>[Updated] 2024 Approved Chronicles of Puzzles Vs. Endless Adventure</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-spectacular-video-connections-quest/"><u>[Updated] In 2024, Spectacular Video Connections Quest</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-devices-for-google-meet-session-for-2024/"><u>[Updated] Navigating Devices for Google Meet Session for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-x-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone X If Youve Tried Everything</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-13-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 13 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x6-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X6 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-with-tom-a-deep-dive-into-electronics-and-hardware/"><u>Mastering Tech with Tom - A Deep Dive Into Electronics and Hardware</u></a></li>
+<li><a href="https://fox-making.techidaily.com/schritt-fur-schritt-anleitung-loschte-datei-wiederherstellen-von-usb-stick-auf-windows-1011-systemen/"><u>Schritt-Für-Schritt-Anleitung: Löschte Datei Wiederherstellen Von USB-Stick Auf Windows 10/11 Systemen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-amazon-bargains-of-september-2024-exclusive-offers-featured/"><u>Top Rated Amazon Bargains of September 2024 - Exclusive Offers Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reports-new-cross-border-financial-accord-amongst-5-southeast-asian-nations/"><u>ZDNet Reports: New Cross-Border Financial Accord Amongst 5 Southeast Asian Nations</u></a></li>
 </ul></div>
 

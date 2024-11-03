@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Unlock Full Participant Grid Display in Meet\""
-date: 2024-08-17T01:36:31.030Z
-updated: 2024-08-18T01:36:31.030Z
+date: 2024-10-31T00:18:14.700Z
+updated: 2024-11-03T02:55:26.122Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
@@ -66,8 +73,12 @@ Google Meet apps don't support the change layout option. Thus, there are two app
 Click on the **three dots** and enable the **desktop site** option from the menu.
 
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
@@ -75,13 +86,21 @@ Click on the **three dots** and enable the **desktop site** option from the menu
 Click on the **three dots** at the bottom right corner and select **change layout.**
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
@@ -99,9 +118,6 @@ Launch Chrome browser and access **chrome.google.com**. Click on **features** an
 Tap **add an extension** in the pop-up confirmation message. The installed extension will appear in the extension bar.
 
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **Step 2 : Create or join a meeting room in a Google Meet**
 
@@ -131,19 +147,19 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3 : Check the working in Google Meet**
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Frequently Asked Questions About See Everyone on Google Meet
 
 #### 1\. How do I see everyone on Google Meet mobile?
@@ -163,9 +179,6 @@ If you think about whether one can record a Google Meet session in Grid view, th
 Sometimes, it becomes essential to make all participants visible in the grid. For instance, if you have been asked to invigilate students in an online test, monitoring the activity of all participants becomes your job duty. Like other conferencing apps, Google Meet offers a grid view to see participants in your window. Alongside auto, slide bar, and spotlight, Google Meet facilitates the users with the tiled view. In this article, we have gathered sufficient information on how to enable grid view in Google Meet. Not just on desktop, the article mentions configuring the layout on mobile devices as well.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -173,11 +186,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-capture-and-share-the-new-era-of-screen-recorders-on-spring/"><u>[New] 2024 Approved Capture and Share The New Era of Screen Recorders on Spring</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovating-with-obs-studio-on-android-systems/"><u>[New] 2024 Approved Innovating with OBS Studio on Android Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-advanced-capture-strategies-for-roblox-games-mac-edition-for-2024/"><u>[New] Advanced Capture Strategies for Roblox Games (Mac Edition) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-guide-to-saving-tv-broadcasts-online/"><u>[New] Essential Guide to Saving TV Broadcasts Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capturesocial-fb-videos-to-files/"><u>[Updated] In 2024, CaptureSocial FB Videos to Files</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-high-speed-visual-snapshot-and-voice-commentary-feature/"><u>[Updated] In 2024, High-Speed Visual Snapshot & Voice Commentary Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-quickcam-plus-audio-guide-integration-tool/"><u>[Updated] In 2024, QuickCam + Audio Guide Integration Tool</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-moba-experiences-on-your-android-device-for-2024/"><u>[Updated] Premier MOBA Experiences on Your Android Device for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-full-analysis-of-camstudio-screen-capture-tech/"><u>2024 Approved Full Analysis of CamStudio Screen Capture Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-series-to-movies-delving-deep-into-the-world-of-netflix-streaming/"><u>From Series to Movies: Delving Deep Into the World of Netflix Streaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722979124601-get-the-new-canon-pixma-ts322-driver-downloads-here/"><u>Get the New Canon PIXMA TS322 Driver Downloads Here</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y100-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y100 Phone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-add-a-professional-touch-youtube-video-image-crafting/"><u>In 2024, Add a Professional Touch YouTube Video Image Crafting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mapmyride-features-assessment-a-thorough-performance-check-for-fitness-enthusiasts/"><u>MapMyRide Features Assessment: A Thorough Performance Check For Fitness Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/topping-out-chatgpt-tokens-possibilities/"><u>Topping Out ChatGPT Tokens: Possibilities?</u></a></li>
+</ul></div>
+

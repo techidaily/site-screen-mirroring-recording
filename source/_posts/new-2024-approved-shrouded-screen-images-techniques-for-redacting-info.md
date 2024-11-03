@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Shrouded Screen Images  Techniques for Redacting Info\""
-date: 2024-08-17T01:34:19.773Z
-updated: 2024-08-18T01:34:19.773Z
+date: 2024-10-31T18:32:47.860Z
+updated: 2024-11-02T20:02:43.893Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Besides being one of the best screen capturing computer programs for beginners i
 
 ![Filmora Text Effects](https://images.wondershare.com/filmora/guide/setup-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmora Scrn is perfectly equipped for recording all types of PIP videos that need to capture desktop activities while also **recording the footage from a webcam**. YouTubers and all other users of this software can feature themselves in the video. Filmora Scrn lets you capture videos with **frame rates that go from 15 fps to 120 fps**, and it also enables users to **adjust the size of the screen** area they want to capture.
 
 Recording voice-over during the recording session, adding markers, or using HotKeys to start or pause recording sessions are just a few among the many amazing features Filmora Scrn offers.
@@ -67,9 +74,6 @@ Recording voice-over during the recording session, adding markers, or using HotK
 #### 3. Edit Video Footage with Creative Effects
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
@@ -82,8 +86,12 @@ There are two extraordinary blur effects we must mention here, one is called Hor
 The original frame is shown below, and I want to blur and hide these two sensitive pictures (in red mark).
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
@@ -91,15 +99,16 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -121,8 +130,12 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 #### Step 3. Tweaking the Effect's Settings
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
@@ -136,9 +149,6 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -146,11 +156,28 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-money-maker-on-youtube/"><u>[New] 2024 Approved From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-screen-mastery-on-youtube-ideas-unleashed/"><u>[New] 2024 Approved Green Screen Mastery on YouTube - Ideas Unleashed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-androids-top-10-moba-gaming-spectacles/"><u>[New] Android's Top 10 MOBA Gaming Spectacles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-9-puzzle-and-adventure-titles-for-unplugged-android-gaming/"><u>[Updated] In 2024, Essential 9 Puzzle & Adventure Titles for Unplugged Android Gaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-visionary-tools-our-choice-of-top-11-bridging-cams-for-2024/"><u>[Updated] Ultimate Visionary Tools Our Choice of Top 11 Bridging Cams for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-how-to-convert-your-ehow-videos-into-mp4-format-on-pc-and-mac-with-ehow-downloader/"><u>1. How to Convert Your eHow Videos Into MP4 Format on PC & MAC with EHow Downloader</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-top-rated-wi-fi-mesh-network-kits-reviewed/"><u>2024'S Top-Rated Wi-Fi Mesh Network Kits Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/6-ways-to-record-mov-files-on-windows-10/"><u>6 Ways to Record .mov Files on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-rumors-surrounding-apples-electric-vehicle-uncover-potential-price-points-and-features/"><u>Exclusive Rumors Surrounding Apple's Electric Vehicle: Uncover Potential Price Points and Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-farm-games-for-social-play-with-peers/"><u>In 2024, Top Farm Games for Social Play with Peers</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-xc0f1103f-flaw-with-nvidias-windows-software/"><u>Overcoming XC0F1103F Flaw with Nvidia's Windows Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/snapshotpro-v2021-ultimate-edition/"><u>SnapshotPro V2021 - Ultimate Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/by-step-guide-for-earning-from-every-youtube-short-for-2024/"><u>Step-by-Step Guide for Earning From Every YouTube Short for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-hp-laptop-screen-recording-manual-for-2024/"><u>The Complete HP Laptop Screen Recording Manual for 2024</u></a></li>
+</ul></div>
+

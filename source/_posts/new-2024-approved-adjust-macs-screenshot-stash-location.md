@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Adjust Mac's Screenshot Stash Location\""
-date: 2024-08-17T01:34:22.193Z
-updated: 2024-08-18T01:34:22.193Z
+date: 2024-10-31T01:02:57.016Z
+updated: 2024-11-03T00:12:52.853Z
 tags: 
   - screen-recording
   - ai video
@@ -49,15 +49,23 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -67,9 +75,12 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -82,9 +93,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -96,8 +104,12 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -106,11 +118,27 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-fundamentals-of-screen-capture-with-a-dell-device/"><u>[New] 2024 Approved The Fundamentals of Screen Capture with a Dell Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-effective-screenrecording-practices-for-professionals-for-2024/"><u>[New] Effective ScreenRecording Practices for Professionals for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-get-and-add-animated-emojis-on-discord-for-2024/"><u>[Updated] How to Get and Add Animated Emojis on Discord for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-insightful-ways-of-gathering-photographic-elements-for-2024/"><u>[Updated] Insightful Ways of Gathering Photographic Elements for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-crystal-clear-viewing-evaluating-the-best-8k-monitors/"><u>2024 Approved Crystal Clear Viewing Evaluating the Best 8K Monitors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-complete-overhaul-of-facetune-app/"><u>In 2024, In-Depth Analysis Complete Overhaul of Facetune App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-ephemeral-fades-in-digital-recording-software-audacity/"><u>In 2024, Perfecting Ephemeral Fades in Digital Recording Software Audacity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pixelprofilers-picks-top-tools-for-your-screen-snapping-needs/"><u>In 2024, PixelProfiler's Picks Top Tools for Your Screen Snapping Needs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-logging-digital-sound-from-computers/"><u>Mastering the Art of Logging Digital Sound From Computers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet-for-2024/"><u>Perfect Peace Mastering the Art of Muting Individuals on GoMeet for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-breakdown-whats-included-with-your-new-nintendo-switch/"><u>The Complete Breakdown: What's Included with Your New Nintendo Switch?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-ai-instruments-every-business-leader-needs/"><u>Top 5 AI Instruments Every Business Leader Needs</u></a></li>
+</ul></div>
+

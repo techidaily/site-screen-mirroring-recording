@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9\""
-date: 2024-10-25T22:03:11.080Z
-updated: 2024-10-28T00:39:07.940Z
+date: 2024-10-27T21:15:23.269Z
+updated: 2024-11-02T23:14:13.842Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,16 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,16 +115,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevating-virtual-reality-premium-rift-player-analysis/"><u>[New] 2024 Approved Elevating Virtual Reality Premium Rift Player Analysis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-infinite-twitterscape-embracing-the-hd-experience/"><u>[New] Infinite Twitterscape - Embracing the HD Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-10-best-farming-games/"><u>[Updated] 2024 Approved Top 10 Best Farming Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-video-management-made-easy-the-best-practices-in-mov-on-win-11/"><u>[Updated] 2024 Approved Video Management Made Easy The Best Practices in .MOV on Win 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-frame-by-frame-focus-high-quality-video-devices/"><u>[Updated] In 2024, Frame by Frame Focus High-Quality Video Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-full-unpacked-experience-of-the-logitech-4k-webcam/"><u>[Updated] The Full Unpacked Experience of the Logitech 4K Webcam</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-potential-snapchat-zooming-tips/"><u>[Updated] Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-concept-to-creation-top-10-podcast-design-principles/"><u>2024 Approved From Concept to Creation Top 10 Podcast Design Principles</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-seamless-art-of-game-recording-on-sonys-playstation-4/"><u>2024 Approved The Seamless Art of Game Recording on Sony's PlayStation 4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/distinguishing-diverse-ai-usage-scenarios/"><u>Distinguishing Diverse AI Usage Scenarios</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-seamless-shift-your-path-to-kinemaster-expertise/"><u>In 2024, The Seamless Shift Your Path to Kinemaster Expertise</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-accessing-facebook-videos-via-apple-tv-essential-tips/"><u>[New] In 2024, Accessing Facebook Videos via Apple TV Essential Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-delve-into-youtube-metrics-using-the-power-of-social-blade/"><u>[New] In 2024, Delve Into YouTube Metrics Using the Power of Social Blade</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-finest-6-video-snaggers-for-mac-users-now/"><u>[New] In 2024, The Finest 6 Video Snaggers for Mac Users Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-gifs-your-step-by-step-meme-making-journey/"><u>[New] Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-record-console-gameplay-on-computer/"><u>[Updated] 2024 Approved How to Record Console Gameplay on Computer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-guide-to-using-your-phone-as-an-alternative-camera-for-2024/"><u>[Updated] Easy Guide to Using Your Phone as an Alternative Camera for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-insights-capturing-the-essence-of-online-meetings/"><u>[Updated] In 2024, Expert Insights Capturing the Essence of Online Meetings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>[Updated] Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
+<li><a href="https://facebook.techidaily.com/effortless-spot-sharing-on-facebook-chatrooms/"><u>Effortless Spot Sharing on Facebook Chatrooms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-8-solutions-for-not-found-in-windows-os/"><u>Top 8 Solutions for 'Not Found' In Windows OS</u></a></li>
 </ul></div>
 

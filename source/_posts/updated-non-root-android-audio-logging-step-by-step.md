@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Non-Root Android Audio Logging, Step by Step\""
-date: 2024-08-17T01:37:11.896Z
-updated: 2024-08-18T01:37:11.896Z
+date: 2024-11-02T00:40:38.601Z
+updated: 2024-11-03T03:16:57.735Z
 tags: 
   - screen-recording
   - ai video
@@ -57,17 +57,24 @@ For macOS 10.12 or later
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 1: Record system internal audio with Android screen recording apps
 
 For a long time, the only way to record the internal audio with an Android Smartphone was through the device's external microphone. This method of recording audio had many downsides, including poor audio quality and capturing of distracting background noises.
 
 There are several different ways in which you can record system audio and avoid producing screen recordings with terrible sound. Each of the methods includes using third-party apps or screen capturing devices, since Android Lollipop and later versions of the Android OS, still don't offer an effective solution to this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Use Mobizen Screen Recorder with Internal Audio App to Record the internal audio on Android
 
 Recently, RSUPPORT company developed the [Mobizen Screen Recorder](https://play.google.com/store/apps/details?id=com.rsupport.mvagent) app that is equipped with all the essential screen recording tools. At the same time, it also allows its users to record only sound produced by their Smartphones during the screen recording session. You can download this app for free on the Google Play store, but if you choose to install it on your Android phone, you should arm yourself with patience since this app contains ads.
@@ -77,8 +84,12 @@ After you've successfully installed Mobizen Screen Recorder on your Android Smar
 The result you will get is the crystal clear audio in your screen recording, but Mobizen app performs well **only with Samsung and LG Android phones**, so if you have an Android device from some other manufacturer, this app may underperform.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Record the internal audio from a microphone on Android with the AZ Screen Recorder
 
 If you choose to utilize this method of recording internal audio, make sure that the room where your recording is completely silent since the microphone you will be using can pick up external sounds as well as internal audio.
@@ -89,14 +100,18 @@ At this point, you should exit the app, and click on the AZ bubble on the side o
 
 In order to extract the audio file, you'll have to transfer the screen recording you made with AZ Screen Recorder to a PC and perform this action with a video editing software. You may have to create several screen recordings of your Smartphone's screen before you get the perfect audio because the device's microphone is going to capture all sound it can pick up, both external and internal.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Record Android internal audio with a capture card
 
 Capture cards are much more than screen recorders since they mostly serve as a bridge between a PC and the device whose screen you are trying to capture. Professionals often use capture cards, despite their prices, simply because they enable them to record high-quality screen recordings, create live streams, and record internal audio from any device they are connected to, including Android Smartphones.
 
 ![Record Android games on PC with capture card](https://images.wondershare.com/filmora/article-images/what-is-capture-card.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Most capture cards are equipped with their own screen recording software, so the process of adjusting the video and audio settings depends on the capture card you have. If you have an [Elgato](https://www.elgato.com/en/gaming/downloads) Capture Card you can have complete control over the audio recording process by using the Elgato Sound Capture feature. This powerful tool will enable you to mix sounds from multiple sources, select which microphones will be used during a live stream and adjust the music and sound volumes. However, if you want to use the Elgato, you need to make sure that your PC is compatible with this capture card, and you'll have to connect your Android Smartphone with this device.
 
@@ -117,14 +132,14 @@ This method of recording internal audio on an Android device is best used if you
 That’s the way that we figured out about how to record the internal sound on your Android phones and tablets. Leave a comment below if you have a good solution too.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,11 +148,29 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expertly-picked-top-10-windows-11-cam-recorders-for-2024/"><u>[New] Expertly Picked Top 10 Windows 11 Cam Recorders for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-google-meet-conversation-blueprint-for-success-for-2024/"><u>[New] The Google Meet Conversation Blueprint for Success for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-resource-list-of-3d-fonts-online/"><u>[New] Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-10-best-gba-emulators-for-android-you-can-find/"><u>[Updated] 2024 Approved 10 Best GBA Emulators for Android You Can Find</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-tv-essentials-step-by-step-upload-guide/"><u>[Updated] In 2024, Instagram TV Essentials Step-by-Step Upload Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-posts-instagram-video-edits-with-borders/"><u>[Updated] In 2024, Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-infographic-analysis-the-hottest-2023-trends-for-2024/"><u>[Updated] Infographic Analysis The Hottest 2023 Trends for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-saga-storytellers-syndicate-quintessential-quartet/"><u>[Updated] Saga Storytellers Syndicate - Quintessential Quartet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-beginners-blueprint-for-yourwebcamrecord/"><u>2024 Approved Beginner's Blueprint for YourWebcamRecord</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/diving-into-zoom-breakout-room-setups-for-2024/"><u>Diving Into Zoom Breakout Room Setups for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-your-wifi-experience-with-the-linksys-ea9500-in-depth-performance-insights-and-review/"><u>Elevate Your WiFi Experience with the Linksys EA9500 – In-Depth Performance Insights and Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/"><u>In 2024, Expert's Guide to the Best iPad Voice Recording Tools #3</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/practical-steps-to-remove-the-cluttered-background-in-figma-for-2024/"><u>Practical Steps to Remove the Cluttered Background in Figma for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y02T | Dr.fone</u></a></li>
+</ul></div>
+
