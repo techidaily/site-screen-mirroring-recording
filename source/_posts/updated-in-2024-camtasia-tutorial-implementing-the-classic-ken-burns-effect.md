@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Camtasia Tutorial  Implementing the Classic Ken Burns Effect\""
-date: 2024-10-27T05:56:27.880Z
-updated: 2024-10-28T08:12:10.211Z
+date: 2024-11-06T20:10:15.899Z
+updated: 2024-11-11T19:06:58.410Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,24 +115,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-list-nintendo-switch-fighter-titles-max-156/"><u>[New] A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pro-level-snap-tech-free-from-any-delaying-hiccups/"><u>[New] In 2024, Pro-Level Snap Tech Free From Any Delaying Hiccups</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-screencast-handbook-adept-techniques-and-tools-for-2024/"><u>[New] Ultimate Screencast Handbook Adept Techniques & Tools for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-unveiling-the-secrets-of-a-fresh-twitter-account/"><u>[New] Unveiling the Secrets of a Fresh Twitter Account</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-your-step-by-step-guide-to-successful-lol-streaming/"><u>[New] Your Step-by-Step Guide to Successful LOL Streaming</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-upload-and-share-videos-on-twitter-made-easy/"><u>[Updated] 2024 Approved Upload & Share Videos on Twitter Made Easy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-clearview-studio-windows-1011-edition/"><u>[Updated] ClearView Studio Windows 10/11 Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-covert-calls-chroniclers-top-secret-audio-gadgets-androidios/"><u>[Updated] Covert Calls Chroniclers Top-Secret Audio Gadgets (Android/iOS)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-has-your-back-shorts-now-showing-up/"><u>[Updated] In 2024, YouTube Has Your Back - Shorts Now Showing Up</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultra-hd-monitors-with-superior-video-capture-capabilities/"><u>[Updated] Ultra HD Monitors with Superior Video Capture Capabilities</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-way-to-record-podcast-remotely/"><u>Best Way to Record Podcast Remotely</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-lava-blaze-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Blaze Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Motorola Moto G Stylus (2023).</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-magic-6-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor Magic 6 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-code-synthesis-a-tutorial-on-deploying-codegpt-in-vs-code/"><u>Mastering Code Synthesis: A Tutorial on Deploying CodeGPT in VS Code</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/record-video-directly-from-webcam-using-vlc-media-player-for-2024/"><u>Record Video Directly From Webcam Using VLC Media Player for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-impact-of-memory-velocity-and-response-times-on-computer-performance/"><u>Understanding the Impact of Memory Velocity and Response Times on Computer Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-voice-recording-access-review-and-evaluate/"><u>[New] In 2024, Voice Recording Access, Review & Evaluate</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tunekeeper-trackdown-downloads-and-discussion-for-2024/"><u>[New] TuneKeeper Trackdown Downloads & Discussion for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-8-android-group-calls-over-4-users/"><u>[Updated] 2024 Approved Essential 8 Android Group Calls Over 4 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-printer-frustration-in-the-latest-os-win11-guide/"><u>Avoid Printer Frustration in the Latest OS: Win11 Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-impressive-the-4-distinct-advantages-of-using-claude-ai-instead-of-chatgpt/"><u>Beyond Impressive: The 4 Distinct Advantages of Using Claude AI Instead of ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-sapphire-graphics-driver-for-windows-free-updates/"><u>Download and Install Sapphire Graphics Driver for Windows - Free Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-malfunctioning-dell-usb-port-a-comprehensive-guide/"><u>How to Fix a Malfunctioning Dell USB Port - A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-news.techidaily.com/leverage-the-power-of-cookiebot-for-optimized-user-experience-and-seo-success/"><u>Leverage the Power of Cookiebot for Optimized User Experience & SEO Success!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-usbasp-driver-snags-in-windows-os-landscapes/"><u>Overcoming USBasp Driver Snags in Windows OS Landscapes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/prime-racing-game-selection-top-five/"><u>Prime Racing Game Selection Top Five</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-6-core-features-that-make-games-intriguing/"><u>The 6 Core Features That Make Games Intriguing</u></a></li>
 </ul></div>
 

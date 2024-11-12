@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-10-30T19:00:14.436Z
-updated: 2024-11-03T01:07:35.013Z
+date: 2024-11-08T01:57:30.870Z
+updated: 2024-11-11T22:41:45.809Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,15 +115,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-littlecapture-reviews-on-small-recorder-apps/"><u>[New] In 2024, LittleCapture Reviews on Small Recorder Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>[New] In 2024, The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[Updated] In 2024, Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pinnacle-10-royale-struggle-games/"><u>2024 Approved Pinnacle 10 Royale Struggle Games</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721461109203-fix-aol-email-problems-on-iphones-with-these-6-easy-solutions/"><u>Fix AOL Email Problems on iPhones with These 6 Easy Solutions!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change OnePlus Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Phone that is Locked?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-motorola-g54-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Motorola G54 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sail-through-history-with-assassins-creed-valhalla-a-captivating-viking-chronicle-set-amidst-castles-and-kingdoms/"><u>Sail Through History with 'Assassin's Creed: Valhalla' - A Captivating Viking Chronicle Set Amidst Castles & Kingdoms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-reno-8t-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 8T 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-complete-playbook-to-conquer-spotify-advertising-for-2024/"><u>[New] The Complete Playbook to Conquer Spotify Advertising for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-experts-guide-to-video-editors-picking-between-filmora-and-democreator/"><u>[Updated] Expert's Guide to Video Editors Picking Between Filmora and Democreator</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-why-you-must-enable-av1-for-ultimate-video-experience-on-youtube/"><u>[Updated] Why You Must Enable AV1 for Ultimate Video Experience on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-xchange-reviews-top-tools-and-substitutes-for-2024/"><u>[Updated] XChange Reviews Top Tools & Substitutes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-successfully-hooking-up-your-dvd-player-to-the-television-using-hdmiother-essential-wires/"><u>Guide: Successfully Hooking Up Your DVD Player to the Television Using HDMI/Other Essential Wires</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-poco-c55-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Poco C55 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pcs-picks-the-finest-ps1-game-emulators/"><u>In 2024, PC's Picks The Finest PS1 Game Emulators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-peak-interactive-webcam-fun-fests/"><u>In 2024, Peak Interactive Webcam Fun Fests</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-playspectate-screen-recorder/"><u>In 2024, PlaySpectate Screen Recorder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-professional-screen-capture-for-gotomeeting-users/"><u>In 2024, Professional Screen Capture for GoToMeeting Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quality-meets-convenience-the-best-5-hd-webcams-and-mics/"><u>In 2024, Quality Meets Convenience - The Best 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-guide-downloading-and-prepping-vrecord/"><u>In 2024, Quick Guide Downloading & Prepping VRecord</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-rapid-capture-technique-timelapse-toptech/"><u>In 2024, Rapid Capture Technique Timelapse #TopTech</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-the-amazon-fire-hd-10-an-all-family-friendly-media-powerhouse-review/"><u>The Ultimate Guide to the Amazon Fire HD 10: An All-Family-Friendly Media Powerhouse Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/uncovering-the-leading-10-under-the-radar-story-viewers-for-2024/"><u>Uncovering the Leading 10 Under-the-Radar Story Viewers for 2024</u></a></li>
 </ul></div>
 

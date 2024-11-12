@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9\""
-date: 2024-10-27T21:15:23.269Z
-updated: 2024-11-02T23:14:13.842Z
+date: 2024-11-10T19:46:04.138Z
+updated: 2024-11-11T18:53:21.593Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,17 +115,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-accessing-facebook-videos-via-apple-tv-essential-tips/"><u>[New] In 2024, Accessing Facebook Videos via Apple TV Essential Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-delve-into-youtube-metrics-using-the-power-of-social-blade/"><u>[New] In 2024, Delve Into YouTube Metrics Using the Power of Social Blade</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-finest-6-video-snaggers-for-mac-users-now/"><u>[New] In 2024, The Finest 6 Video Snaggers for Mac Users Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-gifs-your-step-by-step-meme-making-journey/"><u>[New] Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-record-console-gameplay-on-computer/"><u>[Updated] 2024 Approved How to Record Console Gameplay on Computer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-guide-to-using-your-phone-as-an-alternative-camera-for-2024/"><u>[Updated] Easy Guide to Using Your Phone as an Alternative Camera for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-insights-capturing-the-essence-of-online-meetings/"><u>[Updated] In 2024, Expert Insights Capturing the Essence of Online Meetings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>[Updated] Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
-<li><a href="https://facebook.techidaily.com/effortless-spot-sharing-on-facebook-chatrooms/"><u>Effortless Spot Sharing on Facebook Chatrooms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-cost-effective-gaming-solution-comprehensive-review-of-the-nintendo-switch-lite/"><u>The Cost-Effective Gaming Solution: Comprehensive Review of the Nintendo Switch Lite</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-8-solutions-for-not-found-in-windows-os/"><u>Top 8 Solutions for 'Not Found' In Windows OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-methodologies-in-capturing-web-radio-audio/"><u>[New] 2024 Approved Essential Methodologies in Capturing Web Radio Audio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[New] 2024 Approved Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-game-screen-recorders-for-2024/"><u>[New] Best Game Screen Recorders for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimal-pick-the-top-ten-phone-and-pc-video-calls/"><u>[New] Optimal Pick The Top Ten Phone & PC Video Calls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-browse-and-compare-leading-affordable-quality-webm-streamers/"><u>[Updated] In 2024, Browse and Compare Leading Affordable, Quality WebM Streamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-good-to-great-a-vlog-on-incredible-instagrams/"><u>2024 Approved From Good to Great A Vlog on Incredible Instagrams</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cosmetics-confidentials-building-a-beauty-channel-on-youtube-for-2024/"><u>Cosmetics Confidentials Building a Beauty Channel on YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/face-off-of-digital-minds-snapchat-vs-skype-bing/"><u>Face-Off of Digital Minds: Snapchat Vs. Skype Bing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/kiddo-cars-miniature-mayhem-matches/"><u>Kiddo Cars Miniature Mayhem Matches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-why-teredo-tunneling-fails-to-establish-a-connection/"><u>Resolved: Why Teredo Tunneling Fails to Establish a Connection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-personalization-a-step-by-step-guide-to-tailoring-the-ios-18-control-center-on-your-iphone-techwise/"><u>Unlocking Personalization: A Step-by-Step Guide to Tailoring the iOS 18 Control Center on Your iPhone | TechWise</u></a></li>
 </ul></div>
 

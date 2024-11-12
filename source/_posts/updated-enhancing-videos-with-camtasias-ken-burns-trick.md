@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Enhancing Videos with Camtasia's Ken Burns Trick"
-date: 2024-08-17T01:28:36.940Z
-updated: 2024-08-18T01:28:36.940Z
+date: 2024-11-08T20:04:24.198Z
+updated: 2024-11-12T05:16:12.101Z
 tags: 
   - screen-recording
   - ai video
@@ -48,8 +48,12 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -57,8 +61,12 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -84,9 +92,12 @@ Once you are fully satisfied with the Ken Burns effect on your video, you can sa
 Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -95,11 +106,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-15-best-youtube-movies-channels-for-you-to-kill-time/"><u>[New] 2024 Approved 15 Best YouTube Movies Channels for You to Kill Time</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>[New] 2024 Approved High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-path-to-link-integration-on-instagrams-social-stage/"><u>[New] 2024 Approved The Ultimate Path to Link Integration on Instagram's Social Stage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-secure-cost-free-androidios-apps-for-private-video-conferencing/"><u>[New] 2024 Approved Top Secure, Cost-Free Android/iOS Apps for Private Video Conferencing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-techniques-for-smooth-playback-and-no-frame-dropping-in-obs/"><u>[New] In 2024, Techniques for Smooth Playback and No Frame Dropping in OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-firefox-immersive-tools-for-2024/"><u>[New] Top 10 FireFox Immersive Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ords-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>[New] Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>[Updated] 2024 Approved Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>[Updated] Acclaimed Tools The Finest PS1 Emulators for PC Gaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-fix-confirmed-shorts-are-showing-up/"><u>[Updated] Fix Confirmed Shorts Are Showing Up</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-humor-and-heartbreak-the-vhs-story-of-goofy-movie/"><u>[Updated] Humor and Heartbreak The VHS Story of Goofy Movie</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-audio-to-art-crafting-music-videos-on-apple-devices/"><u>[Updated] In 2024, Audio to Art Crafting Music Videos on Apple Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-masterful-technology-for-virtual-meetings/"><u>[Updated] In 2024, Masterful Technology for Virtual Meetings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-facebook-launching-your-first-phenomenal-giving-post/"><u>2024 Approved Facebook Launching Your First Phenomenal Giving Post</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-record-your-games-effortlessly-without-relying-on-microsoft/"><u>2024 Approved Record Your Games Effortlessly, Without Relying on Microsoft</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-7-shooter-games-you-must-play-today/"><u>2024 Approved Top 7 Shooter Games You Must Play Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-fiscal-outline-getting-your-podcast-off-the-ground/"><u>In 2024, Full Fiscal Outline Getting Your Podcast Off the Ground</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-logitech-webcam-101-a-beginners-guide-to-video/"><u>In 2024, Logitech Webcam 101 A Beginner's Guide to Video</u></a></li>
+</ul></div>
+

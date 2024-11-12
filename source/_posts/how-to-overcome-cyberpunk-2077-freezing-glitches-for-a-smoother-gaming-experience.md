@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Cyberpunk 2077 Freezing Glitches for a Smoother Gaming Experience
-date: 2024-10-31T17:20:55.641Z
-updated: 2024-11-02T19:22:12.660Z
+date: 2024-11-09T06:04:38.513Z
+updated: 2024-11-12T07:39:18.925Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 
  Both NVIDIA and AMD released specific updates for their graphics cards on Cyberpunk 2077’s launch day. You can[update](https://tools.techidaily.com/drivereasy/download/) your AMD or NVIDIA with the latest update, it will improve the gaming performance on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Lower in-game graphic settings
 
  One common fix for lagging is to change the in-game graphic settings. This fix has been proved by some gamers, it works for them. If you’re playing on PS4 and Xbox One, why not have a try. It may help.
@@ -90,30 +83,44 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Move to the Miscellaneous section, turn **Enable Analytics** to **OFF** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. In the**GRAPHICS** tab. Find Basic section and set**Film Grain** and**Chromatic** Aberration to**OFF** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. Ray Tracing is the new feature in the game. DLSS is the AI-powered performance-enhancing setting that makes Ray Tracing frame rates more playable. Turning them off and see the lagging issue is solved or not.  
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **NOTE** : Ray Tracing is not for the AMD cards right now.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
 6. Back to the game and check.
 
-If this fix doesn’t work, move to the next one.
-
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If this fix doesn’t work, move to the next one.
 
 ### Fix 3: Update graphics driver
 
@@ -137,21 +144,20 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -170,10 +176,10 @@ If this fix doesn’t work, move to the next one.
 4. Relaunch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Shut down unnecessary apps
@@ -201,21 +207,22 @@ If this fix doesn’t work, move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-pages-made-simple-top-8-tools-for-free-and-online-use/"><u>[New] In 2024, FB Pages Made Simple Top 8 Tools for Free & Online Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-switching-spotify-playlists-transferring-to-youtube-music-format/"><u>[New] In 2024, Switching Spotify Playlists Transferring to YouTube Music Format</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-list-of-6-instagram-reel-enhancers/"><u>[New] In 2024, The Ultimate List of 6 Instagram Reel Enhancers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-picking-the-right-software-bandicam-versus-camtasia-for-2024/"><u>[New] Picking the Right Software Bandicam Versus Camtasia for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-techniques-to-reduce-nausea-while-in-vr/"><u>[New] Techniques to Reduce Nausea While In VR</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-6-ways-to-screen-record-netflix-on-mac/"><u>[Updated] 2024 Approved 6 Ways to Screen Record Netflix on Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-quality-sound-capture-top-10-for-spotify-lovers/"><u>[Updated] High-Quality Sound Capture Top 10 for Spotify Lovers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-free-pc-video-capture-software-roundup/"><u>[Updated] In 2024, Best Free PC Video Capture Software Roundup</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-apps-17-ways-to-remove-picture-frames/"><u>2024 Approved Leading Apps 17 Ways to Remove Picture Frames</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-your-podcasts-production-with-top-audio-devices/"><u>Enhance Your Podcast's Production with Top Audio Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-social-connections-an-introverts-guide-to-successful-networking-with-tips-from-zdnet/"><u>Mastering Social Connections: An Introvert's Guide to Successful Networking with Tips From ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/overcoming-absence-of-color-in-game-recordings-for-2024/"><u>Overcoming Absence of Color in Game Recordings for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/quickcapturepro-the-definitive-guide-to-windows-snaps-for-2024/"><u>QuickCapturePro The Definitive Guide to Windows Snaps for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-art-of-memory-management-increasing-ram-in-minecraft/"><u>The Art of Memory Management Increasing RAM in Minecraft</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-complete-handbook-to-excellent-youtube-audio-production-for-2024/"><u>The Complete Handbook to Excellent YouTube Audio Production for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-pristine-video-quality-on-youtube/"><u>[New] In 2024, Achieving Pristine Video Quality on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-prime-flood-and-flow-video-game-reviews/"><u>[New] In 2024, Prime Flood & Flow Video Game Reviews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webcam-innovation-cutting-edge-live-video-technology/"><u>[New] In 2024, Webcam Innovation Cutting-Edge Live Video Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-film-capture-on-mac-pc-and-smartphones/"><u>[New] Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-grab-pros-comprehensive-analysis-for-2024/"><u>[New] Screen Grab Pros Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-choices-free-and-paid-screen-recorder-tools-for-google-meet/"><u>[New] Top Choices Free & Paid Screen Recorder Tools for Google Meet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-crafting-quality-content-for-youtube-success/"><u>[Updated] In 2024, Crafting Quality Content for YouTube Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders/"><u>[Updated] In 2024, Livestream Excellence Unveiling the Best Practices for Facebook Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-practical-ways-keeping-a-record-of-google-voice-interactions/"><u>[Updated] In 2024, Practical Ways Keeping a Record of Google Voice Interactions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leveraging-board-features-for-virtual-collaboration-android-ios-and-windows-guide/"><u>[Updated] Leveraging Board Features for Virtual Collaboration Android, iOS & Windows Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-zoom-video-quality-a-step-by-step-guide/"><u>[Updated] Mastering Zoom Video Quality A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/accelerer-lonedrive-top-4-astuces-pour-une-synchro-plus-rapide/"><u>Accélérer L'Onedrive: Top 4 Astuces Pour Une Synchro Plus Rapide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-y27s-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Y27s</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/efficient-stellar-file-wiping-software-windows-default-configuration-with-automated-cleanup-task/"><u>Efficient Stellar File Wiping Software - Window's Default Configuration with Automated Cleanup Task</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-huawei-nova-y71-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Huawei Nova Y71 on Mac?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/troubleshooting-stop-live-streaming-lags-in-obs-for-2024/"><u>Troubleshooting Stop Live Streaming Lags in OBS for 2024</u></a></li>
 </ul></div>
 
