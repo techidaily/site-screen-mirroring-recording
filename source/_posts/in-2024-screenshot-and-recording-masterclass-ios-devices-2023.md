@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Screenshot & Recording Masterclass  IOS Devices 2023\""
-date: 2024-11-09T04:23:52.759Z
-updated: 2024-11-12T06:14:46.213Z
+date: 2024-11-16T00:29:31.741Z
+updated: 2024-11-20T22:01:13.043Z
 tags: 
   - screen-recording
   - ai video
@@ -44,9 +44,17 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
@@ -63,13 +71,6 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
 People need to download and install a third-party iPhone/iPad screen recorder after jailbreaking the device and going through a complicated installation process. iOS is always risky to jailbreak your device as if you don’t do it carefully your device will get broken. It means your device will stop functioning and you will need to go to Apple care for getting it fixed. Jailbreaking also voids your warranty. So rather than going through these risks, people preferred using QuickTime to record their Phone/iPad’s screen.
@@ -80,11 +81,19 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Launch QuickTime on your Mac available in the application folder.
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
@@ -93,13 +102,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 6\. Click on the red record button when you want to start recording.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
@@ -114,20 +116,10 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,24 +136,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-audiophiles-choice-for-mac-recording-top-5-software-scooped-up/"><u>[New] Audiophile's Choice for Mac Recording Top 5 Software Scooped Up</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-comprehensive-handbook-for-recording-live-hulu-on-pcmacosandroid/"><u>[New] In 2024, A Comprehensive Handbook for Recording Live Hulu on PC/MacOS/Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-kiddos-best-gaming-delights-top-girls-adventures/"><u>[New] In 2024, Kiddo's Best Gaming Delights - Top Girls' Adventures</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-master-the-art-of-hulu-screen-capturing-windows-mac-and-mobile-edition/"><u>[New] In 2024, Master the Art of Hulu Screen Capturing Windows, Mac & Mobile Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-revolutionizing-ps2-playtime-on-ios-with-top-emulators/"><u>[New] Revolutionizing PS2 Playtime on iOS with Top Emulators</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exploring-the-limits-full-potential-of-screenflow-v4-on-macos/"><u>[Updated] 2024 Approved Exploring the Limits Full Potential of ScreenFlow v4 on macOS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-optimal-hash-tags-for-youtube-success-story/"><u>[Updated] 2024 Approved Optimal Hash Tags for YouTube Success Story</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-novice-to-pro-a-complete-exploration-of-zd-software-recording-features/"><u>[Updated] From Novice to Pro A Complete Exploration of ZD Software Recording Features</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-from-pc-to-tablet-master-recording-hulu-across-all-platforms/"><u>[Updated] In 2024, From PC to Tablet Master Recording Hulu Across All Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>[Updated] Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-stream-share-your-favorite-youtube-tunes-and-videos-a-step-by-step-guide-for-iphone-ipad-and-windows-pc-users/"><u>How to Stream Share Your Favorite Youtube Tunes and Videos: A Step-by-Step Guide for iPhone, iPad & Windows PC Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premiere-add-ons-for-firefox-recording/"><u>In 2024, Premiere Add-Ons for Firefox Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turnback-artisan-hub/"><u>In 2024, Turnback Artisan Hub</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi FRP Bypass</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/is-there-hope-for-restored-files-uncovering-three-strategies-to-retrieve-data-post-ps4-hard-reset/"><u>Is There Hope for Restored Files?: Uncovering Three Strategies to Retrieve Data Post-PS4 Hard Reset</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ringtone-recommendations-for-your-chromium-phone/"><u>Ringtone Recommendations for Your Chromium Phone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-the-art-of-russian-greeting-essentials-and-beyond/"><u>Unlocking the Art of Russian Greeting: Essentials and Beyond</u></a></li>
-<li><a href="https://blog-min.techidaily.com/virtual-camera-wizardry-using-manycam-ultimate-live-broadcasting-suite/"><u>Virtual Camera Wizardry Using ManyCam – Ultimate Live Broadcasting Suite</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-10-superior-video-capture-software-in-windows-10/"><u>[New] In 2024, 10 Superior Video Capture Software in Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-search-for-prime-video-making-experts/"><u>[Updated] 2024 Approved The Search for Prime Video Making Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-demystifying-zoom-sessions-into-smaller-groups-for-2024/"><u>[Updated] Demystifying Zoom Sessions Into Smaller Groups for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-ios-tools-for-ps2-game-replication/"><u>[Updated] In 2024, Innovative IOS Tools for PS2 Game Replication</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-techniques-for-snagging-switch-gaming-videos-for-2024/"><u>[Updated] Techniques for Snagging Switch Gaming Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-fbx-filming-in-games/"><u>[Updated] Unlocking FBX Filming in Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-the-secrets-of-spectacular-insta-films/"><u>2024 Approved Unlocking the Secrets of Spectacular Insta Films</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/darkness-decoded-iphone-photography-mastery-for-2024/"><u>Darkness Decoded IPhone Photography Mastery for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-availability-where-can-i-find-ultrawide-televisions/"><u>Discovering Availability: Where Can I Find Ultrawide Televisions?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-editing-experience-ranked-top-6-tools-for-macos-big-surs-videos/"><u>Elite Editing Experience Ranked Top 6 Tools for macOS Big Sur's Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-spectacular-racing-thrills-the-quintet/"><u>In 2024, Spectacular Racing Thrills The Quintet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-choices-in-group-chat-software/"><u>In 2024, Superior Choices in Group Chat Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/official-end-user-licensing-contract-for-winxdvd-by-digiarty-software-get-access-now/"><u>Official End-User Licensing Contract for WinXDVD by Digiarty Software – Get Access Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repeat-errors-windows-11-copy-issue/"><u>Repeat Errors: Windows 11 Copy Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-grab-your-top-pick-apple-magsafe-charger-at-a-stunning-60-discount-exclusive-offer-on-zdnet/"><u>Unbeatable Deal Alert: Grab Your Top Pick Apple MagSafe Charger at a Stunning $60 Discount - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-how-to-add-and-modify-audio-keyframes-in-final-cut-pro-x-for-2024/"><u>Updated How to Add and Modify Audio Keyframes in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
 

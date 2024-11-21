@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize the Save Spot of Mac Images"
-date: 2024-11-08T07:35:05.170Z
-updated: 2024-11-11T22:56:31.145Z
+date: 2024-11-19T06:11:18.207Z
+updated: 2024-11-20T17:46:59.316Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,10 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -106,10 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,18 +119,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-dream-houses-in-minecraft-top-6-ideas/"><u>[New] In 2024, Dream Houses in Minecraft Top 6 Ideas</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-explore-google-meets-full-potential-free-edition/"><u>[New] In 2024, Explore Google Meet's Full Potential (Free Edition)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-uncomplicated-steps-for-archiving-gotomeeting-dialogues/"><u>[New] Uncomplicated Steps for Archiving GoToMeeting Dialogues</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-skype-meeting-recording-made-easy-for-both-oses-for-2024/"><u>[Updated] Skype Meeting Recording Made Easy for Both OSes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stepwise-approach-to-exceptional-gopro-footage/"><u>2024 Approved Stepwise Approach to Exceptional GoPro Footage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-sending-your-iphone-for-apples-professional-hardware-diagnostics/"><u>Guide: Sending Your iPhone for Apple's Professional Hardware Diagnostics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-libcurldll-not-found-or-missing-errors/"><u>How to Fix Libcurl.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>In 2024, Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-step-by-step-clearing-background-artifacts-in-figma/"><u>In 2024, Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-your-machine-how-to-tweak-windows-11-preferences/"><u>Mastering Your Machine: How to Tweak Windows 11 Preferences</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-wipeout-technique-for-iphones-on-both-windows-and-mac-computers-stellar-tips/"><u>Ultimate Wipeout Technique for iPhones on Both Windows and Mac Computers | Stellar Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unveiling-the-top-6-nft-environments-for-creatives-for-2024/"><u>Unveiling the Top 6 NFT Environments for Creatives for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/video-creation-simplified-key-elements-of-using-aiseesofts-tech-for-2024/"><u>Video Creation Simplified Key Elements of Using Aiseesoft's Tech for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-window-wisdom-taking-precise-screen-captures/"><u>[New] 2024 Approved Window Wisdom Taking Precise Screen Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-your-ios-experience-top-5-ps2-simulators/"><u>[New] Elevate Your iOS Experience Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pros-picks-the-best-11-soundstreamers-reviewed/"><u>[New] In 2024, Pro's Picks The Best 11 Soundstreamers Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-decoding-the-mysteries-of-effective-youtube-keywords/"><u>[Updated] Decoding the Mysteries of Effective YouTube Keywords</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-depth-recmaster-screen-capture-analysis/"><u>[Updated] In 2024, In-Depth Recmaster Screen Capture Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-90-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor 90 Phone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pinnacle-camera-technology-the-best-reviewed-for-2024/"><u>Pinnacle Camera Technology – The Best Reviewed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transformative-visuals-unleash-the-power-of-6-video-types/"><u>Transformative Visuals Unleash the Power of 6 Video Types</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-essential-list-8-premier-music-production-software-options-for-mac-os-and-windows/"><u>Updated 2024 Approved The Essential List 8 Premier Music Production Software Options for Mac OS and Windows</u></a></li>
 </ul></div>
 

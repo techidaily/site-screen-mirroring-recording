@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Chromebook Screen Capture  4 Easy Techniques\""
-date: 2024-11-04T21:46:29.879Z
-updated: 2024-11-11T23:38:41.841Z
+date: 2024-11-20T05:42:46.486Z
+updated: 2024-11-20T17:55:31.234Z
 tags: 
   - screen-recording
   - ai video
@@ -46,22 +46,27 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
@@ -73,21 +78,7 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
@@ -102,6 +93,10 @@ With a number of simple yet effective editing features built-in, such as further
 #### 2. LightShot
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
 
@@ -128,10 +123,7 @@ In summary, there are plenty of ways to successfully capture a screenshot whilst
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -149,21 +141,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-affectionate-alternatives-3ds-games-for-android-users/"><u>2024 Approved Affectionate Alternatives 3DS Games for Android Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-mov-videos-in-windows-11/"><u>2024 Approved Capturing MOV Videos in Windows 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-comparative-study-single-vs-multi-camera-tech-today/"><u>2024 Approved Comparative Study Single Vs. Multi-Camera Tech Today</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-recordscreenpro-windows-10-edition/"><u>2024 Approved RecordScreenPro Windows 10 Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revolutionary-recording-methods-for-windows-10-games/"><u>2024 Approved Revolutionary Recording Methods for Windows 10 Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-camon-30-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Camon 30 Pro 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/decode-your-insta-performance-a-complete-look-at-user-behavior-for-2024/"><u>Decode Your Insta Performance A Complete Look at User Behavior for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-hot-30i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix Hot 30i Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/free-green-screens-for-cinematic-artists-for-2024/"><u>Free Green Screens for Cinematic Artists for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-youtube-video-performance-with-rapid-rendering-methods/"><u>In 2024, Boost YouTube Video Performance with Rapid Rendering Methods</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-and-share-leading-the-charge-with-androids-best-8-free-tools/"><u>In 2024, Capture & Share - Leading the Charge with Android's Best 8 Free Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-knowledge-three-approaches-with-mac/"><u>In 2024, Capturing Knowledge Three Approaches with Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-io-screen-recording-essentials-quick-start/"><u>In 2024, IO Screen Recording Essentials Quick Start</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-pinnacle-4k-cameras-the-ultimate-guide/"><u>In 2024, Pinnacle 4K Cameras The Ultimate Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transforming-audio-content-structuring-your-rss-feed-for-2024/"><u>Transforming Audio Content Structuring Your RSS Feed for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>[New] 2024 Approved Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-attention-a-look-at-the-best-15-video-intro-plans/"><u>[New] In 2024, Crafting Attention A Look at the Best 15 Video Intro Plans</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quicksnap-win10-recording-master/"><u>[New] QuickSnap Win10 Recording Master</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-whats-the-difference-between-360-video-and-vr-video-for-2024/"><u>[New] What's the Difference Between 360° Video and VR Video for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamline-your-workflow-macos-screencast-tutorial/"><u>[Updated] 2024 Approved Streamline Your Workflow MacOS Screencast Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-snapshot-your-mobile-gamers-high-scores-on-samsungs/"><u>[Updated] Snapshot Your Mobile Gamers' High Scores on Samsungs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f34-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F34 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-acers-wi-fi-card-free-fast-driver-downloads-inside/"><u>How to Update Your Acer's Wi-Fi Card: Free, Fast Driver Downloads Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ios-edge-in-chatgpt-experience/"><u>The iOS Edge in ChatGPT Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-repairing-failed-communications-with-dhcp-servers/"><u>Understanding and Repairing Failed Communications with DHCP Servers</u></a></li>
 </ul></div>
 
