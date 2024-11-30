@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Freeze Whole Website Panel\""
-date: 2024-11-15T23:36:12.010Z
-updated: 2024-11-20T16:44:22.797Z
+date: 2024-11-22T16:13:33.649Z
+updated: 2024-11-29T21:33:32.143Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,10 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
@@ -69,7 +73,7 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
@@ -85,10 +89,6 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -107,7 +107,7 @@ Install the extension in your browser and then click on its icon in the Extensio
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Using Online Tools for Full Page Screenshots
@@ -117,7 +117,7 @@ If you don't want to go through the trouble of installing a screenshot extension
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
@@ -141,7 +141,7 @@ Leave a comment below and let us know which method of capturing full page screen
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -159,17 +159,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>[New] 2024 Approved Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturereview-station/"><u>[New] In 2024, CaptureReview Station</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advice-on-reversing-non-functional-obs-fullscreen-for-2024/"><u>[Updated] Advice on Reversing Non-Functional OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-registration-simplified/"><u>[Updated] Facebook Registration Simplified</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-animated-bouncing-text/"><u>[Updated] In 2024, How to Create Animated Bouncing Text</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-your-ps4s-potential-recording-strategies-for-gamers/"><u>[Updated] Unlocking Your PS4's Potential Recording Strategies for Gamers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-revolutionize-live-streaming-top-4-approaches-to-record-on-fb/"><u>2024 Approved Revolutionize Live Streaming Top 4 Approaches to Record on FB</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/all-inclusive-expense-exploration-embarking-on-a-podcast-for-2024/"><u>All-Inclusive Expense Exploration Embarking on a Podcast for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-driver-rested-no-more-issues-found/"><u>Display Driver Rested, No More Issues Found</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-pathway-merging-emulated-game-titles-with-playnite-software/"><u>Guiding Pathway: Merging Emulated Game Titles with Playnite Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nt-youtube-playlists-shared-tutorial/"><u>Instant YouTube Playlists Shared Tutorial</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/precision-capturing-the-art-of-ps4-gaming-recordings-with-obs-for-2024/"><u>Precision Capturing The Art of PS4 Gaming Recordings with OBS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-record-a-gotomeeting-session-on-pcs-and-smartphones/"><u>[New] 2024 Approved How to Record a GoToMeeting Session on PCs and Smartphones?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-photographers-aid-free-mobile-photography-boost/"><u>[New] 2024 Approved Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-2023s-leading-online-sound-recorders-ranked/"><u>[New] In 2024, 2023'S Leading Online Sound Recorders Ranked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-eliminate-ambient-chatter-in-skype-calls/"><u>[New] In 2024, Eliminate Ambient Chatter in Skype Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-excellence-in-screensnapting-fast-reliable-recorder/"><u>[New] In 2024, Excellence in Screensnapting Fast, Reliable Recorder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-7-virtual-marksmen-battles/"><u>[New] Ultimate 7 Virtual Marksmen Battles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-sliceshot-synopsis/"><u>[Updated] 2024 Approved SliceShot Synopsis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cloud-storage-for-your-clippings-free-tiers-and-paid-plans-explored/"><u>[Updated] In 2024, Cloud Storage for Your Clippings Free Tiers & Paid Plans Explored</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-integrating-obs-recording-capabilities-into-zoom-sessions/"><u>[Updated] In 2024, Integrating OBS Recording Capabilities Into Zoom Sessions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>2024 Approved The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/android-audio-recording-tips-no-root-required-for-2024/"><u>Android Audio Recording Tips - No Root Required for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-go-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark Go (2023) Fingerprint Lock</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficient-roblox-gaming-save-techniques-on-macs/"><u>Efficient Roblox Gaming Save Techniques on Macs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/expert-analysis-of-the-twelve-south-compass-pro-the-ultimate-guide-to-unmatched-precision-and-reliable-orientation/"><u>Expert Analysis of the Twelve South Compass Pro: The Ultimate Guide to Unmatched Precision and Reliable Orientation</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-c02-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C02 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/immortalizing-sportsmanship-techniques-for-gameplay-videos/"><u>Immortalizing Sportsmanship Techniques for Gameplay Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unleashing-video-popularity-leading-trackers-for-youtube/"><u>In 2024, Unleashing Video Popularity Leading Trackers for YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/key-strategies-for-navigating-complex-youtube-discussions-for-2024/"><u>Key Strategies for Navigating Complex YouTube Discussions for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/superduperdb-your-gateway-to-accessing-top-artificial-intelligence-applications-insights-from-zdnet/"><u>SuperDuperDB: Your Gateway to Accessing Top Artificial Intelligence Applications - Insights From ZDNet</u></a></li>
 </ul></div>
 

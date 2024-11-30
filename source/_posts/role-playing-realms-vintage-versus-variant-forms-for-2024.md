@@ -1,7 +1,7 @@
 ---
 title: "\"Role-Playing Realms  Vintage Versus Variant Forms for 2024\""
-date: 2024-11-14T02:08:12.396Z
-updated: 2024-11-20T21:50:43.863Z
+date: 2024-11-27T02:53:49.093Z
+updated: 2024-11-30T04:23:13.554Z
 tags: 
   - screen-recording
   - ai video
@@ -39,21 +39,25 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -85,10 +89,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -107,11 +107,11 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Roguelite Games
 
@@ -122,6 +122,10 @@ For this genre, we've chosen three games that are completely different to illust
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Slay the Spire
 
@@ -139,14 +143,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -164,24 +164,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-5-capture-tools-dethroning-bandicam-on-apple-devices/"><u>[New] 2024 Approved Top 5 Capture Tools Dethroning Bandicam on Apple Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-avoiding-instagrams-false-facade-for-a-solid-stature-for-2024/"><u>[New] Avoiding Instagram's False Facade for a Solid Stature for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-guide-to-documenting-macs-roblox-playthroughs/"><u>[New] Essential Guide to Documenting Mac's Roblox Playthroughs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-beam-worthy-moments-samsung-gamers-chronicle/"><u>[New] In 2024, Beam-Worthy Moments Samsung Gamers Chronicle</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capture-your-gameplay-essential-webcams-for-twitch-enthusiasts/"><u>[New] In 2024, Capture Your Gameplay Essential Webcams For Twitch Enthusiasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-record-android-internal-sound-4-non-root-methods-for-2024/"><u>[New] Record Android Internal Sound 4 Non-Root Methods for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-5-techniques-for-storing-lol-battles/"><u>[New] Top 5 Techniques for Storing LOL Battles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-places-for-free-text-visual-enhancements/"><u>[New] Top Places for Free Text Visual Enhancements</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unleashing-your-macs-screen-sharing-potential/"><u>[New] Unleashing Your Mac's Screen Sharing Potential</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-voyage-to-greatness-youtubes-best-travel-vids/"><u>[New] Voyage to Greatness YouTube's Best Travel Vids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-zoom-screen-recorders/"><u>[Updated] The Ultimate Guide to Zoom Screen Recorders</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-4-techniques-for-effective-hp-laptop-screen-capture/"><u>[Updated] Top 4 Techniques for Effective HP Laptop Screen Capture</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-7-apps-altering-vocal-soundtracks/"><u>[Updated] Top 7 Apps Altering Vocal Soundtracks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertidor-video-online-sin-costo-como-cambiar-contenido-3gpp-a-mpeg-facilmente-con-movavi/"><u>Convertidor Video Online Sin Costo: Cómo Cambiar Contenido 3GPP a MPEG Fácilmente Con Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-magic-vs-2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor Magic Vs 2 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-the-past-top-5-ps1-emulators-on-pc/"><u>Reviving the Past - Top 5 PS1 Emulators on PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlock-free-iphone-and-android-entertainment-with-appcake-get-all-your-favorite-cracked-apps-and-games-now/"><u>Unlock Free iPhone & Android Entertainment with AppCake - Get All Your Favorite Cracked Apps & Games Now!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-mov-file-management-on-modern-windows-10/"><u>[New] In 2024, Mastering .mov File Management on Modern Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-precision-zooming-the-key-to-clear-microsoft-teams-sessions-for-2024/"><u>[New] Precision Zooming The Key to Clear Microsoft Teams Sessions for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlock-the-full-potential-of-your-videos-on-instagram-platform-for-2024/"><u>[New] Unlock the Full Potential of Your Videos on Instagram Platform for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys/"><u>[Updated] Enhance Productivity Mac Screen Capture Made Simple Using Shortcut Keys</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-comprehensive-list-of-vocal-alteration-apps/"><u>[Updated] In 2024, The Comprehensive List of Vocal Alteration Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlock-access-to-nba-live-gameplay-with-these-15-tips/"><u>[Updated] In 2024, Unlock Access to NBA Live Gameplay with These 15 Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obsudio-screen-recorder-analysis-your-best-choices-explored-for-2024/"><u>[Updated] Obsudio Screen Recorder Analysis Your Best Choices Explored for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-securely-save-your-windows-8-screenshots-for-2024/"><u>[Updated] Securely Save Your Windows 8 Screenshots for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-bridge-for-windows-and-mac-playing-across-platforms-effortlessly/"><u>CrossOver Bridge for Windows and Mac: Playing Across Platforms Effortlessly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-on-your-mac-simple-solutions-explored/"><u>How to Restore Sound on Your Mac: Simple Solutions Explored</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>In 2024, Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/individual-preferences-panel-fixed-responsiveness-issue-solved-successfully/"><u>Individual Preferences Panel Fixed: Responsiveness Issue Solved Successfully</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-moto-g84-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Moto G84 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-10-best-free-whiteboard-animation-programs-for-2024/"><u>New The Ultimate List 10 Best Free Whiteboard Animation Programs for 2024</u></a></li>
 </ul></div>
 

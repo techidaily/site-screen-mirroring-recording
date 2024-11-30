@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Security Threats: Twitter's Ax & Checkmark Functionality Explained"
-date: 2024-08-10T08:44:48.950Z
-updated: 2024-08-11T08:44:48.950Z
+date: 2024-11-24T19:36:45.574Z
+updated: 2024-11-29T17:11:14.608Z
 tags:
   - chatgpt
   - open-ai
@@ -24,27 +24,20 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -55,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -66,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -79,9 +74,9 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -96,8 +91,6 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +98,20 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-comparative-study-single-vs-multi-camera-tech-today/"><u>[New] Comparative Study Single Vs. Multi-Camera Tech Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igital-deception-steering-clear-from-buying-non-existent-followers-for-2024/"><u>[New] Digital Deception Steering Clear From Buying Non-Existent Followers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-embedding-youtube-playlists-with-minimal-complexity-and-maximum-impact/"><u>[New] In 2024, Embedding YouTube Playlists with Minimal Complexity and Maximum Impact</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-practical-approach-to-using-screencastify-for-video-capture/"><u>[Updated] A Practical Approach to Using Screencastify for Video Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-arena-crafting-the-quintessential-7-total-war-tactics/"><u>[Updated] In 2024, Ultimate Arena Crafting the Quintessential 7 Total War Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/beating-high-costs-of-xbox-game-pass-briefly-effective-tips/"><u>Beating High Costs of Xbox Game Pass – Briefly Effective Tips</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boosting-mf4770n-integration-with-win-1087/"><u>Boosting MF4770n Integration with Win 10/8/7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/critical-choices-for-perfect-snaps/"><u>Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-launch-into-live-tiktok-from-computer-quick-and-easy-steps/"><u>In 2024, Launch Into Live TikTok From Computer – Quick and Easy Steps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/next-generation-virtual-collaboration-tools-post-zoom-era-for-2024/"><u>Next Generation Virtual Collaboration Tools, Post-Zoom Era for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/razer-keyboard-issues-why-isnt-it-lights-up-solutions-inside/"><u>Razer Keyboard Issues - Why Isn't It Lights Up? Solutions Inside!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266994142-ultimate-iphone-data-rescue-experience-awaits-you-secure-download-option-available/"><u>Ultimate iPhone Data Rescue Experience Awaits You - Secure Download Option Available!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-list-of-hd-webcams-compatible-with-windows-11-pcs/"><u>Ultimate List of HD Webcams Compatible with Windows 11 PCs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Ultimate Guide for Board Usage During Your Zoom Meetings (Desktop/iOS/Android)\""
-date: 2024-08-17T01:17:55.934Z
-updated: 2024-08-18T01:17:55.934Z
+date: 2024-11-24T20:13:50.847Z
+updated: 2024-11-29T22:34:18.996Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
 
  Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 4: Zoom Annotation Settings
 
  Click the **Clear**  icon from the annotation panel, and choose **Clear All Drawings** , **Clear My Drawings** , or **Clear Viewers’ Drawings**  to clean the entire whiteboard, remove only your annotations, or remove only the annotations added by other participants of the meeting respectively.
@@ -73,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -86,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
  After installing Zoom on your Android, and signing in to your account, start a new meeting, tap anywhere on the screen, tap **Share**  from the bottom, and tap **Share Whiteboard** .
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
 
@@ -101,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
  Along with Android, Zoom is available for iOS devices as well. However, at the time of this writing, the Whiteboard feature can only be used on iPads. So, if you’re running Zoom Cloud Meeting on your iPhone, you won’t see the Whiteboard option. Nevertheless, the interface and the options that the Zoom’s iOS variant has are almost identical, and so is the process of sharing **Zoom meeting whiteboard** .
@@ -119,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -129,8 +133,9 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -148,9 +153,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 **Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -158,11 +160,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-captivating-cuts-10-essential-filmora-edits-everyone-loves-for-2024/"><u>[New] Captivating Cuts 10 Essential Filmora Edits Everyone Loves for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069669499-new-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[New] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erfecting-your-presentations-youtube-and-google-slides/"><u>[New] Perfecting Your Presentations YouTube and Google Slides</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-androids-best-mobile-brawlers-ranked-1-10-for-2024/"><u>[Updated] Android's Best Mobile Brawlers Ranked #1-10 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ideal-systems-for-recording-and-streaming-athletic-competitions/"><u>[Updated] Ideal Systems for Recording and Streaming Athletic Competitions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-console-to-pc-conversion-top-5-ps1-emulators/"><u>[Updated] In 2024, Best Console-to-PC Conversion Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-secrets-to-capturing-your-iphone-7-screen/"><u>[Updated] In 2024, Secrets to Capturing Your iPhone 7 Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-androids-best-top-8-gratuitous-capture-tools/"><u>2024 Approved Android's Best Top 8 Gratuitous Capture Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-digital-footprints-recording-nintendo-switch-sessions/"><u>2024 Approved Digital Footprints Recording Nintendo Switch Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/6kal44kj44km44gq44ge5yuv55s744gu5zwp6agm77yf44gt44gt44gr5pya5asn44gu5y6f5zug44go44oi44op44ow44or44k344ol44o844og44kj44oz44kw5pa55rov/"><u>見られない動画の問題？ここに最大の原因とトラブルシューティング方法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2/"><u>ASRock PG2</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-11x-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme 11X 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-cubic-cottages-for-newcomers-to-mc-world/"><u>In 2024, Cubic Cottages for Newcomers to MC World</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k23-pc-freezing-issues-resolved-top-7-reliable-solutions/"><u>NBA 2K23 PC Freezing Issues Resolved: Top 7 Reliable Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/peering-into-the-pantheon-of-social-media-mavens-in-your-area-for-2024/"><u>Peering Into the Pantheon of Social Media Mavens in Your Area for 2024</u></a></li>
+</ul></div>
+

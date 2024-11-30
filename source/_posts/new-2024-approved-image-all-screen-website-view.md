@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Image All-Screen Website View\""
-date: 2024-11-20T00:11:40.563Z
-updated: 2024-11-21T05:07:29.171Z
+date: 2024-11-28T05:14:38.032Z
+updated: 2024-11-29T17:25:04.578Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ On the other hand, The Internet contains such a vast amount of information, that
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -55,7 +59,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
@@ -63,10 +67,6 @@ For macOS 10.12 or later
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
@@ -85,7 +85,7 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -93,10 +93,6 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -113,6 +109,10 @@ All of the above-mentioned browser extensions offer a quick way to take a screen
 Install the extension in your browser and then click on its icon in the Extension bar, that is usually located in the upper right corner of the browser. A drop-down menu will appear on the screen and you should select the **Entire Page** feature. The screenshot you took will be opened in the Nimbus' photo editor, where you can add annotations, text or crop the picture. Click on **Done** when ready to save the image, and then proceed to save the screenshot as a PDF file on your computer or store it online.
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Using Online Tools for Full Page Screenshots
 
@@ -141,7 +141,7 @@ Leave a comment below and let us know which method of capturing full page screen
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -159,20 +159,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-knowledge-for-effective-screensaver-use-in-mobile-applications/"><u>[New] Essential Knowledge for Effective Screensaver Use in Mobile Applications</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-eye-candy-for-digital-performances/"><u>[New] In 2024, Ultimate Eye Candy for Digital Performances</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-free-switch-console-emulators/"><u>[New] Premium Free Switch Console Emulators</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unleashing-potential-learning-to-race-with-drones-and-best-models-for-2024/"><u>[New] Unleashing Potential Learning to Race with Drones and Best Models for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-eight-video-recording-apps-reviewed/"><u>[Updated] 2024 Approved Top Eight Video Recording Apps Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-aerial-visual-flux-free-lutts-for-dji-drones-then-pay-upgrade/"><u>[Updated] In 2024, Aerial Visual Flux Free LUTTs for DJI Drones, Then Pay Upgrade</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-comprehensive-breakdown-obs-video-capture-capabilities/"><u>[Updated] In 2024, Comprehensive Breakdown OBS Video Capture Capabilities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unleash-potential-deciding-between-studio-and-beta-version/"><u>[Updated] Unleash Potential Deciding Between Studio and Beta Version</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-highest-rated-nintendo-switch-battle-titles-max-156/"><u>2024 Approved Highest-Rated Nintendo Switch Battle Titles (Max 156)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-collection-of-sandbox-games/"><u>2024 Approved The Ultimate Collection of Sandbox Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cultivating-an-online-community-via-periscope/"><u>Cultivating an Online Community via Periscope</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-razr-40-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-a58-4g-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Oppo A58 4G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/smooth-streams-from-obs-to-insta/"><u>Smooth Streams From OBS to Insta</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unveiling-the-power-of-high-quality-gaming-screenshots/"><u>[New] 2024 Approved Unveiling the Power of High-Quality Gaming Screenshots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-creating-an-impactful-film-short-summary-for-2024/"><u>[New] Creating an Impactful Film Short Summary for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-moving-less-imagery-tips/"><u>[New] Professional Moving-Less Imagery Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[New] Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-noise-control-for-filmmakers-basic-pro-methods-and-pricing/"><u>[Updated] In 2024, Noise Control for Filmmakers - Basic, Pro Methods & Pricing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-apeak-recording-assessment-top-software-showdown/"><u>2024 Approved Apeak Recording Assessment Top Software Showdown</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-peak-performance-memory-for-a7s-ii/"><u>2024 Approved Peak Performance Memory for A7S II</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-flickering-on-monitors-a-diy-guide/"><u>Banish Flickering on Monitors: A DIY Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-window-lockups-in-google-chrome-on-your-windows-11-pc-with-simple-tricks/"><u>Solving Window Lockups in Google Chrome on Your Windows 11 PC with Simple Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-definitive-steps-to-record-your-favorite-hulu-episodes-for-2024/"><u>The Definitive Steps to Record Your Favorite Hulu Episodes for 2024</u></a></li>
 </ul></div>
 

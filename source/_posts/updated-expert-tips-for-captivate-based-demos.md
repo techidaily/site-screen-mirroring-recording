@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Expert Tips for Captivate-Based Demos\""
-date: 2024-11-17T05:11:20.681Z
-updated: 2024-11-20T17:17:41.152Z
+date: 2024-11-24T04:57:27.836Z
+updated: 2024-11-29T19:04:50.670Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ To make things even better, the Adobe Captivate software is compatible with all 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -70,6 +66,10 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
 #### Step 2 - Select the application and designate the area of the screen you'd like to record
@@ -79,7 +79,7 @@ After you click on the Create button, a new window will appear on the screen. In
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
@@ -90,10 +90,6 @@ Click on the Settings button if you wish to change the destination on your hard-
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
 Hit the Record button to initiate the video recording session. You can hit the Esc or End buttons to stop recording if you are using a PC, while Mac users can perform the same action by hitting Cmd + Enter keys.
@@ -103,6 +99,10 @@ Hit the Record button to initiate the video recording session. You can hit the E
 Upon the completion of the video recording session, the Publish Video Demo window will appear on the screen. You'll be able to save your video as an MP4 file directly to your computer, or you can export the video directly to YouTube, Facebook or Twitter.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
@@ -127,18 +127,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-screenshot-tasks-in-minutes/"><u>[New] Streamlining Screenshot Tasks in Minutes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-complete-guide-to-capturing-and-storing-youtube-livestreams-seamlessly/"><u>[New] The Complete Guide to Capturing and Storing YouTube Livestreams Seamlessly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-capture-your-best-moments-top-8-mirrorless-cameras-for-you/"><u>[Updated] Capture Your Best Moments Top 8 Mirrorless Cameras For You</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capture-every-day-in-the-life-of-your-sims-with-pro-tips-for-gameplay-recordings-for-2024/"><u>Capture Every Day in the Life of Your Sims with Pro Tips for Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-innovation-best-8-cameras-for-live-broadcasting/"><u>Cutting-Edge Innovation Best 8 Cameras for Live Broadcasting</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-edge-40-neo-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-captions-in-photography-a-user-friendly-guide-on-pc-and-mac/"><u>In 2024, Incorporating Captions in Photography A User-Friendly Guide on PC & Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-inside-the-world-of-superior-screen-recording-with-recmeister/"><u>In 2024, Inside the World of Superior Screen Recording with Recmeister</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-perfect-snapshot-seeker-commercial-abolished/"><u>In 2024, Perfect Snapshot Seeker - Commercial Abolished</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/leading-eight-safe-video-meeting-systems-for-smbs-for-2024/"><u>Leading Eight Safe Video Meeting Systems for SMBs for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-fixing-not-found-error-for-d3dx926dll/"><u>Step-by-Step Guide to Fixing Not Found Error for d3dx9_26.dll</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-intel-raid-driver-update-process-ensure-compatibility-with-your-windows-11-10-8-or-7-pc/"><u>Step-by-Step Intel RAID Driver Update Process - Ensure Compatibility with Your Windows 11, 10, 8 or 7 PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-social-media-interactions-twitch-banunban-guide/"><u>Streamlining Social Media Interactions: Twitch Ban/Unban Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-beginners-guide-to-screen-recording-for-dell-computers/"><u>[New] 2024 Approved Beginner's Guide to Screen Recording for Dell Computers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unleash-your-creativity-macs-finest-screen-capture-programs-free/"><u>[New] 2024 Approved Unleash Your Creativity Mac's Finest Screen Capture Programs (FREE)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-meme-architectural-genius-top-picks/"><u>[New] In 2024, Meme Architectural Genius Top Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-podcast-with-these-google-upload-insights/"><u>[New] Transform Your Podcast with These Google Upload Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screenstreamer-pro-cutting-edge-review-for-march-2023/"><u>[Updated] 2024 Approved ScreenStreamer Pro Cutting-Edge Review for March 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-hearthsongs-the-quintessential-playlist-for-engagement-for-2024/"><u>[Updated] Hearthsongs The Quintessential Playlist for Engagement for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-activating-grid-view-in-google-meet-webinars-a-step-by-step-guide/"><u>[Updated] In 2024, Activating Grid View in Google Meet Webinars A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-easy-to-follow-guide-recording-non-root-android-sounds/"><u>[Updated] In 2024, Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-premier-8-safe-video-communication-programs-for-smbs/"><u>[Updated] In 2024, Premier 8 Safe Video Communication Programs for SMBs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-securing-your-gaming-moments-with-windows-11/"><u>[Updated] In 2024, Securing Your Gaming Moments with Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unmissable-vr-cinematic-journeys/"><u>[Updated] Unmissable VR Cinematic Journeys</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-new-era-for-virtual-reality-best-pc-headsets-of-2023-for-2024/"><u>A New Era for Virtual Reality Best PC Headsets of 2023 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/dualviewpoint-analysis/"><u>DualViewpoint Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-internet-audio-devices-reviewed-and-ranked-2023/"><u>In 2024, Superior Internet Audio Devices Reviewed & Ranked 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-z2-mobile-a-cutting-edge-device-analysis/"><u>In 2024, Z2 Mobile A Cutting-Edge Device Analysis</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/make-it-a-memorable-year-enjoy-unbeatable-savings-with-free-mondly-pro/"><u>Make It a Memorable Year: Enjoy Unbeatable Savings with Free Mondly Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-back-in-time-experience-your-favorite-old-school-websites-today/"><u>Step Back in Time: Experience Your Favorite Old-School Websites Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-reno-11-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 11 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

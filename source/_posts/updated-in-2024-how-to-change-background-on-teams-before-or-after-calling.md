@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Change Background on Teams Before or After Calling"
-date: 2024-08-10T08:47:04.829Z
-updated: 2024-08-11T08:47:04.829Z
+date: 2024-11-23T02:24:32.337Z
+updated: 2024-11-29T18:31:16.830Z
 tags: 
   - screen-recording
   - ai video
@@ -33,14 +33,12 @@ While going through the following sections, you will also get to know **how to a
 
 Teams enables you to use a virtual background before you start or join a meeting. This approach makes sure that the other participants don’t get distracted by the homely and unprofessional walls and decorative items that your room may have. To learn **how to change background on Microsoft Teams**, you can follow the steps that are explained below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
@@ -62,23 +60,19 @@ Teams enables you to use a virtual background before you start or join a meeting
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1: Prepare for a Teams Meeting**
 
 Launch Microsoft Teams on your laptop (a Windows 10 PC is used here for demonstration). Make sure that the **Chat** option is selected from the left pane, click the **New Meeting** (**Camcorder**) icon from the upper-right area of the **Chat** pane, and click **Start meeting**.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Start video call on teams](https://images.wondershare.com/filmora/article-images/start-video-call-teams.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Open the Background settings Pane**
 
@@ -88,15 +82,8 @@ On the **Meeting with** box, turn on the **Video** and **Audio** switches if the
 
 From the images available in the **Background settings** pane on the right, click to select the one that you want to use as the background, and click **Join now** from under the preview window to Start/Join a meeting with a changed background.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![change background on teams before meeting](https://images.wondershare.com/filmora/article-images/change-background-in-teams-before-meeting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Change Your Microsoft Teams Background During a Meeting on Laptop?
 
 Microsoft Teams also allows you to switch to a different, more professional-looking background during an ongoing meeting session. The steps that are given below explain **how to change background in Microsoft Teams** in such scenarios:
@@ -105,19 +92,17 @@ Microsoft Teams also allows you to switch to a different, more professional-look
 
 Use the method explained in the previous section to get to the **Meeting with** box, turn on the **Video** and **Audio** switches from under the preview window, and click **Join now**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![join in Teams on meeting](https://images.wondershare.com/filmora/article-images/join-in-teams-meeting.jpg)
 
 **Step 2: Get to the Background settings Pane**
 
 While in an ongoing meeting session, click the **More actions** icon from the top-right area of the **Meeting with** box, and click **Apply background effects** from the menu that appears next.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply background on Teams meeting](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Change the Background**
 
@@ -139,15 +124,16 @@ Click **Add new** from the top of the **Background settings** pane, and pick you
 
 ![add new background on Teams ](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove an Uploaded Background**
 
 Click to select any other background from the **Background settings** pane, locate the custom image that you uploaded, click the **More** icon from the top-right of the tile, and click **Remove** to get rid of the custom background.
 
 ![add new custom background on Teams ](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Change Your Background Before/After a Meeting Starts on Mobile Devices?
 
 Even the mobile versions of Microsoft Teams let you change the background. However, the restriction is, you must start or join a meeting before the **More actions** icon appears at the bottom of the screen. To learn **how to change background in Microsoft Teams mobile app**, you can follow the step-by-step instructions that are given below:
@@ -156,10 +142,11 @@ Even the mobile versions of Microsoft Teams let you change the background. Howev
 
 Launch Microsoft Teams on your cellphone (iPhone X is used here for illustration). Ensure that the **Chat** option is selected from the bottom of the main screen, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the window, and tap **Start meeting** from the lower area of the **Instant meeting** box that pops up.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start video call on Teams ](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Get to the Select background Screen**
 
@@ -171,13 +158,14 @@ Once the meeting starts, tap the **More actions** icon from the bottom of the sc
 
 ![change background  on Teams mobile ](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On the **Select background** screen, tap to select an image to use it as the background. Alternatively, you can also tap the **+** tile to upload and use a custom image. After selecting a background, tap **Done** from the top-right corner of the screen to save the changes.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Filmora - Best Teams Meeting Recorder
 
 * Easily record an online meeting on PC and Mac.
@@ -196,9 +184,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Changing Background in Microsoft Teams Meeting
 
 **Q1) Can I add a video as background in Teams?**
@@ -222,13 +207,15 @@ You can find more details on this (<https://answers.microsoft.com/en-us/msteams/
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -236,3 +223,23 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-prevent-obss-blackout-while-recording-games/"><u>[New] 2024 Approved How to Prevent OBS's Blackout While Recording Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-next-level-recording-discover-budget-friendly-choices-for-2024/"><u>[New] Next-Level Recording Discover Budget-Friendly Choices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-uncluttered-desktop-recorder-w10/"><u>[New] Uncluttered Desktop Recorder W10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[Updated] 2024 Approved Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-ranking-the-most-rapidly-expanding-youtube-talks-of-inspiration/"><u>[Updated] 2024 Approved Ranking the Most Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-breakdown-vsdc-review-and-alternative-comparisons/"><u>[Updated] Expert Breakdown VSDC Review & Alternative Comparisons</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-preferred-options-superior-mac-video-capture-apps-for-2024/"><u>[Updated] Preferred Options Superior Mac Video Capture Apps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budget-friendly-multiview-camera-options-expanding-horizons-for-2024/"><u>Budget-Friendly Multiview Camera Options Expanding Horizons for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-michael-kors-access-gen-5e-mkgo-where-elegance-and-practicality-unite/"><u>In-Depth Review of the Michael Kors Access Gen 5E MKGO: Where Elegance and Practicality Unite</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-and-efficient-ipad-screen-recording-techniques-unveiled/"><u>Quick & Efficient iPad Screen Recording Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-the-superior-amazon-fire-tv-omnia-series-qled-get-an-immediate-discount-of-150-today/"><u>Save Big on the Superior Amazon Fire TV Omnia Series QLED - Get an Immediate Discount of $150 Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-and-affordable-vpn-deals-with-atlasvpn-enjoy-a-whopping-83-price-cut-in-our-special-privacy-promotion/"><u>Secure & Affordable VPN Deals with AtlasVPN - Enjoy a Whopping 83% Price Cut in Our Special Privacy Promotion!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-update-techniques-for-graphics-card-software-on-dell-inspiron-15-7001-g7/"><u>Speedy Update Techniques for Graphics Card Software on Dell Inspiron 15 7001 G7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-9-solutions-for-when-your-airpods-fail-to-charge/"><u>Top 9 Solutions for When Your AirPods Fail to Charge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-single-scenes-iphone-multi-media-magic-for-2024/"><u>Uniting Single Scenes IPhone Multi-Media Magic for 2024</u></a></li>
+</ul></div>
+
