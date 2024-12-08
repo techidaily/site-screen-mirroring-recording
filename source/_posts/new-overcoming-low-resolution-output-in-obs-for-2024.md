@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Overcoming Low-Resolution Output in OBS for 2024\""
-date: 2024-11-25T00:24:09.078Z
-updated: 2024-11-30T04:22:07.515Z
+date: 2024-12-01T10:10:43.021Z
+updated: 2024-12-08T00:46:49.683Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ Step 4: Click on Apply and Ok buttons. Restart your computer and start streaming
 
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 2\. Lower Your Frame Rate
 
 The frame rate of a video determines the number of frames captured per second. The higher the frame rate, the greater will be the pressure on GPU to render more number of frames per second. Unless you have a powerful configuration, you will come across OBS high encoding when streaming if the frame rate is high such as 60FPS. Here are the steps to lower the frame rate of your video on OBS.
@@ -48,6 +52,10 @@ Step 3: If it is set to 60, you have to bring it down to 30\. Basically, you hav
 Step 4: Click on Apply and Ok button to save the new setting. Restart your computer and resume your OBS operation.
 
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Change Encoder Preset
 
@@ -66,7 +74,11 @@ Step 5: Click on Apply and Ok button. Restart your computer and perform your act
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 4\. Try Hardware Encoding
@@ -86,7 +98,7 @@ Step 5: Click on Apply and Ok to save the settings. Restart your computer and pe
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 5\. Change Some Advanced Settings
@@ -107,6 +119,10 @@ Step 6: Click on Apply and Ok button to save the changes. Restart your computer 
 
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 6\. Use OBS Alternative
 
 If none of the above-mentioned ways can solve the constant encoding overloaded warning you are receiving while using OBS Studio for recording or streaming, you have to opt for an alternative. Wondershare Filmora is the best alternative to OBS for recording screen and webcam. Filmora does not affect the CPU performance as significantly as OBS Studio does. That is why the encoding overloaded issue is unlikely to occur in Filmora.
@@ -125,10 +141,6 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -140,7 +152,7 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -165,10 +177,6 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -192,11 +200,7 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -211,23 +215,19 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -257,24 +257,22 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/levating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube-for-2024/"><u>[New] Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-easy-setup-routines-to-preserve-gotomeeting-discussions/"><u>[New] In 2024, Easy Setup Routines to Preserve GoToMeeting Discussions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-live-stream-recorder-companies/"><u>[New] In 2024, Live Stream Recorder Companies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-jolly-video-recorder-critique-for-2024/"><u>[New] Jolly Video Recorder Critique for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-which-should-you-use-obs-studio-or-bandicam/"><u>[New] Which Should You Use, OBS Studio or Bandicam?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-how-to-master-these-7-expert-graders/"><u>[Updated] 2024 Approved Step-by-Step How to Master These 7 Expert Graders</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-foreground-emphasis-tips-for-logitech-video-recordings-for-2024/"><u>[Updated] Foreground Emphasis Tips for Logitech Video Recordings for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimizing-youtube-and-twitch-with-obs-streaming-techniques/"><u>[Updated] In 2024, Optimizing YouTube & Twitch with OBS Streaming Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-creative-twists-transformative-text-in-imagery/"><u>[Updated] In 2024, Unveiling Creative Twists Transformative Text in Imagery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-poll-power-players-guide-quintessential-voting-simulations/"><u>[Updated] Poll Power Players' Guide Quintessential Voting Simulations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlined-techniques-to-record-screen-dialogue/"><u>[Updated] Streamlined Techniques to Record Screen Dialogue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-box-enthusiasm/"><u>[Updated] The Ultimate Guide to Box Enthusiasm</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-the-premier-5-windows-snipping-apps-for-2024/"><u>[Updated] Unveiling the Premier 5 Windows Snipping Apps for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-diy-remote-podcast-production-tips/"><u>2024 Approved DIY Remote Podcast Production Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-10-tech-tools-and-apps-every-student-needs-in-high-school/"><u>Best 10 Tech Tools and Apps Every Student Needs in High School</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bringing-your-disconnected-hp-printer-online-in-w8/"><u>Bringing Your Disconnected HP Printer Online in W8</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-forces-with-youtube-the-2024-partner-program-journey/"><u>Joining Forces with YouTube The 2024 Partner Program Journey</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revamping-undead-gaming-the-ultimate-review-of-7-days-to-lives-fun-and-fresh-approach/"><u>Revamping Undead Gaming: The Ultimate Review of 7 Days to Live's Fun and Fresh Approach</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-source-for-in-depth-hardware-analysis-toms-equipment-advice/"><u>The Ultimate Source for In-Depth Hardware Analysis - Tom's Equipment Advice</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-effective-methods-for-capturing-youtube-live-broadcasts/"><u>[New] 2024 Approved Effective Methods for Capturing YouTube Live Broadcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update-for-2024/"><u>[New] A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-youtube-presence-filmmaking-with-filmora/"><u>[New] Elevate Your YouTube Presence Filmmaking with Filmora</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-bypassing-vimeo-top-10-editing-software-choices/"><u>[New] In 2024, Bypassing Vimeo Top 10 Editing Software Choices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-step-by-step-guide-to-effective-screen-recording-with-mobizen/"><u>[New] In 2024, Step-by-Step Guide to Effective Screen Recording with Mobizen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-efficacy-of-vlcs-screen-recording/"><u>[New] In 2024, The Efficacy of VLC's Screen Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-splitscreen-study/"><u>[New] SplitScreen Study</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-screencast-strategies-secrets-for-video-creators-for-2024/"><u>[Updated] Pro Screencast Strategies Secrets for Video Creators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>2024 Approved Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-professional-smoothness-blurring-the-video-backdrop/"><u>2024 Approved Professional Smoothness Blurring the Video Backdrop</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertissez-gratuitement-vos-fichiers-dts-en-format-m4v-avec-un-convertisseur-en-ligne-movavi/"><u>Convertissez Gratuitement Vos Fichiers DTS en Format M4V Avec Un Convertisseur en Ligne - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo X Fold 2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>In 2024, StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unlocking-creative-power-in-logic-pro-x-with-these-top-8-plugins/"><u>New In 2024, Unlocking Creative Power in Logic Pro X with These Top 8 Plugins</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard-for-2024/"><u>Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard for 2024</u></a></li>
 </ul></div>
 

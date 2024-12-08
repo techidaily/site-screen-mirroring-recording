@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Engaging Effectively in Online Google Meet Talks"
-date: 2024-08-10T08:38:29.926Z
-updated: 2024-08-11T08:38:29.926Z
+date: 2024-12-06T06:08:27.465Z
+updated: 2024-12-08T12:36:15.267Z
 tags: 
   - screen-recording
   - ai video
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 
 ## Engaging Effectively in Online Google Meet Talks
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 # How to Chat on Google Meet ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -66,8 +63,9 @@ As soon as you press the arrow, your message will be visible to all the members 
 ![Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Chat in Google Meet Mobile App?
 
 Don’t have your laptop on you and you need to attend a Google Meet conference and use the chat feature? Well, you can easily use the chat feature on your mobile device as well!
@@ -76,26 +74,31 @@ The first thing is first, join a Google Meet conference on your Google Meet mobi
 
 After you have joined the meeting, tap on the further options button located at the bottom of your screen. This is the button that has three dots on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you press the further options button on Google Meet, more options will show up regarding subtitles, adding new participants to the meeting, and more. From all of these many options, you must select the “in-call messages” option, to enable private chatting on Google Meet.
 
 ![Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
 ![Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Create a Group Chat on Google Meet?
 
@@ -129,28 +132,26 @@ Simply join the meeting that you would like to become a part of.
 
 Once you have joined the Google Meet session, make your way over to the bottom right side of your screen and locate the speech bubble icon and click that.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Google Meet chat option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
 ![Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 7: How to Turn off Google Meet Chat?
 
 Getting tired of all the messages being shared across the Google Meet session? Sending too many messages can be quite distracting. Moreover, individuals can also misuse the cat feature on Google Meet to send hostile or inappropriate messages during a professional work session. Therefore, hosts have the option of disabling messages on Google Meet as well.
@@ -165,14 +166,16 @@ After joining the session, make your way to the host settings of the meeting. To
 
 A popup will appear on the right-hand side of your screen with options and settings. From these settings click on the “send chat messages” button to disable the chat feature.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: How to Retrieve Google Meet Chat History?
 
 Unlike Google Hangouts, individuals cannot retrieve chats on Google Meet. Once the call has ended the chat is automatically deleted. Unless the [video meeting is recorded](https://tools.techidaily.com/wondershare/filmora/download/) with a Google Workspace account, the chat in Google Meet is archived.
@@ -181,9 +184,6 @@ Unlike Google Hangouts, individuals cannot retrieve chats on Google Meet. Once t
 
 Making use of the Google Meets chat feature can be extremely handy and helpful if a participant in a meeting wants to convey a message, but does not want to interrupt the session. Individuals can share messages, links, and emojis with all participants in the session. Not only that, but individuals can use the chat feature on their laptops as well as their mobile devices. The chat feature is very easy to make use of, just follow a few simple steps and you will be good to go!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -192,8 +192,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -201,5 +199,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-echoes-of-chuckles-parody-playlists/"><u>[New] 2024 Approved Echoes of Chuckles Parody Playlists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-expressive-film-conclusions-available-on-the-free-shelf/"><u>[New] 2024 Approved Expressive Film Conclusions Available on the Free Shelf</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-screen-capture-tool-2021/"><u>[New] 2024 Approved Ultimate Screen Capture Tool 2021</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-what-is-the-difference-between-youtube-and-dailymotion/"><u>[New] 2024 Approved What Is the Difference Between YouTube and Dailymotion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-affordable-action-cams-for-beginners/"><u>[New] Affordable Action Cams for Beginners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-image-recording-assistant/"><u>[New] Image Recording Assistant</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-the-secret-to-insta-cash-with-our-guidebook/"><u>[New] Unlock the Secret to Insta Cash with Our Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-earning-the-big-bucks-as-a-youtube-star-for-2024/"><u>[Updated] Earning the Big Bucks as a YouTube Star for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-peaceful-playtimes-premium-pc-titles/"><u>[Updated] In 2024, Peaceful Playtimes Premium PC Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-record-screen-and-video-on-android/"><u>How to Record Screen and Video on Android?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-5-ways-to-record-vr-gameplay/"><u>In 2024, 5 Ways to Record VR Gameplay</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6s-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6s Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-8-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 8</u></a></li>
+</ul></div>
 

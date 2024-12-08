@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize the Save Spot of Mac Images"
-date: 2024-11-24T06:29:01.326Z
-updated: 2024-11-30T02:12:25.413Z
+date: 2024-11-30T22:45:06.068Z
+updated: 2024-12-08T05:58:44.231Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -53,7 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,10 +61,6 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -75,7 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -89,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -103,6 +99,10 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,24 +119,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamlining-minecraft-recordings-on-apple-devices/"><u>[New] 2024 Approved Streamlining Minecraft Recordings on Apple Devices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-a-stepwise-approach-to-designing-powerful-edu-vids-on-social-media/"><u>[New] In 2024, A Stepwise Approach to Designing Powerful Edu-Vids on Social Media</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-pairing-best-6-video-capture-tools-for-macos-for-2024/"><u>[New] Perfect Pairing Best 6 Video Capture Tools for MacOS for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-selection-top-voice-recorders-for-macos/"><u>[New] The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-guide-streaming-games-with-ease-on-rust-legacy/"><u>[New] Ultimate Guide Streaming Games with Ease on Rust Legacy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-tips-for-efficiently-using-ez-grabber/"><u>[Updated] 2024 Approved Essential Tips for Efficiently Using EZ Grabber</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-from-raw-footage-to-mov-windows-10-filming-techniques/"><u>[Updated] In 2024, From Raw Footage to MOV Windows 10 Filming Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-gaming-evolution-top-7-stardew-valley-enhancements-7/"><u>[Updated] In 2024, Gaming Evolution Top 7 Stardew Valley Enhancements (#7)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-jokejumper-generate-meme-graphics-instantly/"><u>[Updated] In 2024, JokeJumper Generate Meme Graphics Instantly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-game-video-a-detailed-tool-analysis/"><u>[Updated] In-Game Video A Detailed Tool Analysis</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-advanced-techniques-to-save-snapchat-stories-on-devices/"><u>2024 Approved Advanced Techniques to Save Snapchat Stories on Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-simple-snippets-for-iphone-sound-capture/"><u>2024 Approved Simple Snippets for iPhone Sound Capture</u></a></li>
-<li><a href="https://win-blog.techidaily.com/achieve-optimal-horizon-zero-dawn-performance-tips-to-increase-frame-rates-and-enhance-playability/"><u>Achieve Optimal Horizon Zero Dawn Performance: Tips to Increase Frame Rates & Enhance Playability</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-choices-best-6-mac-video-grabber-apps-for-2024/"><u>Cutting-Edge Choices Best 6 Mac Video Grabber Apps for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s18-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S18 Phones with/without a PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-launch-strategies-for-fb-generosity-campaigns/"><u>In 2024, Launch Strategies for FB Generosity Campaigns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/league-of-legends-update-woes-heres-how-you-can-fix-those-dragging-downloads/"><u>League of Legends Update Woes? Here's How You Can Fix Those Dragging Downloads!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-mac-best-screen-capture-applications-reviewed/"><u>Mastering Mac Best Screen Capture Applications Reviewed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/smirk-spectacle-catching-the-funniest-twitter-talents-for-2024/"><u>Smirk Spectacle Catching the Funniest Twitter Talents for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-google-meeting-documentation-a-time-saving-guide/"><u>[New] 2024 Approved Mastering Google Meeting Documentation A Time-Saving Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-screen-decoder-for-2024/"><u>[New] Capture Screen Decoder for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-team-call-aesthetics-before-and-after/"><u>[New] Enhancing Team Call Aesthetics Before & After</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quickcapture-for-windows-ultimate-for-2024/"><u>[New] QuickCapture for Windows Ultimate for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-single-frame-snipping-capturing-stillness-from-videos-in-photos-for-2024/"><u>[New] Single-Frame Snipping Capturing Stillness From Videos in Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fix-disrupted-video-streams-in-instagram-reels/"><u>[Updated] 2024 Approved Fix Disrupted Video Streams in Instagram Reels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-key-practices-for-screen-recording-on-phones/"><u>2024 Approved Key Practices for Screen Recording on Phones</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-video-recording-for-windows-users/"><u>Cutting-Edge Video Recording for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-11-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 11 screen lock without password?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-gameplay-preservation-in-windows-10/"><u>Navigating Gameplay Preservation in Windows 10</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579057583-open-new-doors-in-life-and-career-by-learning-hindi-reveal-top-8-reasons-to-choose-mondlys-platform/"><u>Open New Doors in Life and Career by Learning Hindi: Reveal Top 8 Reasons to Choose Mondly's Platform!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-photography-dampening-disarray-for-2024/"><u>Precision Photography Dampening Disarray for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-windows-10-tutorial-for-simple-video-trimming/"><u>Quick Windows 10 Tutorial for Simple Video Trimming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-fast-and-the-curious-unveiling-the-pros-and-cons-of-the-oneplus-8ts-cameras/"><u>The Fast and the Curious: Unveiling the Pros and Cons of the OnePlus 8T's Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/trending-picture-tales-history-revealed/"><u>Trending Picture Tales History Revealed</u></a></li>
 </ul></div>
 

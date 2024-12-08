@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Addressing Inaudible Audio  Steps for OBS Broadcasting for 2024\""
-date: 2024-11-23T18:37:22.721Z
-updated: 2024-11-30T01:25:16.119Z
+date: 2024-12-04T01:08:54.118Z
+updated: 2024-12-08T06:36:40.045Z
 tags: 
   - screen-recording
   - ai video
@@ -31,19 +31,27 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -54,10 +62,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -70,7 +74,7 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -83,10 +87,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -96,10 +96,6 @@ Try recording with your speakers as the default playback device instead of headp
 * Select the Set Default option and click the Apply button.
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
 
@@ -111,7 +107,7 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -123,6 +119,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -162,24 +162,20 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-effortless-capture-winmac-tools-to-record-desktop-screens/"><u>[New] 2024 Approved Effortless Capture Win/Mac Tools to Record Desktop Screens</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-circle-construction-in-minecraft-the-ultimate-guide-for-2024/"><u>[New] Circle Construction in Minecraft The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-spice-up-social-media-create-memes-on-kapwing/"><u>[New] Spice Up Social Media - Create Memes on Kapwing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-flawless-frame-grabber-selection-no-lag-included/"><u>[Updated] 2024 Approved Flawless Frame Grabber Selection - No Lag Included</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfecting-speech-interpretation-using-google-tools/"><u>[Updated] 2024 Approved Perfecting Speech Interpretation Using Google Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-technique-for-capturing-time-on-iphone/"><u>[Updated] 2024 Approved The Ultimate Technique for Capturing Time on iPhone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-conquer-all-platforms-your-key-to-recording-hulu-effortlessly/"><u>[Updated] Conquer All Platforms - Your Key to Recording Hulu Effortlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/anti-impersonation-device-openais-ai-to-spot-gpt-text-tricks/"><u>Anti-Impersonation Device: OpenAI's AI to Spot GPT Text Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cost-effective-asrock-b760m-pro-rs-review-unmatched-value-for-multiple-m2-ssds-installation/"><u>Cost-Effective ASRock B760M Pro RS Review - Unmatched Value for Multiple M.2 SSDs Installation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/crafting-immersive-video-experiences-using-captivate-for-2024/"><u>Crafting Immersive Video Experiences Using Captivate for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/essential-tech-recording-movies-in-win-11/"><u>Essential Tech Recording Movies in Win 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016366022-expert-tips-for-making-your-stereo-audio-work-again-problems-addressed/"><u>Expert Tips for Making Your Stereo Audio Work Again - Problems Addressed</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-tiktok-content-via-zoom-tools/"><u>In 2024, Optimizing TikTok Content via Zoom Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-iphone-gif-management/"><u>In 2024, The Ultimate Guide to iPhone GIF Management</u></a></li>
-<li><a href="https://fox-links.techidaily.com/precision-and-vividness-with-the-benq-sw320-4k-monitor-for-2024/"><u>Precision & Vividness with the BenQ SW320 4K Monitor for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/reviving-obs-sound-capture-steps/"><u>Reviving OBS Sound Capture Steps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-boosting-signal-with-the-reliable-netgear-nighthawk-x6s-wi-fi-extender/"><u>The Ultimate Guide to Boosting Signal with the Reliable Netgear Nighthawk X6S Wi-Fi Extender</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-21-monitors-showdown-the-clear-winners/"><u>Ultimate 2.1 Monitors Showdown - The Clear Winners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-smooth-techniques-painless-ios-screen-recordings/"><u>[New] 2024 Approved Smooth Techniques Painless iOS Screen Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-ways-to-fix-obs-black-screen-game-capture-for-2024/"><u>[New] 5 Ways to Fix OBS Black Screen Game Capture for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-frame-rate-considerations-for-high-quality-videos-for-2024/"><u>[New] Frame Rate Considerations for High-Quality Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-hourly-hitlist-the-leading-youtube-videos-by-watch-time/"><u>[Updated] 2024 Approved Hourly Hitlist The Leading YouTube Videos by Watch Time</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-reviving-relics-seamless-access-to-old-fb-narratives-on-tech/"><u>[Updated] 2024 Approved Reviving Relics Seamless Access to Old FB Narratives on Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-crafting-traditional-eastern-abodes-in-mc-world/"><u>2024 Approved Crafting Traditional Eastern Abodes in MC World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-srt-to-sub-masterful-conversion-methods-explored-for-2024/"><u>From SRT to SUB Masterful Conversion Methods Explored for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/funny-noise-finder-a-directory-of-humorous-audio-elements-for-2024/"><u>Funny Noise Finder A Directory of Humorous Audio Elements for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-master-the-art-of-console-game-recording-with-computer-assistance/"><u>In 2024, Master the Art of Console Game Recording with Computer Assistance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-pixels-to-perfection-design-tips-for-captivating-banners/"><u>In 2024, Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-picks-for-effortless-video-editing-on-pc/"><u>In 2024, Top Picks for Effortless Video Editing on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/master-live-broadcast-a-step-by-step-guide-to-recording-webcam-via-vlc-for-2024/"><u>Master Live Broadcast A Step-by-Step Guide to Recording Webcam via VLC for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/no-wifi-no-problem-how-to-manually-install-windows-drivers-at-home/"><u>No WiFi? No Problem! How to Manually Install Windows Drivers at Home</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/superior-screen-refinement-software-for-video-lovers/"><u>Superior Screen Refinement Software for Video Lovers</u></a></li>
 </ul></div>
 
