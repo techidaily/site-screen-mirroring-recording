@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Best Zero Cost Chromebook Recorders"
-date: 2024-08-10T08:39:59.386Z
-updated: 2024-08-11T08:39:59.386Z
+date: 2024-12-10T13:15:52.704Z
+updated: 2024-12-14T07:20:12.453Z
 tags: 
   - screen-recording
   - ai video
@@ -31,27 +31,22 @@ Screencastify is a free screen recorder Chrome extension. Be that as it may, cli
 
 Tap "Add to Chrome" on Screencastify's Chrome Web Store posting. Tap the Screencastify symbol in the upper right corner of your Chrome program to send off it. Sign in with a Google account.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screencastify site](https://images.wondershare.com/filmora/article-images/screencastify-site.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Start Recording from Extension**
 
 Tap the Screencastify symbol in the upper right corner of your Chrome program again and tap "Record". From there, decide to record "Your Entire Screen" to record the whole presentation.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screencastify recording](https://images.wondershare.com/filmora/article-images/screencastify-extension.jpg)
 
 **Step 3: Save the Recording**
 
 At the point when you're finished recording, tap the "Stop" symbol in the recording controls at the lower part of the screen. Name the video you recorded and close the tab to allow Screencastify to wrap up handling the video and saving the video to Google Drive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Nimbus
 
 Nimbus Screenshot and screen video recorder is a screen recording apparatus accessible for download in the chrome web store. This screen recording apparatus functions as a program extension for most workstations including Chromebooks. It assists you with recording both the inner and outside sound easily and will be an ideal fit assuming that you're anticipating recording screencasts, instructional exercises, item show recordings, and so forth It at present has over 10,00,000 million dynamic clients across the globe.
@@ -62,10 +57,11 @@ Nimbus Capture is fit for recording a particular region or the entire web screen
 
 Open Chrome Web Store, enter Nimbus in the hunt box. Add Nimbus Screenshot and Screen Video Recorder to Chrome by tapping the blue "Add to Chrome".
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nimbus recorder](https://images.wondershare.com/filmora/article-images/nimbus-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2\. Customize the Extension**
 
@@ -73,9 +69,17 @@ Send off the extension, click "Record video". You can redo sound and video setti
 
 ![nimbus capture options](https://images.wondershare.com/filmora/article-images/nimbus-capture-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Start/Stop Recording**
 
 Click "Start Record" to send off the recording. To delay or end the recording, simply click the extension and pick "Pause" or "Quit Recording".
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. OpenVid Chromebook Screen Recorder
 
@@ -107,23 +111,21 @@ Screencast-O-Matic permits you to record both the webcam just as your screen all
 
 Send off the screen recorder easily through the Chrome extension, click "Open Free Recorder." Follow prompts in the program as important to open and download the launcher. from that point, you can easily record your screen and additionally webcam for as long as 15 minutes/video.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screencast o matic](https://images.wondershare.com/filmora/article-images/screen-o-matic.jpg)
 
 **Step 2: Customize the Screen Recorder Extension**
 
 Change portrayal settings for receiver and PC sound If you've chosen 'PC screen' or 'both,' change the border of the specked square shape outlining your screen to fit the segment of the screen you wish to record. Press the record "Rec" button to begin recording
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run screencast o matic](https://images.wondershare.com/filmora/article-images/running-screen-o-matic-screen-recorder.jpg)
 
 **Step 3: Save the Recording**
 
 Press the Pause button to briefly quit recording. After clicking "Done," click "Save/Upload" to save your video. If you picked the "Transfer to Screencast-o-Matic.com" choice when you distributed your video, it will be accessible when you sign in to your Screencast-o-Matic account
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Loom
 
@@ -141,9 +143,6 @@ Sign for Loom's free individuals and then add Loom's Chrome extension to Chrome 
 
 Click on "New Video" > Record a Video and then customize the screen for recording on Chromebook.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![set up loom extensions](https://images.wondershare.com/filmora/article-images/loom.jpg)
 
 **Step 3: Start/Save Recording**
@@ -176,8 +175,26 @@ Chromebooks accompany a pre-introduced screen recorder that permits all Chromebo
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-immersive-experience-creating-rich-skype-recordings-using-obs/"><u>[New] 2024 Approved Immersive Experience Creating Rich Skype Recordings Using OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-ios-simulators-for-virtual-playstation-experience-for-2024/"><u>[New] Ultimate iOS Simulators for Virtual PlayStation Experience for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-finest-videophone-tools-free-edition-listed-here/"><u>[Updated] 2024 Approved The Finest Videophone Tools Free Edition Listed Here</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-28-practical-tips-for-streaming-online-courses-on-a-budget/"><u>[Updated] 28 Practical Tips for Streaming Online Courses on a Budget</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-sniping-software-for-mac-users-for-2024/"><u>[Updated] Best Sniping Software for Mac Users for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture/"><u>[Updated] In 2024, Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-resolving-disabled-state-of-obs-fullscreen/"><u>[Updated] Resolving Disabled State of OBS Fullscreen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-list-of-highest-rated-free-video-editing-apps-for-idevices/"><u>[Updated] Ultimate List of Highest-Rated Free Video Editing Apps for iDevices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-snaps-the-soundtrack-edition/"><u>2024 Approved Elevate Your Snaps The Soundtrack Edition</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/conversion-de-fichiers-audio-gratuit-transformez-votre-fichier-aiff-en-avi-avec-movavi-online/"><u>Conversion De Fichiers Audio Gratuit : Transformez Votre Fichier AIFF en AVI Avec Movavi Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevating-performance-tips-for-eliminating-lag-and-enhancing-fps-in-the-ascent/"><u>Elevating Performance: Tips for Eliminating Lag and Enhancing FPS in 'The Ascent'</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/gpu-chronicles-radeon-reimagined-for-2024/"><u>GPU Chronicles Radeon Reimagined for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuito-conversor-de-imagens-para-video-em-mpeg-on-line-movavi/"><u>Gratuito Conversor De Imagens Para Vídeo Em MPEG On-Line - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-movavi-screencapturer-pro-review-and-analysis/"><u>In 2024, Movavi ScreenCapturer Pro Review & Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>In 2024, The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-virtual-recording-tools-online/"><u>In 2024, Top Virtual Recording Tools Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/no-cost-recording-solutions-windows-tech-hacks-for-2024/"><u>No-Cost Recording Solutions Windows Tech Hacks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/restore-pristine-photos-easily-discover-top-10-online-enhancers-for-2024/"><u>Restore Pristine Photos Easily Discover Top 10 Online Enhancers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-xcom-2-game-crashes-on-pc-with-windows-os/"><u>Troubleshooting Guide: Fixing XCOM 2 Game Crashes on PC with Windows OS</u></a></li>
+</ul></div>
 

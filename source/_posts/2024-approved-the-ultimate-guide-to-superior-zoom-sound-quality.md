@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Superior Zoom Sound Quality\""
-date: 2024-08-24T11:44:05.756Z
-updated: 2024-08-25T11:44:05.756Z
+date: 2024-12-06T23:31:31.419Z
+updated: 2024-12-14T05:40:11.367Z
 tags: 
   - screen-recording
   - ai video
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 # Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -41,142 +34,8 @@ Apart from this, you will also learn some of the best troubleshooting practices 
 * [Part 3: Zoom Audio Troubleshooting](#part3)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## How to Set Up Audio in Zoom Meeting?
-
-A broad-spectrum is covered when talking about **Zoom meeting audio settings** since the meeting audio can be configured in both before/after or during a meeting. Working with **Zoom audio settings** in both scenarios is discussed below in detail:
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
-### Part 1: Zoom Audio Settings When Before Meeting
-
-If you are not already in a Zoom meeting and want to configure sound settings to get the best audio experience, you can follow the process given below:
-
-**Note:** A Windows 10 computer is used here to set up and configure audio settings in Zoom.
-
-#### Step 1: Access Zoom Audio Settings Box
-
-Launch Zoom, click the **Settings** (**Gear**) icon from the top-right corner and go to the **Audio** category from the navigation bar in the left of the **Settings** box that opens up next.
-
-![ Zoom Meeting Settings icon](https://images.wondershare.com/filmora/article-images/zoom-meeting-setting.jpg)
-
-#### Step 2: Select and Test Output Device
-
-Use the **Speaker** drop-down list to pick your preferred output device (e.g., speakers, headphone, etc.), and click **Test Speaker** to listen to the sound that Zoom plays. Use the **Volume** slider to adjust the output volume at a suitable level.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ Zoom Meeting Settings - Audio ](https://images.wondershare.com/filmora/article-images/zoom-meeting-settings-audio.jpg)
-
-#### Step 3: Select and Test Microphone
-
-Use the **Microphone** drop-down list to select an audio input source (typically a microphone), and click **Test Mic** to check if it is working fine. Use the **Volume** slider to adjust the input sound level manually. Alternatively, you can keep the **Automatically adjust volume** box checked to let Zoom automatically manage the input volume level as per the surrounding environment.
-
-### Part 2: Zoom Audio Settings During an Ongoing Meeting
-
-As you initiate or join a Zoom meeting, the app pops up a box asking you to join the meeting with computer audio or test if the speaker and microphone are working before joining. On this box, you can also check the **Automatically join audio by computer when joining a meeting** box at the bottom to automatically use the computer’s sound device for audio output and input every time you host or participate in a meeting.
-
-![Join Zoom Meeting ](https://images.wondershare.com/filmora/article-images/zoom-meeting-join.jpg)
-
-Once you are in a conference, there are a couple of things you can do to manage the audio. The process of doing so is explained below in detail:
-
-#### Tip 1: [Mute Audio](https://tools.techidaily.com/wondershare/filmora/download/)
-
-During an ongoing meeting, click the **Microphone** icon present at the bottom-left corner of the main window to disable it. Click the icon again to re-enable the mic.
-
-![Zoom Zoom Meeting Audio](https://images.wondershare.com/filmora/article-images/zoom-meeting-mute-audio.jpg)
-
-#### Tip 2: Choose Output Device
-
-Click the small up arrow next to the **Microphone** icon, and click to select your preferred output device (speakers, headsets, etc.) from the **Select a Speaker** section of the menu that appears.
-
-![Zoom Zoom Meeting Audio Speaker Setting](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-speaker-settings.jpg)
-
-#### Tip 3: Choose Input Device
-
-While on the menu as explained in **Tip 2**, select an input device from the **Select a Microphone** section.
-
-### Zoom Audio Poor Quality Troubleshooting
-
-While you are in a Zoom meeting, you might experience some issues related to the audio. These might be due to unmanaged positioning of the hardware devices, improper configurations of the **Zoom audio settings**, or both. Some of the most common Zoom audio problems and their possible solutions are discussed below:
-
-![ Zoom Meeting Settings Advanced Audio Settings ](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-advanced-settings.jpg)
-
-#### Zoom Audio Issue 1: Audio Feedback Loop
-
-##### What Is It?
-
-Audio feedback loop is when your voice keeps repeating itself for an indefinite number of times and never stops whatsoever.
-
-Related: [6 Top Voice Changer for Zoom](https://tools.techidaily.com/wondershare/filmora/download/)
-
-##### How It Happens?
-
-When you are using external speakers and microphone, and both are placed nearby, any sound that comes out of the speaker is received by the microphone. If Zoom is configured to accept sounds from system audio, the mic sends the signals back to the speakers that again send the audio output to the mic. Since this iteration never ends, you continuously hear an audio feedback loop.
-
-##### How to Resolve the Audio Loop in Zoom Meeting?
-
-In order to eliminate this issue, make sure to place both microphone and speakers at a safe distance from each other. This would prevent the microphone from receiving any output from the speakers, and the chain of audio feedback loop would never take place.
-
-#### Zoom Audio Issue 2: Background Noise
-
-##### What Is It?
-
-Background noise is the distortion or humming that you hear during an audio call on zoom.
-
-##### Why I hear background noise in Zoom Meeting?
-
-If you have a highly sensitive microphone that is mostly used by professionals or in recording studios, the chances are that it will catch a lot of background noise during a Zoom meeting.
-
-##### How to remove the background noise in Zoom meeting?
-
-This issue can be resolved by either hosting or joining a meeting in a closed, soundproof room, or using a less sensitive mic. It would be best if you use a normal headset that is easily available in any local electronic shop. You can also try enabling the **Automatically adjust volume** option from the **Microphone** section of the **Audio** category of the **Settings** box as explained earlier in **Step 3** of the **Zoom Audio Settings When Not in Meeting** section.
-
-#### Zoom Audio Issue 3: Echo
-
-##### What Is It?
-
-**Zoom audio echo** is when you hear an echo sound during an ongoing Zoom meeting with audio enabled.
-
-##### How It Happens?
-
-Echo happens when you are on a laptop and are using onboard speakers and microphone, and that too with the speaker or mic volume set to maximum.
-
-##### How to remove the echo in the Zoom meeting?
-
-As mentioned earlier, it is always advisable to use a headset to avoid any such unwanted echo or audio feedback loop issues. In case you don’t have access to a headset, try configuring the microphone settings to automatically adjust the volume, and not putting the speaker volume to the max.
-
-**Conclusion**
-
-Configuring **Zoom audio settings** before hosting or joining a meeting is always a wise approach to avoid any audio inconsistencies during an ongoing conference. However, if you are already in one, you can use the methods given above to configure the microphone settings to get the audio right. You are also encouraged to use an average quality headset during a Zoom meeting to avoid any **Zoom audio echo**, feedback loop, or background noises.
-
-Related: [How to Improve Video Quality in Zoom Meetings?](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Are you confused about how to configure **Zoom audio settings** to get the best sound quality during a meeting? If yes, here you will learn all about Zoom audio, its configuration, and the best way you can use the options to get the best out of your speakers and microphone.
-
-Apart from this, you will also learn some of the best troubleshooting practices if the audio is acting up during an ongoing Zoom conference.
-
-* [Part 1: How to Set up Zoom Audio When Before Meeting](#part1)
-* [Part 2: How to Set up Zoom Audio During Meeting](#part2)
-* [Part 3: Zoom Audio Troubleshooting](#part3)
 
 ## How to Set Up Audio in Zoom Meeting?
 
@@ -208,156 +67,6 @@ Use the **Microphone** drop-down list to select an audio input source (typically
 
 As you initiate or join a Zoom meeting, the app pops up a box asking you to join the meeting with computer audio or test if the speaker and microphone are working before joining. On this box, you can also check the **Automatically join audio by computer when joining a meeting** box at the bottom to automatically use the computer’s sound device for audio output and input every time you host or participate in a meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Join Zoom Meeting ](https://images.wondershare.com/filmora/article-images/zoom-meeting-join.jpg)
-
-Once you are in a conference, there are a couple of things you can do to manage the audio. The process of doing so is explained below in detail:
-
-#### Tip 1: [Mute Audio](https://tools.techidaily.com/wondershare/filmora/download/)
-
-During an ongoing meeting, click the **Microphone** icon present at the bottom-left corner of the main window to disable it. Click the icon again to re-enable the mic.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Zoom Zoom Meeting Audio](https://images.wondershare.com/filmora/article-images/zoom-meeting-mute-audio.jpg)
-
-#### Tip 2: Choose Output Device
-
-Click the small up arrow next to the **Microphone** icon, and click to select your preferred output device (speakers, headsets, etc.) from the **Select a Speaker** section of the menu that appears.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Zoom Zoom Meeting Audio Speaker Setting](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-speaker-settings.jpg)
-
-#### Tip 3: Choose Input Device
-
-While on the menu as explained in **Tip 2**, select an input device from the **Select a Microphone** section.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-### Zoom Audio Poor Quality Troubleshooting
-
-While you are in a Zoom meeting, you might experience some issues related to the audio. These might be due to unmanaged positioning of the hardware devices, improper configurations of the **Zoom audio settings**, or both. Some of the most common Zoom audio problems and their possible solutions are discussed below:
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ Zoom Meeting Settings Advanced Audio Settings ](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-advanced-settings.jpg)
-
-#### Zoom Audio Issue 1: Audio Feedback Loop
-
-##### What Is It?
-
-Audio feedback loop is when your voice keeps repeating itself for an indefinite number of times and never stops whatsoever.
-
-Related: [6 Top Voice Changer for Zoom](https://tools.techidaily.com/wondershare/filmora/download/)
-
-##### How It Happens?
-
-When you are using external speakers and microphone, and both are placed nearby, any sound that comes out of the speaker is received by the microphone. If Zoom is configured to accept sounds from system audio, the mic sends the signals back to the speakers that again send the audio output to the mic. Since this iteration never ends, you continuously hear an audio feedback loop.
-
-##### How to Resolve the Audio Loop in Zoom Meeting?
-
-In order to eliminate this issue, make sure to place both microphone and speakers at a safe distance from each other. This would prevent the microphone from receiving any output from the speakers, and the chain of audio feedback loop would never take place.
-
-#### Zoom Audio Issue 2: Background Noise
-
-##### What Is It?
-
-Background noise is the distortion or humming that you hear during an audio call on zoom.
-
-##### Why I hear background noise in Zoom Meeting?
-
-If you have a highly sensitive microphone that is mostly used by professionals or in recording studios, the chances are that it will catch a lot of background noise during a Zoom meeting.
-
-##### How to remove the background noise in Zoom meeting?
-
-This issue can be resolved by either hosting or joining a meeting in a closed, soundproof room, or using a less sensitive mic. It would be best if you use a normal headset that is easily available in any local electronic shop. You can also try enabling the **Automatically adjust volume** option from the **Microphone** section of the **Audio** category of the **Settings** box as explained earlier in **Step 3** of the **Zoom Audio Settings When Not in Meeting** section.
-
-#### Zoom Audio Issue 3: Echo
-
-##### What Is It?
-
-**Zoom audio echo** is when you hear an echo sound during an ongoing Zoom meeting with audio enabled.
-
-##### How It Happens?
-
-Echo happens when you are on a laptop and are using onboard speakers and microphone, and that too with the speaker or mic volume set to maximum.
-
-##### How to remove the echo in the Zoom meeting?
-
-As mentioned earlier, it is always advisable to use a headset to avoid any such unwanted echo or audio feedback loop issues. In case you don’t have access to a headset, try configuring the microphone settings to automatically adjust the volume, and not putting the speaker volume to the max.
-
-**Conclusion**
-
-Configuring **Zoom audio settings** before hosting or joining a meeting is always a wise approach to avoid any audio inconsistencies during an ongoing conference. However, if you are already in one, you can use the methods given above to configure the microphone settings to get the audio right. You are also encouraged to use an average quality headset during a Zoom meeting to avoid any **Zoom audio echo**, feedback loop, or background noises.
-
-Related: [How to Improve Video Quality in Zoom Meetings?](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Are you confused about how to configure **Zoom audio settings** to get the best sound quality during a meeting? If yes, here you will learn all about Zoom audio, its configuration, and the best way you can use the options to get the best out of your speakers and microphone.
-
-Apart from this, you will also learn some of the best troubleshooting practices if the audio is acting up during an ongoing Zoom conference.
-
-* [Part 1: How to Set up Zoom Audio When Before Meeting](#part1)
-* [Part 2: How to Set up Zoom Audio During Meeting](#part2)
-* [Part 3: Zoom Audio Troubleshooting](#part3)
-
-## How to Set Up Audio in Zoom Meeting?
-
-A broad-spectrum is covered when talking about **Zoom meeting audio settings** since the meeting audio can be configured in both before/after or during a meeting. Working with **Zoom audio settings** in both scenarios is discussed below in detail:
-
-### Part 1: Zoom Audio Settings When Before Meeting
-
-If you are not already in a Zoom meeting and want to configure sound settings to get the best audio experience, you can follow the process given below:
-
-**Note:** A Windows 10 computer is used here to set up and configure audio settings in Zoom.
-
-#### Step 1: Access Zoom Audio Settings Box
-
-Launch Zoom, click the **Settings** (**Gear**) icon from the top-right corner and go to the **Audio** category from the navigation bar in the left of the **Settings** box that opens up next.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ Zoom Meeting Settings icon](https://images.wondershare.com/filmora/article-images/zoom-meeting-setting.jpg)
-
-#### Step 2: Select and Test Output Device
-
-Use the **Speaker** drop-down list to pick your preferred output device (e.g., speakers, headphone, etc.), and click **Test Speaker** to listen to the sound that Zoom plays. Use the **Volume** slider to adjust the output volume at a suitable level.
-
-![ Zoom Meeting Settings - Audio ](https://images.wondershare.com/filmora/article-images/zoom-meeting-settings-audio.jpg)
-
-#### Step 3: Select and Test Microphone
-
-Use the **Microphone** drop-down list to select an audio input source (typically a microphone), and click **Test Mic** to check if it is working fine. Use the **Volume** slider to adjust the input sound level manually. Alternatively, you can keep the **Automatically adjust volume** box checked to let Zoom automatically manage the input volume level as per the surrounding environment.
-
-### Part 2: Zoom Audio Settings During an Ongoing Meeting
-
-As you initiate or join a Zoom meeting, the app pops up a box asking you to join the meeting with computer audio or test if the speaker and microphone are working before joining. On this box, you can also check the **Automatically join audio by computer when joining a meeting** box at the bottom to automatically use the computer’s sound device for audio output and input every time you host or participate in a meeting.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Join Zoom Meeting ](https://images.wondershare.com/filmora/article-images/zoom-meeting-join.jpg)
 
 Once you are in a conference, there are a couple of things you can do to manage the audio. The process of doing so is explained below in detail:
@@ -458,9 +167,6 @@ Apart from this, you will also learn some of the best troubleshooting practices 
 
 A broad-spectrum is covered when talking about **Zoom meeting audio settings** since the meeting audio can be configured in both before/after or during a meeting. Working with **Zoom audio settings** in both scenarios is discussed below in detail:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Part 1: Zoom Audio Settings When Before Meeting
 
 If you are not already in a Zoom meeting and want to configure sound settings to get the best audio experience, you can follow the process given below:
@@ -477,14 +183,19 @@ Launch Zoom, click the **Settings** (**Gear**) icon from the top-right corner an
 
 Use the **Speaker** drop-down list to pick your preferred output device (e.g., speakers, headphone, etc.), and click **Test Speaker** to listen to the sound that Zoom plays. Use the **Volume** slider to adjust the output volume at a suitable level.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![ Zoom Meeting Settings - Audio ](https://images.wondershare.com/filmora/article-images/zoom-meeting-settings-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Select and Test Microphone
 
 Use the **Microphone** drop-down list to select an audio input source (typically a microphone), and click **Test Mic** to check if it is working fine. Use the **Volume** slider to adjust the input sound level manually. Alternatively, you can keep the **Automatically adjust volume** box checked to let Zoom automatically manage the input volume level as per the surrounding environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: Zoom Audio Settings During an Ongoing Meeting
 
@@ -498,18 +209,150 @@ Once you are in a conference, there are a couple of things you can do to manage 
 
 During an ongoing meeting, click the **Microphone** icon present at the bottom-left corner of the main window to disable it. Click the icon again to re-enable the mic.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zoom Zoom Meeting Audio](https://images.wondershare.com/filmora/article-images/zoom-meeting-mute-audio.jpg)
 
 #### Tip 2: Choose Output Device
 
 Click the small up arrow next to the **Microphone** icon, and click to select your preferred output device (speakers, headsets, etc.) from the **Select a Speaker** section of the menu that appears.
 
+![Zoom Zoom Meeting Audio Speaker Setting](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-speaker-settings.jpg)
+
+#### Tip 3: Choose Input Device
+
+While on the menu as explained in **Tip 2**, select an input device from the **Select a Microphone** section.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### Zoom Audio Poor Quality Troubleshooting
+
+While you are in a Zoom meeting, you might experience some issues related to the audio. These might be due to unmanaged positioning of the hardware devices, improper configurations of the **Zoom audio settings**, or both. Some of the most common Zoom audio problems and their possible solutions are discussed below:
+
+![ Zoom Meeting Settings Advanced Audio Settings ](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-advanced-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+#### Zoom Audio Issue 1: Audio Feedback Loop
+
+##### What Is It?
+
+Audio feedback loop is when your voice keeps repeating itself for an indefinite number of times and never stops whatsoever.
+
+Related: [6 Top Voice Changer for Zoom](https://tools.techidaily.com/wondershare/filmora/download/)
+
+##### How It Happens?
+
+When you are using external speakers and microphone, and both are placed nearby, any sound that comes out of the speaker is received by the microphone. If Zoom is configured to accept sounds from system audio, the mic sends the signals back to the speakers that again send the audio output to the mic. Since this iteration never ends, you continuously hear an audio feedback loop.
+
+##### How to Resolve the Audio Loop in Zoom Meeting?
+
+In order to eliminate this issue, make sure to place both microphone and speakers at a safe distance from each other. This would prevent the microphone from receiving any output from the speakers, and the chain of audio feedback loop would never take place.
+
+#### Zoom Audio Issue 2: Background Noise
+
+##### What Is It?
+
+Background noise is the distortion or humming that you hear during an audio call on zoom.
+
+##### Why I hear background noise in Zoom Meeting?
+
+If you have a highly sensitive microphone that is mostly used by professionals or in recording studios, the chances are that it will catch a lot of background noise during a Zoom meeting.
+
+##### How to remove the background noise in Zoom meeting?
+
+This issue can be resolved by either hosting or joining a meeting in a closed, soundproof room, or using a less sensitive mic. It would be best if you use a normal headset that is easily available in any local electronic shop. You can also try enabling the **Automatically adjust volume** option from the **Microphone** section of the **Audio** category of the **Settings** box as explained earlier in **Step 3** of the **Zoom Audio Settings When Not in Meeting** section.
+
+#### Zoom Audio Issue 3: Echo
+
+##### What Is It?
+
+**Zoom audio echo** is when you hear an echo sound during an ongoing Zoom meeting with audio enabled.
+
+##### How It Happens?
+
+Echo happens when you are on a laptop and are using onboard speakers and microphone, and that too with the speaker or mic volume set to maximum.
+
+##### How to remove the echo in the Zoom meeting?
+
+As mentioned earlier, it is always advisable to use a headset to avoid any such unwanted echo or audio feedback loop issues. In case you don’t have access to a headset, try configuring the microphone settings to automatically adjust the volume, and not putting the speaker volume to the max.
+
+**Conclusion**
+
+Configuring **Zoom audio settings** before hosting or joining a meeting is always a wise approach to avoid any audio inconsistencies during an ongoing conference. However, if you are already in one, you can use the methods given above to configure the microphone settings to get the audio right. You are also encouraged to use an average quality headset during a Zoom meeting to avoid any **Zoom audio echo**, feedback loop, or background noises.
+
+Related: [How to Improve Video Quality in Zoom Meetings?](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Are you confused about how to configure **Zoom audio settings** to get the best sound quality during a meeting? If yes, here you will learn all about Zoom audio, its configuration, and the best way you can use the options to get the best out of your speakers and microphone.
+
+Apart from this, you will also learn some of the best troubleshooting practices if the audio is acting up during an ongoing Zoom conference.
+
+* [Part 1: How to Set up Zoom Audio When Before Meeting](#part1)
+* [Part 2: How to Set up Zoom Audio During Meeting](#part2)
+* [Part 3: Zoom Audio Troubleshooting](#part3)
+
+## How to Set Up Audio in Zoom Meeting?
+
+A broad-spectrum is covered when talking about **Zoom meeting audio settings** since the meeting audio can be configured in both before/after or during a meeting. Working with **Zoom audio settings** in both scenarios is discussed below in detail:
+
+### Part 1: Zoom Audio Settings When Before Meeting
+
+If you are not already in a Zoom meeting and want to configure sound settings to get the best audio experience, you can follow the process given below:
+
+**Note:** A Windows 10 computer is used here to set up and configure audio settings in Zoom.
+
+#### Step 1: Access Zoom Audio Settings Box
+
+Launch Zoom, click the **Settings** (**Gear**) icon from the top-right corner and go to the **Audio** category from the navigation bar in the left of the **Settings** box that opens up next.
+
+![ Zoom Meeting Settings icon](https://images.wondershare.com/filmora/article-images/zoom-meeting-setting.jpg)
+
+#### Step 2: Select and Test Output Device
+
+Use the **Speaker** drop-down list to pick your preferred output device (e.g., speakers, headphone, etc.), and click **Test Speaker** to listen to the sound that Zoom plays. Use the **Volume** slider to adjust the output volume at a suitable level.
+
+![ Zoom Meeting Settings - Audio ](https://images.wondershare.com/filmora/article-images/zoom-meeting-settings-audio.jpg)
+
+#### Step 3: Select and Test Microphone
+
+Use the **Microphone** drop-down list to select an audio input source (typically a microphone), and click **Test Mic** to check if it is working fine. Use the **Volume** slider to adjust the input sound level manually. Alternatively, you can keep the **Automatically adjust volume** box checked to let Zoom automatically manage the input volume level as per the surrounding environment.
+
+### Part 2: Zoom Audio Settings During an Ongoing Meeting
+
+As you initiate or join a Zoom meeting, the app pops up a box asking you to join the meeting with computer audio or test if the speaker and microphone are working before joining. On this box, you can also check the **Automatically join audio by computer when joining a meeting** box at the bottom to automatically use the computer’s sound device for audio output and input every time you host or participate in a meeting.
+
+![Join Zoom Meeting ](https://images.wondershare.com/filmora/article-images/zoom-meeting-join.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Once you are in a conference, there are a couple of things you can do to manage the audio. The process of doing so is explained below in detail:
+
+#### Tip 1: [Mute Audio](https://tools.techidaily.com/wondershare/filmora/download/)
+
+During an ongoing meeting, click the **Microphone** icon present at the bottom-left corner of the main window to disable it. Click the icon again to re-enable the mic.
+
+![Zoom Zoom Meeting Audio](https://images.wondershare.com/filmora/article-images/zoom-meeting-mute-audio.jpg)
+
+#### Tip 2: Choose Output Device
+
+Click the small up arrow next to the **Microphone** icon, and click to select your preferred output device (speakers, headsets, etc.) from the **Select a Speaker** section of the menu that appears.
+
 ![Zoom Zoom Meeting Audio Speaker Setting](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-speaker-settings.jpg)
 
 #### Tip 3: Choose Input Device
@@ -520,9 +363,148 @@ While on the menu as explained in **Tip 2**, select an input device from the **S
 
 While you are in a Zoom meeting, you might experience some issues related to the audio. These might be due to unmanaged positioning of the hardware devices, improper configurations of the **Zoom audio settings**, or both. Some of the most common Zoom audio problems and their possible solutions are discussed below:
 
+![ Zoom Meeting Settings Advanced Audio Settings ](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-advanced-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+#### Zoom Audio Issue 1: Audio Feedback Loop
+
+##### What Is It?
+
+Audio feedback loop is when your voice keeps repeating itself for an indefinite number of times and never stops whatsoever.
+
+Related: [6 Top Voice Changer for Zoom](https://tools.techidaily.com/wondershare/filmora/download/)
+
+##### How It Happens?
+
+When you are using external speakers and microphone, and both are placed nearby, any sound that comes out of the speaker is received by the microphone. If Zoom is configured to accept sounds from system audio, the mic sends the signals back to the speakers that again send the audio output to the mic. Since this iteration never ends, you continuously hear an audio feedback loop.
+
+##### How to Resolve the Audio Loop in Zoom Meeting?
+
+In order to eliminate this issue, make sure to place both microphone and speakers at a safe distance from each other. This would prevent the microphone from receiving any output from the speakers, and the chain of audio feedback loop would never take place.
+
+#### Zoom Audio Issue 2: Background Noise
+
+##### What Is It?
+
+Background noise is the distortion or humming that you hear during an audio call on zoom.
+
+##### Why I hear background noise in Zoom Meeting?
+
+If you have a highly sensitive microphone that is mostly used by professionals or in recording studios, the chances are that it will catch a lot of background noise during a Zoom meeting.
+
+##### How to remove the background noise in Zoom meeting?
+
+This issue can be resolved by either hosting or joining a meeting in a closed, soundproof room, or using a less sensitive mic. It would be best if you use a normal headset that is easily available in any local electronic shop. You can also try enabling the **Automatically adjust volume** option from the **Microphone** section of the **Audio** category of the **Settings** box as explained earlier in **Step 3** of the **Zoom Audio Settings When Not in Meeting** section.
+
+#### Zoom Audio Issue 3: Echo
+
+##### What Is It?
+
+**Zoom audio echo** is when you hear an echo sound during an ongoing Zoom meeting with audio enabled.
+
+##### How It Happens?
+
+Echo happens when you are on a laptop and are using onboard speakers and microphone, and that too with the speaker or mic volume set to maximum.
+
+##### How to remove the echo in the Zoom meeting?
+
+As mentioned earlier, it is always advisable to use a headset to avoid any such unwanted echo or audio feedback loop issues. In case you don’t have access to a headset, try configuring the microphone settings to automatically adjust the volume, and not putting the speaker volume to the max.
+
+**Conclusion**
+
+Configuring **Zoom audio settings** before hosting or joining a meeting is always a wise approach to avoid any audio inconsistencies during an ongoing conference. However, if you are already in one, you can use the methods given above to configure the microphone settings to get the audio right. You are also encouraged to use an average quality headset during a Zoom meeting to avoid any **Zoom audio echo**, feedback loop, or background noises.
+
+Related: [How to Improve Video Quality in Zoom Meetings?](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Are you confused about how to configure **Zoom audio settings** to get the best sound quality during a meeting? If yes, here you will learn all about Zoom audio, its configuration, and the best way you can use the options to get the best out of your speakers and microphone.
+
+Apart from this, you will also learn some of the best troubleshooting practices if the audio is acting up during an ongoing Zoom conference.
+
+* [Part 1: How to Set up Zoom Audio When Before Meeting](#part1)
+* [Part 2: How to Set up Zoom Audio During Meeting](#part2)
+* [Part 3: Zoom Audio Troubleshooting](#part3)
+
+## How to Set Up Audio in Zoom Meeting?
+
+A broad-spectrum is covered when talking about **Zoom meeting audio settings** since the meeting audio can be configured in both before/after or during a meeting. Working with **Zoom audio settings** in both scenarios is discussed below in detail:
+
+### Part 1: Zoom Audio Settings When Before Meeting
+
+If you are not already in a Zoom meeting and want to configure sound settings to get the best audio experience, you can follow the process given below:
+
+**Note:** A Windows 10 computer is used here to set up and configure audio settings in Zoom.
+
+#### Step 1: Access Zoom Audio Settings Box
+
+Launch Zoom, click the **Settings** (**Gear**) icon from the top-right corner and go to the **Audio** category from the navigation bar in the left of the **Settings** box that opens up next.
+
+![ Zoom Meeting Settings icon](https://images.wondershare.com/filmora/article-images/zoom-meeting-setting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+#### Step 2: Select and Test Output Device
+
+Use the **Speaker** drop-down list to pick your preferred output device (e.g., speakers, headphone, etc.), and click **Test Speaker** to listen to the sound that Zoom plays. Use the **Volume** slider to adjust the output volume at a suitable level.
+
+![ Zoom Meeting Settings - Audio ](https://images.wondershare.com/filmora/article-images/zoom-meeting-settings-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+#### Step 3: Select and Test Microphone
+
+Use the **Microphone** drop-down list to select an audio input source (typically a microphone), and click **Test Mic** to check if it is working fine. Use the **Volume** slider to adjust the input sound level manually. Alternatively, you can keep the **Automatically adjust volume** box checked to let Zoom automatically manage the input volume level as per the surrounding environment.
+
+### Part 2: Zoom Audio Settings During an Ongoing Meeting
+
+As you initiate or join a Zoom meeting, the app pops up a box asking you to join the meeting with computer audio or test if the speaker and microphone are working before joining. On this box, you can also check the **Automatically join audio by computer when joining a meeting** box at the bottom to automatically use the computer’s sound device for audio output and input every time you host or participate in a meeting.
+
+![Join Zoom Meeting ](https://images.wondershare.com/filmora/article-images/zoom-meeting-join.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Once you are in a conference, there are a couple of things you can do to manage the audio. The process of doing so is explained below in detail:
+
+#### Tip 1: [Mute Audio](https://tools.techidaily.com/wondershare/filmora/download/)
+
+During an ongoing meeting, click the **Microphone** icon present at the bottom-left corner of the main window to disable it. Click the icon again to re-enable the mic.
+
+![Zoom Zoom Meeting Audio](https://images.wondershare.com/filmora/article-images/zoom-meeting-mute-audio.jpg)
+
+#### Tip 2: Choose Output Device
+
+Click the small up arrow next to the **Microphone** icon, and click to select your preferred output device (speakers, headsets, etc.) from the **Select a Speaker** section of the menu that appears.
+
+![Zoom Zoom Meeting Audio Speaker Setting](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-speaker-settings.jpg)
+
+#### Tip 3: Choose Input Device
+
+While on the menu as explained in **Tip 2**, select an input device from the **Select a Microphone** section.
+
+### Zoom Audio Poor Quality Troubleshooting
+
+While you are in a Zoom meeting, you might experience some issues related to the audio. These might be due to unmanaged positioning of the hardware devices, improper configurations of the **Zoom audio settings**, or both. Some of the most common Zoom audio problems and their possible solutions are discussed below:
+
 ![ Zoom Meeting Settings Advanced Audio Settings ](https://images.wondershare.com/filmora/article-images/zoom-meeting-audio-advanced-settings.jpg)
 
 #### Zoom Audio Issue 1: Audio Feedback Loop
@@ -575,9 +557,6 @@ Configuring **Zoom audio settings** before hosting or joining a meeting is alway
 
 Related: [How to Improve Video Quality in Zoom Meetings?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -608,9 +587,19 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-cutting-edge-methods-for-a-dominant-presence-on-spotify-for-2024/"><u>[New] Cutting-Edge Methods for a Dominant Presence on Spotify for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-combat-sync-issues-between-cameras-and-obs/"><u>[New] In 2024, How to Combat Sync Issues Between Cameras and OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-secrets-to-effective-vr-game-playback-for-2024/"><u>[New] Secrets to Effective VR Game Playback for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ideal-top-3ip-apps-for-clear-audio-recordings/"><u>[Updated] 2024 Approved Ideal Top 3iP Apps for Clear Audio Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-win10-screen-and-video-recording-tool/"><u>[Updated] Ultimate Win10 Screen & Video Recording Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-expert-choice-for-quick-vid-boosting/"><u>Android's Expert Choice for Quick Vid Boosting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-find-x6-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Find X6 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a59-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A59 5G Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-essential-guide-to-mc-villages-houses-for-2024/"><u>The Essential Guide to MC Villages' Houses for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/trier-gratuitement-les-fichiers-arw-vers-le-format-jpeg-un-guide-complet-sur-linternet-movavi/"><u>Trier Gratuitement Les Fichiers ARW Vers Le Format JPEG : Un Guide Complet Sur L'internet - Movavi</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-best-7-vocal-remover-to-get-rid-of-vocals-with-ease-online-and-offline/"><u>Updated Best 7 Vocal Remover to Get Rid of Vocals with Ease Online & Offline</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028592580-wonderfox/"><u>WonderFoxエンコーダで効率的に動画エンコーディングの仕組みと技術</u></a></li>
+</ul></div>
 

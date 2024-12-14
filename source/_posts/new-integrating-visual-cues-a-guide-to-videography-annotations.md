@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Integrating Visual Cues  A Guide to Videography Annotations\""
-date: 2024-12-06T08:28:13.089Z
-updated: 2024-12-07T22:40:45.000Z
+date: 2024-12-11T02:28:04.903Z
+updated: 2024-12-14T04:54:57.551Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Markers can be used during the video editing and after the screen recording to m
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * [Record desktop screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam simultaneously
@@ -47,14 +51,6 @@ For Win 7 or later (64-bit)
 For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Distinctions Between the Two Types of Markers
 
@@ -95,6 +91,10 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
@@ -107,10 +107,6 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
@@ -118,7 +114,7 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -128,7 +124,11 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -152,22 +152,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-cameras-for-windows-11-pro-review-of-the-latest-gear/"><u>[New] 2024 Approved Elite Cameras for Windows 11 - Pro Review of the Latest Gear</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-design-humor-in-pixels-adobe-edition/"><u>[New] Design Humor in Pixels Adobe Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-digital-game-highlights-6-pc-snapshot-strategies/"><u>[New] In 2024, Digital Game Highlights 6 PC Snapshot Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-comprehensive-techniques-recording-movies-with-windowsmacosios/"><u>[Updated] 2024 Approved Comprehensive Techniques Recording Movies with Windows/macOS/iOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zooming-into-success-a-complete-guide-to-podcast-audio-capture/"><u>[Updated] 2024 Approved Zooming Into Success A Complete Guide to Podcast Audio Capture</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audiophiles-guide-to-superior-9-online-mic-tools/"><u>[Updated] Audiophile's Guide to Superior 9 Online Mic Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exploring-visual-storytelling-creating-time-lapse-videos-on-ipad/"><u>[Updated] In 2024, Exploring Visual Storytelling Creating Time-Lapse Videos on iPad</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] In 2024, Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-performers-playbook-avoiding-common-mistakes-in-ppt-voiceovers/"><u>[Updated] The Performer's Playbook Avoiding Common Mistakes in PPT Voiceovers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-on-how-to-remove-crashdump-data-in-windows-11/"><u>Expert Tips on How To Remove Crashdump Data in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-perfect-iphone-images-abide-by-these-10-rules/"><u>In 2024, Perfect iPhone Images Abide by These 10 Rules</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfecting-pics-with-practicality-top-5-pc-snipping-tools-for-2024/"><u>Perfecting Pics with Practicality - Top 5 PC Snipping Tools for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/secrets-to-storing-and-viewing-digital-television-shows/"><u>Secrets to Storing and Viewing Digital Television Shows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722158249733-surpassing-chatgpt-top-10-ai-conversational-tools-you-should-know-about/"><u>Surpassing ChatGPT: Top 10 AI Conversational Tools You Should Know About</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y100t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y100t FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-converting-your-flv-media-to-the-portable-3gp-file-type/"><u>Ultimate Tutorial on Converting Your FLV Media to the Portable 3GP File Type</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-elevate-your-videography-best-hd-android-video-apps-guide/"><u>[New] In 2024, Elevate Your Videography Best Hd Android Video Apps Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-joint-recording-of-webcam-and-desktop-display/"><u>[New] In 2024, Joint Recording of Webcam and Desktop Display</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-optimizing-twitter-clips-for-instagram-display/"><u>[New] In 2024, Optimizing Twitter Clips for Instagram Display</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-premier-selection-of-windows-11s-high-quality-capture-software/"><u>[New] In 2024, Premier Selection of Windows 11'S High-Quality Capture Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-must-get-external-hard-drives-for-xbox-enthusiasts/"><u>[New] Must-Get External Hard Drives for Xbox Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exclusive-guide-to-priceless-cam-screen-recorders/"><u>[Updated] Exclusive Guide to Priceless Cam Screen Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-10-ultimate-screen-recording-software-on-windowsmac/"><u>[Updated] In 2024, 10 Ultimate Screen Recording Software on Windows/Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-protecting-and-preserving-your-musical-legacy-three-ways/"><u>[Updated] In 2024, Protecting and Preserving Your Musical Legacy Three Ways</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-visualize-and-save-premium-free-screen-capture-software-on-pcmac/"><u>[Updated] Visualize and Save - Premium Free Screen Capture Software on PC/Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-professional-approaches-to-preserving-ps3-games-on-screen/"><u>2024 Approved Professional Approaches to Preserving PS3 Games On Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-zte-axon-40-lite-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from ZTE Axon 40 Lite to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-is-online-video-streaming-worth-extra-costs-see-how-youtube-plans-fit-in/"><u>In 2024, Is Online Video Streaming Worth Extra Costs? See How YouTube Plans Fit In</u></a></li>
+<li><a href="https://extra-information.techidaily.com/install-and-upgrade-guide-to-the-latest-macos-sierra/"><u>Install and Upgrade Guide to the Latest macOS Sierra</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-fake-followers-trap-on-youtube-landscapes-for-2024/"><u>Unveiling Fake Followers' Trap on YouTube Landscapes for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2024-12-01T12:14:44.860Z
-updated: 2024-12-08T04:42:32.646Z
+date: 2024-12-08T20:50:02.201Z
+updated: 2024-12-13T17:33:06.853Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -67,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -79,7 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -91,6 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -119,20 +119,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-urban-uprising-video-game-list-like-gta-v/"><u>[New] In 2024, Urban Uprising Video Game List Like GTA V</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-leading-10-high-resolution-monitors-with-built-in-video-editing/"><u>[Updated] 2024 Approved Leading 10 High-Resolution Monitors with Built-In Video Editing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-bravest-battles-and-bold-journeys-top-10-adventure-games-for-2024/"><u>[Updated] Bravest Battles & Bold Journeys – Top 10 Adventure Games for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-direct-to-mp3-ease-select-10-video-to-audio-devices-for-2024/"><u>[Updated] Direct to Mp3 Ease Select 10 Video-to-Audio Devices for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensible-guide-to-efficient-zoom-capturing/"><u>2024 Approved Comprehensible Guide to Efficient Zoom Capturing</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-strategies-for-console-recording-on-personal-devices/"><u>Cutting-Edge Strategies for Console Recording on Personal Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-guide-locating-mislaid-airpods-and-preventive-measures-for-future-losses-insights/"><u>Essential Guide: Locating Mislaid AirPods & Preventive Measures for Future Losses - Insights</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-boosting-your-presence-on-fb-with-virality-techniques/"><u>In 2024, Boosting Your Presence on FB with Virality Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-enhancing-iphone-7-screen-record-capabilities/"><u>In 2024, Enhancing iPhone 7 Screen Record Capabilities</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-exceptional-top-ten-nintendo-switch-combat-games-max-156/"><u>In 2024, Exceptional Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/inside-the-videography-realm-xstudio-study-for-2024/"><u>Inside the Videography Realm XStudio Study for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/learn-how-to-setup-snapchat-on-a-mac-pc-for-2024/"><u>Learn How to Setup Snapchat on a Mac PC for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-perfect-xiaomi-device-for-amateur-filmmakers/"><u>The Perfect Xiaomi Device for Amateur Filmmakers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-pixel-perfect-fun-unveiling-the-secrets-of-snapchats-filters/"><u>[New] 2024 Approved Pixel Perfect Fun Unveiling the Secrets of Snapchat's Filters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-designing-dynamic-videos-with-adobe-captivate/"><u>[New] Designing Dynamic Videos with Adobe Captivate</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats/"><u>[New] Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-rapidpace-timefreeze-film/"><u>[New] In 2024, RapidPace TimeFreeze Film</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-5-kung-fu-games-just-like-sifu/"><u>[New] In 2024, Top 5 Kung Fu Games Just Like Sifu</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>[New] Mastering Visual Clarity Blur Your Meeting Backgrounds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-saving-mov-videos-on-windows-11-a-guide-with-six-steps-for-2024/"><u>[New] Saving .MOV Videos on Windows 11 - A Guide with Six Steps for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unravel-the-best-ps2-emulation-on-ios-devices/"><u>[Updated] 2024 Approved Unravel the Best PS2 Emulation on iOS Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-avoid-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation/"><u>[Updated] Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-alarm-tone-collection-premier-websites/"><u>2024 Approved Alarm Tone Collection Premier Websites</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-k70-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/convenient-methods-for-video-recording-on-youtube-for-2024/"><u>Convenient Methods for Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/from-snapshots-to-videos-your-maccam-adventure-for-2024/"><u>From Snapshots to Videos Your MacCam Adventure for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/proficient-movie-recording-multiplatform-devices-unveiled-for-2024/"><u>Proficient Movie Recording Multiplatform Devices Unveiled for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ps4-gameplay-to-video-an-in-depth-obs-recording-guide/"><u>PS4 Gameplay to Video - An In-Depth OBS Recording Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-artificial-intelligence-chrome-tools-that-supercharge-productivity/"><u>Top 8 Artificial Intelligence Chrome Tools That Supercharge Productivity</u></a></li>
 </ul></div>
 
