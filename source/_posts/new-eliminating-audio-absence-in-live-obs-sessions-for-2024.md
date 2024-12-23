@@ -1,7 +1,7 @@
 ---
 title: "[New] Eliminating Audio Absence in Live OBS Sessions for 2024"
-date: 2024-11-25T23:29:16.006Z
-updated: 2024-11-29T22:26:32.964Z
+date: 2024-12-21T16:00:40.404Z
+updated: 2024-12-23T16:19:34.474Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Edit system and microphone audio seperately
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solutions to Fix OBS Not Recording Audio
@@ -46,7 +46,7 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -60,11 +60,11 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -98,7 +98,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -110,6 +110,10 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **7\. Reinstall OBS**
 
 If none of the techniques can assist you, your OBS is experiencing an undefined problem, you may reinstall it. Some files may be damaged when installing OBS studio. Uninstalling and reinstalling the program might address the issue with corrupted files. As none of the techniques above work, you might try re-installing OBS studio on your PC. To do so you will have to implement these steps:
@@ -119,10 +123,6 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -162,18 +162,22 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-builds-for-a-thriving-mc-village-homes-for-2024/"><u>[New] Best Builds for a Thriving MC Village Homes for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-advice-on-rl-gameplay-screen-sharing/"><u>[New] In 2024, Expert Advice on RL Gameplay Screen Sharing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-windows-for-an-exceptional-listening-experience-top-8/"><u>[New] Navigating Windows for an Exceptional Listening Experience (Top 8)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-staying-informed-recent-facebook-alterations/"><u>[New] Staying Informed Recent Facebook Alterations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-live-broadcasts-a-step-by-step-guide-for-fb-users/"><u>[Updated] In 2024, Mastering Live Broadcasts A Step-by-Step Guide for FB Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-chart-a-course-to-success-youtube-studio-blueprint/"><u>2024 Approved Chart a Course to Success YouTube Studio Blueprint</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-capture-and-review-with-az-for-2024/"><u>Comprehensive Capture & Review with AZ for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/full-seasons-19-and-20-of-south-park-in-high-quality-mp4-format-ready-to-download-now/"><u>Full Seasons 19 & 20 of South Park in High-Quality MP4 Format – Ready to Download Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-are-shoppers-using-generative-ai-uncovering-statistics-and-trends-from-a-recent-zdnet-survey/"><u>How Are Shoppers Using Generative AI? Uncovering Statistics and Trends From a Recent ZDNET Survey</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-8-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 8</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pro-video-recording-methods-for-multiple-systems/"><u>In 2024, Pro Video Recording Methods for Multiple Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-change-name-in-google-meet/"><u>[New] 2024 Approved How to Change Name in Google Meet?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-exclusive-access-to-free-switch-clones-for-2024/"><u>[New] Exclusive Access to Free Switch Clones for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-core-language-of-cutting-edge-vr-experiences/"><u>[Updated] 2024 Approved The Core Language of Cutting-Edge VR Experiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-5-video-webcams-equipped-with-microphones-for-2024/"><u>[Updated] Best 5 Video Webcams Equipped With Microphones for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-lessons-with-ease-top-screen-recorders/"><u>[Updated] Capturing Lessons with Ease Top Screen Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-guide-iphones-easiest-screen-recording-method/"><u>[Updated] Quick Guide IPhone's Easiest Screen Recording Method</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>[Updated] The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-virtual-room-recordings-desktop-and-mobile-tips/"><u>[Updated] Virtual Room Recordings Desktop & Mobile Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-server-stumble-errors-on-microsoft-store-win-1011/"><u>Bypassing Server Stumble Errors on Microsoft Store, Win 10/11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-techniques-recording-movies-with-windowsmacosios-for-2024/"><u>Comprehensive Techniques Recording Movies with Windows/macOS/iOS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/conquer-windows-10-a-mov-filming-masterclass-for-2024/"><u>Conquer Windows 10 A MOV Filming Masterclass for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-captivating-video-narratives-for-youtube-success-for-2024/"><u>Crafting Captivating Video Narratives for YouTube Success for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/create-a-local-profile-on-your-pc-with-windows-10-expert-tips-from-yl-software/"><u>Create a Local Profile on Your PC with Windows 10: Expert Tips From YL Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oppo-reno-10-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo Reno 10 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-optimal-8-video-tools-to-boost-live-viewership/"><u>In 2024, Optimal 8 Video Tools to Boost Live Viewership</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-band-picks-thoroughly-vetted-by-tech-experts-zdnet/"><u>Top Rated Apple Watch Band Picks : Thoroughly Vetted by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tunes-that-transition-top-music-spots-to-set-the-stage-for-podcast-beginnings/"><u>Tunes That Transition Top Music Spots to Set the Stage for Podcast Beginnings</u></a></li>
 </ul></div>
 

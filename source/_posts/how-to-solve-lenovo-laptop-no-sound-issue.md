@@ -1,7 +1,7 @@
 ---
 title: How To Solve Lenovo Laptop No Sound Issue
-date: 2024-11-27T02:11:11.838Z
-updated: 2024-11-29T23:26:58.972Z
+date: 2024-12-20T16:43:54.137Z
+updated: 2024-12-23T16:03:37.767Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 
  If your**Astro A50 headset’s microphone** **is not working** , please check the[microphone troubleshooting guide](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  We’ve put together 4 simple fixes for you when your Astro A50 has no sound. You may not need to try them all; just walk your way down until you find the one that works.
@@ -31,6 +27,10 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. [**Set your Astro A50 as the default**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update the sound card driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Troubleshoot the connection
 
@@ -45,6 +45,10 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 ![connect astro a50](https://images.drivereasy.com/wp-content/uploads/2021/02/connect.jpg)
 5. Ensure that the game voice balance on the right ear cup of the headset is somewhere in the middle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the connections are fine, but the Astro A50 no sound issue persists, you can try the next fix below.
 
 ## Fix 2: Set your Astro A50 as the default
@@ -57,6 +61,10 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/02/open-volume-mixer.jpg)
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
 
@@ -68,15 +76,11 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the problem remains, you can move on to the next method.
 
@@ -89,10 +93,6 @@ If the problem remains, you can move on to the next method.
 ### Option 1: Update your sound card driver manually
 
  You can update your sound drivers manually by going to the manufacturer’s website for your sound card and searching for the most recent correct sound driver. Be sure to choose only drivers that are compatible with your variant of Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update your sound card driver automatically (Recommended)
 
@@ -114,7 +114,7 @@ If the problem remains, you can move on to the next method.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable Audio Enhancement
@@ -125,12 +125,12 @@ If the problem remains, you can move on to the next method.
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
@@ -158,22 +158,24 @@ If the problem remains, you can move on to the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-techs-leading-edge-in-video-capturing-software/"><u>[New] 2024 Approved Tech's Leading Edge in Video Capturing Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-real-time-recording-tech-that-never-delays-you/"><u>[New] In 2024, Real-Time Recording Tech That Never Delays You</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-10-indoor-alternatives-for-sports-fans-for-2024/"><u>[New] Top 10 Indoor Alternatives for Sports Fans for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[New] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unpacking-presenter-8s-features-against-the-best-for-2024/"><u>[New] Unpacking Presenter 8’S Features Against the Best for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-amplify-engagement-a-compilation-of-powerful-30-freegame-tags/"><u>[Updated] 2024 Approved Amplify Engagement A Compilation of Powerful 30 FreeGame Tags</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-opportunities-where-youtube-collaborations-thrive/"><u>[Updated] In 2024, Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-overcoming-a-stalled-obs-video-capture-process/"><u>[Updated] Overcoming a Stalled OBS Video Capture Process</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-precision-in-converting-videos-sdr-to-hdr-video-enhancement-techniques-for-2024/"><u>[Updated] Precision in Converting Videos SDR to HDR Video Enhancement Techniques for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professionalizing-virtual-collaboration-zoom-recording-tips-for-2024/"><u>[Updated] Professionalizing Virtual Collaboration Zoom Recording Tips for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamline-screen-recording-processes-during-facetime/"><u>2024 Approved Streamline Screen-Recording Processes During FaceTime</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-xr-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone XR</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a56s-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A56s 5G Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-essential-step-by-step-for-mac-file-formats/"><u>The Essential Step-by-Step for Mac File Formats</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint-for-2024/"><u>The Ultimate Guide to Speaking & Visualizing in PowerPoint for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-models-featuring-expert-reviews-and-comparisons-techsavvy/"><u>Top-Rated Apple Watch Models Featuring Expert Reviews & Comparisons | TechSavvy</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated In 2024, Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-proven-recorders-ioss-leading-screenshot-tools/"><u>[New] 2024 Approved Proven Recorders IOS's Leading Screenshot Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-indoor-adventures-select-escapade-venues/"><u>[New] 2024 Approved Ultimate Indoor Adventures Select Escapade Venues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts/"><u>[New] 2024 Approved Your Ultimate Guide to Storing and Saving Live TV Broadcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-apeaksofts-innovations-in-screen-recording-for-2024/"><u>[New] Exploring Apeaksoft’s Innovations in Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-amateurs-to-pros-mastering-mac-audio-in-audacity-for-2024/"><u>[New] From Amateurs to Pros Mastering Mac Audio in Audacity for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-comparative-analysis-of-macs-best-snipping-tools/"><u>[New] In 2024, A Comparative Analysis of Mac's Best Snipping Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software-for-2024/"><u>[New] Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-effective-screencasts/"><u>[Updated] 2024 Approved Unveiling the Secrets of Effective Screencasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>[Updated] Breakthrough in Drone Tech Yuneec Q500 4K</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-screen-with-ezvid-video-maker/"><u>[Updated] In 2024, How to Record Screen with Ezvid Video Maker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-re-establishing-obs-audio-recording-capabilities/"><u>2024 Approved Re-Establishing OBS Audio Recording Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/day-after-evaluation-new-approaches-for-2024/"><u>Day After Evaluation New Approaches for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-devices-bluetooth-working-perfectly-on-windows-jndz-eleven/"><u>How to Get Your Qualcomm Atheros Device's Bluetooth Working Perfectly on Windows ˈ|jɪndz Eleven</u></a></li>
+<li><a href="https://some-skills.techidaily.com/modern-photo-editing-wonders-frame-integration-essentials-2023-for-2024/"><u>Modern Photo Editing Wonders Frame Integration Essentials, 2023 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premium-virtual-playstation-simulators-for-modern-computers/"><u>Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-persistent-sd-card-unplugging-issues-on-windows-11-systems/"><u>Resolving Persistent SD Card Unplugging Issues on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revamp-your-ride-how-to-engage-gpt-for-auto-enhancements/"><u>Revamp Your Ride: How to Engage GPT for Auto Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/unable-to-play-the-game-ensure-accurate-game-data-for-a-smooth-start/"><u>Unable to Play the Game? Ensure Accurate Game Data for a Smooth Start</u></a></li>
 </ul></div>
 

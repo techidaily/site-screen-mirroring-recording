@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Image All-Screen Website View\""
-date: 2024-12-10T16:16:31.336Z
-updated: 2024-12-13T21:41:21.420Z
+date: 2024-12-19T16:52:11.920Z
+updated: 2024-12-23T16:06:30.270Z
 tags: 
   - screen-recording
   - ai video
@@ -54,20 +54,20 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
@@ -113,7 +113,7 @@ If you don't want to go through the trouble of installing a screenshot extension
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
@@ -125,7 +125,7 @@ Taking full page screenshots on a Mac computer is made much simpler by [Paparazz
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -141,7 +141,7 @@ Leave a comment below and let us know which method of capturing full page screen
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -159,20 +159,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-online-video-saving-tools-reviewed-and-ranked/"><u>[New] 2024 Approved Best Online Video Saving Tools Reviewed & Ranked</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ideal-cameras-to-elevate-live-stream-engagement-on-twitch/"><u>[New] 2024 Approved Ideal Cameras to Elevate Live Stream Engagement on Twitch</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-proven-ways-to-archive-your-whatsapp-chat-history-efficiently/"><u>[New] Proven Ways to Archive Your WhatsApp Chat History Efficiently</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unpacking-sharex-evaluation-and-replacements/"><u>[Updated] 2024 Approved Unpacking ShareX Evaluation & Replacements</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-improve-your-channels-meta-description-powerfully/"><u>[Updated] Improve Your Channel's Meta Description Powerfully</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-google-meet-customization-filter-and-effect-techniques/"><u>[Updated] Mastering Google Meet Customization Filter & Effect Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlock-gaming-potential-your-complete-xbox-screenshot-guide/"><u>[Updated] Unlock Gaming Potential Your Complete Xbox Screenshot Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-next-favorite-free-video-player-in-our-top-12-picks-pcmobile/"><u>2024 Approved Find Your Next Favorite Free Video Player in Our Top 12 Picks (PC/Mobile)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/crucial-aspects-you-shouldnt-ignore-a-guide-to-selecting-the-perfect-tablet/"><u>Crucial Aspects You Shouldn't Ignore: A Guide to Selecting the Perfect Tablet</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-crash-bug-in-football-manager-2019-for-a-seamless-gaming-experience/"><u>Fixing the Crash Bug in Football Manager 2019 for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-open-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Open to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-apples-new-ai-powered-m3-macbook-air-tech-for-everyone-has-finally-arrived-zdnet-insights/"><u>In-Depth Look at Apple's New AI-Powered M3 MacBook Air: Tech for Everyone Has Finally Arrived | ZDNET Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-classic-gaming-on-modern-computers-with-5-top-gb-advance-emulators-for-2024/"><u>Navigating Classic Gaming on Modern Computers with 5 Top GB Advance Emulators for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premium-top-11-list-best-audio-tech-showcase/"><u>Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728508628318-404/"><u>お待たせしてすみません: ご読みいただけないページへのアクセス - 404エラー</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-flamegrab-ff-extras/"><u>[New] 2024 Approved Flamegrab FF Extras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-resolving-disabled-state-of-obs-fullscreen/"><u>[New] 2024 Approved Resolving Disabled State of OBS Fullscreen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-shopping-lists-to-viral-hauls-video-making-insights/"><u>[New] In 2024, From Shopping Lists to Viral Hauls Video Making Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-vrecorder-a-download-and-install-journey-for-2024/"><u>[New] Mastering VRecorder A Download & Install Journey for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-bringing-images-to-life-windows-and-mac-text-integration-techniques/"><u>[Updated] 2024 Approved Bringing Images to Life Windows & Mac Text Integration Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-three-proven-steps-for-archiving-your-favorite-discord-shows/"><u>[Updated] In 2024, Three Proven Steps for Archiving Your Favorite Discord Shows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-gamers-crossroads-oculus-or-playstation-vr/"><u>[Updated] The Ultimate Gamer’s Crossroads Oculus or PlayStation VR?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-symphony-storage-download-and-critique-melodies/"><u>2024 Approved Symphony Storage Download & Critique Melodies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/developing-dynamic-instagram-highlights/"><u>Developing Dynamic Instagram Highlights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-docx-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .docx document online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-6-unique-asian-themed-structures-in-minecraft/"><u>In 2024, 6 Unique Asian-Themed Structures in Minecraft</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/learn-anywhere-save-your-educational-videos-as-high-quality-formats-for-offline-access/"><u>Learn Anywhere - Save Your Educational Videos as High-Quality Formats for Offline Access</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-free-online-video-editors-for-movies/"><u>New In 2024, Best Free Online Video Editors for Movies</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solution-to-invalid-service-configuration-in-inf/"><u>Solution to Invalid Service Configuration in INF</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-the-full-potential-of-iphone-7-screen-save/"><u>Unlocking the Full Potential of iPhone 7 Screen Save</u></a></li>
 </ul></div>
 
