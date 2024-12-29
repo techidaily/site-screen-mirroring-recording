@@ -1,7 +1,7 @@
 ---
 title: How To Solve Lenovo Laptop No Sound Issue
-date: 2024-12-20T16:43:54.137Z
-updated: 2024-12-23T16:03:37.767Z
+date: 2024-12-26T04:24:12.682Z
+updated: 2024-12-29T02:34:52.569Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 4. [**Disable Audio Enhancement**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Troubleshoot the connection
@@ -45,10 +45,6 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 ![connect astro a50](https://images.drivereasy.com/wp-content/uploads/2021/02/connect.jpg)
 5. Ensure that the game voice balance on the right ear cup of the headset is somewhere in the middle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When the connections are fine, but the Astro A50 no sound issue persists, you can try the next fix below.
 
 ## Fix 2: Set your Astro A50 as the default
@@ -62,11 +58,15 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 2. Make sure all the entries set at an appropriate level. In my case, I set headphones and my applications to 100.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![volume appropriate](https://images.drivereasy.com/wp-content/uploads/2021/02/volume-mixer.jpg)
 3. Now test and see if there is any sound from your Astro A50.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Make sure your Astro A50 is set as default
 
@@ -75,14 +75,14 @@ If your Astro A50 headset has no sound, but you don’t know how to troubleshoot
 ![](https://www.drivereasy.com/wp-content/uploads/2021/02/win11-mmsys.cpl_.jpg)
 3. Go to the**Playback** tab and make sure your Astro A50 is the default output device and shows strong signals.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/02/default-device.jpg)
 4. Test the audio.
 
 If the problem remains, you can move on to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update the sound card driver
 
@@ -105,6 +105,10 @@ If the problem remains, you can move on to the next method.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
@@ -112,10 +116,6 @@ If the problem remains, you can move on to the next method.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Disable Audio Enhancement
 
@@ -125,12 +125,12 @@ If the problem remains, you can move on to the next method.
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/02/playback.jpg)
 2. Right-click your default playback device and click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![headphone properties](https://images.drivereasy.com/wp-content/uploads/2021/02/properties-headphone.jpg)
 3. Go to the **Enhancement** tab. Select the box for **Disable all enhancements** , and click **Apply** \> **OK** to save.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![audio emhancements](https://images.drivereasy.com/wp-content/uploads/2021/02/audio-1.jpg)
 4. Test the audio.
@@ -158,24 +158,24 @@ If the problem remains, you can move on to the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-proven-recorders-ioss-leading-screenshot-tools/"><u>[New] 2024 Approved Proven Recorders IOS's Leading Screenshot Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-indoor-adventures-select-escapade-venues/"><u>[New] 2024 Approved Ultimate Indoor Adventures Select Escapade Venues</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts/"><u>[New] 2024 Approved Your Ultimate Guide to Storing and Saving Live TV Broadcasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-apeaksofts-innovations-in-screen-recording-for-2024/"><u>[New] Exploring Apeaksoft’s Innovations in Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-amateurs-to-pros-mastering-mac-audio-in-audacity-for-2024/"><u>[New] From Amateurs to Pros Mastering Mac Audio in Audacity for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-comparative-analysis-of-macs-best-snipping-tools/"><u>[New] In 2024, A Comparative Analysis of Mac's Best Snipping Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software-for-2024/"><u>[New] Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-effective-screencasts/"><u>[Updated] 2024 Approved Unveiling the Secrets of Effective Screencasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>[Updated] Breakthrough in Drone Tech Yuneec Q500 4K</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-screen-with-ezvid-video-maker/"><u>[Updated] In 2024, How to Record Screen with Ezvid Video Maker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-re-establishing-obs-audio-recording-capabilities/"><u>2024 Approved Re-Establishing OBS Audio Recording Capabilities</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/day-after-evaluation-new-approaches-for-2024/"><u>Day After Evaluation New Approaches for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-get-your-qualcomm-atheros-devices-bluetooth-working-perfectly-on-windows-jndz-eleven/"><u>How to Get Your Qualcomm Atheros Device's Bluetooth Working Perfectly on Windows ˈ|jɪndz Eleven</u></a></li>
-<li><a href="https://some-skills.techidaily.com/modern-photo-editing-wonders-frame-integration-essentials-2023-for-2024/"><u>Modern Photo Editing Wonders Frame Integration Essentials, 2023 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/premium-virtual-playstation-simulators-for-modern-computers/"><u>Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-persistent-sd-card-unplugging-issues-on-windows-11-systems/"><u>Resolving Persistent SD Card Unplugging Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revamp-your-ride-how-to-engage-gpt-for-auto-enhancements/"><u>Revamp Your Ride: How to Engage GPT for Auto Enhancements</u></a></li>
-<li><a href="https://win-able.techidaily.com/unable-to-play-the-game-ensure-accurate-game-data-for-a-smooth-start/"><u>Unable to Play the Game? Ensure Accurate Game Data for a Smooth Start</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-10-premier-moba-experiences-on-android-devices-for-2024/"><u>[New] 10 Premier MOBA Experiences on Android Devices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-windows-snapshot-mastery-3-easy-approaches/"><u>[New] 2024 Approved Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-life-in-motion-using-ipad-filming-techniques/"><u>[New] Capture Life in Motion Using iPad Filming Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-games-in-plain-sight-choose-between-obs-and-shadowplay-for-2024/"><u>[New] Capturing Games in Plain Sight Choose Between OBS and ShadowPlay for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-navigating-name-change-in-google-meet-laptopmobile/"><u>[Updated] 2024 Approved Navigating Name Change in Google Meet (Laptop/Mobile)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-seamlessly-switch-from-gif-to-video-with-top-5-online-tools/"><u>[Updated] 2024 Approved Seamlessly Switch From GIF to Video with Top 5 Online Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-icecream-screen-recorder-how-to-guide-and-indepth-review-for-2024/"><u>[Updated] Icecream Screen Recorder - How-To Guide and Indepth Review for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-global-leaders-in-digital-education-beyond-udemy/"><u>[Updated] In 2024, Global Leaders in Digital Education Beyond Udemy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unveiling-advanced-methods-to-harness-screencapture-tools/"><u>[Updated] In 2024, Unveiling Advanced Methods to Harness ScreenCapture Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-time-is-money-speedy-guide-to-convert-srt-files-into-text/"><u>[Updated] Time Is Money Speedy Guide to Convert SRT Files Into Text</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-resolved-dvd-playback-issue-fixing-supported-disc-unavailable-mistake/"><u>1. Resolved: DVD Playback Issue - Fixing 'Supported Disc Unavailable' Mistake</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/create-interactive-flipbooks-for-mac-using-publisher-apps-explore-with-flipbuilder/"><u>Create Interactive Flipbooks for Mac Using Publisher Apps | Explore with FlipBuilder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-make-every-discord-livestree-a-timeless-treasure/"><u>In 2024, How to Make Every Discord Livestree a Timeless Treasure</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-leading-tech-in-snap-capture/"><u>In 2024, Leading Tech in Snap Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/massive-discount-on-the-new-2022-ipad-pro-save-700-this-labor-day-exclusive-offer/"><u>Massive Discount on the New 2022 iPad Pro: Save $700 This Labor Day - Exclusive Offer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-inactive-scanner-on-windows-11/"><u>Overcoming Inactive Scanner on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-discarded-mobile-numbers-on-android-systems-a-comprehensive-guide/"><u>Restoring Discarded Mobile Numbers on Android Systems – A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-tasks-with-your-default-windows-terminal/"><u>Simplify Tasks With Your Default Windows Terminal</u></a></li>
 </ul></div>
 

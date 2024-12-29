@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless ChromeOS Screeen Logging for 2024"
-date: 2024-12-18T16:10:49.515Z
-updated: 2024-12-23T16:18:24.092Z
+date: 2024-12-27T22:03:52.187Z
+updated: 2024-12-29T06:00:51.458Z
 tags: 
   - screen-recording
   - ai video
@@ -31,23 +31,23 @@ If you are not seeing the recorder out of the box then you will need to access t
 
 ![chrome native screen recorder setting up](https://images.wondershare.com/filmora/article-images/chrome-native-screen-recorder-setting-up.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Recorder Screen
 
 Once you are done with settings up the flag or you are using the latest Chrome OS now it's time to move to record your screen. Go to the lower right button of your OS screen and click on the shelf as shown in the figure below. A new window will appear, now you will need to click on the screen capture.
 
 ![chrome recorder screen screen capture](https://images.wondershare.com/filmora/article-images/chrome-recorder-screen-screen-capture.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Soon as you click on the screen capture, you will be prompted to a new screen with a variety of options for the tool as shown. Here you can choose a specific target area on the screen for screenshots as well as screen videos from the “Capture Area” in the figure. You can switch using the two options as shown in the figure below. To finally start recording, click “Start Capturing” as shown in the figure.
 
 ![chrome select start](https://images.wondershare.com/filmora/article-images/chrome-select-start.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Finally, once you are done recording and now it's time to stop recording. You just need to click on the stop icon in the lower-right bottom of the desktop screen as shown in the figure below.
 
@@ -58,7 +58,7 @@ Finally, once you are done recording and now it's time to stop recording. You ju
 A lot of other applications and plugins are also used to capture screenshots and record your Chrome OS. Some of the basic and fantastic applications that might help you to record your screen are discussed in the coming sections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Screencastify
@@ -67,13 +67,13 @@ Screencastify is one of the easy to set up and user-friendly extensions that can
 
 ![screencastify](https://images.wondershare.com/filmora/article-images/screencastify-site.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once it is installed, you can go to extensions and launch it. It will pop up a signing page just sign in using your Google account directly as shown. There are three steps, each step needs to be done completely to proceed further. The First step is signing in. To get done with this step in hurry just click sign in using google account.
 
 ![screencastify setup sign in google account](https://images.wondershare.com/filmora/article-images/screencastify-setup-sign-in-google-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once you are finished signing in and installing, it's time to set microphone settings in a new browser window. After that click next and it will be finished. Access it from the top right corner as shown in the picture and it will be open.
 
@@ -83,11 +83,11 @@ You can record your desktop screen with the desktop icon. The browser tab can be
 
 ![screencastify click that icon record](https://images.wondershare.com/filmora/article-images/screencastify-extension.jpg)
 
-Finally, after clicking record a new window will appear to ask you to select the entire screen. Just click the “entire screen” and click share and your recording will be started after a count down. The recording can be stopped using the “stop sharing” that appear in the end of the screen.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Finally, after clicking record a new window will appear to ask you to select the entire screen. Just click the “entire screen” and click share and your recording will be started after a count down. The recording can be stopped using the “stop sharing” that appear in the end of the screen.
 
 ### 2\. Awesome Screenshot Screen Recorder
 
@@ -95,21 +95,17 @@ Another Google addon for screen recording is Awesome screenshot and screen recor
 
 ![awesome screenshot and screen recorder](https://images.wondershare.com/filmora/article-images/awesome-screenshot-and-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After adding the extension a new window will appear to set up your extension. There are three steps, first, you will need to sign up using your Google account. After that, the next step is to pin the addon to the top bar. For that click on the extension icon and pin it to the bar as shown in 3 in the figure. Click next and finish the setup.
 
 ![awesome screenshot pin extension](https://images.wondershare.com/filmora/article-images/awesome-screenshot-pin-extension.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Let's come to the recording of the screen. Open up the extension from the pinned icon and you will see its GUI. Select “record” and click on the “Desktop” icon as shown. Do the simple settings by selecting the storing facility, enabling the microphone, setting resolution, and enabling the camera. In the end, click start recording. Next, you will select the screen or a specific application window. Once it's chosen click share as shown in the figure. To stop the sharing click on the “Stop Sharing” button to stop.
 
 ![awesome screenshot setting resolution](https://images.wondershare.com/filmora/article-images/awesome-screenshot-setting-resolution.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Similarly, a screenshot can be taken by going to the “Capture” section in the main bar. Click “Visible Port” and click start capturing. After that, a vibrant screenshot editor will pop up to edit your screenshot at the run time.
 
@@ -118,6 +114,10 @@ Similarly, a screenshot can be taken by going to the “Capture” section in th
 Another amazing Google extension for screen recording that is used widely is Nimbus. The installation is somehow similar to the said above extensions. Search for the extension named “Nimbus”. Add it to the chrome browser like shown. After that, a signup page will appear to sign up using a Google account. Add the extension to pinned application in the bar as shown in the figure.
 
 ![nimbus screen recorder](https://images.wondershare.com/filmora/article-images/nimbus-capture-poster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
@@ -171,24 +171,19 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ai-infused-title-engine-your-ultimate-video-marketing-tool/"><u>[New] AI-Infused Title Engine Your Ultimate Video Marketing Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-budgeting-for-effective-youtube-marketing/"><u>[New] Budgeting for Effective YouTube Marketing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-detailed-guide-to-streamlabs-obs/"><u>[New] In 2024, A Detailed Guide to Streamlabs OBS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-neat-screen-capture-utility-win10/"><u>[New] In 2024, Neat Screen Capture Utility, Win10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-clearview-record-pro-for-11-users/"><u>[Updated] 2024 Approved ClearView Record Pro for 11 Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-breaking-code-seeing-covert-user-reactions/"><u>[Updated] Breaking Code Seeing Covert User Reactions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-desktop-snapshot-made-simple-free-tools-for-windows-for-2024/"><u>[Updated] Desktop Snapshot Made Simple – Free Tools for Windows for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-photoquarter-analysis/"><u>[Updated] In 2024, PhotoQuarter Analysis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-vs-streamlabs-which-is-better/"><u>[Updated] OBS vs Streamlabs Which Is Better?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-seamless-cuts-with-m1-the-future-of-video-editing-unveiled/"><u>[Updated] Seamless Cuts with M1 The Future of Video Editing Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-your-audio-life-master-vrecorder-installs/"><u>[Updated] Simplify Your Audio Life - Master VRecorder Installs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-virtual-quest-evaluating-current-progress-and-potential-hurdles/"><u>[Updated] The Virtual Quest Evaluating Current Progress & Potential Hurdles</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-multiplatform-recorder-for-pcs/"><u>2024 Approved Elite Multiplatform Recorder for PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/activating-wake-on-lan-feature-for-efficient-remote-power-management-windows-11/"><u>Activating Wake-on-LAN Feature for Efficient Remote Power Management (Windows 11)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/dimming-tunes-windows-and-mac-strategies/"><u>Dimming Tunes Windows & Mac Strategies</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fast-solutions-for-a-broken-steamvr-experience/"><u>Fast Solutions for a Broken SteamVR Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-games-a-guide-to-options-other-than-game-bar/"><u>In 2024, Capturing Games A Guide to Options Other Than Game Bar</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-how-the-201-apple-ipad-air-dominates-in-entertainment-and-productivity/"><u>The Ultimate Review: How the 201# Apple iPad Air Dominates in Entertainment and Productivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-solving-stuck-scrolling-problems-with-touchpad/"><u>Troubleshooting Windows 11: Solving Stuck Scrolling Problems with Touchpad</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficient-whiteboard-use-in-webinars-apple-android-and-pc-solutions-explored/"><u>[New] 2024 Approved Efficient Whiteboard Use in Webinars Apple, Android & PC Solutions Explored</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieving-professional-screen-record-quality-on-your-hp-notebook-for-2024/"><u>[New] Achieving Professional Screen Record Quality on Your HP Notebook for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-saving-the-essence-a-guide-for-virtual-meeting-records-for-2024/"><u>[New] Saving the Essence A Guide for Virtual Meeting Records for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamers-crossroad-comparing-obs-with-twitch-studio-services-for-2024/"><u>[New] Streamers' Crossroad Comparing OBS with Twitch Studio Services for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-upload-wizardry-selecting-the-best-youtube-to-twitter-convertors-for-2024/"><u>[New] Upload Wizardry Selecting the Best YouTube to Twitter Convertors for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[Updated] Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-windows-11-a-features-showcase/"><u>[Updated] Windows 11 A Features Showcase</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-obs-settings-for-smooth-skype-video-streaming/"><u>2024 Approved OBS Settings for Smooth Skype Video Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easeus-review-inclusivity-in-action-for-2024/"><u>EaseUS Review Inclusivity in Action for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/foundations-of-cinematography-15-must-know-shot-types-for-2024/"><u>Foundations of Cinematography 15 Must-Know Shot Types for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-x100-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo X100 Phone?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-picks-9-innovative-mobile-video-conferencing-tools-iphoneandroid/"><u>In 2024, Top Picks 9 Innovative Mobile Video Conferencing Tools iPhone/Android</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/in-depth-analysis-unveiling-the-strengths-and-weaknesses-of-screencast-crafting-tool/"><u>In-Depth Analysis: Unveiling the Strengths & Weaknesses of Screencast-Crafting Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/zoning-out-realign-your-mouse-wheel-now-7-steps/"><u>Zoning Out? Realign Your Mouse Wheel Now! (7 Steps)</u></a></li>
 </ul></div>
 

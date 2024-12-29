@@ -1,7 +1,7 @@
 ---
 title: "The Beginner's Guide to Weekly Virtual Office Hours for 2024"
-date: 2024-09-03T01:14:03.360Z
-updated: 2024-09-04T01:14:03.360Z
+date: 2024-12-27T18:48:43.245Z
+updated: 2024-12-29T02:16:19.123Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Many wonder **how to create Google Meet links**, but have no fear! We are here t
 
 05 [How to Create Google Meet Permanent Link?](#part5)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How To Create a Google Meet on Laptop?
 
 There are three different ways through which an individual can create and schedule a Google Meet session through their laptop.
@@ -55,9 +59,6 @@ On the left side of their screen, they will see options under the “Meet” hea
 
 Once that option is clicked, the user will be redirected to a new page that contains a meeting link.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ google meet invitation link on Gmail](https://images.wondershare.com/filmora/article-images/gmail-google-meet-invitation-link.jpg)
 
 Over here there are three options. By clicking the “copy link” button, individuals can copy and share the link with people they would like to invite to the meeting.
@@ -70,9 +71,6 @@ Upon clicking the “Share Via Email” option, users will be redirected to a ne
 
 If individuals want to instantly create and start the session, they can click the “Start Now” option, and the meeting will automatically start.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2. Creating Google Meet Sessions Through Google Calendar
 
 Another way to create a Google Meet session is through the Google Calendar. Much like the process of creating it through Gmail, there are a few steps involved, but the process is very easy.
@@ -85,33 +83,25 @@ After clicking the create option, the screen will show two options; “ Event”
 
 Fill in the form, if you would like to invite participants to the Google Meet conference, you can also list down their email address in the “Add Guests” section. Once you have done that click the “Add Google Meet Video Conferencing” option.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add google meet  on google calendar](https://images.wondershare.com/filmora/article-images/add-google-meet-video-conferencing-calendar.jpg)
 
 An event link will appear in the form, along with a button that says “Join With Google Meet”. Once you are done filling in the form, click “Save”.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![join google meet  via  google calendar link](https://images.wondershare.com/filmora/article-images/join-google-meet-via-google-calendar-link.jpg)
 
 If you are looking to join the conference instantly, click the “Join With Google Meet” option and you will be redirected to the conference. If you would like to join later, you can copy the joining link and search it on the Google search bar to be redirected to the conference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### 3. Creating Google Meet Sessions Through Google Meet
 
 Did you know you can directly create a conference through the Google Meet homepage as well? All you have to do is go to the Google Meet homepage and click the “New Meeting” button.
 
 Upon clicking the button, you will see three options. From that click the “Start an Instant Meeting” option and you will be redirected to a new conference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Create schedule google meet](https://images.wondershare.com/filmora/article-images/create-schedule-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 These are the three highly recommended ways to create a Google Meet session instantly, but remember, to make use of any of these options, you must have a Gmail account.
 
@@ -131,6 +121,10 @@ Upon clicking that button, three new options will appear:
 
 ![Create schedule google meet on iphone and android phone](https://images.wondershare.com/filmora/article-images/create-schedule-google-meet-iphone-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Schedule and Create Google Meet Link For The Future?
 
 There are times when individuals feel far more comfortable and organized knowing that they have pre-scheduled their meeting for the week. The best way to schedule and create Google Meet links for the future is through Google Calendar.
@@ -140,6 +134,10 @@ One must first redirect themselves to the Google Calendar homepage and click the
 They must then select “Event” and proceed from there.
 
 ![Create  google meet on Google Calendar](https://images.wondershare.com/filmora/article-images/google-calendar-google-meet-event.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A pop-up form will appear on the screen which requires information regarding the conference. If you are looking to create an event for the future, first give it a title in the title section. Then move on to the date and time section and set the date to a time in the future for when you require the session to take place.
 
@@ -158,9 +156,6 @@ If you are using Google Calendar to get the link, the process is fairly simple. 
 
 From the popup, click the “Copy Conference Info” button to get the link.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![join  google meet on Google Calendar](https://images.wondershare.com/filmora/article-images/copy-join-with-google-meet-link-calendar.jpg)
 
 On a split side, one can also get their hands on the link through Google Meet itself. They can go to the homepage and they will see a list of scheduled events for that day over there.
@@ -215,9 +210,6 @@ On the left side of their screen, they will see options under the “Meet” hea
 
 Once that option is clicked, the user will be redirected to a new page that contains a meeting link.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ google meet invitation link on Gmail](https://images.wondershare.com/filmora/article-images/gmail-google-meet-invitation-link.jpg)
 
 Over here there are three options. By clicking the “copy link” button, individuals can copy and share the link with people they would like to invite to the meeting.
@@ -250,25 +242,16 @@ An event link will appear in the form, along with a button that says “Join Wit
 
 If you are looking to join the conference instantly, click the “Join With Google Meet” option and you will be redirected to the conference. If you would like to join later, you can copy the joining link and search it on the Google search bar to be redirected to the conference.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3. Creating Google Meet Sessions Through Google Meet
 
 Did you know you can directly create a conference through the Google Meet homepage as well? All you have to do is go to the Google Meet homepage and click the “New Meeting” button.
 
 Upon clicking the button, you will see three options. From that click the “Start an Instant Meeting” option and you will be redirected to a new conference.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create schedule google meet](https://images.wondershare.com/filmora/article-images/create-schedule-google-meet.jpg)
 
 These are the three highly recommended ways to create a Google Meet session instantly, but remember, to make use of any of these options, you must have a Gmail account.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Create Google Meet on Android/iPhone/iPad?
 
 Google Meet comes with an option for groups to create video conferences on their mobile and tablet devices as well. Whether you are using an Android device or iOS, you can easily create a meeting!
@@ -283,14 +266,8 @@ Upon clicking that button, three new options will appear:
 * Start an instant meeting - make use of this option if you would like to automatically join the meeting and then share the link with participants later on
 * Schedule in Google Calendar - use this option when you would like to create a meeting for the future. If you would like to know more about this, keep on reading as it will be covered later in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create schedule google meet on iphone and android phone](https://images.wondershare.com/filmora/article-images/create-schedule-google-meet-iphone-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Schedule and Create Google Meet Link For The Future?
 
 There are times when individuals feel far more comfortable and organized knowing that they have pre-scheduled their meeting for the week. The best way to schedule and create Google Meet links for the future is through Google Calendar.
@@ -299,9 +276,6 @@ One must first redirect themselves to the Google Calendar homepage and click the
 
 They must then select “Event” and proceed from there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Create  google meet on Google Calendar](https://images.wondershare.com/filmora/article-images/google-calendar-google-meet-event.jpg)
 
 A pop-up form will appear on the screen which requires information regarding the conference. If you are looking to create an event for the future, first give it a title in the title section. Then move on to the date and time section and set the date to a time in the future for when you require the session to take place.
@@ -309,6 +283,10 @@ A pop-up form will appear on the screen which requires information regarding the
 You can change the date by clicking on the date in the form, then a drop-down menu will appear from which you can choose the required date. Follow the same process for the time as well.
 
 Once you click save, the meeting will be confirmed and appear on your Google Calendar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Get the Google Meet Link and Code?
 
@@ -333,9 +311,6 @@ Tired of creating the same meetings again and again? Then why not just create a 
 
 Before clicking save, click the “Repeat” option and select the days you would like the meeting to repeat itself. Then for all those days, the same link will be used.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![create  google meet permanent link](https://images.wondershare.com/filmora/article-images/create-google-meet-permanent-link.jpg)
 
 **Are You Ready To Start Creating Your Own Google Meet Conferences?**
@@ -378,23 +353,29 @@ On the left side of their screen, they will see options under the “Meet” hea
 
 Once that option is clicked, the user will be redirected to a new page that contains a meeting link.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ google meet invitation link on Gmail](https://images.wondershare.com/filmora/article-images/gmail-google-meet-invitation-link.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Over here there are three options. By clicking the “copy link” button, individuals can copy and share the link with people they would like to invite to the meeting.
 
 If they want to directly share the link, they can also click the “Send Invite” button and copy the meeting invite from there as well as share via email.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![share google meet invitation link on Gmail](https://images.wondershare.com/filmora/article-images/share-google-meet-invite-link-gmail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Upon clicking the “Share Via Email” option, users will be redirected to a new tab where they can see an email pop up and from there, they can invite participants to the session through their email address, as indicated in the image below.
 
 If individuals want to instantly create and start the session, they can click the “Start Now” option, and the meeting will automatically start.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Creating Google Meet Sessions Through Google Calendar
 
@@ -416,25 +397,16 @@ An event link will appear in the form, along with a button that says “Join Wit
 
 If you are looking to join the conference instantly, click the “Join With Google Meet” option and you will be redirected to the conference. If you would like to join later, you can copy the joining link and search it on the Google search bar to be redirected to the conference.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3. Creating Google Meet Sessions Through Google Meet
 
 Did you know you can directly create a conference through the Google Meet homepage as well? All you have to do is go to the Google Meet homepage and click the “New Meeting” button.
 
 Upon clicking the button, you will see three options. From that click the “Start an Instant Meeting” option and you will be redirected to a new conference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Create schedule google meet](https://images.wondershare.com/filmora/article-images/create-schedule-google-meet.jpg)
 
 These are the three highly recommended ways to create a Google Meet session instantly, but remember, to make use of any of these options, you must have a Gmail account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Create Google Meet on Android/iPhone/iPad?
 
 Google Meet comes with an option for groups to create video conferences on their mobile and tablet devices as well. Whether you are using an Android device or iOS, you can easily create a meeting!
@@ -484,9 +456,6 @@ On a split side, one can also get their hands on the link through Google Meet it
 
 From there just click the event you require a link for and you will be redirected to the meeting joining page. From there, just copy the link from the search bar and voila, you are good to go!
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Create Google Meet Permanent Link
 
 Tired of creating the same meetings again and again? Then why not just create a recurring link, also known as a permanent link. The process of creating a permanent link is the same as scheduling a Google Meet through Google Calendar, except one additional step has been added.
@@ -519,9 +488,6 @@ Many wonder **how to create Google Meet links**, but have no fear! We are here t
 
 05 [How to Create Google Meet Permanent Link?](#part5)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How To Create a Google Meet on Laptop?
 
 There are three different ways through which an individual can create and schedule a Google Meet session through their laptop.
@@ -538,18 +504,12 @@ On the left side of their screen, they will see options under the “Meet” hea
 
 Once that option is clicked, the user will be redirected to a new page that contains a meeting link.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ google meet invitation link on Gmail](https://images.wondershare.com/filmora/article-images/gmail-google-meet-invitation-link.jpg)
 
 Over here there are three options. By clicking the “copy link” button, individuals can copy and share the link with people they would like to invite to the meeting.
 
 If they want to directly share the link, they can also click the “Send Invite” button and copy the meeting invite from there as well as share via email.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![share google meet invitation link on Gmail](https://images.wondershare.com/filmora/article-images/share-google-meet-invite-link-gmail.jpg)
 
 Upon clicking the “Share Via Email” option, users will be redirected to a new tab where they can see an email pop up and from there, they can invite participants to the session through their email address, as indicated in the image below.
@@ -562,18 +522,12 @@ Another way to create a Google Meet session is through the Google Calendar. Much
 
 First individuals must go to the Google Calendar homepage and click the “Create” button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![create google meet  on google calendar](https://images.wondershare.com/filmora/article-images/create-google-meet-session-google-calendar.jpg)
 
 After clicking the create option, the screen will show two options; “ Event” and “Task”. Click the event option and a pop-up form will show up on the window which must be filled to create a Google Meet event.
 
 Fill in the form, if you would like to invite participants to the Google Meet conference, you can also list down their email address in the “Add Guests” section. Once you have done that click the “Add Google Meet Video Conferencing” option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add google meet  on google calendar](https://images.wondershare.com/filmora/article-images/add-google-meet-video-conferencing-calendar.jpg)
 
 An event link will appear in the form, along with a button that says “Join With Google Meet”. Once you are done filling in the form, click “Save”.
@@ -582,9 +536,6 @@ An event link will appear in the form, along with a button that says “Join Wit
 
 If you are looking to join the conference instantly, click the “Join With Google Meet” option and you will be redirected to the conference. If you would like to join later, you can copy the joining link and search it on the Google search bar to be redirected to the conference.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3. Creating Google Meet Sessions Through Google Meet
 
 Did you know you can directly create a conference through the Google Meet homepage as well? All you have to do is go to the Google Meet homepage and click the “New Meeting” button.
@@ -594,6 +545,10 @@ Upon clicking the button, you will see three options. From that click the “Sta
 ![Create schedule google meet](https://images.wondershare.com/filmora/article-images/create-schedule-google-meet.jpg)
 
 These are the three highly recommended ways to create a Google Meet session instantly, but remember, to make use of any of these options, you must have a Gmail account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Create Google Meet on Android/iPhone/iPad?
 
@@ -609,10 +564,6 @@ Upon clicking that button, three new options will appear:
 * Start an instant meeting - make use of this option if you would like to automatically join the meeting and then share the link with participants later on
 * Schedule in Google Calendar - use this option when you would like to create a meeting for the future. If you would like to know more about this, keep on reading as it will be covered later in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Create schedule google meet on iphone and android phone](https://images.wondershare.com/filmora/article-images/create-schedule-google-meet-iphone-android.jpg)
 
 ## Part 3: How to Schedule and Create Google Meet Link For The Future?
@@ -631,6 +582,10 @@ You can change the date by clicking on the date in the form, then a drop-down me
 
 Once you click save, the meeting will be confirmed and appear on your Google Calendar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Get the Google Meet Link and Code?
 
 There are numerous ways through which you can get the link to the session.
@@ -648,9 +603,6 @@ On a split side, one can also get their hands on the link through Google Meet it
 
 From there just click the event you require a link for and you will be redirected to the meeting joining page. From there, just copy the link from the search bar and voila, you are good to go!
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Create Google Meet Permanent Link
 
 Tired of creating the same meetings again and again? Then why not just create a recurring link, also known as a permanent link. The process of creating a permanent link is the same as scheduling a Google Meet through Google Calendar, except one additional step has been added.
@@ -687,10 +639,23 @@ You can share links of the meetings you have created, join with links, schedule 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>[New] 2024 Approved Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-sound-potential-mastering-mac-audio-with-audacity/"><u>[New] 2024 Approved Unlocking Sound Potential Mastering Mac Audio with Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-maximizing-velocity-in-real-time-periscope-livestreams/"><u>[New] Maximizing Velocity in Real-Time Periscope Livestreams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-synchronize-your-calendars-for-smooth-video-calls/"><u>[New] Synchronize Your Calendars for Smooth Video Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-miniature-asian-houses-innovative-designs-for-mcers/"><u>[Updated] 2024 Approved Miniature Asian Houses Innovative Designs for MCers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-voice-guided-powerpoint-handbook/"><u>[Updated] 2024 Approved The Ultimate Voice-Guided PowerPoint Handbook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-decoding-the-full-scope-of-obs-screen-recorder/"><u>[Updated] In 2024, Decoding the Full Scope of OBS Screen Recorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unraveling-periscopes-mystique-is-it-free-and-how-to-signup/"><u>[Updated] In 2024, Unraveling Periscope's Mystique Is It Free and How to Signup?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-linkedin-image-aspect-ratios-explained-for-2024/"><u>[Updated] LinkedIn Image Aspect Ratios Explained for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>[Updated] The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-secrets-to-impactful-patient-storytelling-in-video-for-2024/"><u>[Updated] Unveiling the Secrets to Impactful Patient Storytelling in Video for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-speedy-transformation-from-pixels-to-polished-youtube-thumbnails/"><u>2024 Approved Speedy Transformation From Pixels to Polished YouTube Thumbnails</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-y36i-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo Y36i to Another | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pcs-gateway-to-the-past-selecting-top-5-ps1-game-emulators/"><u>In 2024, PC's Gateway to the Past - Selecting Top 5 PS1 Game Emulators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unveil-top-10plus-platforms-for-virtual-worship-spaces/"><u>In 2024, Unveil Top 10+ Platforms for Virtual Worship Spaces</u></a></li>
+</ul></div>
 

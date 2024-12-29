@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Addressing Inaudible Audio  Steps for OBS Broadcasting for 2024\""
-date: 2024-12-17T16:20:04.218Z
-updated: 2024-12-23T16:32:58.999Z
+date: 2024-12-25T21:46:59.654Z
+updated: 2024-12-28T18:10:08.249Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ Edit system and microphone audio seperately
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
@@ -56,7 +56,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -80,7 +80,11 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -94,11 +98,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -111,7 +111,7 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -162,18 +162,18 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-a-beginners-key-to-mastering-social-media-metrics/"><u>[New] A Beginner's Key to Mastering Social Media Metrics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-complete-review-of-camstudio-screencap-tech/"><u>[New] In 2024, The Complete Review of CamStudio Screencap Tech</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-androids-best-moba-games-roundup-10-edition/"><u>[Updated] 2024 Approved Android's Best MOBA Games Roundup - #10 Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-commanders-showdown-the-pinnacle-total-war-clashes/"><u>[Updated] Elite Commanders' Showdown The Pinnacle Total War Clashes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unleashing-broadcast-potential-from-obs-to-facebook-platform/"><u>[Updated] In 2024, Unleashing Broadcast Potential From OBS to Facebook Platform</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fixing-the-single-channel-headset-for-2024/"><u>Fixing the Single-Channel Headset for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-huawei-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Huawei ?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/scan-and-savor-innovative-edible-printed-qr-codes/"><u>Scan & Savor: Innovative Edible, Printed QR Codes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-ultimate-guide-to-visiting-friends-lives-on-tiktok/"><u>The Ultimate Guide to Visiting Friends' Lives on TikTok</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-mac-toolkit-capturing-netflix-views/"><u>The Ultimate Mac Toolkit Capturing Netflix Views</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/time-management-mastery-slack-and-filmora-for-productive-team-meetings/"><u>Time Management Mastery Slack & Filmora for Productive Team Meetings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722860216209-watch-all-the-game-tonight-getting-fubotv-working-on-fire-stick/"><u>Watch All the Game Tonight! Getting FuboTV Working on Fire Stick</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-echoes-from-the-web-tips-on-tracking-live-sounds/"><u>[New] 2024 Approved Echoes From the Web Tips on Tracking Live Sounds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-maximize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content/"><u>[New] In 2024, Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-complete-manual-for-creating-condensed-youtube-videos/"><u>[New] In 2024, The Complete Manual for Creating Condensed YouTube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-complete-process-recording-youtube-livestream-on-multiple-platforms/"><u>[New] In 2024, The Complete Process Recording YouTube Livestream on Multiple Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-inside-look-tunefabs-best-screen-recorder-for-2024/"><u>[New] Inside Look Tunefab's Best Screen Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-wide-angle-postings-integrating-360-photos-on-mobile-apps/"><u>[New] Mastering Wide Angle Postings Integrating 360 Photos on Mobile Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-guide-to-optimal-screen-casting-via-meet-for-2024/"><u>[New] Step-by-Step Guide to Optimal Screen Casting via Meet for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-10-digital-landscape-replacers-for-videos/"><u>[Updated] Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimal-low-cost-screen-recording-options-for-chromebook/"><u>[Updated] In 2024, Optimal Low-Cost Screen Recording Options for Chromebook</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-the-art-of-monochrome-modification/"><u>2024 Approved Mastering the Art of Monochrome Modification</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-reviewing-vlc-as-a-multimedia-recorder/"><u>2024 Approved Reviewing VLC as a Multimedia Recorder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-beginners-companion-best-software-for-gamers-recordings-and-editing-for-2024/"><u>A Beginner's Companion Best Software for Gamers’ Recordings & Editing for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-what-makes-the-netgear-c3700-a-standout-as-a-modem-a-detailed-review/"><u>Discover What Makes the Netgear C3700 a Standout as a Modem - A Detailed Review</u></a></li>
 </ul></div>
 

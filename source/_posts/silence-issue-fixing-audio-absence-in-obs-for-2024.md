@@ -1,7 +1,7 @@
 ---
 title: "\"Silence Issue  Fixing Audio Absence in OBS for 2024\""
-date: 2024-12-21T16:16:14.750Z
-updated: 2024-12-23T16:15:37.314Z
+date: 2024-12-21T19:24:16.431Z
+updated: 2024-12-29T05:39:48.346Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
@@ -46,7 +42,7 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -59,6 +55,14 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -68,10 +72,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -84,7 +84,7 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -98,7 +98,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -137,7 +137,7 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -162,15 +162,21 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-design-marvels-japanese-homescape-in-mc-landscape/"><u>[New] 2024 Approved Design Marvels Japanese Homescape in MC Landscape</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-proven-instagram-analysis-apps-enhance-engagement-growth-and-conversion-rates/"><u>[Updated] In 2024, Proven Instagram Analysis Apps Enhance Engagement, Growth & Conversion Rates</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-screen-capture-software-guide-apowersoft-included/"><u>[Updated] The Ultimate Screen Capture Software Guide - Apowersoft Included</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-transform-your-flip-to-flash-with-android/"><u>[Updated] Transform Your Flip to Flash with Android</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-y36-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Y36</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-12-pro-max-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 12 Pro Max using find my iphone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-building-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>In 2024, Building Your Brand with Brilliant Educational Videos A Guide to YouTube Excellence</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/securely-save-your-windows-8-screenshots-for-2024/"><u>Securely Save Your Windows 8 Screenshots for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-solutions-to-complex-equations-using-our-selection-of-the-7-finest-ai-math-helpers/"><u>Unlock Solutions to Complex Equations Using Our Selection of the 7 Finest AI Math Helpers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/your-ultimate-guide-to-perfectly-recorded-lol-gaming/"><u>Your Ultimate Guide to Perfectly Recorded LOL Gaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-secrets-to-smoothly-resolving-youtube-short-issues/"><u>[New] 2024 Approved Secrets to Smoothly Resolving YouTube Short Issues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-5-high-quality-android-screen-recording-solutions-for-2024/"><u>[New] Top 5 High-Quality Android Screen Recording Solutions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-techniques-recording-in-adobe-presenter/"><u>[Updated] Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-link-savers-discover-8-free-and-easy-online-tools-for-2024/"><u>[Updated] FB Link Savers Discover 8 Free & Easy Online Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] Harness Your View Count Cross-Platform Studio Methods</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-techniques-to-archivalize-chat-communication-in-whatsapp/"><u>[Updated] In 2024, Techniques to Archivalize Chat Communication in WhatsApp</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-key-methods-for-silent-screen-imaging/"><u>[Updated] Key Methods for Silent Screen Imaging</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-screen-grabber-for-win11/"><u>[Updated] Professional Screen Grabber for Win11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition/"><u>A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/craft-high-definition-artistic-wonders-using-advanced-ai-generation-technology-for-seamless-precision/"><u>Craft High-Definition Artistic Wonders Using Advanced AI Generation Technology for Seamless Precision</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-macpc-screenshot-toolkit-for-desktops/"><u>In 2024, Best MacPC Screenshot Toolkit for Desktops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/life-made-effortless-unlocking-the-power-of-chatgpt-in-9-ways/"><u>Life Made Effortless: Unlocking the Power of ChatGPT in 9 Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/rescue-absent-watch-thumbnail-icon-for-2024/"><u>Rescue Absent Watch Thumbnail Icon for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-restoring-lost-iphone-note-app-entries/"><u>Step-by-Step Guide: Restoring Lost iPhone Note App Entries</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-text-vision-windows-11-notepad-customization-guide/"><u>Tailoring Your Text Vision: Windows 11 Notepad Customization Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tech-savvy-strategies-recording-gotomeeting-on-any-gear/"><u>Tech-Savvy Strategies Recording GoToMeeting on Any Gear</u></a></li>
 </ul></div>
 
