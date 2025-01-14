@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Expert Guide to Initiate Video Calls Using WhatsApp Web for Laptops\""
-date: 2025-01-01T00:25:29.269Z
-updated: 2025-01-07T20:17:58.674Z
+date: 2025-01-12T18:40:36.031Z
+updated: 2025-01-14T05:48:09.010Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Unfortunately, you can’t use WhatsApp on the desktop to make video calls direc
 
 Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Video Call from WhatsApp Web in Laptop
 
 Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
@@ -55,17 +59,21 @@ In a few easy steps:
 
 ![set Bluestacks account](https://images.wondershare.com/filmora/article-images/set-bluestacks-account.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    1. Find WhatsApp in the Play or Apple store and download it.
 
 ![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    1. Open it through the Bluestacks and set the WhatsApp with the same account on your phone.
 
 ![log in whatsapp](https://images.wondershare.com/filmora/article-images/install-whatsapp-in-desktop.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Now you can see all your contacts on WhatsApp, and you can also add more people here.
 2. Choose a friend to start a conversation, and then tap the video call button at the top right corner. The whole process is easy to complete like on the phone.
@@ -73,7 +81,7 @@ In a few easy steps:
 Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: WhatsApp Web Alternative
@@ -86,29 +94,21 @@ Skype is one of the longest-running video calling and web calling apps. It gives
 
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. [Google Duo](https://duo.google.com/about/)
 
 If you can’t figure out how to make video calls on WhatsApp Web on laptops, then Google Duo is a brilliant alternative. It allows HD video and audio chat while working with low bandwidth or bad Wi-Fi. It’s fully compatible with all things made by Google – and it works by signing into your Google account, so your friends don’t need to do very much if you invite them to a call.
 
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [Facebook Messenger](https://www.messenger.com/)
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
 
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Rounding Up
 
@@ -131,20 +131,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-accurate-recordings-of-console-games-on-home-computers/"><u>[New] 2024 Approved Accurate Recordings of Console Games on Home Computers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-navigating-the-world-of-pc-screencasters-with-ease/"><u>[New] In 2024, Navigating the World of PC Screencasters with Ease</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-urban-adventure-top-games-similar-to-gta-v-for-2024/"><u>[New] Urban Adventure Top Games Similar to GTA V for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-m1-chip-wins-smoothness-in-every-edit-every-time-for-2024/"><u>[Updated] M1 Chip Wins Smoothness in Every Edit, Every Time for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-making-a-trendy-jujutsu-kaisen-tiktok-video-for-2024/"><u>[Updated] Making a Trendy Jujutsu Kaisen TikTok Video for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2023s-ultimate-defenders-for-your-iphone-1212-pro-expert-ratings-and-buyers-guide-by-zdnet/"><u>2023'S Ultimate Defenders for Your iPhone 12/12 Pro: Expert Ratings and Buyer’s Guide by ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-joke-juggernauts-20-memes-dominating-the-web/"><u>2024 Approved Joke Juggernauts 20 Memes Dominating the Web</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-obs-review-comprehensive-look-at-screen-recorder-excellence/"><u>2024 Approved OBS Review Comprehensive Look at Screen Recorder Excellence</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-gamers-archive-6-innovative-approaches-for-recording-games/"><u>2024 Approved The Gamers' Archive 6 Innovative Approaches for Recording Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/broadcast-power-play-which-livestream-tool-should-you-use-in-2024/"><u>Broadcast Power Play Which Livestream Tool Should You Use, In 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/charting-new-territories-innovations-in-office-spaces-for-enhanced-output-for-2024/"><u>Charting New Territories Innovations in Office Spaces for Enhanced Output for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comparing-recording-obs-studio-versus-bandicam/"><u>In 2024, Comparing Recording OBS Studio Versus Bandicam</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-your-user-directory-naming/"><u>Personalizing Your User Directory Naming</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ringtune-guide-downloading-and-cutting-tamil-melodies-for-2024/"><u>RingTune Guide Downloading and Cutting Tamil Melodies for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-player-insights-and-critiques/"><u>[New] Audio Player Insights & Critiques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-crafting-the-perfect-zoom-call-timeline/"><u>[New] In 2024, Crafting the Perfect Zoom Call Timeline</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-street-smart-showdown-top-hand-to-hand-video-games/"><u>[New] Street Smart Showdown Top Hand-to-Hand Video Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-complete-guide-from-recording-to-live-on-facebook/"><u>[New] The Complete Guide From Recording to Live on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-6-minecraft-modern-house-ideas-for-2024/"><u>[New] Top 6 Minecraft Modern House Ideas for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamlining-movie-file-processing-in-windows-11/"><u>[Updated] 2024 Approved Streamlining Movie File Processing in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-3-simplified-ways-to-save-lenovo-screenshots/"><u>[Updated] 3 Simplified Ways to Save Lenovo Screenshots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-maximizing-obs-on-android-effective-practices/"><u>[Updated] In 2024, Maximizing OBS on Android Effective Practices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-techniques-for-capturing-ps3-gaming-moments/"><u>[Updated] In 2024, Top Techniques for Capturing PS3 Gaming Moments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/p-rated-youtube-downloaders-your-offline-viewing-solution/"><u>15 Top-Rated YouTube Downloaders - Your Offline Viewing Solution</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-transform-lives-10-cinematic-inspirations/"><u>2024 Approved Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726028829298-20245/"><u>2024年度リリース：初めて使う動画編集ツールベスト5ピックアップ</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/deciding-on-ideal-vimeo-subscription-plan-for-2024/"><u>Deciding on Ideal Vimeo Subscription Plan for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/energize-your-workday-longer-proven-strategies-for-boosting-windows-laptop-battery-durability-zdnet-guidelines/"><u>Energize Your Workday Longer: Proven Strategies for Boosting Windows Laptop Battery Durability | ZDNET Guidelines</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-loom-wizardry-crafting-perfect-loom-screenplays/"><u>In 2024, Loom Wizardry Crafting Perfect Loom Screenplays</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unlock-hidden-features-of-the-youtube-creator-space/"><u>In 2024, Unlock Hidden Features of the YouTube Creator Space</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/soundsnatcher-recorder-software-overview-for-2024/"><u>SoundSnatcher Recorder Software Overview for 2024</u></a></li>
 </ul></div>
 
