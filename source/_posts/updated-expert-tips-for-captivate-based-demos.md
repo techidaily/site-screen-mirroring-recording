@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Expert Tips for Captivate-Based Demos\""
-date: 2025-01-08T09:48:41.215Z
-updated: 2025-01-13T21:10:52.517Z
+date: 2025-01-21T03:36:15.438Z
+updated: 2025-01-25T18:37:04.651Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ To make things even better, the Adobe Captivate software is compatible with all 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -53,11 +49,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -71,7 +63,7 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
@@ -82,6 +74,10 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -89,6 +85,10 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
@@ -100,6 +100,10 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
 **Conclusion:**
@@ -107,10 +111,6 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -127,20 +127,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-guide-to-set-up-zoom-meetings/"><u>[New] Guide to Set up Zoom Meetings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>[New] How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-iphones-artistry-for-time-extended-cinematography/"><u>[New] IPhone's Artistry for Time-Extended Cinematography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats/"><u>[Updated] In 2024, Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-maximize-your-obs-fb-integration-tips/"><u>[Updated] In 2024, Maximize Your OBS-FB Integration Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-your-wayback-machine-facebooks-story-archives-at-your-service/"><u>[Updated] In 2024, Your Wayback Machine Facebook’s Story Archives at Your Service</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovating-color-grading-with-new-lut-techniques/"><u>[Updated] Innovating Color Grading with New LUT Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-chromebook-visual-recorder/"><u>[Updated] Top Chromebook Visual Recorder</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ving-professional-level-youtube-streams-using-wirecast-for-2024/"><u>Achieving Professional-Level Youtube Streams Using WireCast for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-for-iphone-screen-taping/"><u>In 2024, The Ultimate Guide for iPhone Screen Taping</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719149786368-livestream-instagram-no-media-necessary/"><u>Livestream Instagram: No Media Necessary!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-srt-download-from-youtube-with-3-tactics-for-2024/"><u>Navigating SRT Download From YouTube with 3 Tactics for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-top-ranking-ipad-applications-to-boost-efficiency-and-streamline-task-management-techradar/"><u>Ultimate List of Top-Ranking iPad Applications to Boost Efficiency and Streamline Task Management | TechRadar</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/xbox-gaming-captured-a-beginners-screen-recording-journey-for-2024/"><u>Xbox Gaming Captured A Beginner's Screen Recording Journey for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029025353-youtube/"><u>YouTubeを表示せずに視聴するための代替手段</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-ensuring-relevance-and-engagement-with-proper-fb-hashtags/"><u>[New] In 2024, Ensuring Relevance and Engagement with Proper FB Hashtags</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-saving-your-itunes-media-three-simple-steps/"><u>[New] In 2024, Saving Your iTunes Media Three Simple Steps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-virtual-streets-best-video-games-mimicking-gta-v/"><u>[Updated] 2024 Approved Virtual Streets Best Video Games Mimicking GTA V</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-apple-could-surpass-openai-microsoft-and-google-during-the-wwdc-2024-keynote-a-comprehensive-guide-zdnet/"><u>How Apple Could Surpass OpenAI, Microsoft & Google During the WWDC 2024 Keynote: A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lensblend-elite-cohesive-image-composer/"><u>In 2024, LensBlend Elite Cohesive Image Composer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>In 2024, OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-picks-9-innovative-mobile-video-conferencing-tools-iphoneandroid/"><u>In 2024, Top Picks 9 Innovative Mobile Video Conferencing Tools iPhone/Android</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-top-animation-software-10-best-2d-tools-for-beginners-and-pros/"><u>New In 2024, S Top Animation Software 10 Best 2D Tools for Beginners and Pros</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Review: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-2024s-must-have-magsafe-gadgets-expert-tested-and-reviewed-zdnet/"><u>Ultimate Guide to 2024'S Must-Have MagSafe Gadgets: Expert Tested and Reviewed | ZDNET</u></a></li>
 </ul></div>
 

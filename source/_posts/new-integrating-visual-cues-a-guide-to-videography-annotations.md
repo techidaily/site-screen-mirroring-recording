@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Integrating Visual Cues  A Guide to Videography Annotations\""
-date: 2025-01-18T09:44:56.095Z
-updated: 2025-01-20T12:50:16.938Z
+date: 2025-01-22T08:29:29.447Z
+updated: 2025-01-26T02:48:07.548Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Distinctions Between the Two Types of Markers
 
 Watching the footage you've captured over and over can be a tiresome process that consumes both time and energy, so in order to increase your efficiency during the process of capturing and editing videos, you can simply add markers both to the files you're creating while recording or to your project's timeline.
@@ -61,6 +57,10 @@ The **media markers** are the markers you can add directly to the video file you
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -104,7 +104,7 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Method 2: Adding Markers through the Keyboard**
@@ -114,11 +114,7 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -127,6 +123,10 @@ Once you have finished editing your mistakes, it's important to remove the marke
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, markers are a valuable tool for video recording and editing. They can help editors keep track of important moments, make precise edits, and streamline your workflow. By utilizing markers effectively, you can save time and ensure a more polished final result. Furthermore, you can try to use Wondershare Filmora to incorporate markers into the screen recording and video editing process. It is a great way to enhance the quality and efficiency of your work greatly. So, don't hesitate to start using markers in your video recording and editing projects today with Filmora!
@@ -134,7 +134,7 @@ In conclusion, markers are a valuable tool for video recording and editing. They
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -152,22 +152,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capture-your-gaming-adventures-with-steam/"><u>[New] 2024 Approved Capture Your Gaming Adventures with Steam</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-filmora-vs-democreator-a-guide-to-the-best-video-editor-for-2024/"><u>[New] Filmora Vs. Democreator A Guide to the Best Video Editor for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-high-fidelity-screen-capture-suite-review-march-2023-for-2024/"><u>[New] High-Fidelity Screen Capture Suite Review – March 2023 for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-new-dimensions-in-physical-interaction-tech/"><u>[New] In 2024, Unlocking New Dimensions in Physical Interaction Tech</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-screen-recording-on-imac-with-ease/"><u>[New] Mastering Screen Recording on iMac with Ease</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-disable-youtube-preview-across-platforms/"><u>[Updated] 2024 Approved Disable Youtube Preview Across Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-video-branding-incorporating-watermarks-into-youtube-media/"><u>[Updated] 2024 Approved Elevate Video Branding Incorporating Watermarks Into YouTube Media</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-pros-way-of-recording-movs-effectively-on-windows-10/"><u>[Updated] 2024 Approved The Pro's Way of Recording MOVs Effectively on Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>[Updated] Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-zero-cost-mp3-the-skype-recording-method/"><u>[Updated] Zero-Cost MP3 The Skype Recording Method</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/direct-technique-swap-film-direction-in-media-player-for-2024/"><u>Direct Technique Swap Film Direction in Media Player for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-list-of-top-digital-tutorial-providers-sans-udemy-for-2024/"><u>Exclusive List of Top Digital Tutorial Providers Sans Udemy for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-journey-from-content-creator-to-money-maker-on-youtube/"><u>In 2024, The Journey From Content Creator to Money-Maker on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/is-the-outlook-app-not-syncing-on-windows-heres-how-to-fix-it/"><u>Is the Outlook App Not Syncing on Windows? Here’s How to Fix It</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-expands-iot-offerings-as-google-withdraws-from-market-insights-by-zdnet/"><u>Microsoft Expands IoT Offerings as Google Withdraws From Market - Insights by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-ease-of-repair-apple-confirms-enhanced-maintenance-with-iphone-16-compared-to-earlier-models-insights/"><u>Unveiling Ease of Repair: Apple Confirms Enhanced Maintenance with iPhone 16 Compared to Earlier Models - Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/updated-solution-correcting-microsoft-outlooks-connection-problems/"><u>Updated Solution: Correcting Microsoft Outlook's Connection Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-complete-hp-laptop-screen-recording-manual/"><u>[New] 2024 Approved The Complete HP Laptop Screen Recording Manual</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/harting-a-successful-course-in-youtube-keywords-for-2024/"><u>[New] Charting a Successful Course in YouTube Keywords for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-crafting-compact-comforts-essential-mc-abodes-for-beginners/"><u>[New] Crafting Compact Comforts Essential MC Abodes for Beginners</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-hands-on-approaches-to-archive-vimeo-video/"><u>[New] Hands-On Approaches to Archive Vimeo Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-hidden-sound-scribes-unveiling-ios-and-android-stealth-recorders/"><u>[New] Hidden Sound Scribes Unveiling iOS & Android Stealth Recorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-abbreviated-film-dialogue-scheme/"><u>[New] In 2024, Abbreviated Film Dialogue Scheme</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-seamless-integration-of-custom-backgrounds-on-microsoft-teams-calls/"><u>[Updated] 2024 Approved Seamless Integration of Custom Backgrounds on Microsoft Teams Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-selecting-your-perfect-monitor-and-recorder-duo/"><u>[Updated] Selecting Your Perfect Monitor & Recorder Duo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-to-obs-setup-use-macos-edition-for-2024/"><u>Comprehensive Guide to OBS Setup, Use, macOS Edition for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007990149-fortnite-access-denied-bypass-the-hassle-with-these-tips/"><u>Fortnite Access Denied? Bypass the Hassle with These Tips!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixel-perfection-best-video-cameras-for-extended-recording-times/"><u>In 2024, Pixel Perfection Best Video Cameras for Extended Recording Times</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>In 2024, The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-banes-affliction-speedy-solutions-for-batman-arkham-knight-bug-issues/"><u>Resolve Bane's Affliction: Speedy Solutions for Batman: Arkham Knight Bug Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-free-video-converters-2020-ultimate-guide-for-hd-and-4k-on-windows-10/"><u>Top 3 Free Video Converters 2020: Ultimate Guide for HD & 4K on Windows 10</u></a></li>
 </ul></div>
 
