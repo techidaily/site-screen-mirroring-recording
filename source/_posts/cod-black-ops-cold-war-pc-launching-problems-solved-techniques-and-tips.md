@@ -1,7 +1,7 @@
 ---
 title: "Cod: Black Ops Cold War PC Launching Problems - Solved Techniques and Tips"
-date: 2025-01-22T00:06:22.100Z
-updated: 2025-01-26T04:59:52.766Z
+date: 2025-02-03T01:50:17.389Z
+updated: 2025-02-08T08:07:21.888Z
 tags:
   - win11
   - win10
@@ -53,12 +53,16 @@ By checking your system specs, just follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop overclocking your GPU
 
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
@@ -68,7 +72,7 @@ By checking your system specs, just follow the instructions below:
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics drivers
@@ -91,6 +95,10 @@ By checking your system specs, just follow the instructions below:
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -106,10 +114,6 @@ OR
 
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -118,13 +122,13 @@ OR
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Open the**steamapps** folder.
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
@@ -137,7 +141,11 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
@@ -156,10 +164,6 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Set Launch Options
 
  This method is proven to be working for many game players. So you can give it a shot by following these steps:
@@ -168,21 +172,17 @@ OR
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When the window pops up, type**autoconfig** and click**OK** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Till then, try running the game. If you want to go back to the previous launch options, just delete**autoconfig** following the steps listed above.
 
@@ -216,21 +216,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-explore-cheap-video-call-alternatives-compatible-with-windows-and-mac/"><u>[Updated] 2024 Approved Explore Cheap Video Call Alternatives Compatible With Windows & Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-offline-adventures-top-10-android-journeys-without-connectivity-for-2024/"><u>[Updated] Offline Adventures Top 10 Android Journeys Without Connectivity for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>[Updated] The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-affordable-pc-monitoring-software/"><u>2024 Approved Affordable PC Monitoring Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-10t-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme 10T 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/harmonic-storage-pc-audio-and-speech-for-2024/"><u>Harmonic Storage PC Audio and Speech for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/harmonizing-tech-and-artistry-mac-studios/"><u>Harmonizing Tech & Artistry Mac Studios</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-educators-elite-selecting-the-ultimate-classroom-recorders-of-teaching/"><u>In 2024, Educators’ Elite Selecting the Ultimate Classroom Recorders of Teaching</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-visual-snips-tool/"><u>In 2024, Visual Snips Tool</u></a></li>
-<li><a href="https://extra-support.techidaily.com/interactive-solutions-with-vr-for-2024/"><u>Interactive Solutions with VR for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leveraging-full-motion-video-on-iphones/"><u>Leveraging Full Motion Video on iPhones</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-chronicles-of-continuity-eternal-return-the-journey-beyond-shadows/"><u>The Chronicles of Continuity: 'Eternal Return - The Journey Beyond Shadows'</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/tiktoks-legal-boundaries-understanding-pre-upload-rights/"><u>TikTok's Legal Boundaries Understanding Pre-Upload Rights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/uninterrupted-adventures-top-10-best-offline-ios-titles/"><u>Uninterrupted Adventures Top 10 Best Offline iOS Titles</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-computings-ultimate-trick-to-personalize-your-desktop-background-in-windows-using-control-panel/"><u>YL Computing's Ultimate Trick to Personalize Your Desktop Background in Windows Using Control Panel</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlock-the-ultimate-windows-screen-snip-list-1-5/"><u>[New] 2024 Approved Unlock the Ultimate Windows Screen Snip List, #1-5</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-adopting-innovations-mask-and-filter-methods-for-google-meet-for-2024/"><u>[New] Adopting Innovations Mask & Filter Methods for Google Meet for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-free-mac-screenshoter-extraordinaire-for-2024/"><u>[New] Free Mac Screenshoter Extraordinaire for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>[New] In 2024, Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-leading-edge-vr-game-development-technology-2023-edition/"><u>[New] Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syncing-social-media-zoom-and-facebook-live-interactions/"><u>[Updated] Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-new-users-on-the-road-to-zoom-room-mastery/"><u>2024 Approved New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-for-beyond-sharex-review/"><u>2024 Approved The Ultimate Guide for Beyond-ShareX Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assessing-the-value-of-a-fitbit-charge-3-purchase-does-it-hold-up-over-time/"><u>Assessing the Value of a Fitbit Charge 3 Purchase: Does It Hold Up Over Time?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversao-perfeita-de-dvds-em-formato-digital-os-melhores-metodos-da-moderna-tecnologia-atualizado-em-2023/"><u>Conversão Perfeita De DVDs Em Formato Digital: Os Melhores Métodos Da Moderna Tecnologia (Atualizado Em 2023)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-android-tools-for-video-recording/"><u>Essential Android Tools for Video Recording</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-red-magic-9-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Red Magic 9 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pinnacle-5-frame-timelapse-recorder/"><u>In 2024, Pinnacle 5-Frame Timelapse Recorder</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-monterey-worth-installing-your-guide/"><u>Is Monterey Worth Installing? Your Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-speech-recording-top-apps-for-your-ipad-for-2024/"><u>Mastering Speech Recording Top Apps for Your iPad for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/maximizing-your-macbook-camera-a-recording-handbook-for-2024/"><u>Maximizing Your MacBook Camera A Recording Handbook for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-pro-case-for-202n4-in-depth-analysis-and-rankings/"><u>Ultimate Guide to Choosing the Ideal iPad Pro Case for 202N4: In-Depth Analysis and Rankings</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/windows-11-admin-account-blocked-and-unlock-methods-recovery-steps/"><u>Windows 11 Admin Account Blocked & Unlock Methods - Recovery Steps</u></a></li>
 </ul></div>
 

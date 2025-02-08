@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Beyond Liberty City  Best Games Resembling GTA V\""
-date: 2024-09-22T17:57:56.032Z
-updated: 2024-09-23T19:02:25.918Z
+date: 2025-02-05T17:20:18.212Z
+updated: 2025-02-08T06:17:18.762Z
 tags: 
   - screen-recording
   - ai video
@@ -37,19 +37,6 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.Assassin's Creed Origins
 
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
@@ -75,10 +62,7 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Platforms**: PC, PS4, Xbox One
@@ -116,10 +100,7 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 • Driving and combat models that are simple.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5.Just Cause 4
@@ -180,6 +161,10 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
 
 Taking the open-world game experience and tying it to a WWII setting makes The Saboteur a great game. With multiple realistic historical elements, it is set during the German occupation in France. Sean Devlin, an Irish cab driver who joins the resistance after the German soldiers kill his best friend, is the protagonist of The Saboteur.
@@ -221,10 +206,7 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
@@ -371,6 +353,10 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 • You can find a variety of collectibles and enjoy many other diversions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8.The Saboteur
 
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
@@ -414,13 +400,6 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
 
@@ -474,13 +453,6 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 • The best part of the Assassin's Creed History.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.Watch Dogs 2
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
@@ -519,22 +491,13 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5.Just Cause 4
 
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Platforms:** PC, PS4, Xbox One
 
@@ -686,6 +649,10 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Platforms**: PC, PS4, Xbox One
 
 Ubisoft took this criticism to heart when developing Watch Dogs 2, which was criticized as a sour-hearted affair. In this regard, Rockstar's new game straddles a much closer line between contemporary Grand Theft Auto games and its own setting for a biting satire. From Grand Theft Auto 5, do you remember the mission "Life Invaders"? It's pretty cool to use bungee-corded pool balls as weapons. This is essentially what Watch Dogs 2 is like, but blown up into an entire game. Despite Watch Dogs 2's parody of Silicon Valley, Rockstar's still packs a punch that Ubisoft's doesn't, but anyone who has ever had to watch an Apple conference or a Facebook ad will laugh no end.
@@ -704,6 +671,10 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
 
 Initially, Saints Row was an obvious ripoff of GTA, desperately trying to copy Rockstar's style. In the end, it was a mediocre effort that garnered a cult following for two games but failed to make a lasting impression. Saints Row: The Third, in contrast, took note of how grim and serious games like GTA were becoming, said "f that," and made them ridiculous.
@@ -719,19 +690,6 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 • The world has a tremendous amount of depth.
 
 • Driving and combat models that are simple.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5.Just Cause 4
 
@@ -750,6 +708,10 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 • Extreme weather conditions are the essence of Just Cause.
 
 • New gadgets can be experimented with on the physics system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6.Yakuza 0
 
@@ -810,6 +772,10 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 ### 9.Mafia: Definitive Edition
 
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
 
@@ -871,5 +837,26 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-behind-the-scenes-recording-your-facebook-live-stream/"><u>[New] 2024 Approved Behind the Scenes Recording Your Facebook Live Stream</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/raft-engaging-videos-with-7-free-premium-soundscapes-for-2024/"><u>[New] Craft Engaging Videos with 7 Free, Premium Soundscapes for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-enhancing-lighting-and-shadows-in-obs-video/"><u>[New] In 2024, Enhancing Lighting and Shadows in OBS Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-sound-seekers-sanctuary-download-and-listen-to-songs/"><u>[New] In 2024, Sound Seeker's Sanctuary Download & Listen To Songs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition/"><u>[New] In 2024, The Enigma Exchange Where Anonymity Meets Digital Riches, 2023 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-7-best-voice-changer-recorder-apps/"><u>[New] In 2024, Top 7 Best Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-video-editor-guide-and-review/"><u>[New] In 2024, YouTube Video Editor Guide and Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-saving-the-essence-a-guide-for-virtual-meeting-records-for-2024/"><u>[New] Saving the Essence A Guide for Virtual Meeting Records for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-blueprint-to-dominate-instagram-with-puzzles/"><u>[Updated] The Ultimate Blueprint to Dominate Instagram With Puzzles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-optimal-screen-recording-for-2024/"><u>[Updated] The Ultimate Guide to Optimal Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-explore-the-finest-virtual-hydro-adventures/"><u>2024 Approved Explore the Finest Virtual Hydro Adventures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/amplify-visual-content-embedding-audio-on-instagram-reels-for-2024/"><u>Amplify Visual Content Embedding Audio on Instagram Reels for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-test-drive-of-photoscapes-open-source-image-editor/"><u>Comprehensive Test Drive of PhotoScape's Open-Source Image Editor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/deciding-on-a-digital-domain-obs-vs-twitch-studio/"><u>Deciding on a Digital Domain OBS Vs Twitch Studio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/designing-short-trailers-that-tell-a-story/"><u>Designing Short Trailers That Tell a Story</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/key-steps-to-preserve-and-broadcast-live-sports-successfully-for-2024/"><u>Key Steps to Preserve & Broadcast Live Sports Successfully for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/regain-lost-sound-fx-in-anthem-post-windows-10-enhancements/"><u>Regain Lost Sound Fx in Anthem Post-Windows 10 Enhancements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/tutorial-easy-steps-to-stream-your-powerpoint-slides-to-television/"><u>Tutorial: Easy Steps to Stream Your PowerPoint Slides to Television</u></a></li>
+</ul></div>
 
