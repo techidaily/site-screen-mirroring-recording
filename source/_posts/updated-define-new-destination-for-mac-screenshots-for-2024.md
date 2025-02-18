@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2025-02-06T19:07:39.025Z
-updated: 2025-02-08T02:45:55.681Z
+date: 2025-02-17T00:07:24.457Z
+updated: 2025-02-17T21:42:56.981Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -73,6 +73,10 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -85,7 +89,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -99,10 +103,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,21 +119,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[New] 2024 Approved Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery/"><u>[New] 2024 Approved Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-breaking-news-working-obs-cam/"><u>[New] In 2024, Breaking News Working OBS Cam</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlock-the-secrets-of-facebook-live-a-beginners-manual/"><u>[New] In 2024, Unlock the Secrets of Facebook Live A Beginner's Manual</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-chronicles-of-puzzles-vs-endless-adventure/"><u>[Updated] 2024 Approved Chronicles of Puzzles Vs. Endless Adventure</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[Updated] In 2024, How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-spectacular-video-connections-quest/"><u>[Updated] In 2024, Spectacular Video Connections Quest</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-devices-for-google-meet-session-for-2024/"><u>[Updated] Navigating Devices for Google Meet Session for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-future-of-tiktok-master-video-trends-and-techniques-for-2024/"><u>[Updated] The Future of TikTok - Master Video Trends and Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unmasking-the-potential-of-recordcast/"><u>[Updated] Unmasking the Potential of RecordCast</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-ps2-replay-on-android-devices-top-picks/"><u>2024 Approved Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-hue-refiner-app/"><u>2024 Approved Optimal Hue Refiner App</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-experience-free-software-download-to-install-corsair-mouse/"><u>Enhance Your Experience: Free Software Download to Install Corsair Mouse</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flight-controls-and-beyond-the-2023-h501s-review-for-2024/"><u>Flight Controls and Beyond The 2023 H501S Review for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-keyboard-light-on-windows-and-macos-devices/"><u>How to Fix Malfunctioning Keyboard Light on Windows and macOS Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-farming-fiesta-fun-pack-the-ultimate-agritainment-guide/"><u>[New] 2024 Approved Farming Fiesta Fun-Pack The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-join-the-hilarity-tearfulness-spectacle-of-top-memes-on-ig/"><u>[New] In 2024, Join the Hilarity-Tearfulness Spectacle of Top Memes on IG</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-television-archive-advanced-techniques-for-online-streams/"><u>[New] In 2024, Television Archive Advanced Techniques for Online Streams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-depth-tutorial-effective-screenshot-practices-on-lenovo/"><u>[Updated] 2024 Approved In-Depth Tutorial Effective Screenshot Practices on Lenovo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recording-real-time-google-meetings/"><u>[Updated] 2024 Approved Recording Real-Time Google Meetings</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1722938368875-a-deep-dive-into-the-high-performance-world-of-hero7-black/"><u>A Deep Dive Into the High-Performance World of HERO7 Black</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/seamless-channel-transitions-with-customized-end-screens-for-2024/"><u>Seamless Channel Transitions with Customized End Screens for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-free-tiktok-watermark-remover-websites/"><u>Updated The Ultimate List of Free TikTok Watermark Remover Websites</u></a></li>
 </ul></div>
 
