@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Overcoming Low-Resolution Output in OBS for 2024\""
-date: 2025-02-15T16:29:32.866Z
-updated: 2025-02-17T18:02:58.111Z
+date: 2025-03-05T16:04:29.303Z
+updated: 2025-03-06T16:07:43.672Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ Step 3: If it is set to 60, you have to bring it down to 30\. Basically, you hav
 Step 4: Click on Apply and Ok button to save the new setting. Restart your computer and resume your OBS operation.
 
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 3\. Change Encoder Preset
 
@@ -147,19 +143,11 @@ Step 2: Select the recording screen size and the audio sources. If you want to c
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,27 +161,15 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -207,27 +183,15 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -257,20 +221,21 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-razers-hd-webcam-thorough-review-guide/"><u>[New] 2024 Approved Razer's HD Webcam Thorough Review Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unleashing-potential-advanced-xbox-live-captures/"><u>[New] In 2024, Unleashing Potential Advanced Xbox Live Captures</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-supreme-vs-streamlabs-empire/"><u>[New] OBS Supreme vs Streamlabs Empire</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-swift-moments-visual-and-auditory-sniped/"><u>[Updated] 2024 Approved Swift Moments Visual & Auditory Sniped</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-enhance-channel-appeal-with-free-professional-banner-designs/"><u>[Updated] Enhance Channel Appeal with Free, Professional Banner Designs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-finest-accessible-switch-replicas-for-2024/"><u>[Updated] Finest Accessible Switch Replicas for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-full-potential-steam-and-your-switch-pro-controller/"><u>[Updated] Unlocking Full Potential Steam and Your Switch Pro Controller</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-witness-humor-with-hearts-on-instagram-top-10-memes-to-admire-for-2024/"><u>[Updated] Witness Humor with Hearts on Instagram Top 10 Memes to Admire for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-troubleshooting-xp-pen-driver-downloads-and-updates-unveiled/"><u>Easy Troubleshooting: XP-Pen Driver Downloads & Updates Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-methods-for-permanently-wiping-out-your-tiktok-user-identity/"><u>Effortless Methods for Permanently Wiping Out Your TikTok User Identity</u></a></li>
-<li><a href="https://app-tips.techidaily.com/immutable-linux-explained-how-a-static-system-can-enhance-your-it-infrastructure/"><u>Immutable Linux Explained: How a Static System Can Enhance Your IT Infrastructure</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-5-ways-to-record-online-tv-shows/"><u>In 2024, Top 5 Ways to Record Online TV Shows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsofts-ai-revolution-how-copilotplus-is-redefining-modern-computing-and-outpacing-2024-laps/"><u>Microsoft's AI Revolution: How Copilot+ Is Redefining Modern Computing & Outpacing 2024 Laps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-prime-headset-mic-failure-solutions-at-hand/"><u>SteelSeries Arctis Prime Headset Mic Failure - Solutions at Hand</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-screensnapper-for-privacy-conscious-users-for-2024/"><u>Ultimate ScreenSnapper for Privacy Conscious Users for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-discovering-logitechs-top-tier-4k-video-camera/"><u>[New] 2024 Approved Discovering Logitech's Top-Tier 4K Video Camera</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-the-power-of-short-videos-for-maximum-income/"><u>[New] 2024 Approved Harnessing the Power of Short Videos for Maximum Income</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-comprehensive-review-of-screen-recording-tools/"><u>[Updated] 2024 Approved Comprehensive Review of Screen Recording Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-captureclub-bout/"><u>[Updated] In 2024, CaptureClub Bout</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimize-your-streams-with-advanced-obs-techniques-android-for-2024/"><u>[Updated] Optimize Your Streams with Advanced OBS Techniques, Android for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-joke-to-jest-constructing-impactful-social-media-memes/"><u>2024 Approved From Joke to Jest Constructing Impactful Social Media Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-in-video-creation-top-10-gadgets/"><u>2024 Approved Leading Edge in Video Creation - Top 10 Gadgets</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-vid-conversion-guide-transforming-multiple-file-types-mp4aviflv-etc-for-optimal-playback-on-your-sansa-player/"><u>Effortless Vid-Conversion Guide: Transforming Multiple File Types (MP4/AVI/FLV Etc.) For Optimal Playback on Your Sansa Player</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expertise-in-making-screen-captures-on-ios-easier-for-2024/"><u>Expertise in Making Screen Captures on iOS Easier for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-switch-up-digital-ordering-with-android-methods/"><u>In 2024, Switch Up Digital Ordering with Android Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/installation-simplified-setting-up-launchers-on-steam-devices/"><u>Installation Simplified: Setting Up Launchers on Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-pc-powerful-strategies-to-curtail-steams-memory-usage/"><u>Keep Your PC Powerful: Strategies to Curtail Steam's Memory Usage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/relaxation-at-your-fingertips-games-you-love-for-2024/"><u>Relaxation at Your Fingertips Games You Love for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repairing-failed-saves-for-default-display-profiles/"><u>Repairing Failed Saves for Default Display Profiles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/techniques-to-perfectly-transcribe-ppts-for-2024/"><u>Techniques to Perfectly Transcribe PPTs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-boot-masterclass-understanding-all-configurations/"><u>Windows Boot Masterclass: Understanding All Configurations</u></a></li>
 </ul></div>
 

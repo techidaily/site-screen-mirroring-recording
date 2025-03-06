@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] QuickCaptureWin  Instant Screenshots for PCs for 2024\""
-date: 2025-02-06T02:16:33.820Z
-updated: 2025-02-08T03:39:21.209Z
+date: 2025-03-01T16:53:01.443Z
+updated: 2025-03-06T16:56:32.695Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -61,10 +57,6 @@ The latest Windows update brings the Screen Sketch app, that was previously avai
 You can either double-click on the app's desktop icon or you can launch it from the Windows Start menu. When the app opens, you'll be able to see all of the software tools in its main window. Click on the New Snipping icon, in the Screen Sketch's ribbon, and proceed to designate the area of the screen you'd like to capture.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
@@ -96,17 +88,9 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
@@ -146,10 +130,6 @@ Find the moment in the video you'd like to capture, and then select the Screensh
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Take a Quick Screenshots with Print Screen
 
 Nearly all desktop and laptop PCs have a PrintScreen button on their keyboards, but the process of taking a screenshot may vary depending on the model you have. When creating a screenshot on a laptop you have to hold the Function (Fn) key with the Print Screen button that is usually labeled PrtScn or PrntScrn. All screenshots you take will be saved in the Screenshots sub-folder located in the Pictures folder in This PC. Furthermore, you can capture the full screen or only a portion of it and you can either copy or save the screenshot by using this keyboard shortcut.
@@ -184,10 +164,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,18 +179,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-stream-to-record-essential-know-how-for-tv-capture/"><u>[New] 2024 Approved Stream to Record Essential Know-How for TV Capture</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimize-logitech-footage-background-free-method/"><u>[New] In 2024, Optimize Logitech Footage - Background-Free Method</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-little-wheelmens-game-festivals-for-2024/"><u>[New] Little Wheelmen's Game Festivals for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-xbox-screen-recording-uncovered-a-step-by-step-manual-for-2024/"><u>[New] Xbox Screen Recording Uncovered A Step-by-Step Manual for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-auditory-data-extraction-and-analysis-for-2024/"><u>[Updated] Auditory Data Extraction & Analysis for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlock-the-mysteries-of-nighttime-photography-mastery-for-2024/"><u>[Updated] Unlock the Mysteries of Nighttime Photography Mastery for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-the-multi-stream-experience-on-netflix/"><u>2024 Approved Navigating the Multi-Stream Experience on Netflix</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-syncopated-sounds-discovering-crossfades/"><u>2024 Approved Syncopated Sounds Discovering Crossfades</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-tips-for-live-exchange-migration-of-recovered-edb-files-educational-video-series/"><u>Expert Tips for Live Exchange Migration of Recovered EDB Files - Educational Video Series</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207422217-expert-tips-repairing-a-failing-huion-art-pen-in-minutes/"><u>Expert Tips: Repairing a Failing Huion Art Pen in Minutes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210398350-9781071539071-la-puerta-a-la-eternidad/"><u>La Puerta A La Eternidad | Free Book</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stop-automatically-added-podcast-episodes-via-spotifys-suggestions-for-2024/"><u>Stop Automatically Added Podcast Episodes via Spotify's Suggestions for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-virtual-reality-archivists-handbook-for-game-recordings/"><u>The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-framedivider-evaluation-report/"><u>[New] FrameDivider Evaluation Report</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-efficiently-expanding-on-stardews-ginger-isle/"><u>[New] In 2024, Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[New] In 2024, Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-time-constraints-for-video-content-explored/"><u>[Updated] 2024 Approved Instagram's Time Constraints for Video Content Explored</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-video-length-constraints-explained/"><u>[Updated] 2024 Approved Mastering Instagram Video Length Constraints Explained</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-crafting-impressive-timelapse-films-on-ipad/"><u>[Updated] 2024 Approved The Complete Guide to Crafting Impressive Timelapse Films on iPad</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhance-obs-transcoding-troubleshooting-guide-for-2024/"><u>[Updated] Enhance OBS Transcoding Troubleshooting Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-bridging-the-gap-reactivating-your-obs-cam/"><u>[Updated] In 2024, Bridging the Gap Reactivating Your OBS Cam</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ranking-the-most-accessible-video-chat-applications-top-10-for-businesses-and-schools/"><u>[Updated] In 2024, Ranking the Most Accessible Video Chat Applications Top 10 For Businesses & Schools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-sierras-icloud-full-access-guide/"><u>[Updated] Unraveling Sierra's iCloud Full Access Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>2024 Approved The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-digital-dominators-in-av-production-for-2024/"><u>Exclusive List Digital Dominators in AV Production for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Is Unlocked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamline-your-screens-the-benefits-of-using-showmore/"><u>In 2024, Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-magic-how-to-view-the-lord-of-the-rings-saga-from-start-to-finish/"><u>Ordered Magic: How to View 'The Lord of the Rings' Saga From Start to Finish</u></a></li>
 </ul></div>
 

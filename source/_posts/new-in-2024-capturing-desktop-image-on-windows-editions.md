@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Capturing Desktop Image on Windows Editions"
-date: 2025-02-10T23:11:15.519Z
-updated: 2025-02-17T19:00:50.039Z
+date: 2025-03-03T16:39:22.824Z
+updated: 2025-03-06T16:26:01.854Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -74,10 +70,6 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
@@ -87,10 +79,6 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
@@ -104,19 +92,11 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
@@ -145,10 +125,6 @@ The Share Charm on Windows 8.1 enables you to share links, music, videos, photos
 Hold the Window + C keys or use the mouse to access the Charms Bar and then click on the Share option. The feature lets you share files through email, and you can also use it to take screenshots within the apps you downloaded from the Windows Store. For the purpose of this article, we chose to show you how you can take screenshots from the Video app.
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
@@ -203,18 +179,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-diving-deep-into-minecraft-playback-secrets-from-the-pros/"><u>[New] 2024 Approved Diving Deep Into Minecraft Playback Secrets From the Pros</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-affordable-techniques-to-enhance-written-content-with-media/"><u>[New] In 2024, Affordable Techniques to Enhance Written Content with Media</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-depth-assessment-comprehensive-camstudio-review/"><u>[New] In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-smartest-3d-apps-available-on-android/"><u>[New] Smartest 3D Apps Available on Android</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-10-basic-blocks-house-concepts-for-mc-players/"><u>[Updated] 2024 Approved 10 Basic Blocks House Concepts for MC Players</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sharpviewzoomx7-professional-photo-size-controls/"><u>[Updated] 2024 Approved SharpViewZoomX7 Professional Photo Size Controls</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>[Updated] In 2024, Cutting-Edge Speech-to-Text Google’s Pathway for Precision</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-methods-for-high-definition-vr-gameplay-recordings/"><u>[Updated] In 2024, Innovative Methods for High-Definition VR Gameplay Recordings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[Updated] In 2024, Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs-for-2024/"><u>[Updated] Mastering Real-Time Video Conversations with WhatsApp Web on PCs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/compreehing-movavis-progress-an-in-depth-look-at-the-2024-edition/"><u>Compreehing Movavi's Progress An In-Depth Look at the 2024 Edition</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-your-system-settings-a-step-by-step-tutorial-on-editing-registry-entries-via-revo-uninstaller/"><u>Master Your System Settings: A Step-by-Step Tutorial on Editing Registry Entries via Revo Uninstaller</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sierras-best-curated-list-of-exceptional-mac-video-tools/"><u>Sierra's Best Curated List of Exceptional Mac Video Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-eden-echoes-best-rural-role-playing-realms/"><u>[New] 2024 Approved Eden Echoes Best Rural Role-Playing Realms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-stealth-and-honor-find-your-favorite-games-like-tsushi/"><u>[New] 2024 Approved Stealth and Honor Find Your Favorite Games Like Tsushi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unleashing-your-creative-potential-mastery-of-vocal-overdubs/"><u>[New] 2024 Approved Unleashing Your Creative Potential Mastery of Vocal Overdubs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters/"><u>[New] Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-paving-the-path-for-creativity-turning-gifs-to-stickers-on-all-social-platforms/"><u>[New] Paving the Path for Creativity Turning GIFS to Stickers on All Social Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>[Updated] 2024 Approved Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-filmmakers-lounge-app/"><u>[Updated] Filmmaker's Lounge App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-simplifying-display-images-with-screencapture-techniques/"><u>[Updated] In 2024, Simplifying Display Images with ScreenCapture Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-visual-voyage-documenting-desktop-views-on-winos/"><u>[Updated] Visual Voyage Documenting Desktop Views on WinOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-setup-of-obs-and-streamlabs-for-mac-users/"><u>2024 Approved Navigating the Setup of OBS & Streamlabs for Mac Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tactical-phone-data-shift-android-to-iphone/"><u>2024 Approved Tactical Phone Data Shift Android to iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/final-version-dragon-ball-z-kakarot-with-all-prior-glitches-corrected/"><u>Final Version Dragon Ball Z: Kakarot with All Prior Glitches Corrected</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-avoiding-mishaps-tips-to-enhance-google-meet-chats/"><u>In 2024, Avoiding Mishaps Tips to Enhance Google Meet Chats</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-hardware-innovations-with-toms-computing-corner/"><u>Navigating Hardware Innovations with Tom's Computing Corner</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-potential-uncover-the-benefits-of-7-free-learning-tools-for-students/"><u>Unlock Potential: Uncover the Benefits of 7 FREE Learning Tools for Students</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/your-essential-list-of-the-finest-ios-ps2-emulators-for-2024/"><u>Your Essential List of the Finest iOS PS2 Emulators for 2024</u></a></li>
 </ul></div>
 

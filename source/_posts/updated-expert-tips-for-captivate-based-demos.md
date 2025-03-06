@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Expert Tips for Captivate-Based Demos\""
-date: 2025-01-31T18:34:53.415Z
-updated: 2025-02-08T05:36:18.724Z
+date: 2025-03-01T16:24:37.706Z
+updated: 2025-03-06T17:02:48.131Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -70,10 +66,6 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -81,10 +73,6 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
@@ -96,10 +84,6 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
 **Conclusion:**
@@ -107,10 +91,6 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -127,14 +107,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exquisite-background-melodies-for-edits/"><u>[New] Exquisite Background Melodies for Edits</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ioss-leading-edge-the-top-5-emulators-for-psp-games/"><u>[New] IOS's Leading Edge The Top 5 Emulators for PSP Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-popsicle-projector-detailed-tutorial-on-screen-capture-tech-for-2024/"><u>[Updated] Popsicle Projector Detailed Tutorial on Screen Capture Tech for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-leading-no-ad-android-screen-recorder-hacks/"><u>2024 Approved Leading No-Ad Android Screen Recorder Hacks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-protecting-your-privacy-a-curated-list-of-cam-covers/"><u>2024 Approved Protecting Your Privacy A Curated List of Cam Covers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/selecting-the-top-8-linux-screenshots-tools/"><u>Selecting the Top 8 Linux Screenshots Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-rank-5-premium-android-image-editing-tools-for-2024/"><u>The Ultimate Rank 5 Premium Android Image Editing Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-ghostrunner-deadlock-issue-on-your-windows-10-system/"><u>Troubleshooting the Ghostrunner Deadlock Issue on Your Windows 10 System</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-final-cut-pro-2-simple-ways-to-add-professional-audio-fades/"><u>Updated In 2024, Final Cut Pro 2 Simple Ways to Add Professional Audio Fades</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-definitive-guide-ios-screenshots-and-recording-2inas-2023/"><u>[New] 2024 Approved The Definitive Guide IOS Screenshots & Recording (2Inas 2023)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-compilation-top-8-4k-ultra-hd-players-for-2024/"><u>[New] Essential Compilation Top 8 4K Ultra HD Players for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-window-into-the-world-a-complete-guide-to-live-tv-recording-on-your-pc-for-2024/"><u>[New] Window Into the World A Complete Guide to Live TV Recording on Your PC for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-recording-nintendo-switch-edition/"><u>[Updated] 2024 Approved Cutting-Edge Recording Nintendo Switch Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-immersive-gameplay-capturing-with-camrecorder-pro/"><u>[Updated] Immersive Gameplay Capturing with CamRecorder Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-persistent-issues-with-arcadegeddon-game-crashes-on-desktop-systems/"><u>Fixes for Persistent Issues with Arcadegeddon Game Crashes on Desktop Systems</u></a></li>
+<li><a href="https://discover-great.techidaily.com/gpu-accelerato-winxvideo-ai-trasforma-i-tuoi-videoclip-e-registrazioni-in-solo-secondi/"><u>GPU Accelerato WinxVideo AI - Trasforma I Tuoi Videoclip E Registrazioni in Solo Secondi!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-your-youtube-empire-kit-overview/"><u>In 2024, Building Your YouTube Empire Kit Overview</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-growth-galore-farming-game-classics-revisited/"><u>In 2024, Growth Galore Farming Game Classics Revisited</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-premiere-sneak-peeks-cinema-edition/"><u>In 2024, Premiere Sneak Peeks - Cinema Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y200e-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y200e 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

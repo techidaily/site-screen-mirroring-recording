@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Mac Screenshots  Five Efficient Ways\""
-date: 2025-02-01T22:01:34.687Z
-updated: 2025-02-08T01:42:22.344Z
+date: 2025-02-27T16:07:33.127Z
+updated: 2025-03-06T17:13:26.995Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ Unlike Windows PC, Mac computer doesn't own the "PrintScreen" shortcut button to
 * [Part 1: How to Make Screen Record and Screenshots on Mac](#part1) \- Edit After Screenshots
 * [Part 2: 4 Methods to Capture Screenshots on Mac Itself](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Make Screen Record and Screenshots on Mac
 
 Here, we would like to recommend a tool for making screenshots and screen recordings at the same time. [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) can easily capture and record the operation on a Mac. Below are the 3 ways to start the function. Now download and install Filmora on Mac first, then keep reading.
@@ -52,10 +48,6 @@ Here, we would like to recommend a tool for making screenshots and screen record
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Supported System:** macOS V14 (Sonoma), macOS V13 (Ventura), macOS V12 (Monterey), macOS v11 (Big Sur), macOS v10.15 (Catalina).
@@ -73,10 +65,6 @@ While you launch Filmora, you will see "**Screen Recorder**" tab directly. Just 
 Enter Filmora and navigate towards the "**Files**" > "**Record Media**". You will see 3 options for recording.
 
 ![launch filmora screen recorder from the top toolbar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **3\.** From the Search Bar Menu
 
@@ -108,10 +96,6 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 
 ![snapshot recorded screen with filmora mac](https://images.wondershare.com/filmora/article-images/snapshot-recorded-screen-with-filmora-mac-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then you can make simple settings and get your screenshots.
 
 ![check screenshots in filmora mac](https://images.wondershare.com/filmora/article-images/check-screenshots-in-filmora-mac.jpg)
@@ -127,10 +111,6 @@ Want to Make Screen Record on Mac? Try This Out!
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Screen Record on iPad with Ease](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: 4 Methods to Capture Screenshots on Mac Itself
 
@@ -151,19 +131,11 @@ Make sure that everything you want to include in the picture is clearly visible 
 
 ![capture entire screen on mac](https://images.wondershare.com/filmora/article-images/capture-entire-screen-on-mac-keyboard-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Way 2: How to Screenshot a Portion of the Screen on a Mac?
 
 If you want to take screenshot on a partial part of the screen, simply hit the **Command + Shift + 4** keys. Then drag the crosshair mouse cursor to the area you want to capture.
 
 ![screenshot protion of screen on mac](https://images.wondershare.com/filmora/article-images/screenshot-portion-of-screen-on-mac-keyboard-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The crosshair will also display the pixel count to show you the size of the screenshot. Holding the **Shift** button will allow you to lock all corners of the selection rectangle, except the one you are dragging.
 
@@ -195,19 +167,11 @@ Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** me
 
 ![make screenshots on mac with grab](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
 
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
 
 If you would like to include the mouse cursor in your screenshots, you have go to the **Preferences** option, then select the **Pointer Type**, it also able to record the clicking sound if needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -216,10 +180,6 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 [Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -250,24 +210,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-compilation-offline-ios-games-to-delight-in/"><u>[New] 2024 Approved The Ultimate Compilation Offline iOS Games to Delight In</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-simple-procedure-reverse-video-order-via-vlc/"><u>[New] Simple Procedure Reverse Video Order via VLC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-swift-simplified-steps-mastering-iphone-screen-recordings/"><u>[Updated] 2024 Approved Swift, Simplified Steps Mastering Iphone Screen Recordings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-universal-strategy-to-preserve-your-favorite-youtube-broadcasts-on-all-devices/"><u>[Updated] 2024 Approved Universal Strategy to Preserve Your Favorite YouTube Broadcasts on All Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-combat-sync-issues-between-cameras-and-obs/"><u>[Updated] How to Combat Sync Issues Between Cameras and OBS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-the-power-of-your-everyday-webcam-for-2024/"><u>[Updated] Unlocking the Power of Your Everyday Webcam for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieve-professional-results-with-ease-using-our-top-4-house-painting-app-selections/"><u>Achieve Professional Results with Ease Using Our Top 4 House Painting App Selections</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/essential-top-10-photo-keeping-websites-never-a-missed-shot/"><u>Essential Top 10 Photo-Keeping Websites, Never a Missed Shot</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-advice-remedying-non-boot-virtual-machines-on-wm11os/"><u>Expert Advice: Remedying Non-Boot Virtual Machines on WM11OS</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-to-enabling-image-sync-between-your-iphone-and-android-phone-latest-tips-for-202n/"><u>Guide to Enabling Image Sync Between Your iPhone and Android Phone - Latest Tips for 202N</u></a></li>
-<li><a href="https://facebook.techidaily.com/hacked-and-helpless-reestablish-your-access-with-ease/"><u>Hacked & Helpless? Reestablish Your Access with Ease</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-effortless-image-capturing-on-chrome-devices-method-4/"><u>In 2024, Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-online-capture-for-tech-enthusiasts/"><u>In 2024, Essential Online Capture for Tech Enthusiasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quickrestore-reviewers-thoughts/"><u>In 2024, QuickRestore Reviewers Thoughts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/magical-image-maker-turning-pictures-into-cartoons-on-devices-for-2024/"><u>Magical Image Maker Turning Pictures Into Cartoons on Devices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overhauling-obsolete-directx-applications-using-dxvk/"><u>Overhauling Obsolete DirectX Applications Using DXVK</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-to-eliminate-window-10s-flickering-display-dilemma/"><u>Troubleshooting Techniques to Eliminate Window 10'S Flickering Display Dilemma</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-value-windows-laptop-a-deep-dive-into-lenovos-newly-announced-749-thinkbook-gadgetexplorer/"><u>Unveiling the Best-Value Windows Laptop : A Deep Dive Into Lenovo's Newly Announced $749 ThinkBook | GadgetExplorer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-endless-screen-time-recorder-for-2024/"><u>[New] Endless Screen Time Recorder for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-next-level-recording-discover-budget-friendly-choices-for-2024/"><u>[New] Next-Level Recording Discover Budget-Friendly Choices for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-uncluttered-desktop-recorder-w10/"><u>[New] Uncluttered Desktop Recorder W10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-5-rapid-ways-to-access-obliviated-reddit-content-for-2024/"><u>[Updated] 5 Rapid Ways to Access Obliviated Reddit Content for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rippleringers-finding-the-happiest-online-rhythms/"><u>[Updated] RippleRingers Finding the Happiest Online Rhythms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-transformative-techniques-to-enhance-your-powerpoint-recordings/"><u>[Updated] Transformative Techniques to Enhance Your PowerPoint Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-audio-switches-in-adobe-premiere/"><u>2024 Approved Mastering Audio Switches in Adobe Premiere</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-narzo-60-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme Narzo 60 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-g310-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from G310</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elitemac-hd-video-and-sound-recordist/"><u>EliteMac HD Video & Sound Recordist</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazing-top-zooid-beginnings-list/"><u>In 2024, Trailblazing Top Zooid Beginnings List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-and-efficient-ipad-screen-recording-techniques-unveiled/"><u>Quick & Efficient iPad Screen Recording Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-protective-covers-for-the-iphone-14-pro-and-pro-max-2024s-ultimate-guide-zdnet/"><u>Top-Rated Protective Covers for the iPhone 14 Pro & Pro Max: 2024'S Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-recurring-microsoft-edge-failures-in-windows-10-operating-system/"><u>Troubleshooting Recurring Microsoft Edge Failures in Windows 10 Operating System</u></a></li>
 </ul></div>
 

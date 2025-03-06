@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS and Zoom Integration  Your Quick Pathway\""
-date: 2025-02-13T20:14:46.156Z
-updated: 2025-02-17T17:27:10.933Z
+date: 2025-03-02T16:15:54.404Z
+updated: 2025-03-06T16:49:28.364Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,6 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ![configure obs studio](https://images.wondershare.com/filmora/article-images/configure-obs-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 2:** Go to the Tools menu. Find and click on the plugin you have downloaded and follow the vizard to replicate OBS output as a virtual camera.
 
 ****Configure Zoom:**
@@ -213,10 +209,6 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ![configure obs studio](https://images.wondershare.com/filmora/article-images/configure-obs-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 2:** Go to the Tools menu. Find and click on the plugin you have downloaded and follow the vizard to replicate OBS output as a virtual camera.
 
 ****Configure Zoom:**
@@ -225,19 +217,11 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ![configure zoom](https://images.wondershare.com/filmora/article-images/configure-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 2:** The Zoom’s video will now accept the input from the virtual camera, which is the output provided by OBS Studio.
 
 ![accept the input](https://images.wondershare.com/filmora/article-images/accept-the-input.jpg)
 
 ****Step 3:** Most of you will be on a mobile device and mobile device displays are of a different aspect ratio than your PC. Click on the Profile menu on OBS at the top and click on New Profile and name the Profile as per your convenience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Live Stream on Zoom with OBS
 
@@ -254,10 +238,6 @@ To link the applications, we will have to establish a virtual camera utilized by
 ****Step 3:** OBS will catch the complete Zoom window; just trim out to capture only your guests’ face cam. You may select “Start Streaming” if you need to webcast the conference elsewhere.
 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you wish to put yourself into the Stream from your PC associated webcam or other video devices linked, utilize the Video Source Option instead of Window Capture and specify your target device when adding the source. Just make sure you have unmuted the Desktop Audio and Mic/Aux or any mic connected to your PC from the Audio Mixed option at the bottom center of OBS.
 
@@ -278,10 +258,6 @@ You may use the handles to morph the preview and fit it to the screen, or press 
 ****Step 3:** In OBS, click on “+” under “Sources” again, then pick “Audio Input Capture.” Rename the capture source if you wish to keep it distinct from the other source and prevent misunderstanding, then hit “OK.” Press “Start Recording.” Maximize Zoom to full-screen mode to make it the only visible application on display.
 
 ![audio input capture](https://images.wondershare.com/filmora/article-images/audio-input-capture.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -327,10 +303,6 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ****Step 3:** Most of you will be on a mobile device and mobile device displays are of a different aspect ratio than your PC. Click on the Profile menu on OBS at the top and click on New Profile and name the Profile as per your convenience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Live Stream on Zoom with OBS
 
 To link the applications, we will have to establish a virtual camera utilized by Zoom as its input. The output of the virtual camera is OBS Studio. One of Zoom's most popular features is its native video recording. Zoom users may record meetings to either their PC or to the Zoom cloud. You can also obtain separate files for gallery view and full-sized speaker view if you record to the Zoom cloud. Yet, many individuals are adopting choices, such as Open Broadcaster Software, or OBS, to record video meetings. When utilizing OBS to record and manage your Zoom meetings, you can obtain higher-resolution video and audio. While Zoom is acceptable as a live meeting platform, the things you can accomplish with OBS greatly offset the price of setting up the system. Play around with the parameters to achieve the results that work best for you.
@@ -353,27 +325,15 @@ If you wish to put yourself into the Stream from your PC associated webcam or ot
 
 You may use the handles to morph the preview and fit it to the screen, or press alt and drag the red handles to crop the preview for one user. Once you clip the preview for one person, you may repeat the above to process to upload the same window capture again into OBS Source and crop out to obtain each other users as well. If you want to record Zoom meetings and preserve them for later, you may obtain amazing results without any third-party software. The only things you’ll need to install are OBS and Zoom The video will have a brief time when Zoom is not in full-screen, and the cascading preview will appear if the OBS is on the same display. You may delete it in post-editing if required. The sound in the recording will be doubled if you’re using speakers since your mic will take up the output sound from your device. Use headphones to prevent this. Here’s what you need to do:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps to Record Zoom Meetings with OBS
 
 ****Step 1:** Launch Zoom and OBS. In OBS, under “Sources,” click the Plus button and choose “Display Capture.” This will work best if you have more than one monitor for your PC, but it will still operate if you just have one.
 
 ![record zoom meetings](https://images.wondershare.com/filmora/article-images/record-zomm-meetings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 2:** You may use the “Window Capture” option and pick “Zoom.exe” as your source, although this might not always work. Name the capture anything you wish, then click “OK.” You may use the name of the monitor you’re using for Zoom to keep things simple.
 
 ![window capture](https://images.wondershare.com/filmora/article-images/window-capture.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 3:** In OBS, click on “+” under “Sources” again, then pick “Audio Input Capture.” Rename the capture source if you wish to keep it distinct from the other source and prevent misunderstanding, then hit “OK.” Press “Start Recording.” Maximize Zoom to full-screen mode to make it the only visible application on display.
 
@@ -407,20 +367,18 @@ OBS enables recording into several video formats. But the major reason why you m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[New] 2024 Approved Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-the-magic-crafting-impactful-photos-for-insta-cover-highlights/"><u>[New] 2024 Approved Unlock the Magic Crafting Impactful Photos for Insta Cover Highlights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-fullscreen-capture-programs/"><u>[New] In 2024, Cutting-Edge Fullscreen Capture Programs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>[New] In 2024, Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-handbook-obspluszoom-collaboration/"><u>[New] The Ultimate Handbook OBS+Zoom Collaboration</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-gpu-narrative-radeons-recent-revolution/"><u>[Updated] 2024 Approved GPU Narrative Radeon's Recent Revolution</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-vlc-tutorial-the-art-of-video-angling/"><u>[Updated] 2024 Approved VLC Tutorial The Art of Video Angling</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-windowed-wonders-a-filmmakers-editing-software-compilation/"><u>[Updated] 2024 Approved Windowed Wonders A Filmmaker's Editing Software Compilation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-your-quick-guide-to-google-voice-call-history/"><u>[Updated] 2024 Approved Your Quick Guide to Google Voice Call History</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-chromebook-zoom-usage-techniques/"><u>[Updated] Pro Chromebook Zoom Usage Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/earnings-exploration-how-much-does-pewdiepie-earn-for-2024/"><u>Earnings Exploration How Much Does PewDiePie Earn for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-paperwork-with-chatgpts-4-essential-methods/"><u>Navigating Paperwork with ChatGPT's 4 Essential Methods</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/quickcapture-ultimate-scan/"><u>QuickCapture Ultimate Scan</u></a></li>
-<li><a href="https://app-tips.techidaily.com/training-leaders-before-deploying-artificial-intelligence-insights-from-zdnet/"><u>Training Leaders Before Deploying Artificial Intelligence: Insights From ZDNet</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720668997034-video-enhancement-tools-fail-in-some-cases/"><u>Video Enhancement Tools Fail in some Cases.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-elevate-your-tweeted-visuals-ultimate-gif-saver-guide-for-2024/"><u>[New] Elevate Your Tweeted Visuals Ultimate GIF Saver Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-learn-screen-casting-on-macbook-air-step-by-step/"><u>[New] In 2024, Learn Screen Casting on Macbook Air, Step by Step</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-mobile-moba-collection-best-of-10/"><u>[New] In 2024, The Ultimate Mobile MOBA Collection Best of 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-alternative-secrets-to-sharing-files-efficiently/"><u>[Updated] 2024 Approved Alternative Secrets to Sharing Files Efficiently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-minecraft-archivists-guide-6-core-methods-for-capture/"><u>[Updated] 2024 Approved The Minecraft Archivist's Guide 6 Core Methods for Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-strategies-to-boost-your-obs-editing-skills/"><u>[Updated] 2024 Approved Top Strategies to Boost Your OBS Editing Skills</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-smart-screen-capture-on-mac-understanding-the-best-5-methods/"><u>[Updated] In 2024, Smart Screen Capture on Mac Understanding the Best 5 Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stardom-in-snapshot-vimeo-insight-for-2024/"><u>[Updated] Stardom in Snapshot - Vimeo Insight for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enriched-video-content-adding-accurate-timestamps-in-youtube/"><u>Enriched Video Content Adding Accurate Timestamps in YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-triller-unveiled-the-non-tiktok-tiktok-alternatives-secrets/"><u>In 2024, Triller Unveiled The Non-TikTok, TikTok Alternative's Secrets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/perfect-shots-no-hassle-leading-smartphone-tripods-for-2024/"><u>Perfect Shots, No Hassle Leading Smartphone Tripods for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/tecnicas-simplificadas-para-la-sincronizacion-perpetua-de-archivos-en-windows-una-guia-completa/"><u>Técnicas Simplificadas Para La Sincronización Perpetua De Archivos en Windows: Una Guía Completa</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-y100ts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y100ts Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Define New Destination for Mac Screenshots for 2024"
-date: 2025-02-17T00:07:24.457Z
-updated: 2025-02-17T21:42:56.981Z
+date: 2025-03-04T17:06:22.303Z
+updated: 2025-03-06T17:09:37.967Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -52,19 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -73,10 +61,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +71,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -119,14 +99,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-farming-fiesta-fun-pack-the-ultimate-agritainment-guide/"><u>[New] 2024 Approved Farming Fiesta Fun-Pack The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-join-the-hilarity-tearfulness-spectacle-of-top-memes-on-ig/"><u>[New] In 2024, Join the Hilarity-Tearfulness Spectacle of Top Memes on IG</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-television-archive-advanced-techniques-for-online-streams/"><u>[New] In 2024, Television Archive Advanced Techniques for Online Streams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-depth-tutorial-effective-screenshot-practices-on-lenovo/"><u>[Updated] 2024 Approved In-Depth Tutorial Effective Screenshot Practices on Lenovo</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recording-real-time-google-meetings/"><u>[Updated] 2024 Approved Recording Real-Time Google Meetings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1722938368875-a-deep-dive-into-the-high-performance-world-of-hero7-black/"><u>A Deep Dive Into the High-Performance World of HERO7 Black</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/seamless-channel-transitions-with-customized-end-screens-for-2024/"><u>Seamless Channel Transitions with Customized End Screens for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-free-tiktok-watermark-remover-websites/"><u>Updated The Ultimate List of Free TikTok Watermark Remover Websites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-live-discussions-iphoneandroids-screen-recording-for-2024/"><u>[New] Capturing Live Discussions IPhone/Android's Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-chromes-best-deals-on-screen-recorder-free-tools-for-2024/"><u>[New] Chrome's Best Deals on Screen Recorder Free Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-design-your-own-screen-capture-free-ways-on-pc/"><u>[New] In 2024, Design Your Own Screen Capture - Free Ways on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-convenient-techniques-for-saving-youtube-videos-for-2024/"><u>[Updated] Convenient Techniques for Saving YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-highest-quality-action-capturing-methods-for-2024/"><u>[Updated] Highest Quality Action Capturing Methods for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tenfold-video-recording-tricks-on-your-windows-11-system-for-2024/"><u>[Updated] Tenfold Video Recording Tricks on Your Windows 11 System for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-dynamic-shade-corrector/"><u>2024 Approved Dynamic Shade Corrector</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-apps-leading-video-grabber-programs-for-mac/"><u>2024 Approved Elite Apps Leading Video Grabber Programs for Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>2024 Approved Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-explore-the-best-ps2-emulation-software-for-android/"><u>2024 Approved Explore the Best PS2 Emulation Software for Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95693316-9780917849428-how-to-use-the-science-of-mind/"><u>How to Use the Science of Mind | Free Book</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-engaging-youtube-end-credits/"><u>In 2024, Crafting Engaging YouTube End Credits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-x-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone X Is Unlocked</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-stunning-videos-top-3-4k8k-editing-software-2024/"><u>New Unleash Stunning Videos Top 3 4K/8K Editing Software 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumor-mill-insights-into-android-16s-expected-specs-pricing-strategy-and-launch-moment-download-for-free/"><u>Rumor Mill: Insights Into Android 16'S Expected Specs, Pricing Strategy, and Launch Moment – Download for Free</u></a></li>
+<li><a href="https://solve-news.techidaily.com/winaows-10/"><u>Winaows 10で画面ビューアを二分化するテクニック</u></a></li>
 </ul></div>
 

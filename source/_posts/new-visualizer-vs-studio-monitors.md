@@ -1,7 +1,7 @@
 ---
 title: "[New] Visualizer Vs Studio Monitors"
-date: 2025-02-05T07:47:22.037Z
-updated: 2025-02-07T19:57:34.838Z
+date: 2025-03-04T16:42:25.643Z
+updated: 2025-03-06T16:04:49.464Z
 tags: 
   - screen-recording
   - ai video
@@ -63,10 +63,6 @@ OBS Studio lets you customize the video quality as per your requirements. You ca
 * Excessive CPU usage and frequent crashes.
 * Not very suitable for 4K video quality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. About Streamlabs Desktop
 
 Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
@@ -94,134 +90,6 @@ Streamlabs is super easy to use, and hence, it is perfect for beginners. You can
 Video quality:
 
 With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
-
-### Pros
-
-* Multi-stream functionality for streaming from different platforms.
-* Complete customization with integrated themes.
-* The intuitive interface enables easy operation.
-* Wide range of widgets available for better recording and streaming.
-* Useful test button function to check stream alerts.
-* Built-in chat feature for easy chat management and audience engagement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Cons
-
-* Too many fancy widgets and custom themes.
-* Few plugins available for better improvement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Conclusion
-
-If you are a beginner, Streamlabs is an automatic choice because the user interface is truly user-friendly. Even in terms of performance and video quality, Streamlabs scores over OBS Studio. However, OBS Studio is perfect for better recording and live streaming across all platforms. But specifically for gamers, Streamlabs is a better software thanks to its widgets and automation.
-
-Cons
-
-* Does not have user-friendly interface.
-* Excessive CPU usage and frequent crashes.
-* Not very suitable for 4K video quality.
-
-## 2\. About Streamlabs Desktop
-
-Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
-
-![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
-
-Performance:
-
-The best part of Streamlabs is that it sets the configuration parameters automatically depending on your system resources. Therefore, the pressure of CPU resources is always optimal so that there is no effect on recording or streaming performance. Moreover, it can automatically detect an active game if you are into recording gameplay.
-
-However, there are many fancy features available which are useful such as test widget and custom themes that unnecessarily put pressure on CPU. But it lets you customize the UI, and you can remove the useless items so that the performance could be better. You can also optimize all automatically set parameters to satisfy your requirements.
-
-Recording:
-
-You can record both screen and webcam on Streamlabs. You will find the feature of Selective Recording that lets you set the widgets such as notifications and live alerts that you want to see while recording. Thanks to its widgets while recording, you do not have to switch between tabs to check important things. In comparison to OBS Studio, the range of compatibility of video and audio sources is not as wide as expected but the useful widgets are not available on OBS.
-
-Streaming:
-
-Streamlabs is best for live streaming on Facebook Gaming, Twitch, and YouTube. Get the stream key and run the optimizer to get the best settings to go live. Besides, there is an extremely useful Test mode available to ensure all the things are perfectly working as expected. There is a built-in widget available to check live chants and interact without switching. Streamlabs saves buffer replays so that you can play them back instantly in real-time. You also create highlights from live stream replays.
-
-Ease of Use:
-
-Streamlabs is super easy to use, and hence, it is perfect for beginners. You can customize the UI as per your requirements by dragging and dropping components. There are various integrated themes available to choose from. All the required options are easily available, and overall, the user interface is highly intuitive. Recording and live streaming can actually be fun with Streamlabs. There is no dearth of useful widgets that are exclusively available in Streamlabs only. Overall, Streamlabs beats OBS Studio completely in ease of use and better user interface.
-
-Video quality:
-
-With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Pros
-
-* Multi-stream functionality for streaming from different platforms.
-* Complete customization with integrated themes.
-* The intuitive interface enables easy operation.
-* Wide range of widgets available for better recording and streaming.
-* Useful test button function to check stream alerts.
-* Built-in chat feature for easy chat management and audience engagement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Cons
-
-* Too many fancy widgets and custom themes.
-* Few plugins available for better improvement.
-
-## Conclusion
-
-If you are a beginner, Streamlabs is an automatic choice because the user interface is truly user-friendly. Even in terms of performance and video quality, Streamlabs scores over OBS Studio. However, OBS Studio is perfect for better recording and live streaming across all platforms. But specifically for gamers, Streamlabs is a better software thanks to its widgets and automation.
-
-Cons
-
-* Does not have user-friendly interface.
-* Excessive CPU usage and frequent crashes.
-* Not very suitable for 4K video quality.
-
-## 2\. About Streamlabs Desktop
-
-Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
-
-![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Performance:
-
-The best part of Streamlabs is that it sets the configuration parameters automatically depending on your system resources. Therefore, the pressure of CPU resources is always optimal so that there is no effect on recording or streaming performance. Moreover, it can automatically detect an active game if you are into recording gameplay.
-
-However, there are many fancy features available which are useful such as test widget and custom themes that unnecessarily put pressure on CPU. But it lets you customize the UI, and you can remove the useless items so that the performance could be better. You can also optimize all automatically set parameters to satisfy your requirements.
-
-Recording:
-
-You can record both screen and webcam on Streamlabs. You will find the feature of Selective Recording that lets you set the widgets such as notifications and live alerts that you want to see while recording. Thanks to its widgets while recording, you do not have to switch between tabs to check important things. In comparison to OBS Studio, the range of compatibility of video and audio sources is not as wide as expected but the useful widgets are not available on OBS.
-
-Streaming:
-
-Streamlabs is best for live streaming on Facebook Gaming, Twitch, and YouTube. Get the stream key and run the optimizer to get the best settings to go live. Besides, there is an extremely useful Test mode available to ensure all the things are perfectly working as expected. There is a built-in widget available to check live chants and interact without switching. Streamlabs saves buffer replays so that you can play them back instantly in real-time. You also create highlights from live stream replays.
-
-Ease of Use:
-
-Streamlabs is super easy to use, and hence, it is perfect for beginners. You can customize the UI as per your requirements by dragging and dropping components. There are various integrated themes available to choose from. All the required options are easily available, and overall, the user interface is highly intuitive. Recording and live streaming can actually be fun with Streamlabs. There is no dearth of useful widgets that are exclusively available in Streamlabs only. Overall, Streamlabs beats OBS Studio completely in ease of use and better user interface.
-
-Video quality:
-
-With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pros
 
@@ -289,9 +157,109 @@ With Streamlabs, you can have the best quality video. It enables you to customiz
 * Too many fancy widgets and custom themes.
 * Few plugins available for better improvement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+## Conclusion
+
+If you are a beginner, Streamlabs is an automatic choice because the user interface is truly user-friendly. Even in terms of performance and video quality, Streamlabs scores over OBS Studio. However, OBS Studio is perfect for better recording and live streaming across all platforms. But specifically for gamers, Streamlabs is a better software thanks to its widgets and automation.
+
+Cons
+
+* Does not have user-friendly interface.
+* Excessive CPU usage and frequent crashes.
+* Not very suitable for 4K video quality.
+
+## 2\. About Streamlabs Desktop
+
+Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
+
+![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
+
+Performance:
+
+The best part of Streamlabs is that it sets the configuration parameters automatically depending on your system resources. Therefore, the pressure of CPU resources is always optimal so that there is no effect on recording or streaming performance. Moreover, it can automatically detect an active game if you are into recording gameplay.
+
+However, there are many fancy features available which are useful such as test widget and custom themes that unnecessarily put pressure on CPU. But it lets you customize the UI, and you can remove the useless items so that the performance could be better. You can also optimize all automatically set parameters to satisfy your requirements.
+
+Recording:
+
+You can record both screen and webcam on Streamlabs. You will find the feature of Selective Recording that lets you set the widgets such as notifications and live alerts that you want to see while recording. Thanks to its widgets while recording, you do not have to switch between tabs to check important things. In comparison to OBS Studio, the range of compatibility of video and audio sources is not as wide as expected but the useful widgets are not available on OBS.
+
+Streaming:
+
+Streamlabs is best for live streaming on Facebook Gaming, Twitch, and YouTube. Get the stream key and run the optimizer to get the best settings to go live. Besides, there is an extremely useful Test mode available to ensure all the things are perfectly working as expected. There is a built-in widget available to check live chants and interact without switching. Streamlabs saves buffer replays so that you can play them back instantly in real-time. You also create highlights from live stream replays.
+
+Ease of Use:
+
+Streamlabs is super easy to use, and hence, it is perfect for beginners. You can customize the UI as per your requirements by dragging and dropping components. There are various integrated themes available to choose from. All the required options are easily available, and overall, the user interface is highly intuitive. Recording and live streaming can actually be fun with Streamlabs. There is no dearth of useful widgets that are exclusively available in Streamlabs only. Overall, Streamlabs beats OBS Studio completely in ease of use and better user interface.
+
+Video quality:
+
+With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
+
+### Pros
+
+* Multi-stream functionality for streaming from different platforms.
+* Complete customization with integrated themes.
+* The intuitive interface enables easy operation.
+* Wide range of widgets available for better recording and streaming.
+* Useful test button function to check stream alerts.
+* Built-in chat feature for easy chat management and audience engagement.
+
+### Cons
+
+* Too many fancy widgets and custom themes.
+* Few plugins available for better improvement.
+
+## Conclusion
+
+If you are a beginner, Streamlabs is an automatic choice because the user interface is truly user-friendly. Even in terms of performance and video quality, Streamlabs scores over OBS Studio. However, OBS Studio is perfect for better recording and live streaming across all platforms. But specifically for gamers, Streamlabs is a better software thanks to its widgets and automation.
+
+Cons
+
+* Does not have user-friendly interface.
+* Excessive CPU usage and frequent crashes.
+* Not very suitable for 4K video quality.
+
+## 2\. About Streamlabs Desktop
+
+Now that you have understood the pros and cons of OBS Studio, let us focus on Streamlabs and weigh it out on different parameters so that you can choose between streamlabs or OBS Studio easily.
+
+![streamlabs desktop](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
+
+Performance:
+
+The best part of Streamlabs is that it sets the configuration parameters automatically depending on your system resources. Therefore, the pressure of CPU resources is always optimal so that there is no effect on recording or streaming performance. Moreover, it can automatically detect an active game if you are into recording gameplay.
+
+However, there are many fancy features available which are useful such as test widget and custom themes that unnecessarily put pressure on CPU. But it lets you customize the UI, and you can remove the useless items so that the performance could be better. You can also optimize all automatically set parameters to satisfy your requirements.
+
+Recording:
+
+You can record both screen and webcam on Streamlabs. You will find the feature of Selective Recording that lets you set the widgets such as notifications and live alerts that you want to see while recording. Thanks to its widgets while recording, you do not have to switch between tabs to check important things. In comparison to OBS Studio, the range of compatibility of video and audio sources is not as wide as expected but the useful widgets are not available on OBS.
+
+Streaming:
+
+Streamlabs is best for live streaming on Facebook Gaming, Twitch, and YouTube. Get the stream key and run the optimizer to get the best settings to go live. Besides, there is an extremely useful Test mode available to ensure all the things are perfectly working as expected. There is a built-in widget available to check live chants and interact without switching. Streamlabs saves buffer replays so that you can play them back instantly in real-time. You also create highlights from live stream replays.
+
+Ease of Use:
+
+Streamlabs is super easy to use, and hence, it is perfect for beginners. You can customize the UI as per your requirements by dragging and dropping components. There are various integrated themes available to choose from. All the required options are easily available, and overall, the user interface is highly intuitive. Recording and live streaming can actually be fun with Streamlabs. There is no dearth of useful widgets that are exclusively available in Streamlabs only. Overall, Streamlabs beats OBS Studio completely in ease of use and better user interface.
+
+Video quality:
+
+With Streamlabs, you can have the best quality video. It enables you to customize video settings and choose the resolution according to your preference. The common FPS value is 60 and it will automatically match the resolution of your monitor. You can record screen at 4K resolution without any glitches. You can easily install different add-ons for improving the video quality.
+
+### Pros
+
+* Multi-stream functionality for streaming from different platforms.
+* Complete customization with integrated themes.
+* The intuitive interface enables easy operation.
+* Wide range of widgets available for better recording and streaming.
+* Useful test button function to check stream alerts.
+* Built-in chat feature for easy chat management and audience engagement.
+
+### Cons
+
+* Too many fancy widgets and custom themes.
+* Few plugins available for better improvement.
 
 ## Conclusion
 
@@ -321,14 +289,24 @@ If you are a beginner, Streamlabs is an automatic choice because the user interf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-novices-guide-to-vectors-insight-into-types-and-software-choices/"><u>[Updated] Novice's Guide to Vectors Insight Into Types & Software Choices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-record-ps4-with-obs-full-guide-for-2024/"><u>[Updated] Record PS4 with OBS Full Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-samurais-shadowed-path-other-epic-warrior-games/"><u>[Updated] Samurai's Shadowed Path - Other Epic Warrior Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-interrupting-real-time-recording-on-quicktime/"><u>2024 Approved Interrupting Real-Time Recording on QuickTime</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-puzzling-perfection-hunt-for-the-ultimate-rooms/"><u>2024 Approved Puzzling Perfection Hunt for the Ultimate Rooms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cross-platform-dreams-dashed-no-mac-operating-system-for-ipads-ahead/"><u>Cross-Platform Dreams Dashed: No Mac Operating System for iPads Ahead</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deep-learning-for-chatbot-conversational-mimicry/"><u>Deep Learning for Chatbot Conversational Mimicry</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-fix-overcoming-bluetooth-sound-delays-and-disruptions-on-pcs-with-windows-1011/"><u>Master the Fix: Overcoming Bluetooth Sound Delays and Disruptions on PCs with Windows 10/11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/redirect-macs-image-backup-to-new-folder-for-2024/"><u>Redirect Mac's Image Backup to New Folder for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-acquiring-igtv-media-easily-a-comprehensive-pcmac-guide-for-2024/"><u>[New] Acquiring IGTV Media Easily A Comprehensive PC/Mac Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-flashing-lights-of-olympic-speed-for-2024/"><u>[New] Flashing Lights of Olympic Speed for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-professional-gamers-showcase-live-recording-in-obs/"><u>[New] In 2024, Professional Gamers Showcase - Live Recording in OBS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-whats-the-best-orientation-horizontalvertical-on-facebook/"><u>[New] In 2024, What's The Best Orientation Horizontal/Vertical on Facebook?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-video-communication-platforms-for-modern-tech-for-2024/"><u>[New] Prime Video Communication Platforms for Modern Tech for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimizing-board-use-on-zoom-desktopiosandroid-techniques/"><u>[Updated] 2024 Approved Optimizing Board Use on Zoom - Desktop/iOS/Android Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ballot-bonanza-5-best-political-game-line-ups/"><u>[Updated] Ballot Bonanza 5 Best Political Game Line-Ups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effective-webinar-logging-tips-avoiding-common-pitfalls-windows-macos/"><u>[Updated] Effective Webinar Logging Tips Avoiding Common Pitfalls (Windows, macOS)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-switching-to-grid-view-in-google-meet-chat-room/"><u>[Updated] In 2024, Switching to Grid View in Google Meet Chat Room</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-choices-in-video-calling-platforms-for-tech-users/"><u>[Updated] Premium Choices in Video Calling Platforms for Tech Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-techniques-for-extracting-and-storing-instagram-video-files-pcmac-systems-for-2024/"><u>[Updated] Techniques for Extracting and Storing Instagram Video Files (PC/Mac Systems) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-enhancing-lighting-and-shadows-in-obs-video/"><u>2024 Approved Enhancing Lighting and Shadows in OBS Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>2024 Approved The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/aiming-for-the-stars-select-7-top-shooter-experiences-for-2024/"><u>Aiming for the Stars Select 7 Top Shooter Experiences for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/die-bestehende-top-strategie-hochwertige-wege-zur-dateisynchronisation-unter-windows-11/"><u>Die Bestehende Top-Strategie: Hochwertige Wege Zur Dateisynchronisation Unter Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-data-protection-for-ios-devices-mastering-the-art-of-icloud-and-mac-integration-insights-by-zdnet/"><u>Effortless Data Protection for iOS Devices: Mastering the Art of iCloud and Mac Integration | Insights by ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlock-camera-live-screen-capture-analysis-and-top-replacements/"><u>In 2024, Unlock Camera Live Screen Capture Analysis & Top Replacements</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-card-software-compatible-rtx-3060-ti-drivers-for-win11-machines-free/"><u>Latest Graphics Card Software: Compatible RTX 3060 Ti Drivers for Win11 Machines Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-slow-motion-photography-in-phantom-cameras/"><u>Mastering Slow-Motion Photography in Phantom Cameras</u></a></li>
 </ul></div>
 

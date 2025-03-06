@@ -1,7 +1,7 @@
 ---
 title: "[New] Eliminating Audio Absence in Live OBS Sessions for 2024"
-date: 2025-02-06T19:15:20.601Z
-updated: 2025-02-07T23:52:29.091Z
+date: 2025-03-05T16:47:20.597Z
+updated: 2025-03-06T17:11:33.290Z
 tags: 
   - screen-recording
   - ai video
@@ -31,17 +31,9 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
 
@@ -58,10 +50,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -93,10 +81,6 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -116,10 +100,6 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Use OBS Alternative
 
 When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
@@ -135,10 +115,6 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -162,20 +138,22 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-effective-techniques-to-prevent-photos-app-crashes-on-windows-11/"><u>[New] In 2024, Effective Techniques to Prevent Photos App Crashes on Windows 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-iphone-sound-archive-voice-memo-tips-and-tricks/"><u>[New] IPhone Sound Archive Voice Memo Tips & Tricks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-master-the-art-of-browsing-and-playing-fb-videos-via-appletv-for-2024/"><u>[New] Master the Art of Browsing and Playing FB Videos via AppleTV for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-windows-11-gamers-script-to-save-playbacks-for-2024/"><u>[New] Windows 11 Gamers' Script to Save Playbacks for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamlabs-or-obs-picking-the-best-software-for-your-channel/"><u>[Updated] 2024 Approved Streamlabs or OBS Picking the Best Software for Your Channel</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-tools-the-best-9-gif-recorders-for-animated-windows-content/"><u>[Updated] Cutting-Edge Tools The Best 9 GIF Recorders for Animated Windows Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-online-videography-tools-to-eye/"><u>[Updated] Premier Online Videography Tools to Eye</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-revive-playstation-classics-the-5-best-android-emulation-software-for-2024/"><u>[Updated] Revive PlayStation Classics The 5 Best Android Emulation Software for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/1716169029842-2024-approved-how-to-get-more-instagram-video-views/"><u>2024 Approved How to Get More Instagram Video Views?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/4-ways-to-record-ps3-gameplay-for-2024/"><u>4 Ways to Record PS3 Gameplay for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/advanced-techniques-to-remove-confidential-files-from-your-iphone-with-trusted-eraser-applications/"><u>Advanced Techniques to Remove Confidential Files From Your iPhone with Trusted Eraser Applications</u></a></li>
-<li><a href="https://article-posts.techidaily.com/hassle-free-photo-and-video-upload-ios-device/"><u>Hassle-Free Photo & Video Upload IOS Device</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-reels-adding-your-own-soundtrack-for-2024/"><u>Mastering Instagram Reels Adding Your Own Soundtrack for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/revolutionize-your-gaming-by-recording-on-win10-for-2024/"><u>Revolutionize Your Gaming by Recording on Win10 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elitemac-hd-video-and-sound-recordist-for-2024/"><u>[New] EliteMac HD Video & Sound Recordist for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-stardew-enhancements-for-maximum-farming-fun-for-2024/"><u>[New] Essential Stardew Enhancements for Maximum Farming Fun for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-enhancing-your-playback-quality-tips-for-roblox-recordings-mac/"><u>[Updated] 2024 Approved Enhancing Your Playback Quality Tips for Roblox Recordings (Mac)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-video-calls-phone-and-pcs-finest-tools/"><u>[Updated] Essential Video Calls Phone & PC's Finest Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-fundamental-guidelines-for-saving-lol-scores/"><u>[Updated] Fundamental Guidelines for Saving LOL Scores</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ideal-systems-for-recording-and-streaming-athletic-competitions-for-2024/"><u>[Updated] Ideal Systems for Recording and Streaming Athletic Competitions for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-rapid-fortnite-tile-making-hacks/"><u>[Updated] Rapid Fortnite Tile-Making Hacks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enter-virtual-realms-top-10-immersive-videos/"><u>2024 Approved Enter Virtual Realms Top 10 Immersive Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-phantom-v-fold-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Phantom V Fold without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/chromebook-voice-memos-made-simple-8-easy-techniques/"><u>Chromebook Voice Memos Made Simple 8 Easy Techniques</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-artificial-intelligence-computers-are-they-worth-your-investment/"><u>Exploring Artificial Intelligence Computers: Are They Worth Your Investment?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastery-in-one-bite-io-screen-capture-guidebook/"><u>In 2024, Mastery in One Bite IO Screen Capture Guidebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-real-time-broadcasting-step-by-step-guide/"><u>Mastering Real-Time Broadcasting Step by Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-streaming-services-ranked-a-comparison-analysis/"><u>Prime Streaming Services Ranked A Comparison Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978394221-seamless-asus-monitor-driver-updates-download-instantly-now/"><u>Seamless ASUS Monitor Driver Updates - Download Instantly Now!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/simplified-methods-for-google-meet-recordings/"><u>Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-fixing-common-issues-with-wireless-network-adapters-and-access-points/"><u>Ultimate Guide: Fixing Common Issues with Wireless Network Adapters and Access Points</u></a></li>
 </ul></div>
 

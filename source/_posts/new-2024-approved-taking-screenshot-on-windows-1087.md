@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Taking Screenshot on Windows 10/8/7\""
-date: 2025-02-15T21:01:55.432Z
-updated: 2025-02-17T18:03:47.561Z
+date: 2025-03-01T16:12:57.825Z
+updated: 2025-03-06T16:07:21.305Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -74,10 +70,6 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
@@ -90,10 +82,6 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
@@ -103,14 +91,6 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
@@ -149,10 +129,6 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -203,24 +179,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-action-screen-recorder-review/"><u>[New] 2024 Approved Best Action Screen Recorder Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-free-screen-recording-techniques-for-pc-enthusiasts/"><u>[New] 2024 Approved Free Screen Recording Techniques for PC Enthusiasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-is-there-a-perfect-fps-for-everyone-comparing-30-and-60/"><u>[New] 2024 Approved Is There a 'Perfect' FPS for Everyone? Comparing 30 and 60</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-kings-arena/"><u>[New] Capture King's Arena</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac/"><u>[New] Capturing Creativity - Premium Screen Recorder Software on PC & Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>[New] Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-practical-demonstrations-creating-and-configuring-timer-modules-in-obs/"><u>[New] Practical Demonstrations Creating and Configuring Timer Modules in OBS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-recording-made-simple-5-essential-strategies-for-minecraft-mac/"><u>[New] Screen Recording Made Simple 5 Essential Strategies for Minecraft (Mac)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[New] Transformative File Conversion Your Quick SRT to Text (TXT) Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-first-steps-in-mastering-the-av1-codec/"><u>[Updated] 2024 Approved First Steps in Mastering the AV1 Codec</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-group-communication-applications/"><u>[Updated] 2024 Approved Ultimate Group Communication Applications</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-timecodes-and-text-in-srt-with-macos/"><u>[Updated] Navigating Timecodes and Text in SRT with macOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>[Updated] Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-cheapest-cloud-storage-service-for-mass-file-for-2024/"><u>[Updated] The Cheapest Cloud Storage Service for Mass File for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-transform-your-videography-effortless-recording-and-editing-via-adobe-connect-for-2024/"><u>[Updated] Transform Your Videography Effortless Recording and Editing via Adobe Connect for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-free-audio-trimming-tools-on-windows-10-a-guide-to-quick-mp3-management/"><u>Best Free Audio Trimming Tools on Windows 10: A Guide to Quick MP3 Management</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-spreading-beauty-wisdom-setting-up-your-vloggers-virtual-space/"><u>In 2024, Spreading Beauty Wisdom Setting Up Your Vlogger's Virtual Space</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-final-cut-pro-x-image-editing-cropping-made-easy-for-2024/"><u>New Final Cut Pro X Image Editing Cropping Made Easy for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/samsung-printer-drivers-downloads-ready-for-windows-operating-systems/"><u>Samsung Printer Drivers Downloads – Ready for Windows Operating Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-all-about-razers-hd-webcam-full-analysis/"><u>[New] 2024 Approved All About Razer's HD Webcam Full Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-notch-mac-visual-archiver/"><u>[New] Top-Notch Mac Visual Archiver</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[New] Unveiling the Secrets How to Save Your Google Meet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-precision-and-power-leading-kung-fu-vr-titles/"><u>[Updated] In 2024, Precision and Power Leading Kung Fu VR Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-smooth-visual-journeys-master-fades-in-a-flash/"><u>2024 Approved Smooth Visual Journeys Master Fades in a Flash</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-f23-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo F23 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canuck-communicators-speak-up-a-critical-review-of-fongo-voip-in-canada/"><u>Canuck Communicators Speak Up: A Critical Review of Fongo VoIP in Canada</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x50-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X50 to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>In 2024, Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-original-visual-storytelling-appraisal-and-substitutions/"><u>In 2024, Original Visual Storytelling Appraisal & Substitutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-pros-way-of-recording-movs-effectively-on-windows-10/"><u>In 2024, The Pro's Way of Recording MOVs Effectively on Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-converting-and-sharing-h-videos-on-igtv-for-2024/"><u>The Ultimate Guide to Converting and Sharing H-Videos on IGTV for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-yify-movies-seamlessly-on-ios-devices-and-ps5-without-extra-codecs/"><u>Watching YIFY Movies Seamlessly on iOS Devices & PS5 Without Extra Codecs</u></a></li>
 </ul></div>
 
